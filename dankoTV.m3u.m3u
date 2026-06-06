@@ -3709,7 +3709,7 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/117
 https://pub0202.101.ru:8443/stream/pro/aac/64/109
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/fca1ac0c36643566b09c723ebb8bf6fc.png", Exclusive Radio - The Beatles
 http://streaming.exclusive.radio/er/beatles/icecast.audio 
-#EXTINF:-1 group-title="Music/RADIO ROCK+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0724971a11b543c96d94f0f228cbcd51.png", Золотая Коллекция - Elvis Presley
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0724971a11b543c96d94f0f228cbcd51.png", Золотая Коллекция - Elvis Presley
 https://pub0202.101.ru:8443/stream/pro/aac/64/111
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+", Exclusive Radio - Roxette
 https://streaming.exclusive.radio/er/roxette/icecast.audio 
@@ -4808,7 +4808,7 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK", Classic Rock Network
 https://cdn17.fntvchannel.com/v1/manifest/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/7284b463-f0a1-41cc-8c8f-48b730e80eb0/1.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK", 89A Radio Rock
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(I9Z1qkF7l1wb0F4Kv8LH07-3X1QwO8SB0mRUTgEhqtxIDSgt_wovo-Qpe7lHgDWv5yDGQYt4u8QfWMiUT90htI78BzdCvOPmAd-ii10LmTFvTn6ONLAiY3H4yKijgMMe)/cloud/3/x7wjrui/d/live-1080.m3u8#cell=lcf2-eu-north-1b
+
 #EXTINF:-1 group-title="MUSIC/TV ROCK", Rock Zone (Romania)
 https://s.505050.me:64610/rock_zone2/pl.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK", MetalCentral Music TV (използвай youtube)
