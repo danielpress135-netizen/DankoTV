@@ -1239,6 +1239,8 @@ https://streaming.ataxmedia.com/hls/playM/main_stream.m3u8
 https://streaming.ataxmedia.com/hls/reverbE/main_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Z6RdJtQ0/image-57.png" group-title="Ex-Yu/Music tv", DM SAT
 http://85.14.32.26:8800/udp/239.100.10.40:5000
+#EXTINF:-1 group-title="Ex-Yu/Music tv",PAN DA! TV
+https://lbgo.bozztv.com/ssh101/ssh101/oviraptor/playlist.m3u8
 
 
 
@@ -2040,6 +2042,15 @@ http://92.36.202.5:10001/play/a063
 http://92.36.202.5:10001/play/a064
 #EXTINF:-1 group-title="Ex-Yu/Test.2",Viasat Nature.
 http://92.36.202.5:10001/play/a00s
+#EXTINF:-1 group-title="Ex-Yu/Test.2", mrt-1
+http://23.88.66.93:80/MRT_1/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Test.2",RTL LIVING HD
+http://23.88.66.93:80/RTL_Living/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Test.2",RTL CRIME HD
+http://23.88.66.93:80/RTL_Crime/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Test.2",RTL PASSION HD
+http://23.88.66.93:80/RTL_Passion/index.m3u8
+
 
 
 
@@ -2333,6 +2344,8 @@ https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",tvg-id="DiadoraTV.hr@SD",Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/TV", ITH Zelina
+https://ith.zelina.tv/hls/stream1.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",tvg-id="HRT1.hr@HD",HRT 1 HD (1080p) [Geo-blocked]
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:-1 group-title="Ex-Yu/TV",HRT 1
@@ -2345,6 +2358,10 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:-1 group-title="Ex-Yu/TV",HRT Int.
 http://cdn1.invivo.bg/HRT_INT_SD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Ex-Yu/TV", Sabor HR
+https://itv2.sabor.hr/saborHLS/sabor.m3u8
+#EXTINF:-1 group-title="Ex-Yu/TV", TV Zapad
+http://streaming.megatronik.ba:8081/tvzapad/tvzapad2025/tvzapad2025/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",Face TV
 http://23.88.66.93/Face/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",tvg-id="SBTV.hr@SD",SBTV (1080p) [Not 24/7]
@@ -4016,6 +4033,13 @@ https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist_w193935129.m3u8
 https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 tvg-id="KuriakosMusic.pt@SD" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="MUSIC/TV CHRISTIAN",Kuriakos Music (1080p)
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC/TV CHRISTIAN",TRACE GOSPEL
+https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200" group-title="MUSIC/TV CHRISTIAN" tvg-name="RadioU TV USA",RadioU TV USA EN
+#EXTVLCOPT:http-referrer=https://radiou.com/tv/
+https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
+
+
 
 
 
@@ -4593,6 +4617,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsung
 https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="MUSIC/TV PACK",Trace Urban (Australia) (1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC/TV PACK",TRACE MBOA
+https://channels.trace.plus/Traceprod/MBOA/.m3u8
+#EXTINF:-1 group-title="MUSIC/TV PACK",TRACE MZIKI
+https://channels.trace.plus/Traceprod/MZIKI.m3u8
+#EXTINF:-1 group-title="MUSIC/TV PACK",TRACE MUZIKA
+https://channels.trace.plus/Traceprod/MUZIKA.m3u8
+#EXTINF:-1 group-title="MUSIC/TV PACK",TRACE VANILLA
+https://channels.trace.plus/Traceprod/VANILLA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ZpRXL3jP/image-4.png" group-title="MUSIC/TV PACK",MTV JAPAN
 
 #EXTINF:-1 group-title="MUSIC/TV PACK",MTV_Rocks (INT.)
@@ -6078,6 +6110,20 @@ http://s8.rafail1982.uz/1264/tracks-v1a1/mono.m3u8
 http://91.201.172.14:35005
 #EXTINF:-1 group-title="SPORT/TEST",Digi Sport 2 HD
 http://91.201.172.14:35006
+#EXTINF:-1 group-title="SPORT/TEST",Diemma Sport 1 HD
+http://85.11.144.9:3341/1
+#EXTINF:-1 group-title="SPORT/TEST",Diemma Sport 2 HD
+http://85.11.144.9:3341/2
+#EXTINF:-1 group-title="SPORT/TEST",Diemma Sport 3 HD
+http://85.11.144.9:3341/3
+#EXTINF:-1 group-title="SPORT/TEST",MAX Sport 1 HD
+http://85.11.144.9:3341/6
+#EXTINF:-1 group-title="SPORT/TEST",MAX Sport 2 HD
+http://85.11.144.9:3341/7
+#EXTINF:-1 group-title="SPORT/TEST",MAX Sport 3 HD
+http://85.11.144.9:3341/8
+#EXTINF:-1 group-title="SPORT/TEST",MAX Sport 4 HD
+http://85.11.144.9:3341/9
 
 
 
