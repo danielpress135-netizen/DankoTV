@@ -4838,12 +4838,31 @@ https://cdn17.fntvchannel.com/v1/manifest/02eeb1726c343dc9c30c32e93dee82013e1570
 
 #EXTINF:-1 group-title="MUSIC/TV ROCK", Rock Zone (Romania)
 https://s.505050.me:64610/rock_zone2/pl.m3u8
-#EXTINF:-1 group-title="MUSIC/TV ROCK", MetalCentral Music TV (използвай youtube)
-https://rr3---sn-oxupm-nv4l.googlevideo.com/videoplayback?expire=1780922683&ei=22QmauKUC93Wi9oPkPvq8QY&ip=178.254.254.142&id=o-AOoiOcRDlqECFowdpnnr0rjFqeuTKNSxqFIRroDGaIYc&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=201&met=1780901083%2C&mh=XU&mm=31%2C29&mn=sn-oxupm-nv4l%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=3&pl=24&rms=au%2Cau&initcwndbps=2723750&spc=SQ-umhiIG6d5orQJ1MnHgyFp-2XPh8BAZZTRZsso5jKwsMdwozQr&svpuc=1&ns=824sR7aWFrB8mtl-QyzEbb4V&sabr=1&rqh=1&mt=1780900618&fvip=3&keepalive=yes&fexp=51565115%2C51565682&c=WEB_EMBEDDED_PLAYER&n=VqWHuROOCJFDUw&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AHEqNM4wRAIgaZQ45LaY6IjCS-HUN4DFaBjB0lO_UMQ3cjSD0-376VoCIHwTCqILwbKr1Va1C-ZpWP0RRRK8_Az8X1JSU5HkItBM&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAJ-LNyJ_5ZVBk0RdnFax7q5y4Juwd8_pfPt76ADUQEmKAiBYZJAopnnRAYpZXkg-XVOpG4-HzKoAiBufH1A6mOHx4Q%3D%3D&cpn=Wwz8H1qLooX1o5m6&cver=2.20260603.06.00&rn=9&alr=yes
-#EXTINF:-1 group-title="MUSIC/TV ROCK", Nuclear Blast Music TV (използвай youtube)
-https://rr2---sn-oxupm-nv4d.googlevideo.com/videoplayback?expire=1780923691&ei=y2gmaqywKN_Gi9oP8bO5aA&ip=178.254.254.142&id=3LWMFjRZQ6k.3&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1780902091%2C&mh=Dn&mm=44%2C29&mn=sn-oxupm-nv4d%2Csn-nv47lns6&ms=lva%2Crdu&mv=u&mvi=2&pl=24&rms=lva%2Clva&spc=SQ-umrqOgF4LJQeRUJ4zpcByxiYivtDW8ZOWbsVyaP4AsfrtoCe0&live=1&hang=1&noclen=1&svpuc=1&ns=P7ApLeDIdVtkcgDuOcYUC4EV&sabr=1&rqh=1&reg=0&mt=1780901814&fvip=3&keepalive=yes&fexp=51565115%2C51565681&c=WEB_EMBEDDED_PLAYER&n=Zc0XE7BsPROA4Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cns%2Csabr%2Crqh%2Creg&sig=AHEqNM4wRQIgP1WPEyd--rYfW4UBe6mXVKfYP4LOdlDxUk2KJSmw4UICIQDxzfyHVwk0PEe860M4CCXsmZ2NCd9V-QzEXxyYMjoBhw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&lsig=APaTxxMwRQIhAJh5M3BLmGZ_mqo3OmAM8GqzBH4e_J5ZPszT44JpeejiAiBHO0uPypXctK7xf_rNxj5NouTpQG0QHW98wWOcbV7lLQ%3D%3D&cpn=FD5rSuF3aCMozOeP&cver=2.20260603.06.00&rn=10&alr=yes
-#EXTINF:-1 group-title="MUSIC/TV ROCK", Frontiers Music TV (използвай youtube)
-https://www.youtube.com/watch?v=3LWMFjRZQ6k 
+#EXTINF:-1 group-title="MUSIC/TV ROCK", MetalCentral Music TV (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+
+#EXTINF:-1 group-title="MUSIC/TV ROCK", Nuclear Blast Music TV (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=3LWMFjRZQ6k
+#EXTINF:-1 group-title="MUSIC/TV ROCK", Frontiers Music TV (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=UiCK7SCpSIA
+#EXTINF:-1 group-title="MUSIC/TV ROCK", Metallica tv (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=1fz60gNnSdU
+#EXTINF:-1 group-title="MUSIC/TV ROCK", saboton tv (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=HSJOF4ulYG8
+#EXTINF:-1 group-title="MUSIC/TV ROCK", Radiohaed tv (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=d6gatp9XyGc
+#EXTINF:-1 group-title="MUSIC/TV ROCK", SHARPTONE RECORDS (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=-BJg05my_xE
+#EXTINF:-1 group-title="MUSIC/TV ROCK", The Rolling Stones tv (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=FrhnrNXtQKg
+#EXTINF:-1 group-title="MUSIC/TV ROCK", Oasis tv  (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=JbFRzyqW22g
+#EXTINF:-1 group-title="MUSIC/TV ROCK", Bring Me The Horizon tv  (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=sL_fbNaq6VA
+#EXTINF:-1 group-title="MUSIC/TV ROCK", The Beatles  (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=xRzaFgSsgH4
+#EXTINF:-1 group-title="MUSIC/TV ROCK", Thriller Records tv  (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
+https://www.youtube.com/watch?v=O_ZO3hzSdAs
+
 
 
 
