@@ -4726,6 +4726,7 @@ http://iptv.prosto.tv:7000/ch321/video.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="KaloopyTV.us@SD" tvg-logo="https://i.imgur.com/XPyOTZF.jpeg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="MUSIC/TV RELAXX",Kaloopy (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0
@@ -4750,6 +4751,11 @@ https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC/TV RELAXX" tvg-logo="https://i.ibb.co/8Lj4wWfJ/image-2025-07-10-T141452-990.png",SHIFT TV
 https://fl1003.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MUSIC/TV RELAXX",Fashion TV
+https://fl1004.bozztv.com/ushba93/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MUSIC/TV RELAXX",Lingerie Club
+https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -6122,6 +6128,18 @@ http://s8.rafail1982.uz/1264/tracks-v1a1/mono.m3u8
 http://91.201.172.14:35005
 #EXTINF:-1 group-title="SPORT/TEST",Digi Sport 2 HD
 http://91.201.172.14:35006
+#EXTINF:-1 group-title="SPORT/TEST",DIGI Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://82.78.243.219:45739/play/a01o/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",DIGI Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://82.78.243.219:45739/play/a00r/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",DIGI Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://82.78.243.219:45739/play/a01m/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",DIGI Sport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://82.78.243.219:45739/play/a00v/index.m3u8
 #EXTINF:-1 group-title="SPORT/TEST",Diemma Sport 1 HD
 http://85.11.144.9:3341/1
 #EXTINF:-1 group-title="SPORT/TEST",Diemma Sport 2 HD
@@ -6136,6 +6154,48 @@ http://85.11.144.9:3341/7
 http://85.11.144.9:3341/8
 #EXTINF:-1 group-title="SPORT/TEST",MAX Sport 4 HD
 http://85.11.144.9:3341/9
+#EXTINF:-1 group-title="SPORT/TEST",AD Sport HD
+http://77.137.40.221:8000/play/z03f
+#EXTINF:-1 group-title="SPORT/TEST",AD Sport 2 HD
+http://77.137.40.221:8000/play/z03g
+#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 1 HD
+http://77.137.40.221:8000/play/tjf4
+#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 2 HD
+http://77.137.40.221:8000/play/tjf5
+#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 3 HD
+http://77.137.40.221:8000/play/tjf16
+#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 4 HD
+http://77.137.40.221:8000/play/tjf7
+#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 5 HD
+http://77.137.40.221:8000/play/tjf8
+#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 6 HD
+http://77.137.40.221:8000/play/tjf9
+#EXTINF:-1 group-title="SPORT/TEST",DUBAI SPORTS 1 HD
+http://77.137.40.221:8000/play/k04x
+#EXTINF:-1 group-title="SPORT/TEST",DUBAI SPORTS 2 HD
+http://77.137.40.221:8000/play/k04y
+#EXTINF:-1 group-title="SPORT/TEST",SPORT 1 HD
+http://77.137.40.221:8000/play/k016
+#EXTINF:-1 group-title="SPORT/TEST",SPORT 2 HD
+http://77.137.40.221:8000/play/k019
+#EXTINF:-1 group-title="SPORT/TEST",SPORT 3 HD
+http://77.137.40.221:8000/play/k01a
+#EXTINF:-1 group-title="SPORT/TEST",SPORT 4 HD
+http://77.137.40.221:8000/play/k01b
+#EXTINF:-1 group-title="SPORT/TEST",SPORT 5 HD
+http://77.137.40.221:8000/play/k01c
+#EXTINF:-1 group-title="SPORT/TEST",SPORT 6 HD
+http://77.137.40.221:8000/play/k03w
+#EXTINF:-1 group-title="SPORT/TEST",SPORT ONE 2 HD
+http://77.137.40.221:8000/play/k01f
+#EXTINF:-1 group-title="SPORT/TEST",SPORT ONE HD
+http://77.137.40.221:8000/play/k01d
+#EXTINF:-1 group-title="SPORT/TEST",SPORT5LIVEHD
+http://77.137.40.221:8000/play/k00i
+#EXTINF:-1 group-title="SPORT/TEST",SPORT5PLUSHD
+http://77.137.40.221:8000/play/k001
+#EXTINF:-1 group-title="SPORT/TEST",YAS Sports HD
+http://77.137.40.221:8000/play/a03h
 
 
 
