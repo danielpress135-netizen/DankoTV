@@ -1151,6 +1151,10 @@ http://eu.live.skyfolk.mk/live.m3u8
 http://pool.alter-media.hr:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",TV Duga+
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308_output_0.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",DugaPlus
+http://79.127.207.193:80/DugaPlus/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Izvorna TV
+http://79.127.207.193/IzvornaTV/index.m3u8
 #EXTINF:-1 tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" tvg-id="Hugo2.mk" tvg-chno="9" tvg-country="MK" group-title="Ex-Yu/Music tv",Хуго 2
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 #EXTINF:-1 tvg-name="ЗОНА М1 ТВ" tvg-logo="https://i.imgur.com/yTR7A0d.png" tvg-id="zona m1" tvg-chno="15" tvg-country="MK" group-title="Ex-Yu/Music tv",ЗОНА М1 ТВ
@@ -1182,7 +1186,7 @@ https://de1.adriatelekom.com/AdriaInfo/mono.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",adria info
 https://nl1.dstv.cx/AdriaInfo/tracks-v2a1/rewind-7200.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria EX YU Rock
-https://de1.adriatelekom.com/AdriaEXYURock/index.m3u8
+https://de100.dstvmultimedia.com/AdriaEXYURock/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Hits 4K
 https://de1.adriatelekom.com/AdriaHits4K/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Hits 1
@@ -1219,10 +1223,14 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-997
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="TVVeseljakGolicaHD.si@SD",TV Veseljak Golica HD
 https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",Hayat Music
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Hayat Music Box
 http://143.244.63.87:80/hayatmusic/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-logo="https://i.ibb.co/NdW7VQJQ/image-26.png",HAYAT MUSIC
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Hayat Music Box
+http://79.127.207.193/HayatMusic/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-logo="https://i.ibb.co/NdW7VQJQ/image-26.png",HAYAT MUSIC BOX
 http://cm1.portaltv.info:777/5R0Tqhz7bC/8biAnmNHif/2866
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Hayat Folk Box
+http://45.82.88.87:15153/udp/237.40.1.15:5000
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Merak tv
 https://streaming.ataxmedia.com/hls/MerakTV/main_stream.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Play M
@@ -1231,8 +1239,79 @@ https://streaming.ataxmedia.com/hls/playM/main_stream.m3u8
 https://streaming.ataxmedia.com/hls/reverbE/main_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Z6RdJtQ0/image-57.png" group-title="Ex-Yu/Music tv", DM SAT
 http://85.14.32.26:8800/udp/239.100.10.40:5000
+#EXTINF:-1 group-title="Ex-Yu/Music tv",DMSat
+http://79.127.207.193:80/DMSat/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",PAN DA! TV
 https://lbgo.bozztv.com/ssh101/ssh101/oviraptor/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Jupok Radio
+https://lbgo.bozztv.com/ssh101/ssh101/jupokradio/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Adria
+https://cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",ONE 1 Adria
+https://cdne.folxplay.tv/fxt/streams/ch-6/master.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Gornji Milanovac
+https://6069699a9e3f3.streamlock.net/gmpluscable/stream/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink&Roll
+http://92.36.202.5:10003/play/a02n
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Koncert
+http://92.36.202.5:10003/play/a02e
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Koncert
+http://5.57.74.130:8000/play/a0az/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Folk
+http://92.36.202.5:10003/play/a02f
+#EXTINF:-1 group-title="Ex-Yu/Music tv",PINK FOLK
+http://143.244.63.87:80/pinkfolk/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Folk 2
+http://92.36.202.5:10003/play/a02i
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Hits 1
+http://92.36.202.5:10003/play/a02o
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Hits 2
+http://92.36.202.5:10003/play/a02d
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Music
+http://92.36.202.5:10003/play/a00p
+#EXTINF:-1 group-title="Ex-Yu/Music tv",PINK MUSIC
+http://143.244.63.87:80/pinkmusic/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",pinkmusic
+http://143.244.63.87/pinkmusic/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Music
+http://5.57.74.130:8000/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Music 2
+http://5.57.74.130:8000/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",pinkmusic2
+http://143.244.63.87/pinkmusic2/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Music 2
+http://92.36.202.5:10003/play/a02r
+#EXTINF:-1 group-title="Ex-Yu/Music tv",PINK MUSIC 2
+http://143.244.63.87:80/pinkmusic2/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Extra
+http://92.36.202.5:10003/play/a00l
+#EXTINF:-1 group-title="Ex-Yu/Music tv",PINK EXTRA
+http://143.244.63.87/pinkextra/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",pinkextra
+http://143.244.63.87/pinkextra/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Pink Extra
+http://5.57.74.130:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Bravo Music
+http://92.36.202.5:10003/play/a02p
+#EXTINF:-1 group-title="Ex-Yu/Music tv",City Play
+http://92.36.202.5:10003/play/a00r
+#EXTINF:-1 group-title="Ex-Yu/Music tv",O Music
+http://92.36.202.5:10003/play/a01e
+#EXTINF:-1 group-title="Ex-Yu/Music tv",RTS Kolo
+http://79.127.207.193/RTSKolo/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",RTS Muzika
+http://79.127.207.193/RTSMuzika/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",RTV 101
+http://5.57.74.130:8000/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",RTV Kiss
+http://5.57.74.130:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",Toxic TV
+http://79.127.207.193/ToxicTV/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",TV 4S
+http://5.57.74.130:8000/play/a0e3/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",TV Diskos
+http://5.57.74.130:8000/play/a0bz/index.m3u8
+
 
 
 
@@ -4826,7 +4905,11 @@ http://hls127.freeott.top:8080/BOX_Metall_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/fGn7WGV5/image-69.png" group-title="MUSIC/TV ROCK", M2 Rock
 http://49.0.64.96:8007/M2ROCK
 #EXTINF:-1 group-title="MUSIC/TV ROCK",Adria EX YU Rock
-https://de1.adriatelekom.com/AdriaEXYURock/index.m3u8
+https://de100.dstvmultimedia.com/AdriaEXYURock/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="MUSIC/TV ROCK",Pink&Roll
+http://45.82.88.87:15153/udp/237.40.1.158:5000
+#EXTINF:-1 group-title="MUSIC/TV ROCK",Pink&Roll
+http://92.36.202.5:10003/play/a02n
 #EXTINF:-1 group-title="MUSIC/TV ROCK",Eska Rock HD
 http://81.15.109.89:8001/play/EskaRock
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" tvg-id="no_epg_sport" group-title="MUSIC/TV ROCK", Музыка Рок
