@@ -1139,9 +1139,9 @@ https://jmp2.uk/rok-3580b15015379c4256440b0e119d46ed.m3u8
 
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Balkan Music
 http://giganet.mk/hls/balkanmusictv.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="FolkKlubTV.au@SD",Folk Klub (720p)
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="FolkKlubTV.au@SD",Folk Klub (720p)
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="INTVAustralia.au@SD",INTV Australia (720p)
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="INTVAustralia.au@SD",INTV Australia (720p)
 http://tv1.intv.mk:1935/live/intv/index.m3u
 #EXTINF:-1 tvg-name="Sky Folk" tvg-logo="https://i.imgur.com/xRw4Hmu.png" tvg-id="SkyFolkTV.mk" tvg-chno="8" tvg-country="MK" group-title="Ex-Yu/Music tv",Sky Folk
 https://skyfolk.mk/live.m3u8
@@ -1163,13 +1163,13 @@ https://zonam1.ddns.net/hls/stream1.m3u8
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
 #EXTINF:-1 group-title="Ex-Yu/Music tv",IDJ Kids
 https://nl1.dstv.cx/IDJKids/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="CMCTV.hr@SD",CMC TV (1080p)
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="CMCTV.hr@SD",CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Jugoton TV
 https://stream.cmctv.hr:49998/jugoton/live.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="KlapeiTambureTV.hr@SD",Klape i Tambure TV (1080p)
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="KlapeiTambureTV.hr@SD",Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="ExtraTV.hr@SD",Extra TV (1080p)
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="ExtraTV.hr@SD",Extra TV (1080p)
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BM39YmP/image-2025-07-09-T095625-258.png" group-title="Ex-Yu/Music tv",Radio Aktual
 https://radio.serv.si/AktualTV/tracks-v1a1/mono.m3u8
@@ -1211,17 +1211,17 @@ https://de100.dstvmultimedia.com/AdriaNostalgy/tracks-v1a1/mono.ts.m3u8
 https://de100.dstvmultimedia.com/Adria90s/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Big Band
 https://de100.dstvmultimedia.com/AdriaBigBand/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="RadioHitFMTV.rs@SD",Radio Hit FM TV (720p)
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="RadioHitFMTV.rs@SD",Radio Hit FM TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="RadioKarolinaTV.rs@SD",Radio Karolina TV (720p)
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="RadioKarolinaTV.rs@SD",Radio Karolina TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="RadioLolaTV.rs@SD",Radio Lola (720p) [Not 24/7]
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="RadioLolaTV.rs@SD",Radio Lola (720p) [Not 24/7]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="TDIRadioTV.rs@SD",TDI Radio TV
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="TDIRadioTV.rs@SD",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="TVZdravkin.mk@SD",TV Zdravkin (400p)
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="TVZdravkin.mk@SD",TV Zdravkin (400p)
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="TVVeseljakGolicaHD.si@SD",TV Veseljak Golica HD
+#EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="TVVeseljakGolicaHD.si@SD",TV Veseljak Golica HD
 https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Hayat Music Box
 http://143.244.63.87:80/hayatmusic/playlist.m3u8
