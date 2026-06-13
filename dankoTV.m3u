@@ -4127,11 +4127,11 @@ https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 http://video07.logicahost.com.br/oldieshits/oldieshits/chunklist.m3u8
 #EXTINF:-1 tvg-id="IQChannel.cr@SD" tvg-logo="https://i.imgur.com/hwuaomt.png" group-title="MUSIC/TV CLASSIC",IQ Channel (720p)
 https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",group-title="MUSIC/TV CLASSIC",Recuerdos Retro Radio TV | CL
+#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="MUSIC/TV CLASSIC",Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kQrhMZj/image-38.png" group-title="MUSIC/TV CLASSIC",SpektraTV
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://cdn.m3u.cl/logo/973_Top_New_Radio.png",group-title="MUSIC/TV CLASSIC", Top New Radio | CL
+#EXTINF:-1 tvg-id="" tvg-name="Top New Radio" tvg-logo="https://cdn.m3u.cl/logo/973_Top_New_Radio.png" group-title="MUSIC/TV CLASSIC", Top New Radio | CL
 https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSIC/TV CLASSIC",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
@@ -4602,11 +4602,11 @@ https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8
 #EXTINF:-1 tvg-id="XITE90sThrowback.us" tvg-name="XITE 90's Throwback" tvg-logo="https://i.imgur.com/vwpOzuz.png" group-title="MUSIC/TV PACK",XITE 90's Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300011UT" tvg-name="XITE Classic Country" tvg-id="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="MUSIC/TV PACK", tvg-chno="4333",XITE Classic Country
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300011UT" tvg-name="XITE Classic Country" tvg-id="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="MUSIC/TV PACK",XITE Classic Country
 https://d2xm7fwgbakh1x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ltmgkaa20sgt9/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABD1200023UJ
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD3300006O3" tvg-name="XITE Country Today" tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="MUSIC/TV PACK",XITE Country Today
 https://d1m3fs719k0oep.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tno3apyunf3ts/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABD120001993
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD350003932" tvg-name="XITE Celebrates" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" group-title="MUSIC/TV PACK",tvg-chno="4310",XITE Celebrates
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD350003932" tvg-name="XITE Celebrates" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" group-title="MUSIC/TV PACK",XITE Celebrates
 https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
 #EXTINF:-1 group-title="MUSIC/TV PACK",BBlack Africa
 http://edge11.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8
@@ -4861,7 +4861,7 @@ https://cdn-backup.lulzy.eu/vrock_stream/main_stream.m3u8
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hxC4zb9/image-76.png" group-title="MUSIC/TV ROCK",Blues TV (USA)
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="1731" tvg-name="Guns n Roses Fans" tvg-logo="https://cdn.m3u.cl/logo/1731_Guns_n_Roses_Fans.png",group-title="MUSIC/TV ROCK", Guns n Roses Fans (CILE)
+#EXTINF:-1 tvg-id="" tvg-name="Guns n Roses Fans" tvg-logo="https://cdn.m3u.cl/logo/1731_Guns_n_Roses_Fans.png" group-title="MUSIC/TV ROCK", Guns n Roses Fans (CILE)
 https://stmv6.voxtvhd.com.br/gunsrosesfans/gunsrosesfans/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSIC/TV ROCK",THAT'S ROCK (UK)
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
@@ -4871,7 +4871,7 @@ https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=0b
 https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=_zuuh0E6oXRXXKcD1dNi_g&e=2069285077&scheme=https
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RMknsQ4/image-2025-07-09-T093355-862.png" group-title="MUSIC/TV ROCK",Pulse Rock (IT)(SWIS)
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/chunklist.m3u8?token=27be3ad2-9e96-4704-9d1c-a14e39190f47&streamSessionId=e06bc853-bdf6-40a7-bd8b-1297e2edbf85&code=TELEATLANTIC&expires=1728345600000&playUrl=true&ctrl=34324b5f8f340cefa3c1da57608b92edc43a0146cfea4ec23f598d0f1d5425a88be9fc02fab522f5318ca0074bf2cb1eac38938bed55763bd6bc0a24854a140d
-#EXTINF:-1 tvg-id="1312" tvg-name="Eternal Metal" tvg-logo="https://cdn.m3u.cl/logo/1312_Eternal_Metal.png",group-title="MUSIC/TV ROCK", Eternal Metal (CILE)
+#EXTINF:-1 tvg-id="" tvg-name="Eternal Metal" tvg-logo="https://cdn.m3u.cl/logo/1312_Eternal_Metal.png" group-title="MUSIC/TV ROCK", Eternal Metal (CILE)
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSIC/TV ROCK",Rebel TV (CZES)
 https://dash3.antik.sk/live/test_rebel/playlist.m3u8
