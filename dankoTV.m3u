@@ -1188,29 +1188,29 @@ https://nl1.dstv.cx/AdriaInfo/tracks-v2a1/rewind-7200.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria EX YU Rock
 https://de100.dstvmultimedia.com/AdriaEXYURock/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Hits 4K
-https://de1.adriatelekom.com/AdriaHits4K/index.m3u8
+https://de100.dstvmultimedia.com/AdriaHits4K/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Hits 1
-https://de1.adriatelekom.com/AdriaHits1/index.m3u8
+https://de100.dstvmultimedia.com/AdriaHits1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Hits 2
-https://de1.adriatelekom.com/AdriaHits2/index.m3u8
+https://de100.dstvmultimedia.com/AdriaHits2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria CRO Hits
-https://de1.adriatelekom.com/AdriaCROHits/index.m3u8
+https://de100.dstvmultimedia.com/AdriaCROHits/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Trubaci
-https://de1.adriatelekom.com/AdriaTrubaci/index.m3u8
+https://de100.dstvmultimedia.com/AdriaTrubaci/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Urban
-https://de1.adriatelekom.com/AdriaUrban/index.m3u8
+https://de100.dstvmultimedia.com/AdriaUrban/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Cubanismo
-https://de1.adriatelekom.com/AdriaCubanismo/index.m3u8
+https://de100.dstvmultimedia.com/AdriaCubanismo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Narodna
-https://de1.adriatelekom.com/AdriaNarodna/index.m3u8
+https://de100.dstvmultimedia.com/AdriaNarodna/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Folk
-https://de1.adriatelekom.com/AdriaFolk/index.m3u8
+https://de100.dstvmultimedia.com/AdriaFolk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Nostalgy
-https://de1.adriatelekom.com/AdriaNostalgy/index.m3u8
+https://de100.dstvmultimedia.com/AdriaNostalgy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria 90s
-https://de1.adriatelekom.com/Adria90s/index.m3u8
+https://de100.dstvmultimedia.com/Adria90s/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria Big Band
-https://de1.adriatelekom.com/AdriaBigBand/index.m3u8
+https://de100.dstvmultimedia.com/AdriaBigBand/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="RadioHitFMTV.rs@SD",Radio Hit FM TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",tvg-id="RadioKarolinaTV.rs@SD",Radio Karolina TV (720p)
@@ -1311,6 +1311,8 @@ http://79.127.207.193/ToxicTV/index.m3u8
 http://5.57.74.130:8000/play/a0e3/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",TV Diskos
 http://5.57.74.130:8000/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Music tv",KCN 2
+https://de1.dstv.cx/KCN2/index.m3u8
 
 
 
