@@ -1242,7 +1242,7 @@ http://85.14.32.26:8800/udp/239.100.10.40:5000
 #EXTINF:-1 group-title="Ex-Yu/Music tv",DMSat
 http://79.127.207.193:80/DMSat/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",PAN DA! TV
-https://lbgo.bozztv.com/ssh101/ssh101/oviraptor/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/rtvpanda/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Jupok Radio
 https://lbgo.bozztv.com/ssh101/ssh101/jupokradio/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria
@@ -6282,7 +6282,30 @@ http://77.137.40.221:8000/play/k00i
 http://77.137.40.221:8000/play/k001
 #EXTINF:-1 group-title="SPORT/TEST",YAS Sports HD
 http://77.137.40.221:8000/play/a03h
-
+#EXTINF:-1 group-title="SPORT/TEST",sporttv1
+http://94.130.32.19:8080/sporttv1/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",sporttv2
+http://94.130.32.19:8080/sporttv2/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",sporttv3
+http://94.130.32.19:8080/sporttv3/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",sporttv4
+http://94.130.32.19:8080/sporttv4/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",sporttv5
+http://94.130.32.19:8080/sporttv5/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",sporttv6
+http://94.130.32.19:8080/sporttv6/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",sporttv7
+http://94.130.32.19:8080/sporttv7/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",ESPN3HD
+http://216.106.179.7:8080/ESPN3HD/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",ESPN4HD
+http://216.106.179.7:8080/ESPN4HD/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",ESPN5HD
+http://216.106.179.7:8080/ESPN5HD/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",ESPN6HD
+http://216.106.179.7:8080/ESPN6HD/index.m3u8
+#EXTINF:-1 group-title="SPORT/TEST",ESPN7HD
+http://216.106.179.7:8080/ESPN7HD/index.m3u8
 
 
 
