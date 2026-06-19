@@ -3424,6 +3424,7 @@ https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 
 
 
+
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Epic Rock Radio
 https://securestreams6.autopo.st:2222/stream
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="../Channel/Logo/Comedy Radio.png",Radio A Rock
@@ -3644,6 +3645,16 @@ http://194.58.97.117:8000/coreradio
 https://metal-fm-com.stream.laut.fm/metal-fm-com
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Metal
 https://streams.radiobob.de/bob-metal/mp3-192/mediaplayer/
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Metal
+https://regiocast.streamabc.net/regc-radiobobmetal3070164-mp3-192-5354778
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Power Metal
+https://streams.radiobob.de/powermetal/mp3-192
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Symphonic Metal
+https://regiocast.streamabc.net/regc-radiobobsymphmetal4646931-mp3-192-2318934
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Nu Metal
+https://streams.radiobob.de/numetal/mp3-192
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Death Metal
+https://regiocast.streamabc.net/regc-radiobobdeathmetal8709679-mp3-192-6241857
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",RADIO BIZZZZZ
 https://cast1.my-control-panel.com/proxy/webradi2/stream
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Hot Mix Metal
@@ -3731,7 +3742,103 @@ https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK",Roks Indie Rock
 https://radio6.dixi.md/listen/indie_rock/indie_rock.aac
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK", Cyber-X-Power Worship 
-http://ec1.yesstreaming.net:1820/stream     
+http://ec1.yesstreaming.net:1820/stream
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",BDPST ROCK     
+https://bdpstrock.hu/live_320.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Bestlive-music Rádió Rock
+https://bestlive-music.net:2096/rock.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Rock - Rádió GaGa
+https://stream.igenbiza.com/rck
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",COOL FM ROCK
+https://mediagw.e-tiger.net/stream/zc10
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Rock Magyar Rádió - Mercy Rádió
+http://stream.mercyradio.eu/magyarrock.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it
+https://icy.unitedradio.it/Virgin.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Rock Hits
+https://icy.unitedradio.it/VirginRockHits.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Rock '70
+https://icy.unitedradio.it/VirginRock70.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Rock '80
+https://icy.unitedradio.it/VirginRock80.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Rock '90
+https://icy.unitedradio.it/Virgin_03.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Rock 2K 
+https://icy.unitedradio.it/Virgin_02.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Classic Rock
+https://icy.unitedradio.it/VirginRockClassics.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Alternative Rock
+https://icy.unitedradio.it/VirginRockAlternative.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Ex-Mixx
+https://icy.unitedradio.it/Virgin_08.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Rock Ballads
+https://icy.unitedradio.it/Virgin_06.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Rock Party
+https://icy.unitedradio.it/VirginRockParty.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio.it-Hard Rock
+https://icy.unitedradio.it/VirginHardRock.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Légendes du Rock
+https://virginlegendesdurock.ice.infomaniak.ch/virgin-radio-legendes-du-rock.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Classique Rock
+https://virginclassiquerock.ice.infomaniak.ch/virgin-radio-classique-rock.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Métal
+https://virginmetal.ice.infomaniak.ch/virgin-radio-metal.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Rock 90's
+https://virginrockannees90.ice.infomaniak.ch/virgin-radio-rock-annees-90.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Rock 80's
+https://virginrockannees80.ice.infomaniak.ch/virgin-radio-rock-annees-80.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Rock 2000
+https://virginrockannees2000.ice.infomaniak.ch/virgin-radio-rock-annees-2000.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Rock Américain
+https://virginrockamericain.ice.infomaniak.ch/virgin-radio-rock-americain.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Rock Français
+https://virginrockfrancais.ice.infomaniak.ch/virgin-radio-rock-francais.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Rock Anglais
+https://virginrockanglais.ice.infomaniak.ch/virgin-radio-rock-anglais.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Rock Party
+https://virginrockparty.ice.infomaniak.ch/virgin-radio-rock-party.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France-Rock Live
+https://virginrocklive.ice.infomaniak.ch/virgin-radio-rock-live.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Virgin Radio France
+https://virginradio.ice.infomaniak.ch/virgin-radio.mp3
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",ROCK FM ROMANIA
+https://live.rockfm.ro/rockfm.aacp
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",ROCK FM ROMANIA - Rock Ballads
+https://live.rockfm.ro/ballads.rock?direct=false
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",ROCK FM ROMANIA - Rock 80s & 90s
+https://live.kissfm.ro/rock.8090
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",ROCK FM ROMANIA - Rock Blues
+https://live.rockfm.ro/blues?direct=false
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",ROCK FM ROMANIA - Hard Rock
+https://live.rockfm.ro/hard.rock?direct=false
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Rockland Radio GERMANY  -Best of Rock FM - Nonstop Metal
+https://bestofrockfm.stream.vip/metal/mp3-192/bestofrock.fm 
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Rockland Radio GERMANY - Best of Rock FM - Nonstop Metal
+https://radio21.streamabc.net/radio21-metal-mp3-192-8866300?sABC=6n357868%230%230q224srq9001q506rr4opq386pr01sn4%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1781889128
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Rockland Radio GERMANY - Best of Rock FM - 80er
+https://bestofrockfm.stream.vip/80rock/mp3-192/bestofrock.fm
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Rockland Radio GERMANY - Best of Rock FM - 80er
+https://radio21.streamabc.net/radio21-80errock-mp3-192-3349255?sABC=6n357os9%230%230q224srq9001q506rr4opq386pr01sn4%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1781890041
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Rockland Radio GERMANY - Best of Rock FM - 90er
+https://bestofrockfm.stream.vip/90rock/mp3-192/bestofrock.fm
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Rockland Radio GERMANY - Best of Rock FM - 90er
+https://radio21.streamabc.net/radio21-konzertkracher-mp3-192-6022420?sABC=6n357q09%230%230q224srq9001q506rr4opq386pr01sn4%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1781890313
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Rockland Radio GERMANY - Best of Rock FM - Hard Rock
+https://bestofrockfm.stream.vip/hardrock/mp3-192/bestofrock.fm
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",Rockland Radio GERMANY - Best of Rock FM - Hard Rock
+https://radio21.streamabc.net/radio21-hardrock-mp3-192-5131129?sABC=6n357r3n%230%230q224srq9001q506rr4opq386pr01sn4%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1781890618
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",delta radio germany - HARDROCK & HEAVY METAL
+https://streams.deltaradio.de/delta-foehnfrisur/mp3-192
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK",delta radio germany - HARDROCK & HEAVY METAL
+https://deltaradio.streamabc.net/regc-deltahardheavy-mp3-192-1449782?sABC=6n3588qs%230%230q224srq9001q506rr4opq386pr01sn4%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1781893343
+
+
+
+
+
+
+
+
 
 
 
@@ -3743,6 +3850,12 @@ https://stream05.pcradio.ru/Metallica-med
 https://pub0202.101.ru:8443/stream/pro/aac/64/123
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+", Exclusive Radio - Metallica
 https://streaming.exclusive.radio/er/metallica/icecast.audio
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+",Rockland Radio - Best of Rock FM - Metallica
+https://bestofrockfm.stream.vip/metallica/mp3-192/bestofrock.fm
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+",Rockland Radio - Best of Rock FM - Metallica
+https://radio21.streamabc.net/radio21-singersongwriter-mp3-192-5376445?sABC=6n3579r8%230%230q224srq9001q506rr4opq386pr01sn4%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1781889512
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+",BOB - Metallica
+https://regiocast.streamabc.net/regc-radiobobmetallica3164584-mp3-192-3532789
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+", Megadeth
 https://stream.pcradio.ru/megadeth-hi
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+", Nightwish
@@ -4926,7 +5039,7 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK", Classic Rock Network
 https://cdn17.fntvchannel.com/v1/manifest/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/b7e7a6c6-def2-43da-aa8a-9792a366e74a/3.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK", 89A Radio Rock
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(2cP2q7umB20LiofPOZNN4_eW5r1Qvs4j-nH8l_f3pf_K2g4Zhp7g1adh44cJavJ7js_sTlH8ObBMU57Bp7F2qmfU7nDNHJ353J4-8CEx7wpdjElu2aPzO43U2t4XqzDx)/cloud/3/x7wjrui/d/live-720.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(qnwXY7FYJ9jyyYZJe8nq-OvS7uuap5W8_2GCQLA4wGFqE16G4IwaM_UP-PO6-ZBrmuz420ck4J9HNNYyqFLfI-Xv69DxPuKBqtXp77dUP3E8zrL7AFzZF0RPqs8GZ2Vq)/cloud/3/x7wjrui/d/live-720.m3u8#cell=lcf2-eu-north-1a
 #EXTINF:-1 group-title="MUSIC/TV ROCK", Rock Zone (Romania)
 https://s.505050.me:64610/rock_zone2/pl.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK", MetalCentral Music TV (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
