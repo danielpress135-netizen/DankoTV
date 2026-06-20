@@ -481,8 +481,6 @@ http://85.11.144.9:4222/ViasatExplorer
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 group-title="BG/TV",TLC BG
 http://78.108.244.134:8899/tlc
-#EXTINF:-1 group-title="RU/TV",DW
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="BG/TV",BNT 1
 http://212.70.131.12:800/play/a0fv
 #EXTINF:-1 group-title="BG/TV",BNT 1
@@ -5039,7 +5037,7 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK", Classic Rock Network
 https://cdn17.fntvchannel.com/v1/manifest/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/b7e7a6c6-def2-43da-aa8a-9792a366e74a/3.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK", 89A Radio Rock
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(qnwXY7FYJ9jyyYZJe8nq-OvS7uuap5W8_2GCQLA4wGFqE16G4IwaM_UP-PO6-ZBrmuz420ck4J9HNNYyqFLfI-Xv69DxPuKBqtXp77dUP3E8zrL7AFzZF0RPqs8GZ2Vq)/cloud/3/x7wjrui/d/live-720.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(462O2oj0HmZGhjYXZSVS2YM3YizyM4Uil-6dHTzSATfcjCAa6Knc9Yv-sMQ2fpPnjBSBtATB9wI_5AIeYISeWTiVeki1me-e0-I3_tpiSSu_v45NmL_Ocswuk7rCYr5r)/cloud/3/x7wjrui/d/live-720.m3u8#cell=lcf2-eu-north-1a
 #EXTINF:-1 group-title="MUSIC/TV ROCK", Rock Zone (Romania)
 https://s.505050.me:64610/rock_zone2/pl.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK", MetalCentral Music TV (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
@@ -5252,7 +5250,8 @@ https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="RU/TV",DW
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="RU/TV",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="RU/TV",360° Новости (1080p)
