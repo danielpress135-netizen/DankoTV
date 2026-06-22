@@ -4984,7 +4984,7 @@ http://iptv.prosto.tv:7000/ch321/video.m3u8
 
 #EXTINF:-1 tvg-id="KaloopyTV.us@SD" tvg-logo="https://i.imgur.com/XPyOTZF.jpeg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="MUSIC/TV RELAXX",Kaloopy (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYXLCD7/image-16.png" group-title="MUSIC/TV RELAXX",Infinity
 https://live20.bozztv.com/giatvplayout7/ushba-t2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jmgCPJV/image-4.png" group-title="MUSIC/TV RELAXX", Energy Music
@@ -5089,12 +5089,12 @@ http://92.36.202.5:10003/play/a02n
 #EXTINF:-1 group-title="MUSIC/TV ROCK",Eska Rock HD
 http://81.15.109.89:8001/play/EskaRock
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" tvg-id="no_epg_sport" group-title="MUSIC/TV ROCK", Музыка Рок
-https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="MUSIC/TV ROCK",BRIDGE ROCK
-http://62.32.84.50:18000/play/a0le/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC/TV ROCK" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12356/logo_256_1660828595.png", BRIDGE Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/2tM6pkK-Qbz9V2GB88iDhg,1781333555/streaming/br_rock/324/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/lamore-rock-show-webtv.png" group-title="MUSIC/TV ROCK",Lamore Rock Show WebTV
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK", Classic Rock Network
@@ -5105,6 +5105,19 @@ https://cdn17.fntvchannel.com/v1/manifest/02eeb1726c343dc9c30c32e93dee82013e1570
 https://s.505050.me:64610/rock_zone2/pl.m3u8
 #EXTINF:-1 tvg-id="MetaleitorTV.us@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_14_1752798826.png" group-title="MUSIC/TV ROCK",Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , FRESH Rock Covers HD
+https://tinyurl.com/24kg5qjp
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , FRESH Rock Hits HD
+https://tinyurl.com/2245vf4m
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , MM rock HD
+https://tinyurl.com/28z23esa
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , VF Rock
+https://tinyurl.com/27o9j5a9
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , VF Metal
+https://tinyurl.com/2cykcka8
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , Z! Rock HD
+https://tinyurl.com/268ktjp8
+
 #EXTINF:-1 group-title="MUSIC/TV ROCK", MetalCentral Music TV (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
 
 #EXTINF:-1 group-title="MUSIC/TV ROCK", Nuclear Blast Music TV (използвай youtube, препоръчва се използване на ott navigator от  aptoide)
