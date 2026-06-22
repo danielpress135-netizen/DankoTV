@@ -6378,7 +6378,7 @@ https://nl1.nghk.ai/ArenaSport6HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport7.rs@SD" tvg-logo="https://i.imgur.com/0fgvOrR.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 7 SR(720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://nl1.nghk.ai/ArenaSport7HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport8.rs@SD" tvg-logo="https://i.imgur.com/Wk9dr78.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Serbia",Arena Sport 8 SR(720p)
+#EXTINF:-1 tvg-id="ArenaSport8.rs@SD" tvg-logo="https://i.imgur.com/Wk9dr78.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 8 SR(720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://nl1.nghk.ai/ArenaSport8HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport9.rs@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 9 SR(720p)
