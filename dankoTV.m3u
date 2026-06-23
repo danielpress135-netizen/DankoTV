@@ -788,15 +788,13 @@ http://78.108.251.7/HBO2_HD/mono.m3u8
 http://78.108.251.7/HBO_HD/mono.m3u8
 #EXTINF:-1 group-title="BG/TV test",HBO3_HD
 http://78.108.251.7/HBO3_HD/mono.m3u8
-#EXTINF:-1 group-title="BG/TV test",EpicDrama HD
-http://78.108.251.7/EpicDrama/mono.m3u8
 #EXTINF:-1 group-title="BG/TV test",amc
 http://78.108.251.7/amc/mono.m3u8
 #EXTINF:-1 group-title="BG/TV test",Travel_Channel_HD
 http://78.108.251.7/Travel_Channel_HD/mono.m3u8
 #EXTINF:-1 group-title="BG/TV test",Cartoon_Network
 http://78.108.251.7/Cartoon_Network/mono.m3u8
-#EXTINF:-1 group-title="BG/TV test",Boomerang
+#EXTINF:-1 group-title="BG/TV test",Cartoonito
 http://78.108.251.7/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="BG/TV test",Nick_Jr
 http://78.108.251.7/Nick_Jr/mono.m3u8
@@ -805,7 +803,7 @@ http://78.108.251.7/NickToons/mono.m3u8
 #EXTINF:-1 group-title="BG/TV test",DaVinciLearning
 http://78.108.251.7/DaVinciLearning/mono.m3u8
 #EXTINF:-1 group-title="BG/TV test",EKids
- http://78.108.251.7/EKids/mono.m3u8
+http://78.108.251.7/EKids/mono.m3u8
 
 #EXTINF:-1 group-title="BG/TV test",BNT 1 HD
 http://87.120.179.187:8000/play/a007
@@ -849,10 +847,6 @@ http://87.120.179.187:8000/play/a00l
 http://87.120.179.187:8000/play/a02e
 #EXTINF:-1 group-title="BG/TV test",TV1
 http://87.120.179.187:8000/play/a02f
-#EXTINF:-1 group-title="BG/TV test",Diema Sport HD
-http://87.120.179.187:8000/play/a00b
-#EXTINF:-1 group-title="BG/TV test",Diema Sport 2
-http://87.120.179.187:8000/play/a01j
 #EXTINF:-1 group-title="BG/TV test",Nostalgia HD
 http://87.120.179.187:8000/play/a04y
 #EXTINF:-1 group-title="BG/TV test",Cinemania HD
@@ -877,10 +871,6 @@ http://87.120.179.187:8000/play/a00f
 http://87.120.179.187:8000/play/a02j
 #EXTINF:-1 group-title="BG/TV test",Balkanika HD
 http://87.120.179.187:8000/play/a04s
-#EXTINF:-1 group-title="BG/TV test",Planeta HD
-http://87.120.179.187:8000/play/a04u
-#EXTINF:-1 group-title="BG/TV test",Travel TV
-http://87.120.179.187:8000/play/a04t
 #EXTINF:-1 group-title="BG/TV test",BNT 1 HD
 http://62.176.112.19:8008/play/a046
 #EXTINF:-1 group-title="BG/TV test",bTV HD
@@ -891,12 +881,6 @@ http://62.176.112.19:8008/play/a0cx
 http://62.176.112.19:8008/play/a049
 #EXTINF:-1 group-title="BG/TV test",BNT 3 HD
 http://62.176.112.19:8008/play/a063
-#EXTINF:-1 group-title="BG/TV test",NovaNews
-http://62.176.112.19:8008/play/a08x
-#EXTINF:-1 group-title="BG/TV test",Diema
-http://62.176.112.19:8008/play/a0e0
-#EXTINF:-1 group-title="BG/TV test",Kino Nova
-http://62.176.112.19:8008/play/a0dz
 #EXTINF:-1 group-title="BG/TV test",bTV Action HD
 http://62.176.112.19:8008/play/a04n
 #EXTINF:-1 group-title="BG/TV test",bTV Cinema HD
@@ -929,11 +913,11 @@ http://62.176.112.19:8008/play/a0bb
 http://62.176.112.19:8008/play/a04b
 #EXTINF:-1 group-title="BG/TV test",RING HD
 http://62.176.112.19:8008/play/a0bo
-#EXTINF:-1 group-title="BG/TV test",FilmBox
+#EXTINF:-1 group-title="BG/TV test",FilmBox+ one
 http://62.176.112.19:8008/play/a0cz
-#EXTINF:-1 group-title="BG/TV test",FilmBox Extra
+#EXTINF:-1 group-title="BG/TV test",FilmBox+ emotion
 http://62.176.112.19:8008/play/a0c4
-#EXTINF:-1group-title="BG/TV test",Discovery Channel HD
+#EXTINF:-1 group-title="BG/TV test",Discovery Channel HD
 http://62.176.112.19:8008/play/a044
 #EXTINF:-1 group-title="BG/TV test",Animal Planet HD
 http://62.176.112.19:8008/play/a05r
@@ -945,8 +929,6 @@ http://62.176.112.19:8008/play/a0bt
 http://62.176.112.19:8008/play/a0dy
 #EXTINF:-1 group-title="BG/TV test",Nick Jr
 http://62.176.112.19:8008/play/a05k
-#EXTINF:-1 group-title="BG/TV test",Epic Drama
-http://62.176.112.19:8008/play/a056
 #EXTINF:-1 group-title="BG/TV test",Bulgaria 24
 http://62.176.112.19:8008/play/a0da
 #EXTINF:-1 group-title="BG/TV test",DocuBox HD
@@ -955,18 +937,8 @@ http://62.176.112.19:8008/play/a05n
 http://62.176.112.19:8008/play/a03t
 #EXTINF:-1 group-title="BG/TV test",Bulgaria 24 HD
 http://62.176.112.19:8008/play/a0ew
-#EXTINF:-1 group-title="BG/TV test",Bulgaria On Air HD
-http://62.176.112.19:8008/play/a0ex
-#EXTINF:-1 group-title="BG/TV test",Epic Drama HD
-http://62.176.112.19:8008/play/a0f0
 #EXTINF:-1 group-title="BG/TV test",Evrokom HD
 http://62.176.112.19:8008/play/a0es
-#EXTINF:-1 group-title="BG/TV test",NOVA
-http://62.176.112.19:8008/play/a0f6
-#EXTINF:-1 group-title="BG/TV test",NOVA HD
-http://62.176.112.19:8008/play/a0f7
-#EXTINF:-1 group-title="BG/TV test",Nova HD
-http://62.176.112.19:8008/play/a0f5
 #EXTINF:-1 group-title="BG/TV test",TV1 HD
 http://62.176.112.19:8008/play/a0ev
 
@@ -1022,13 +994,13 @@ http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="EuronewsBulgaria.bg@SD" tvg-logo="https://i.imgur.com/RrQVoOg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Euronews Bulgaria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05e
-#EXTINF:-1 tvg-id="FilmBox.nl@Bulgary" tvg-logo="https://i.imgur.com/VyaslIY.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox Bulgary
+#EXTINF:-1 tvg-id="FilmBox.nl@Bulgary" tvg-logo="https://i.imgur.com/VyaslIY.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox+ one Bulgary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a06i
-#EXTINF:-1 tvg-id="FilmBoxExtra.nl@Bulgary" tvg-logo="https://i.imgur.com/ML7SlIW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox Extra Bulgary
+#EXTINF:-1 tvg-id="FilmBoxExtra.nl@Bulgary" tvg-logo="https://i.imgur.com/ML7SlIW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox+ emotion Bulgary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04r
-#EXTINF:-1 tvg-id="FilmBoxStars.nl@Bulgary" tvg-logo="https://i.imgur.com/eZFdHbR.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox Stars Bulgary
+#EXTINF:-1 tvg-id="FilmBoxStars.nl@Bulgary" tvg-logo="https://i.imgur.com/eZFdHbR.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox Bulgary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a066
 #EXTINF:-1 tvg-id="H2.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",H2
@@ -1446,7 +1418,6 @@ https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenu
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Eng/TV",TV BRICS (English)
 http://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Eng/TV",Beach TV
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Eng/TV",Beach TV 2
@@ -1456,7 +1427,7 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Eng/TV",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 #EXTINF:-1 group-title="Eng/TV",More 4
-http://176.65.146.99:4001/play/a087/index.m3u8
+
 #EXTINF:-1 group-title="Eng/TV",Discovery Channel USA
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="Eng/TV",History
@@ -1478,7 +1449,7 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 group-title="Eng/TV",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 group-title="Eng/TV",Film 4
-http://176.65.146.99:4001/play/a086/index.m3u8
+
 #EXTINF:-1 group-title="Eng/TV",Ifilm English
 http://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1 group-title="Eng/TV",Movies Wedo
@@ -1544,17 +1515,17 @@ https://jmp2.uk/rok-498b53f6f63455bbba27754ceb5fcefc.m3u8
 #EXTINF:-1 channel-id="a3c405bfca9b525983054aa761b10dfb" tvg-id="a3c405bfca9b525983054aa761b10dfb" tvg-chno="433" tvg-name="Super Mario Brothers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a3c405bfca9b525983054aa761b10dfb/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694472710975_SuperMarioBrothers_HUDlogo_260x147.png" group-title="Eng/TV",Super Mario Brothers
 https://jmp2.uk/rok-a3c405bfca9b525983054aa761b10dfb.m3u8
 #EXTINF:-1 channel-id="77946e082d8958f599087890aebf1623" tvg-id="77946e082d8958f599087890aebf1623" tvg-chno="365" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77946e082d8958f599087890aebf1623/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1712857102121_YuGiOh_LGLogo_HUD-Centered.png" group-title="Eng/TV",Yu-Gi-Oh!
-https://jmp2.uk/rok-77946e082d8958f599087890aebf1623.m3u8
+
 #EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="419" tvg-name="BABY SHARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="Eng/TV",BABY SHARK TV
 https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
 #EXTINF:-1 channel-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-chno="417" tvg-name="Toony Planet" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e0ba996e9985beb9c5e7f7f994ddc2e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1680614970035_Toony_Planet_HUD_logo_260x147.png" group-title="Eng/TV",Toony Planet
-https://jmp2.uk/rok-8e0ba996e9985beb9c5e7f7f994ddc2e.m3u8
+
 #EXTINF:-1 channel-id="9bd570b8bf145f73bba7532221e12666" tvg-id="9bd570b8bf145f73bba7532221e12666" tvg-chno="432" tvg-name="Transformers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9bd570b8bf145f73bba7532221e12666/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684427983619_TF_CSA_UK_2023Q4_Samsung_FAST_HUD_logo_C_260x147_3.png" group-title="Eng/TV",Transformers
-https://jmp2.uk/rok-9bd570b8bf145f73bba7532221e12666.m3u8
+
 #EXTINF:-1 channel-id="8346cc0f3d415e39875fca80b67fd951" tvg-id="8346cc0f3d415e39875fca80b67fd951" tvg-chno="320" tvg-name="Universal Westerns" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8346cc0f3d415e39875fca80b67fd951/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1701820121460_Universal-Western-ROKU-HUD-LOGO-260x147.png" group-title="Eng/TV",Universal Westerns
 https://jmp2.uk/rok-8346cc0f3d415e39875fca80b67fd951.m3u8
 #EXTINF:-1 channel-id="306550b8677f5fd3937c26808531d5f3" tvg-id="306550b8677f5fd3937c26808531d5f3" tvg-chno="324" tvg-name="Wild West TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/306550b8677f5fd3937c26808531d5f3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707528061696_WWTV_HUDLogo.png" group-title="Eng/TV",Wild West TV
-https://jmp2.uk/rok-306550b8677f5fd3937c26808531d5f3.m3u8
+
 #EXTINF:-1 channel-id="34b686f999ecaacfbcd91bb5195c3124" tvg-id="34b686f999ecaacfbcd91bb5195c3124" tvg-chno="619" tvg-name="The Masked Singer" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/34b686f999ecaacfbcd91bb5195c3124/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1739302196547_MS_ROKU_HUD_Logo_2.png" group-title="Eng/TV",The Masked Singer
 https://jmp2.uk/rok-34b686f999ecaacfbcd91bb5195c3124.m3u8
 #EXTINF:-1 channel-id="3580b15015379c4256440b0e119d46ed" tvg-id="3580b15015379c4256440b0e119d46ed" tvg-chno="629" tvg-name="America's Got Talent" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3580b15015379c4256440b0e119d46ed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775265472400_AGT_HUD_260x147_CenterAligned.png" group-title="Eng/TV",America's Got Talent
@@ -1581,9 +1552,9 @@ http://pool.alter-media.hr:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",TV Duga+
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308_output_0.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",DugaPlus
-http://79.127.207.193:80/DugaPlus/playlist.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Izvorna TV
-http://79.127.207.193/IzvornaTV/index.m3u8
+
 #EXTINF:-1 tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" tvg-id="Hugo2.mk" tvg-chno="9" tvg-country="MK" group-title="Ex-Yu/Music tv",Хуго 2
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 #EXTINF:-1 tvg-name="ЗОНА М1 ТВ" tvg-logo="https://i.imgur.com/yTR7A0d.png" tvg-id="zona m1" tvg-chno="15" tvg-country="MK" group-title="Ex-Yu/Music tv",ЗОНА М1 ТВ
@@ -1591,7 +1562,7 @@ https://zonam1.ddns.net/hls/stream1.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",IDJ TV
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
 #EXTINF:-1 group-title="Ex-Yu/Music tv",IDJ Kids
-https://nl1.dstv.cx/IDJKids/index.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-id="CMCTV.hr@SD",CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Jugoton TV
@@ -1611,7 +1582,7 @@ https://sradio.ipradio.rs/sradio/radiostv/chunklist_w799893154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3yPKqWqp/image-2025-09-01-T195635-215.png" group-title="Ex-Yu/Music tv", Radio S
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w666705940.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",adria info
-https://de1.adriatelekom.com/AdriaInfo/mono.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/Music tv",adria info
 https://nl1.dstv.cx/AdriaInfo/tracks-v2a1/rewind-7200.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Adria EX YU Rock
@@ -1655,11 +1626,11 @@ https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Hayat Music Box
 http://143.244.63.87:80/hayatmusic/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Hayat Music Box
-http://79.127.207.193/HayatMusic/index.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/Music tv" tvg-logo="https://i.ibb.co/NdW7VQJQ/image-26.png",HAYAT MUSIC BOX
 http://cm1.portaltv.info:777/5R0Tqhz7bC/8biAnmNHif/2866
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Hayat Folk Box
-http://45.82.88.87:15153/udp/237.40.1.15:5000
+
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Merak tv
 https://streaming.ataxmedia.com/hls/MerakTV/main_stream.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Play M
@@ -1667,9 +1638,9 @@ https://streaming.ataxmedia.com/hls/playM/main_stream.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Reverb E
 https://streaming.ataxmedia.com/hls/reverbE/main_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Z6RdJtQ0/image-57.png" group-title="Ex-Yu/Music tv", DM SAT
-http://85.14.32.26:8800/udp/239.100.10.40:5000
+http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9YO1SQZ-Ts4quXvk7x4Ay0/ts
 #EXTINF:-1 group-title="Ex-Yu/Music tv",DMSat
-http://79.127.207.193:80/DMSat/playlist.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/Music tv",PAN DA! TV
 https://lbgo.bozztv.com/ssh101/ssh101/rtvpanda/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Jupok Radio
@@ -1727,15 +1698,15 @@ http://92.36.202.5:10003/play/a00r
 #EXTINF:-1 group-title="Ex-Yu/Music tv",O Music
 http://92.36.202.5:10003/play/a01e
 #EXTINF:-1 group-title="Ex-Yu/Music tv",RTS Kolo
-http://79.127.207.193/RTSKolo/index.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/Music tv",RTS Muzika
-http://79.127.207.193/RTSMuzika/index.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/Music tv",RTV 101
 http://5.57.74.130:8000/play/a0cb/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",RTV Kiss
 http://5.57.74.130:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",Toxic TV
-http://79.127.207.193/ToxicTV/index.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/Music tv",TV 4S
 http://5.57.74.130:8000/play/a0e3/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Music tv",TV Diskos
@@ -1825,7 +1796,7 @@ https://53a7ed211fc32.streamlock.net/asmedia/radio_s_mchits/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S Xtra
 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_love/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S3 Južni
-https://stream.radios.rs:9038/*.mp3
+
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S3 Juzni
 http://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/chunklist_w317033927.m3u8?nocache=286704
 #EXTINF:-1 group-title="Ex-Yu/Radio",Rock Radio Beograd
@@ -1835,7 +1806,7 @@ http://pink.exyuserver.com/stream.mp3
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio Bravo Kragujevac
 http://streaming.orion.rs:8030/stream.nsv
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio BRAVO FM Narodni
-http://195.252.68.166:8036/
+
 #EXTINF:-1 group-title="Ex-Yu/Radio",Bravo Radio
 http://streaming.orion.rs:8030
 
@@ -1859,200 +1830,26 @@ http://143.244.63.87/pinkfilm/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",PINK EXTRA
 http://143.244.63.87/pinkextra/playlist.m3u8
 
-#EXTINF:-1 group-title="Ex-Yu/Test",24 Kitchen
-http://79.127.207.193/24Kitchen/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",AXN Spin
-http://79.127.207.193/AXNSpin/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Doma TV
-http://79.127.207.193/DomaTV/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Federalna TV
-http://79.127.207.193/FederalnaTV/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Happy Drustvo
-http://79.127.207.193/HappyDrustvo/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Happy Zemlja
-http://79.127.207.193/HappyZemlja/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Hayat HD
-http://79.127.207.193/HayatHD/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Hayat Music
-http://79.127.207.193/HayatMusic/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Hayat Plus
-http://79.127.207.193/HayatPlus/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Izvorna TV
-http://79.127.207.193/IzvornaTV/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Kanal 6
-http://79.127.207.193/Kanal6/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",KCN Jagodina
 http://79.127.207.193/KCNJagodina/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Laudato
-http://79.127.207.193/Laudato/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",LibertasTV
 http://79.127.207.193/LibertasTV/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Nova HR HD
-http://79.127.207.193/NovaHRHD/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",NTV IC Kakanj
-http://79.127.207.193/NTVICKakanj/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Osjecka TV
-http://79.127.207.193/OsjeckaTV/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Pink Kids
-http://79.127.207.193/PinkKids/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Pink Kuvar
-http://79.127.207.193/PinkKuvar/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Pink Style
-http://79.127.207.193/PinkStyle/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Pink Super Kids
-http://79.127.207.193/PinkSuperKids/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",Prva Kick
 http://79.127.207.193/PrvaKick/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",Prva Max
 http://79.127.207.193/PrvaMax/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",Prva World
 http://79.127.207.193/PrvaWorld/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTL Adria
-http://79.127.207.193/RTLAdria/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTL Crime HR
-http://79.127.207.193/RTLCrimeHR/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTL Passion HR
-http://79.127.207.193/RTLPassionHR/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTRS Plus
-http://79.127.207.193/RTRSPlus/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTS Drama
-http://79.127.207.193/RTSDrama/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTS Kolo
-http://79.127.207.193/RTSKolo/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTS Muzika
-http://79.127.207.193/RTSMuzika/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTS Poletarac
-http://79.127.207.193/RTSPoletarac/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTS Svet
-http://79.127.207.193/RTSSvet/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTS Trezor
-http://79.127.207.193/RTSTrezor/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTV HB
-http://79.127.207.193/RTVHB/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTV Sana
-http://79.127.207.193/RTVSana/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTV TK
-http://79.127.207.193/RTVTK/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTV Zenica
-http://79.127.207.193/RTVZenica/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Sitel
-http://79.127.207.193/Sitel/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Tatabrada TV
-http://79.127.207.193/TatabradaTV/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Toxic TV
-http://79.127.207.193/ToxicTV/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",TV Herceg Novi
-http://79.127.207.193/TVHercegNovi/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",TV Jadran
-http://79.127.207.193/TVJadran/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",TV Pljevlja
-http://79.127.207.193/TVPljevlja/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",TV Sarajevo
-http://79.127.207.193/TVSarajevo/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",TV Slon
-http://79.127.207.193/TVSlon/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Viasat Kino
-http://79.127.207.193/ViasatKino/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",YU Planet
-http://79.127.207.193/YUPlanet/playlist.m3u8 
 
-#EXTINF:-1 group-title="Ex-Yu/Test",Discovery
-http://23.88.66.93/Discovery/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Bn tv
-http://23.88.66.93/BN/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Ftv
-http://23.88.66.93/FTV/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Hayat
-http://23.88.66.93/HAYAT/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",HBO
-http://23.88.66.93/HBO/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Nova HD
-http://23.88.66.93/NOVA_HD/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",OBN
-http://23.88.66.93/OBN/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTRS
-http://23.88.66.93/RTRS/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTS 1
-http://23.88.66.93/RTS_1/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTS 2
-http://23.88.66.93/RTS_2/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",RTS 3
-http://23.88.66.93/RTS_3/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Cinemania
-http://23.88.66.93/Cinemania/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Cinemax
-http://23.88.66.93/Cinemax/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Cinestar
-http://23.88.66.93/Cinestar/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Face tv
-http://23.88.66.93/Face/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Fox
-http://23.88.66.93/Fox/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Minimax
-http://23.88.66.93/Minimax/index.m3u8
 
-#EXTINF:-1 group-title="Ex-Yu/Test",EuroCinema1
-http://79.127.207.193:80/EuroCinema1/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",PinkWorldCinema
-http://79.127.207.193:80/PinkWorldCinema/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",DugaPlus
-http://79.127.207.193:80/DugaPlus/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",NovaCinema
-http://79.127.207.193:80/NovaCinema/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Eurosport2HD
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",ViasatNature HD
-http://79.127.207.193:80/ViasatNature/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Cinemania HD
-http://79.127.207.193:80/Cinemania/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Cartoonito HD
-http://79.127.207.193:80/Cartoonito/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",TLCHD
-http://79.127.207.193:80/TLCHD/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",DMSat
-http://79.127.207.193:80/DMSat/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",test HD NOVA
-http://79.127.207.193:80/test/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",TVM HD
 http://79.127.207.193:80/TVM/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",HBO2 HD
-http://79.127.207.193:80/HBO2/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",LoviRibolov
-http://79.127.207.193:80/LoviRibolov/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",M1Gold HD
-http://79.127.207.193:80/M1Gold/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",PinkWestern
-http://79.127.207.193:80/PinkWestern/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Pink2 RED TV
-http://79.127.207.193:80/Pink2/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",YUPlanet HD
-http://79.127.207.193:80/YUPlanet/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",HRT4 HD
 http://79.127.207.193:80/HRT4/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",HRT1 HD
 http://79.127.207.193:80/HRT1/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",AMC HD
-http://79.127.207.193:80/AMC/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",BN2
-http://79.127.207.193:80/BN2/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",E!
-http://79.127.207.193:80/E!/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",NGC HD
-http://79.127.207.193:80/NGC/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",KinoTV HD
-http://79.127.207.193:80/KinoTV/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",AXN
-http://79.127.207.193:80/AXN/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",HitTV HD
 http://79.127.207.193:80/HitTV/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",HBO3
-http://79.127.207.193:80/HBO3/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",CartoonNetwork
-http://79.127.207.193:80/CartoonNetwork/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Minimax
-http://79.127.207.193:80/Minimax/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",OBN
-http://79.127.207.193:80/OBN/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",atv HD
 http://143.244.63.87/atv/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",k1 HD
@@ -2065,7 +1862,6 @@ http://143.244.63.87/vesti/index.m3u8
 http://143.244.63.87/bn2/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",agrotv HD
 http://143.244.63.87/agrotv/index.m3u8
-http://143.244.63.87/pinkerotic2/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",pinkwestern
 http://143.244.63.87/pinkwestern/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",pinkromance
@@ -2266,8 +2062,6 @@ http://5.57.74.130:8000/play/a0bx/index.m3u8
 http://5.57.74.130:8000/play/a0cs/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",TV Kraljevo
 http://5.57.74.130:8000/play/a0e4/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",TV Palma Plus
-http://5.57.74.130:8000/play/a0e9/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",TV Sokobanja
 http://5.57.74.130:8000/play/a0e8/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",TV Trstenik
@@ -2290,9 +2084,7 @@ http://5.57.74.130:8000/play/a0al/index.m3u8
 http://5.57.74.130:8000/play/a0as/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test",Viasat Nature HD
 http://5.57.74.130:8000/play/a0bm/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Viasat Nature HD
-http://5.57.74.130:8000/play/a0ei/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test",Zelena TV Zdravlje
+#EXTINF:-1 group-title="Ex-Yu/Test",Tv Komitet
 http://5.57.74.130:8000/play/a0cg/index.m3u8
 
 
@@ -2544,14 +2336,6 @@ http://92.36.202.5:10001/play/a063
 http://92.36.202.5:10001/play/a064
 #EXTINF:-1 group-title="Ex-Yu/Test.2",Viasat Nature.
 http://92.36.202.5:10001/play/a00s
-#EXTINF:-1 group-title="Ex-Yu/Test.2", mrt-1
-http://23.88.66.93:80/MRT_1/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test.2",RTL LIVING HD
-http://23.88.66.93:80/RTL_Living/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test.2",RTL CRIME HD
-http://23.88.66.93:80/RTL_Crime/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test.2",RTL PASSION HD
-http://23.88.66.93:80/RTL_Passion/index.m3u8
 #EXTINF:-1 tvg-id="KitchenTV.rs@SD" tvg-logo="https://i.imgur.com/WcGKc4C.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Ex-Yu/Test.2",Kitchen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03n
@@ -2809,7 +2593,7 @@ http://5.57.74.130:8000/play/a0al/index.m3u8
 http://5.57.74.130:8000/play/a0as/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Test.jotel.net",Viasat Nature HD
 http://5.57.74.130:8000/play/a0bm/index.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Test.jotel.net",Zelena TV Zdravlje
+#EXTINF:-1 group-title="Ex-Yu/Test.jotel.net",Tv Komitet
 http://5.57.74.130:8000/play/a0cg/index.m3u8
 
 
@@ -2884,7 +2668,7 @@ https://itv2.sabor.hr/saborHLS/sabor.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV", TV Zapad
 http://streaming.megatronik.ba:8081/tvzapad/tvzapad2025/tvzapad2025/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",Face TV
-http://23.88.66.93/Face/index.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="SBTV.hr@SD",SBTV (1080p) [Not 24/7]
 https://live.leveex.hr/hls/live.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="NarodnaTV.rs@SD",Narodna TV (720p)
@@ -2920,7 +2704,7 @@ rtmp://212.200.230.50:1935/RTV/rtv2
 #EXTINF:-1 group-title="Ex-Yu/TV",RTV 2
 http://212.200.230.50:1935/RTV/rtv2/chunklist_w889336324.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",Cinemania
-http://23.88.66.93/Cinemania/index.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/TV",EuroCinema 1
 
 #EXTINF:-1 group-title="Ex-Yu/TV",Vesti TV
@@ -2932,13 +2716,13 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=nova
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="Nova.rs" tvg-name="Nova" tvg-logo="https://i.imgur.com/sU8UPPY.png" group-title="Ex-Yu/TV",Nova
 https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream/?i=_psvGe-DSHiFxsP5kVGEEQ&a=qTaYSJ-Ke_CLRsGQ2ZmM5omPrLlP2TPIN6wRWl-_31L0oIymyO0wgIY_PMVAlu43lGQJ1i4a2qfYFxynbmdj57vz7vb7SI4aZFnAIWXbrz4IVi3ukE2yIDWUxWkYFO_esaEqXRVYMaMwIFr8of-5qcBW22WsXZXRJaY5fRR4HFi-c5CaxNnMlcWONWUIoz_YdUs0okZe6VAGfgRzgHACxA&sp=novas&u=novas&player=m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",Nova TV M
-https://srv1.adriatelekom.com/NovaM/index.m3u8
+
 #EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="Ex-Yu/TV",Nova TV
 
 #EXTINF:-1 group-title="Ex-Yu/TV",NOVA TV HR
 
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="TVAS.rs@SD",RTV AS (576p)
-https://srv1.adriatelekom.com/TVAS/index.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/TV",RTV AS
 https://de1.dstv.cx/TVAS/rewind-7200.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",RTV AS
@@ -2952,7 +2736,7 @@ https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",rtv puls brcko
 https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",tok tv
-https://elara.netcomm.rs/toktv/tracks-v1/index.fmp4.m3u8?token=toktv
+https://elara.netcomm.rs/toktv/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",gm plus cable
 https://539745e629986.streamlock.net/gmpluscable/stream/chunklist_w639476776.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",gm plus cable
@@ -2969,9 +2753,9 @@ http://92.60.239.23:52935/live/web/chunklist_w577308926.m3u8
 https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="TVPiKanal.rs@SD",TV Pi Kanal (576p) [Not 24/7]
 https://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-name="Televizija Republike Srpske (RTRS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" tvg-id="RTRSTV.ba" tvg-chno="3" tvg-country="BA" group-title="Ex-Yu/TV",Televizija Republike Srpske (RTRS)
+#EXTINF:-1 tvg-name="Televizija Republike Srpske (RTRS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" tvg-id="RTRSTV.ba" tvg-chno="3" tvg-country="BA" group-title="Ex-Yu/TV",RTRS (пускат когато искат)
 https://parh.rtrs.tv/tv/live/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="RTRSplus.ba@SD",RTRS Plus (576p) [Not 24/7]
+#EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="RTRSplus.ba@SD",RTRS Plus (пускат когато искат)
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="RTVHB.ba@SD",RTV Herceg-Bosne (576p) [Not 24/7]
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
@@ -2991,12 +2775,8 @@ https://edge2.livebroadcastsolutions.com/hls/stream.m3u8
 https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="ExodusTV.si@SD",Exodus TV (720p)
 https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="TVSLO1.si@HD",TV SLO 1 HD (1080p) [Not 24/7]
-http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="TVSLO1.si@HD",TV SLO 1 HD
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="TVSLO2.si@HD",TV SLO 2 HD (1080p) [Not 24/7]
-http://23.88.66.93/SLO2/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="TVSLO2.si@HD",TV SLO 2 HD
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",KTV Zrenjanin
@@ -3023,14 +2803,14 @@ https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 https://stream1.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",Nicktoons
 http://5.57.74.130/Nicktoons/index.m3u8
-#EXTINF:-1 tvg-id="BHRT.ba@SD" tvg-logo="https://i.imgur.com/01bZ5rw.png" group-title="Ex-Yu/TV",BHRT1 (720p) 
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BHRT.ba@SD" tvg-logo="https://i.imgur.com/01bZ5rw.png" group-title="Ex-Yu/TV",BHRT1 (720p)
+ 
 #EXTINF:-1 tvg-id="RTS3.rs@SD" tvg-logo="https://i.imgur.com/gxuGB4J.png" group-title="Ex-Yu/TV",RTS 3 (720p)
 http://185.81.240.65:15000/udp/233.233.233.36:12000
 #EXTINF:-1 group-title="Ex-Yu/TV",atv balkan
-https://streaming.omaxtelecom.com/atvbl/playlist.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/TV",atv balkan HD
-https://streaming.omaxtelecom.com/atvbl/tracks-v1/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="Ex-Yu/TV",Viasat Kino
 http://109.106.239.1:8001/play/a09j
 
