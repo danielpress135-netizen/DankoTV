@@ -2831,7 +2831,7 @@ https://edge11.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist.m3u8
 #EXTINF:-1 group-title="FRA/TV",France 24 Francais
 http://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="FRA/TV",Gulli France
-https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
+
 #EXTINF:-1 group-title="FRA/TV",Monaco Info TV
 https://webtv.monacoinfo.com/live/prod_720/index.m3u8
 #EXTINF:-1 group-title="FRA/TV",Nature Time TV
@@ -2936,9 +2936,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="FRA/TV",Cannes Lérins TV (1080p)
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="FRA/TV",Nickelodeon (1080p)
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="FRA/TV",Nickelodeon Junior (1080p)
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+
 #EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="FRA/TV",Sony One Blacklist (1080p)
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" tvg-logo="https://i.imgur.com/RO4AM4b.png" group-title="FRA/TV",Sony One Favoris (1080p)
@@ -2974,9 +2974,9 @@ http://99.27.51.147:8080/SYFY/index.m3u8
 #EXTINF:-1 group-title="FRA/TV",Cine Classic
 http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 group-title="FRA/TV",CineFrisson
-http://99.27.51.147:8080/CineFrisson/index.m3u8
+
 #EXTINF:-1 group-title="FRA/TV",CineFamily
-http://99.27.51.147:8080/CineFamiz/index.m3u8
+
 
 
 
@@ -3074,7 +3074,7 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-wettin_high/play
 #EXTINF:-1 group-title="GER/TV",Oberpfalz TV
 https://stream04.welocal.stream/stream/fhd-otv_496277/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="GER/TV",Okto TV au
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+
 #EXTINF:-1 group-title="GER/TV",Oldenburg Eins
 https://cdn.oeins.de/hd1080/index.m3u8
 #EXTINF:-1 group-title="GER/TV",Peer TV Sudtirol
@@ -3128,7 +3128,7 @@ https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20
 #EXTINF:-1 group-title="GER/TV",Sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1 group-title="GER/TV",Studio 47
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt81HwDflnq3V7Z32eCctohM/ts
+
 #EXTINF:-1 group-title="GER/TV",Studio 47
 https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/chunklist.m3u8
 #EXTINF:-1 group-title="GER/TV",Sylt 1
@@ -3154,9 +3154,9 @@ http://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:1 group-title="GER/TV",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:1 group-title="GER/TV",RTL Television
-http://213.169.39.30:5291
+
 #EXTINF:1 group-title="GER/TV",RTL Zwei
-https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+
 #EXTINF:1 group-title="GER/TV",Super RTL
 
 #EXTINF:-1 tvg-id="RTV.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png" group-title="GER/TV",RTV (1080p) [Not 24/7]
@@ -3198,7 +3198,7 @@ https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/
 #EXTINF:-1 group-title="GR/TV",Alpha TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_source/chunks.m3u8
 #EXTINF:-1 group-title="GR/TV",Blue Sky
-https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+
 #EXTINF:-1 group-title="GR/TV",Boyah TV
 https://diavlos3.cnt.grnet.gr/parltv/webtv-1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="GR/TV",Faros 1
@@ -3234,7 +3234,7 @@ https://onechannel.siliconweb.com/one/live_abr/one/stream_720p/chunks_dvr.m3u8
 #EXTINF:-1 group-title="GR/TV",PIK Sat TV
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="GR/TV",SKAI
-http://176.65.146.224:8301/play/a060/index.m3u8
+
 #EXTINF:-1 group-title="GR/TV",Star TV HD
 http://livestar.siliconweb.com/starvod/star_int/star_intsd.m3u8
 #EXTINF:-1 group-title="GR/TV",Vergina TV
@@ -3328,15 +3328,15 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OzdiVarosiTV.hu@SD" tvg-logo="https://i.imgur.com/t0Aq3UD.png" group-title="HU/TV",Ózdi Városi TV (720p) [Not 24/7]
 http://stream.nmih.hu:7980/live.m3u8
 #EXTINF:-1 tvg-id="RTL.hu@SD" tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="HU/TV",RTL (1080p)
-http://46.149.191.217:9005/play/a018
+
 #EXTINF:-1 tvg-id="RTLHarom.hu@SD" tvg-logo="https://i.imgur.com/c4Hhhzs.png" group-title="HU/TV",RTL Harom (1080p)
-http://46.149.191.217:9005/play/a01t
+
 #EXTINF:-1 tvg-id="RTLKetto.hu@SD" tvg-logo="https://i.imgur.com/IVv0qrI.png" group-title="HU/TV",RTL Ketto (1080p)
-http://46.149.191.217:9005/play/a01r
+
 #EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="HU/TV",Sport 1 (1280p)
-http://46.149.191.217:9005/play/a017
+
 #EXTINF:-1 tvg-id="TV2.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png" group-title="HU/TV",TV2 (1080p)
-http://46.149.191.217:9005/play/a01q
+
 #EXTINF:-1 tvg-id="TVKeszthely.hu@SD" tvg-logo="https://i.imgur.com/2LE8xSW.png" group-title="HU/TV",TV Keszthely (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="HU/TV",Tatai TV
@@ -3371,11 +3371,11 @@ http://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 group-title="IT/TV",Rai Scuola
 http://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 #EXTINF:-1 group-title="IT/TV",Rai Storia
-http://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
+
 #EXTINF:-1 tvg-id="RaiGulp.it@HD" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="IT/TV",Rai Gulp HD (1080p)
-https://srv1.adriatelekom.com/RaiGulp/index.m3u8
+
 #EXTINF:-1 tvg-id="RaiSport.it@HD" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="IT/TV",Rai Sport HD (1080p)
-https://srv1.adriatelekom.com/RaiSport/index.m3u8
+
 #EXTINF:-1 group-title="IT/TV",TSN
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IT/TV",TSN Visual Radio
@@ -3762,7 +3762,7 @@ http://stream.freshrock.net/320.mp3
 #EXTINF:-1 tvg-name="Радио Камчатка Live - Rock" group-title="MUSIC/RADIO ROCK", Радио Камчатка Live - Rock
 http://radio.kamchatkalive.ru:8100/rock
 #EXTINF:-1 tvg-name="Радио Каприз - Gothic Metal" group-title="MUSIC/RADIO ROCK", Радио Каприз - Gothic Metal
-http://79.120.77.11:8002/gothicmetal
+
 #EXTINF:-1 tvg-name="Радио Рок FM" group-title="MUSIC/RADIO ROCK", Радио Рок FM
 http://nashe1.hostingradio.ru:80/rock-256
 #EXTINF:-1 tvg-name="Радио Рок FM - 00s" group-title="MUSIC/RADIO ROCK", Радио Рок FM - 00s
@@ -3824,7 +3824,7 @@ http://stream.laut.fm/rockallover
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1590511143.jpg" group-title="MUSIC/RADIO ROCK", Metal Invasion Radio - 192 kbit/s
 https://radio.metal-invasion.fr/radio/8000/stream.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403757242.png" group-title="MUSIC/RADIO ROCK", Melodic Death Metal - 128 kbit/s
-http://79.120.77.11:9091
+
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403757242.png" group-title="MUSIC/RADIO ROCK", United FM Radio Rock Metal - 192 kbit/s
 http://167.114.18.120:8050/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403862944.png" group-title="MUSIC/RADIO ROCK", Best Net Radio - 80s Metal - 128 kbit/s
@@ -3859,8 +3859,6 @@ http://79.98.108.170:8028/live
 http://79.98.108.170:8049/live
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK",BadRock Radio,Golden Era.bg
 http://79.98.108.170:8009/live
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK",The A.X.E. Project
-http://79.98.108.170:8004/autodj
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Ballads
 https://stream.radioclub80.cl:8042/baladas80.flac
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Paradise - Rock Mix
@@ -3896,7 +3894,7 @@ https://ais-sa2.cdnstream1.com/1369_128
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Idobi Howl
 http://idobihowl.idobi.com/;
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Metal shop
-https://quincy.torontocast.com:1505/stream
+
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM New Rock
 https://abs.zaycev.fm/rock256k
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM РуРок
@@ -3905,54 +3903,8 @@ https://abs.zaycev.fm/rurock256k
 https://abs.zaycev.fm/folk256k
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM Metal
 https://abs.zaycev.fm/metal256k
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d1d02edd.jpg",AlexFM
-https://stream05.pcradio.ru/alexfmradio_tk-med
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d295b97a.jpg",Hit Rock FM
-https://stream05.pcradio.ru/hit_rock_fm-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d40c7303.jpg",Maximum - 90е
-https://stream05.pcradio.ru/maximum_90s-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09c6d9dee9.jpg",Maximum - Heavy Monday
-https://stream05.pcradio.ru/maximum_heavymonday-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d40cd30f.jpg",Maximum - Rock Hits
-https://stream05.pcradio.ru/maximum_rock-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d644ea77.jpg",Maximum 103.7 FM
-https://stream05.pcradio.ru/fm_maximum-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09cc838ce4.jpg",MotoRadio.Online
-https://stream05.pcradio.ru/motoradio-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61c57570c01d6.jpg",Radio Caprice - Glam Rock / Metal
-https://stream05.pcradio.ru/rad_cpglm-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09c8d003d6.jpg",Radio Caprice - Neoclassical Metal
-https://stream05.pcradio.ru/caprice_neoclmetal-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09cdb2bad4.jpg",Radio Caprice - Power Metal
-https://stream05.pcradio.ru/caprice_powermetal-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09cbf40db7.jpg",Radio Caprice - Русский Панк Рок
-https://stream05.pcradio.ru/caprice_ruspunk-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d65326f5.jpg",Record Rock
-https://stream05.pcradio.ru/record_rock-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09c4d2c6af.jpg",Rock
-https://stream05.pcradio.ru/rnr_fm-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d78be960.jpg",Rock FM 95.2
-https://stream05.pcradio.ru/rockfm_moscow-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d2a7abcb.jpg",Rock Mania FM
-https://stream05.pcradio.ru/Rock_maniy_fm-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09c7ea41a1.jpg",RockTime Radio
-https://stream05.pcradio.ru/rocktime_ru-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d3e71d3b.jpg",Аплюс Rock
-https://stream05.pcradio.ru/aplus_rock-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09c67db991.jpg",Дорожное - Рок-клуб
-https://stream05.pcradio.ru/dorozhnoe_rockclub-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09cc91805c.jpg",Камчатка Лайв Рок
-https://stream05.pcradio.ru/kamchatka_rock-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09cbc5dcd3.jpg",Наше Радио - Классик рок
-https://stream05.pcradio.ru/nashe_classic-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d3de6b3e.jpg",Рок Легенды
-https://stream05.pcradio.ru/Rock_Legend-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d46bb872.jpg",Русский рок
-https://stream05.pcradio.ru/russkiy_rock-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d3de03ba.jpg",Русский Рок
-https://stream05.pcradio.ru/Rock-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK", Big Hair Radio
-http://192.111.140.11:8508/listen.pls?sid=1
+https://stream03.pcradio.app/hit_rock_fm-hi
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK",Roks Rock Ballads
 https://radio6.dixi.md/listen/rock_ballads/rockballads128.aac
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK",Roks Hard’n’Heavy 
@@ -4072,8 +4024,6 @@ https://deltaradio.streamabc.net/regc-deltahardheavy-mp3-192-1449782?sABC=6n3588
 
 
 
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3d59288.jpg",Metallica
-https://stream05.pcradio.ru/Metallica-med
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/a33e9c24b93601dd7841aa0e071d89f6.png", Золотая Коллекция - Metallica
 https://pub0202.101.ru:8443/stream/pro/aac/64/123
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+", Exclusive Radio - Metallica
@@ -4124,10 +4074,6 @@ https://streaming.exclusive.radio/er/rollingstones/icecast.audio
 https://streaming.exclusive.radio/er/acdc/icecast.audio
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+", ZZ Top 
 https://2.mystreaming.net/er/zztop/icecast.audio  
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d368bbea.jpg",Pink Floyd
-https://stream05.pcradio.ru/Pink_Floyd-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d218d2a4.jpg",Red Hot Chili Peppers
-https://stream05.pcradio.ru/red_hot_chili_peppers-med
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/fb7831b59cad0c74d72061d5a51bea41.png", Золотая Коллекция - Linkin Park
 https://pub0202.101.ru:8443/stream/pro/aac/64/149
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+", Exclusive Radio - Foo Fighters
@@ -4145,117 +4091,9 @@ http://streaming.exclusive.radio/er/beatles/icecast.audio
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0724971a11b543c96d94f0f228cbcd51.png", Золотая Коллекция - Elvis Presley
 https://pub0202.101.ru:8443/stream/pro/aac/64/111
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+", Exclusive Radio - Roxette
-https://streaming.exclusive.radio/er/roxette/icecast.audio 
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3bcf7cf.jpg",Ария
-https://stream05.pcradio.ru/Aria-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d22eaaf3.jpg",Кипелов
-https://stream05.pcradio.ru/kipelov-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3d1ac74.jpg",Король и Шут
-https://stream05.pcradio.ru/Korol_i_Shut-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d20db8ed.jpg",Коррозия металла
-https://stream05.pcradio.ru/korrozia_metalla-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d2755f6b.jpg",Владимир Кузьмин (Динамик)
-https://stream05.pcradio.ru/vladimir_kuzmin-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d322a448.jpg",Агата Кристи
-https://stream05.pcradio.ru/Agata_Kristi-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09c7d859c4.jpg",Чёрный Кофе
-https://stream05.pcradio.ru/cherniy_coffee-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d2043ccb.jpg",Черный Обелиск
-https://stream05.pcradio.ru/cherny_obelisk-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d052db1b.jpg",Сектор Газовой Атаки 18+
-https://stream05.pcradio.ru/sector_gazovoy_ataki-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3303242.jpg",Красная плесень 18+
-https://stream05.pcradio.ru/Krasnaja_plesen-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d21b2a30.jpg",Сергей Галанин (СерьГа)
-https://stream05.pcradio.ru/serga_galanin-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d1f9447c.jpg",Александр Маршал
-https://stream05.pcradio.ru/alexandr_marshal-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d2b3d173.jpg",Алексин 18+
-https://stream05.pcradio.ru/Aleksin-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d22665a2.jpg",Аквариум
-https://stream05.pcradio.ru/akvarium-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3bb9fd7.jpg",Алиса
-https://stream05.pcradio.ru/Alisa-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3d53b89.jpg",Машина времени
-https://stream05.pcradio.ru/Mashina_Vremeni-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d20c5198.jpg",Андрей Князев (КняZz)
-https://stream05.pcradio.ru/knyazz-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3c177dd.jpg",Би-2
-https://stream05.pcradio.ru/Bi_2-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d31c4fdd.jpg",Браво
-https://stream05.pcradio.ru/Bravo-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d2b58f0b.jpg",Братья Грим
-https://stream05.pcradio.ru/Bratja_Grim-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3cb788b.jpg",Виктор Цой (Кино)
-https://stream05.pcradio.ru/gr_Kino-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d34e6a9a.jpg",Владимир Высоцкий
-https://stream05.pcradio.ru/Visotskiy-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3786eaf.jpg",Любэ
-https://stream05.pcradio.ru/Lyube-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3224734.jpg",Гарик Сукачёв
-https://stream05.pcradio.ru/Garik_Sukachov-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d32cce15.jpg",Гражданская оборона
-https://stream05.pcradio.ru/Grazhdanskaja_oborona-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3d3c284.jpg",Григорий Лепс
-https://stream05.pcradio.ru/Leps-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3c41a22.jpg",ДДТ
-https://stream05.pcradio.ru/DDT-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d05ace05.jpg",Денис Майданов
-https://stream05.pcradio.ru/denis_maydanov-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d20e3199.jpg",Крематорий
-https://stream05.pcradio.ru/krematoriy-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d2c973f0.jpg",Кукрыниксы
-https://stream05.pcradio.ru/Kukryniksy-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3527faf.jpg",Ленинград 18+
-https://stream05.pcradio.ru/Leningrad-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d225144a.jpg",Майк Науменко (Зоопарк)
-https://stream05.pcradio.ru/zoopark-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3d7d541.jpg",Моральный кодекс
-https://stream05.pcradio.ru/Moralniy_Kodeks-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d32661aa.jpg",Мурзилки Интернешнл
-https://stream05.pcradio.ru/Murzilki_International-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d1ca7af4.jpg",НАИВ
-https://stream05.pcradio.ru/naiv-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d1cb2b15.jpg",Найк Борзов 18+
-https://stream05.pcradio.ru/nayk_borzov-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3d90b06.jpg",Наутилус Помпилиус
-https://stream05.pcradio.ru/Nautilus-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d36e5f69.jpg",Ногу свело!
-https://stream05.pcradio.ru/Nogu_Svelo-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d217861a.jpg",Пикник
-https://stream05.pcradio.ru/piknik-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d0511127.jpg",Пилот
-https://stream05.pcradio.ru/pilot-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d31e83ae.jpg",Ранетки
-https://stream05.pcradio.ru/Ranetki-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d21abe30.jpg",Секрет
-https://stream05.pcradio.ru/sekret-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d366b36b.jpg",Сектор газа 18+
-https://stream05.pcradio.ru/Sector_Gaza-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d31ed9e0.jpg",Сергей Трофимов
-https://stream05.pcradio.ru/Sergej_trofimov-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d21d24d1.jpg",Смысловые галлюцинации
-https://stream05.pcradio.ru/smyslovye_galuyc-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d36825f8.jpg",Сплин
-https://stream05.pcradio.ru/Splin-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d0543e4f.jpg",Тараканы!
-https://stream05.pcradio.ru/tarakany-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d3c2d5e2.jpg",Чайф
-https://stream05.pcradio.ru/Chaif-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d2049b11.jpg",Чиж и Ко
-https://stream05.pcradio.ru/chizh_i_ko-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d37573ba.jpg",Юрий Шатунов
-https://stream05.pcradio.ru/Jurij_Shatunov-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d2155f0e.jpg",Noize MC
-https://stream05.pcradio.ru/noize_mc-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09d226d3ae.jpg",АукцЫон
-https://stream05.pcradio.ru/auktsyon-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09c7d458a4.jpg",ВИА Земляне
-https://stream05.pcradio.ru/via_zemlyane-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09c7d301c2.jpg",ВИА Синяя птица
-https://stream05.pcradio.ru/via_sinyaya_ptica-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+" tvg-logo="https://pcradio.ru/images/stations/61b09c7d235ec.jpg",ВИА Цветы
-https://stream05.pcradio.ru/via_cvety-med
+https://streaming.exclusive.radio/er/roxette/icecast.audio
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+",The A.X.E. Project
+http://79.98.108.170:8004/autodj 
 
 
 
@@ -4324,8 +4162,6 @@ https://s1.slotex.pl:7432/stream/1/
 http://178.172.150.248:2530/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1553416790.jpg" group-title="Music/Radio-Mix", 90erFM - 128 kbit/s
 http://tuner.m1.fm/90er.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1437357960.jpg" group-title="Music/Radio-Mix", Radio Dreams Clasic - 128 kbit/s
-http://5.2.184.92:3399/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="Music/Radio-Mix", 011.FM - The 60s - 192 kbit/s
 http://listen.011fm.com:80/stream03
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="Music/Radio-Mix", 011.FM - The 70s - 192 kbit/s
@@ -4361,70 +4197,8 @@ http://stream.laut.fm/primetime
 
 
 
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d3720851.jpg",Backstreet Boys
-https://stream05.pcradio.ru/Backstreet_Boys-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d3699ee6.jpg",Boney M.
-https://stream05.pcradio.ru/BoneyM-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d3733d96.jpg",Eminem
-https://stream05.pcradio.ru/Eminem-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d3c9a1f9.jpg",Frank Duval
-https://stream05.pcradio.ru/Frank_Duval-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d362e42f.jpg",Jean Michel Jarre
-https://stream05.pcradio.ru/Jean_Michel_Jarre-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d363854d.jpg",Jessica Jay
-https://stream05.pcradio.ru/Jessica_Jay-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d3d2cac9.jpg",Lana Del Rey
-https://stream05.pcradio.ru/Lana_Del_rey-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d3d4197c.jpg",Madonna
-https://stream05.pcradio.ru/Madonna-med
-#EXTINF:-1 group-title="MUSIC/RADIO ROCK+", Exclusive Radio - Madonna
+#EXTINF:-1 group-title="Music/Radio-Mix+", Exclusive Radio - Madonna
 https://streaming.exclusive.radio/er/madonna/icecast.audio 
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d31f2df4.jpg",Spice Girls
-https://stream05.pcradio.ru/Spice_Girls-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d2bb8305.jpg",Mr. Credo
-https://stream05.pcradio.ru/mr_CREDO-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d272a982.jpg",Plazma
-https://stream05.pcradio.ru/plazma-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d3bbfc43.jpg",Алла Пугачева
-https://stream05.pcradio.ru/Alla_Pugacheva-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d379ec22.jpg",Александр Новиков
-https://stream05.pcradio.ru/Aleksandr_Novikov-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d322f945.jpg",Александр Розенбаум
-https://stream05.pcradio.ru/Aleksandr_Rozenbaum-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d057f95f.jpg",Александр Серов
-https://stream05.pcradio.ru/alexandr_serov-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d058682f.jpg",Алексей Рыбников
-https://stream05.pcradio.ru/alexey_rybnikov-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d1fd3358.jpg",Алена Апина (Комбинация)
-https://stream05.pcradio.ru/apina_kombinacia-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d3bca113.jpg",Алсу
-https://stream05.pcradio.ru/Alsu-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d339aeb0.jpg",Андрей Бандера
-https://stream05.pcradio.ru/Andrej_Bandera-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d1fc4b01.jpg",Андрей Губин
-https://stream05.pcradio.ru/andrey_gubin-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d225f0a3.jpg",А-Студио
-https://stream05.pcradio.ru/a_studio-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d33a7098.jpg",Банд’Эрос
-https://stream05.pcradio.ru/BandJeros-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d3c0ce60.jpg",Беломорканал
-https://stream05.pcradio.ru/Belomorkanal-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09cae9da07.jpg",Бессмертный полк
-https://stream05.pcradio.ru/bessmert_polk-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d2273dbb.jpg",Блестящие
-https://stream05.pcradio.ru/blestyashie-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d2b50b52.jpg",Божья коровка
-https://stream05.pcradio.ru/Bozhja_Korovka-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d2b488a7.jpg",Борис Моисеев
-https://stream05.pcradio.ru/Boris_Moiseev-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d055f9c9.jpg",Валерий Леонтьев
-https://stream05.pcradio.ru/valery_leontiev-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d3373e38.jpg",Валерий Меладзе
-https://stream05.pcradio.ru/Valerij_Meladze-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d2c6169b.jpg",Валерия
-https://stream05.pcradio.ru/Valerija-med
-#EXTINF:-1 group-title="Music/Radio-Mix+" tvg-logo="https://pcradio.ru/images/stations/61b09d2abb23a.jpg",Варвара
-https://stream05.pcradio.ru/Varvara-med
 
 
 
@@ -4480,7 +4254,7 @@ https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?Pla
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="MUSIC/TV CLASSIC",4ACETV CLASSIC HITS (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8?ads.vf=TGt7I6yRWZC
+
 #EXTINF:-1 tvg-name="Vintage Radio Tv" tvg-logo="https://i.imgur.com/n3LtBNT.jpg" tvg-country="IT" group-title="MUSIC/TV CLASSIC",Vintage Radio Tv
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC/TV CLASSIC",Retro Music TV
@@ -4514,7 +4288,7 @@ http://mains.services/live/0228902066/tc674KJ3du/e6adbe1e-f56c-4d33-b8c2-1c51166
 #EXTINF:-1 group-title="MUSIC/TV CLASSIC",THAT'S 70S
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="MUSIC/TV CLASSIC",Radio 70-80 TV
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="MUSIC/TV CLASSIC",Vevo '70s & '80s
 https://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="MUSIC/TV CLASSIC",DanceHits80
@@ -4665,6 +4439,8 @@ https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.
 https://stream1.xdevel.com/video0s975770-326/stream/chunks.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv Music" tvg-logo="https://i.imgur.com/r74lqW8.png" tvg-country="IT" group-title="MUSIC/TV MIX",Zerouno Tv Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC/TV MIX",Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7JWFjgyc/image-2025-08-31-T201409-004.png" group-title="MUSIC/TV MIX",Tilemousiki Greek Music TV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LdL2yZ5S/image-33.png" group-title="MUSIC/TV MIX", Panik TV
@@ -4678,7 +4454,7 @@ http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC/TV MIX",Euro Indie Music
 https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist.m3u8
 #EXTINF:-1 group-title="MUSIC/TV MIX",MCM
-http://41.205.93.154/MCM/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC/TV MIX",NR1 DANCE
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC/TV MIX",POWER DANCE
@@ -4687,8 +4463,6 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 http://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC/TV MIX",XPTV POP WORLD
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:-1 group-title="MUSIC/TV MIX",Zerouno TV Music
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist.m3u8
 #EXTINF:-1 tvg-id="7RadioVisione.it@HD" tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="MUSIC/TV MIX",7 RadioVisione (720p)
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KpfrT3RY/image-27.png" group-title="MUSIC/TV MIX",DBM TV
@@ -4698,7 +4472,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 tvg-id="AvangTV.us@SD" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="MUSIC/TV MIX",Avang TV (1080p)
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GEMMifa.tr@SD" tvg-logo="https://i.imgur.com/qlI7o7V.png" group-title="MUSIC/TV MIX",GEM Mifa
-https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
+
 #EXTINF:-1 tvg-id="GEMMifaPlus.tr@SD" tvg-logo="https://i.imgur.com/8FIAqR5.png" group-title="MUSIC/TV MIX",GEM Mifa Plus
 
 #EXTINF:-1 tvg-id="4Music.fr@SD" tvg-logo="" group-title="MUSIC/TV MIX",Persiana Music
@@ -4722,17 +4496,16 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-id="Kronehit.at@SD" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="MUSIC/TV MIX",Kronehit (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicJapanTV.jp@SD" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg" group-title="MUSIC/TV MIX",Music Japan TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+
 #EXTINF:-1 tvg-id="SpaceShowerTV.jp@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Space_Shower_-_1999.svg/revision/latest/scale-to-width-down/512" group-title="MUSIC/TV MIX",Space Shower TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+
 #EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp@SD" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg" group-title="MUSIC/TV MIX",TAKARAZUKA SKY STAGE (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+
 #EXTINF:-1 tvg-id="MusicTVGranada.es@SD" tvg-logo="https://i.ibb.co/Swd9NP7n/music-tv-granada.png" group-title="MUSIC/TV MIX",Music TV Granada (1080p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ZpRXL3jP/image-4.png" group-title="MUSIC/TV MIX",MUSIC ON JAPAN
 
-#EXTINF:-1 group-title="MUSIC/TV MIX",İNTV HD alb.
-http://178.33.34.186:15151/live/intvpp1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DHQrnMbL/image-29.png" group-title="MUSIC/TV MIX", A-One
 https://autopilot.catcast.tv/content/48811/index.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV [es]" tvg-logo="https://i.ibb.co/9H0BCsXC/image-50.png" group-title="MUSIC/TV MIX", Activa TV
@@ -4769,7 +4542,7 @@ http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/9175
 https://5926fc9c7c5b2.streamlock.net/9326/9326/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LdXtBNV3/image-40.png" group-title="MUSIC/TV MIX", MOOZ DANCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/h1X3kwVW/image-24.png" group-title="MUSIC/TV MIX", Music Puq
 https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nLNrLrzv/image-2025-07-10-T165105-319.png" group-title="MUSIC/TV MIX", ON FM 
@@ -4791,7 +4564,7 @@ https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w10277
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FRvDdjTv/image-2025-07-10-T180555-865.png" group-title="MUSIC/TV MIX", Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bgTfXGpx/image-62.png" group-title="MUSIC/TV MIX", TMA
-http://hls.tmacaraibes.com/live/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/60QfKJD7/image-75.png" group-title="MUSIC/TV MIX", VIVO TV
 https://stream.vivotv.uy/hls/stream.m3u8
 #EXTINF:-1 group-title="MUSIC/TV MIX" tvg-logo="https://i.ibb.co/3mB9q3NH/image-57.png",100%NL
@@ -4825,7 +4598,7 @@ https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
 #EXTINF:-1 tvg-id="BTATV.ve@SD" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="MUSIC/TV MIX",BTA TV (720p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-id="CadenaElite.es@SD" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="MUSIC/TV MIX",Cadena Elite (720p) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
 #EXTINF:-1 tvg-id="CoolFM989.aw@SD" tvg-logo="https://i.imgur.com/uGE6lZ2.png" group-title="MUSIC/TV MIX",Cool FM 98.9 (720p)
 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py@SD" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="MUSIC/TV MIX",Farra Play (720p) [Not 24/7]
@@ -5026,7 +4799,7 @@ https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tr
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="MUSIC/TV PACK",Trace Brasil (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="MUSIC/TV PACK",TRACE Brazuca (1080p)
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC/TV PACK" tvg-logo="https://i.ibb.co/Q053N2k/image-2025-09-21-T124759-888.png",Trace Latina
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr@SD" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="MUSIC/TV PACK",Trace Latina (1080p)
@@ -5037,7 +4810,7 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.uk@SD" tvg-logo="https://i.imgur.com/CUVAi4u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="MUSIC/TV PACK",TRACE Latina (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=8rE20DsHHI0
+
 #EXTINF:-1 group-title="MUSIC/TV PACK",TRACE MBOA
 https://channels.trace.plus/Traceprod/MBOA/.m3u8
 #EXTINF:-1 tvg-id="TraceMziki.fr@SD" tvg-logo="https://i.imgur.com/l3X9Gg4.png" group-title="MUSIC/TV PACK",Trace Mziki
@@ -5054,7 +4827,7 @@ https://channels.trace.plus/Traceprod/VANILLA.m3u8
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceAfrica.fr@SD" tvg-logo="https://i.imgur.com/kPUkoS7.png" group-title="MUSIC/TV PACK",Trace Africa
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceAfrikora.fr@SD" tvg-logo="https://i.imgur.com/CQDdnhp.png" group-title="MUSIC/TV PACK",Trace Afrikora
+#EXTINF:-1 tvg-id="TraceAfrikora.fr@SD" tvg-logo="https://i.imgur.com/CQDdnhp.png" group-title="MUSIC/TV PACK",Trace Teranga
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceAyiti.fr@SD" tvg-logo="https://i.imgur.com/KkJ6fet.png" group-title="MUSIC/TV PACK",Trace Ayiti
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
@@ -5092,10 +4865,10 @@ http://mains.services/live/0228902066/tc674KJ3du/1d50e7a0-7882-431e-87d9-e8e09f9
 http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564973cb.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SDPzksJ3/image-66.png" group-title="MUSIC/TV PACK", 4ACETV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/4EYZWZY/36B349231811/m.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SDPzksJ3/image-66.png" group-title="MUSIC/TV PACK", 4ACETV RETRO POP HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/JWOFGHQ/3A0A9042AF63/m.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SDPzksJ3/image-66.png" group-title="MUSIC/TV PACK", 4ACETV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7b788031-01d6-4eb4-9b35-3d3b8a78ef5b/0.m3u8
@@ -5294,11 +5067,11 @@ http://49.0.64.96:8007/M2ROCK
 #EXTINF:-1 group-title="MUSIC/TV ROCK",Adria EX YU Rock
 https://de100.dstvmultimedia.com/AdriaEXYURock/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="MUSIC/TV ROCK",Pink&Roll
-http://45.82.88.87:15153/udp/237.40.1.158:5000
+
 #EXTINF:-1 group-title="MUSIC/TV ROCK",Pink&Roll
 http://92.36.202.5:10003/play/a02n
 #EXTINF:-1 group-title="MUSIC/TV ROCK",Eska Rock HD
-http://81.15.109.89:8001/play/EskaRock
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" tvg-id="no_epg_sport" group-title="MUSIC/TV ROCK", Музыка Рок
 
 #EXTINF:-1 group-title="MUSIC/TV ROCK",BRIDGE ROCK
@@ -5728,7 +5501,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7NrtqRLF/image-2025-09-01-T164735-702.png" group-title="RU/TV", MixM TV
 
 #EXTINF:-1 tvg-name="RU.TV" tvg-logo="https://i.ibb.co/8LcHKPkb/image-19.png" group-title="RU/TV", RU.TV HD
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4R5WSLD2b4Ou8Q889o-ksk/ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FLy8fHtr/image-2025-07-10-T135118-642.png" group-title="RU/TV", TMF RUS
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Nnm8fJN5/image-2025-07-10-T134908-994.png" group-title="RU/TV", Viva Russia
@@ -5740,7 +5513,7 @@ http://46.32.176.50/bridgetv/index.m3u8
 #EXTINF:-1 group-title="RU/TV", Bridge Classic
 http://46.32.176.50/rusong/index.m3u8
 #EXTINF:-1 group-title="RU/TV", Bridge Deluxe
-http://46.32.176.50/BridgeTVDance/index.m3u8
+
 #EXTINF:-1 group-title="RU/TV",15 Plus Music
 http://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 group-title="RU/TV",15 Plus NSC
@@ -5825,7 +5598,7 @@ http://46.32.176.50/russkiyroman/index.m3u8
 #EXTINF:-1 group-title="RU/TV",TV1000 русское кино
 
 #EXTINF:-1 group-title="RU/TV",Kино TV
-http://vod.tuva.ru/kinotv/index.m3u8
+
 #EXTINF:-1 group-title="RU/TV",РОМАН
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="RU/TV",Твоё ТВ HD 
@@ -5868,17 +5641,17 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 #EXTINF:-1 group-title="RU/TV" ,Урал 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 group-title="RU/TV" ,Смотрим 100% Любовь
-https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+
 #EXTINF:-1 group-title="RU/TV" ,Смотрим 100% Мужское
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+
 #EXTINF:-1 group-title="RU/TV" ,Смотрим 100% Классика
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+
 #EXTINF:-1 group-title="RU/TV" ,Смотрим 100% Праздник
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+
 #EXTINF:-1 group-title="RU/TV" ,Смотрим 100% Детское
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+
 #EXTINF:-1 group-title="RU/TV" ,Смотрим 100% Факты
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
 #EXTINF:-1 group-title="RU/TV" ,Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="RU/TV",Мосфильм. Золотая коллекция
@@ -5907,7 +5680,7 @@ http://hls127.freeott.top:8080/RTG_TV/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="" group-title="RU/TV", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="RU/TV",Оружие
-http://185.78.112.47:8077/oruzhie/index.m3u8
+
 
  
 
@@ -6125,7 +5898,7 @@ https://rpn.bozztv.com/gusa/gusa-tvsturbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT/EXTREME+",Xtrem Sports (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 tvg-id="F1Channel.ie@SD" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="SPORT/EXTREME+",F1 Channel (720p)
-https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT/EXTREME+",Turbo (720p)     
 https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
 #EXTINF:-1 tvg-id="FloRacing.us@HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png" group-title="SPORT/EXTREME+",FloRacing 24/7 (1080p)
@@ -6253,7 +6026,7 @@ https://5c7b683162943.streamlock.net/live/sportsone/playlist.m3u8
 #EXTINF:-1 group-title="SPORT/FOOTBALL+",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/bahrainsportstwo/playlist.m3u8
 #EXTINF:-1 group-title="SPORT/FOOTBALL+",RTSH Sport  ALB.
-http://178.33.34.186:15151/live/rtshsport/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT/FOOTBALL+",Partizani TV(klubna tv)
 http://138.201.120.59:1935/partizanitv/partizanitv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT/FOOTBALL+",Kuwait Sport
@@ -6301,7 +6074,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="CCTV5.cn@SD" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="SPORT/FOOTBALL+",CCTV-5 (720p)
 http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="SPORT/FOOTBALL+",CCTV-5+ (720p)
-http://192.151.150.154/live/cctv5p.m3u8
+
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="SPORT/FOOTBALL+",DD Sports SD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" group-title="SPORT/FOOTBALL+",Gol Classics (1080p)
@@ -6509,150 +6282,6 @@ http://178.253.194.79:10017
 http://178.253.194.79:10019
 #EXTINF:-1 group-title="SPORT/TEST",Arena Adrenalin HD
 http://178.253.194.79:10018
-#EXTINF:-1 tvg-id="ArenaSport1.ba@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 1 BH(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport1BH/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport2.ba@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 2 BH(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport2BH/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport3.ba@SD" tvg-logo="https://i.imgur.com/3r3burN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 3 BH(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport3BH/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport4.ba@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 4 BH(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport4BH/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport5BH.ba@HD" tvg-logo="https://i.imgur.com/036qMgu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 5 BH (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport5BH/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium1BH.ba@HD" tvg-logo="https://imgur.com/csv6YsL" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport Premium 1 BH (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaPremium1BH/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium2BH.ba@HD" tvg-logo="https://imgur.com/ztOmQ7P" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport Premium 2 BH (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaPremium2BH/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium3BH.ba@HD" tvg-logo="https://i.imgur.com/gpqemLf.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport Premium 3 BH (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaPremium3BH/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1.hr@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 1 HR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS1HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport2.hr@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 2 HR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS2HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport3.hr@SD" tvg-logo="https://i.imgur.com/3r3burN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 3 HR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS3HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport4.hr@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 4 HR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS4HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport5.hr@SD" tvg-logo="https://i.imgur.com/036qMgu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 5 HR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS5HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport6.hr@SD" tvg-logo="https://i.imgur.com/Z5PE4vx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 6 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS6HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport7.hr@SD" tvg-logo="https://i.imgur.com/0fgvOrR.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 7 HR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS7HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport8.hr@SD" tvg-logo="https://i.imgur.com/Wk9dr78.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 8 HR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS8HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport9.hr@SD" tvg-logo="https://i.imgur.com/riMTqTu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 9 HR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS9HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport10.hr@SD" tvg-logo="https://i.imgur.com/oMiS7D3.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 10 HR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/AS10HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaFight.rs@SD" tvg-logo="https://i.imgur.com/5abTrJU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Fight SR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaFight/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1.rs@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 1 SR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 1 Premium SR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport2.rs@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 2 SR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport2HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport2Premium.rs@SD" tvg-logo="https://i.imgur.com/ztOmQ7P.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 2 Premium SR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaPremium2HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport3.rs@SD" tvg-logo="https://i.imgur.com/3r3burN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 3 SR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport3HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport3Premium.rs@SD" tvg-logo="https://i.imgur.com/gpqemLf.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 3 Premium SR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaPremium3HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport4.rs@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 4 SR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport4HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport4Premium.rs@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 4 Premium SR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/SK1SRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport5.rs@SD" tvg-logo="https://i.imgur.com/036qMgu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 5 SR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport5HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport5Premium.rs@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 5 Premium SR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/SK2SRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport6.rs@SD" tvg-logo="https://i.imgur.com/Z5PE4vx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 6 SR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport6HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport7.rs@SD" tvg-logo="https://i.imgur.com/0fgvOrR.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 7 SR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport7HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport8.rs@SD" tvg-logo="https://i.imgur.com/Wk9dr78.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 8 SR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport8HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport9.rs@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 9 SR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport9HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport10.rs@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport 10 SR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportAdrenalin.rs@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport Adrenalin SR(1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/SK3SRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportTenis.rs@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="SPORT/TEST",Arena Sport Tenis SR(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/SK4SRHD/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",MaxSport1HR
-http://79.127.207.193:80/MaxSport1HR/playlist.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",MaxSport2HR
-http://79.127.207.193:80/MaxSport2HR/playlist.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Max Sport 1 HD
-https://srv1.adriatelekom.com/MaxSport1HR/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Max Sport 2 HD
-https://srv1.adriatelekom.com/MaxSport2HR/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Hajduk TV HD
-https://srv1.adriatelekom.com/SportskaTV/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Eurosport1HD
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Eurosport2HD
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Euro Sport 1 HD srb
-https://srv1.adriatelekom.com/Eurosport1HD/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Euro Sport 2 HD srb
-https://srv1.adriatelekom.com/Eurosport2HD/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Nova Sport
-http://213.169.39.30:5102
-#EXTINF:-1 group-title="SPORT/TEST",Diema Sport HD
-http://213.169.39.30:5134
-#EXTINF:-1 group-title="SPORT/TEST",Diema Sport 2 HD
-http://213.169.39.30:5136
-#EXTINF:-1 group-title="SPORT/TEST",Diema Sport 3 HD
-http://213.169.39.30:5216
-#EXTINF:-1 group-title="SPORT/TEST",Diema Sport HD
-http://213.169.39.30:5134
-#EXTINF:-1 group-title="SPORT/TEST",MAX SPORT 1 HD
-http://213.169.39.30:5138
-#EXTINF:-1 group-title="SPORT/TEST",MAX SPORT 2 HD
-http://213.169.39.30:5140
-#EXTINF:-1 group-title="SPORT/TEST",MAX SPORT 3 HD
-http://213.169.39.30:5142
-#EXTINF:-1 group-title="SPORT/TEST",MAX Sport 4 HD
-http://213.169.39.30:5130
 #EXTINF:-1 group-title="SPORT/TEST",MAX SPORT 1
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1 group-title="SPORT/TEST",MAX SPORT 2
@@ -6661,64 +6290,21 @@ http://77.46.130.252:99/maxsport2
 http://77.46.130.252:99/maxsport3
 #EXTINF:-1 group-title="SPORT/TEST",MAX SPORT 4
 http://77.46.130.252:99/maxsport4
-#EXTINF:-1 group-title="SPORT/TEST",Euro Sport 1
-http://213.169.39.30:5211
-#EXTINF:-1 group-title="SPORT/TEST",Eurosport 2
-http://213.169.39.30:5105
-#EXTINF:-1 group-title="SPORT/TEST",FIGHTKLUP
-http://213.169.39.30:5098
-#EXTINF:-1 group-title="SPORT/TEST",АUTO MOTOR
-http://213.169.39.30:5233
-#EXTINF:-1 group-title="SPORT/TEST",RING HD
-http://213.169.39.30:5210
 #EXTINF:-1 group-title="SPORT/TEST",DAZN_2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
 #EXTINF:-1 group-title="SPORT/TEST",DAZN_3
-http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",DAZN_4
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",DAZN_5
-http://23.237.104.106:8080/DAZN_5/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",DAZN 2 HD
-http://46.151.196.223:14421
-#EXTINF:-1 group-title="SPORT/TEST",DAZN 3 HD
-http://46.151.196.223:14422
 #EXTINF:-1 group-title="SPORT/TEST",DAZN 4 HD
 http://46.151.196.223:14423
-#EXTINF:-1 group-title="SPORT/TEST",DAZN 5 HD
-http://46.151.196.223:14424
 #EXTINF:-1 group-title="SPORT/TEST",ESPN 1 HD
 http://46.151.196.223:14435
 #EXTINF:-1 group-title="SPORT/TEST",ESPN 2 HD
 http://46.151.196.223:14438
-#EXTINF:-1 group-title="SPORT/TEST",ESPN 3 HD
-http://46.151.196.223:14442
 #EXTINF:-1 group-title="SPORT/TEST",ESPN 4 HD
 http://46.151.196.223:14453
-#EXTINF:-1 group-title="SPORT/TEST",ESPN 5 HD
-http://46.151.196.223:14454
 #EXTINF:-1 group-title="SPORT/TEST",MATCH4 HD
 http://46.149.191.217:9010/play/a019
 #EXTINF:-1 group-title="SPORT/TEST",M4 Sport
 http://46.149.191.217:9010/play/a017
-#EXTINF:-1 group-title="SPORT/TEST",Матч ТВ HD
-http://185.78.112.47:8077/match_hd/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Матч! Футбол 1 HD
-http://185.78.112.47:8077/football1_hd/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Матч! Футбол 2 HD
-http://185.78.112.47:8077/football2_hd/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Матч! Футбол 3 HD
-http://185.78.112.47:8077/football3_hd/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Матч! Премьер
-http://185.78.112.47:8077/nash-football/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Матч! Премьер HD
-http://185.78.112.47:8077/nash_football_hd/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Футбол (Россия) HD
-http://185.78.112.47:8077/football/index.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Setanta Sports 1
-http://s8.rafail1982.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT/TEST",Setanta Sports 2
-http://s8.rafail1982.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT/TEST",Digi Sport 1 HD
 http://91.201.172.14:35005
 #EXTINF:-1 group-title="SPORT/TEST",Digi Sport 2 HD
@@ -6749,48 +6335,6 @@ http://85.11.144.9:3341/7
 http://85.11.144.9:3341/8
 #EXTINF:-1 group-title="SPORT/TEST",MAX Sport 4 HD
 http://85.11.144.9:3341/9
-#EXTINF:-1 group-title="SPORT/TEST",AD Sport HD
-http://77.137.40.221:8000/play/z03f
-#EXTINF:-1 group-title="SPORT/TEST",AD Sport 2 HD
-http://77.137.40.221:8000/play/z03g
-#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 1 HD
-http://77.137.40.221:8000/play/tjf4
-#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 2 HD
-http://77.137.40.221:8000/play/tjf5
-#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 3 HD
-http://77.137.40.221:8000/play/tjf16
-#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 4 HD
-http://77.137.40.221:8000/play/tjf7
-#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 5 HD
-http://77.137.40.221:8000/play/tjf8
-#EXTINF:-1 group-title="SPORT/TEST",BEIN SPORT 6 HD
-http://77.137.40.221:8000/play/tjf9
-#EXTINF:-1 group-title="SPORT/TEST",DUBAI SPORTS 1 HD
-http://77.137.40.221:8000/play/k04x
-#EXTINF:-1 group-title="SPORT/TEST",DUBAI SPORTS 2 HD
-http://77.137.40.221:8000/play/k04y
-#EXTINF:-1 group-title="SPORT/TEST",SPORT 1 HD
-http://77.137.40.221:8000/play/k016
-#EXTINF:-1 group-title="SPORT/TEST",SPORT 2 HD
-http://77.137.40.221:8000/play/k019
-#EXTINF:-1 group-title="SPORT/TEST",SPORT 3 HD
-http://77.137.40.221:8000/play/k01a
-#EXTINF:-1 group-title="SPORT/TEST",SPORT 4 HD
-http://77.137.40.221:8000/play/k01b
-#EXTINF:-1 group-title="SPORT/TEST",SPORT 5 HD
-http://77.137.40.221:8000/play/k01c
-#EXTINF:-1 group-title="SPORT/TEST",SPORT 6 HD
-http://77.137.40.221:8000/play/k03w
-#EXTINF:-1 group-title="SPORT/TEST",SPORT ONE 2 HD
-http://77.137.40.221:8000/play/k01f
-#EXTINF:-1 group-title="SPORT/TEST",SPORT ONE HD
-http://77.137.40.221:8000/play/k01d
-#EXTINF:-1 group-title="SPORT/TEST",SPORT5LIVEHD
-http://77.137.40.221:8000/play/k00i
-#EXTINF:-1 group-title="SPORT/TEST",SPORT5PLUSHD
-http://77.137.40.221:8000/play/k001
-#EXTINF:-1 group-title="SPORT/TEST",YAS Sports HD
-http://77.137.40.221:8000/play/a03h
 #EXTINF:-1 group-title="SPORT/TEST",sporttv1
 http://94.130.32.19:8080/sporttv1/index.m3u8
 #EXTINF:-1 group-title="SPORT/TEST",sporttv2
