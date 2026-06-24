@@ -5560,7 +5560,8 @@ https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RU/TV",Insight TV HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RU/TV", Animal Planet HD
-http://46.32.176.50/AnimalPlanetHD/index.m3u8#EXTINF:-1 group-title="RU/TV", Время
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 group-title="RU/TV", Время
 http://46.32.176.50/Vremya/index.m3u8
 #EXTINF:-1 group-title="RU/TV", История
 http://46.32.176.50/istoriya/index.m3u8
