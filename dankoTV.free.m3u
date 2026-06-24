@@ -1,0 +1,76 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 3 BG" tvg-logo="" group-title="TV/BULGARIA",Kanal 3 BG
+https://cdn2.invivo.bg/k3artfrwbsitfrnglpvlv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Евроком.НКТВ.bg" tvg-name="Evrokom " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/evrokom-bg.png?raw=true" group-title="TV/BULGARIA",Eurocom 
+https://ektzarevets.invivo.bg/EVROKOM_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV1.bg" tvg-name="TV 1" tvg-logo="" group-title="TV/BULGARIA",TV 1
+https://tv1.cloudcdn.bg/temp/livestream-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTK bg" tvg-logo="" group-title="TV/BULGARIA",VTK bg
+https://e112-ts.cdn.bg/vtv/fls/vtv/at=O0M9MTc4LjI1NC4yNTQuMTQyO0U9MTc4MjA2NjkzOTtBPTE7Sz0zO1A9MDExMTA7Uz05MjIwYWIxZDFmYTc1MzVmY2I0MGMwYWM5N2U1NjdjNmFjOGU1NDIw/chunklist.m3u8
+#EXTINF:-1 tvg-id="RMTV.bg@SD" tvg-name="RMTV" tvg-logo="https://rmtv.bg/img/logo.png" group-title="TV/BULGARIA",RMTV (288p)
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="Kanal0.bg@SD" tvg-name="Kanal 0" tvg-logo="" group-title="TV/BULGARIA",Kanal 0
+#EXTVLCOPT:http-referrer=rn-tv.com
+https://old.rn-tv.com/k0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Тв Справедлива България" tvg-logo="" group-title="TV/BULGARIA", Тв Справедлива България
+https://tv.tvsb.bg/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Тв Шумен" tvg-logo="" group-title="TV/BULGARIA", Тв Шумен
+https://tvshumen.tv/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv 999" tvg-logo="" group-title="TV/BULGARIA",tv 999
+http://live.optinet.bg/n/999/index.m3u8?st=ATo0Pj45z93bwJk4maeioA&e=1782059538
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="TV/BULGARIA",Plovdivska Pravoslavna TV (1080p)
+http://78.130.149.196:1935/live/pptv.stream/chunklist_w1590876551.m3u8
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="TV/BULGARIA",Plovdivska Pravoslavna TV (1080p)
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg@SD" tvg-name="Hope Channel Bulgaria" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="TV/BULGARIA",Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hope Channel Bulgaria" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="TV/BULGARIA",Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv/playlist.m3u8
+#EXTINF:-1 tvg-id="LightChannel.bg@SD" tvg-name="Light Channel (BG)" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="TV/BULGARIA",Light Channel (BG) 
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-name="This is Bulgaria HD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="TV/BULGARIA",This is Bulgaria HD (1080p)
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-id="Travel.TV.bg" tvg-name="Travel TV BG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/travel-tv-bg.png?raw=true" group-title="TV/BULGARIA",Travel TV BG
+https://streamer103.neterra.tv/travel/travel_SD.m3u8
+#EXTINF:-1 tvg-id="AgroTV.bg@SD" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="TV/BULGARIA",Agro TV 
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Code Fashion TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/code-fashion-bg.png?raw=true" group-title="TV/BULGARIA",Code Fashion TV
+https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Code Health TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/code-health-bg.png?raw=true" group-title="TV/BULGARIA",Code Health TV
+https://cdn2.invivo.bg/codehealth_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-name="DSTV" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="TV/BULGARIA",DSTV 
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-id="TiankovFolk.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/VKY4q64.png" group-title="TV/BULGARIA",Tiankov Folk 
+https://streamer103.neterra.tv/tiankov-folk/live.m3
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg@SD" tvg-name="Tiankov Orient Folk" tvg-logo="" group-title="TV/BULGARIA",Tiankov Orient Folk
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="TV/BULGARIA",City TV 
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="The.Voice.bg" tvg-name="The Voice HD" tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="TV/BULGARIA",The Voice HD
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-id="MagicTV.bg@SD" tvg-name="Magic TV" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="TV/BULGARIA",Magic TV (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
