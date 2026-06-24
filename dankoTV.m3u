@@ -5337,13 +5337,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="RU/TV",Мир 24 (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="RU/TV",Москва 24
-http://185.78.112.47:8077/moskva_24/index.m3u8
+
 #EXTINF:-1 tvg-id="Arktika24.ru@SD" tvg-logo="https://i.imgur.com/kmbdyr6.png" group-title="RU/TV",Арктика 24 (Архангельск) (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru@SD" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="RU/TV",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="Legendarnyy24.ru@SD" tvg-logo="https://i.imgur.com/z9t6x8B.png" group-title="RU/TV",Легендарный 24
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+
 #EXTINF:-1 tvg-id="Samara24.ru@SD" tvg-logo="https://i.imgur.com/YUe3Dwd.png" group-title="RU/TV",Самара 24 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Sochi24.ru@SD" tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="RU/TV",Сочи 24 HD (720p)
