@@ -9,7 +9,7 @@ https://ektzarevets.invivo.bg/EVROKOM_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV1.bg" tvg-name="TV 1" tvg-logo="" group-title="TV/BULGARIA",TV 1
 https://tv1.cloudcdn.bg/temp/livestream-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VTK bg" tvg-logo="" group-title="TV/BULGARIA",VTK bg
-https://e112-ts.cdn.bg/vtv/fls/vtv/at=O0M9MTc4LjI1NC4yNTQuMTQyO0U9MTc4MjA2NjkzOTtBPTE7Sz0zO1A9MDExMTA7Uz05MjIwYWIxZDFmYTc1MzVmY2I0MGMwYWM5N2U1NjdjNmFjOGU1NDIw/chunklist.m3u8
+https://e112-ts.cdn.bg/vtv/fls/vtv/at=O0M9MTc4LjI1NC4yNTQuMTQyO0U9MTc4MjQzODEyNztBPTE7Sz0zO1A9MDExMTA7Uz0yNjI0NWI2NjRjMGY2M2YyOGI4Y2YzZTUwMGVjODc4YTE5OWEyYTY0/chunklist.m3u8
 #EXTINF:-1 tvg-id="RMTV.bg@SD" tvg-name="RMTV" tvg-logo="https://rmtv.bg/img/logo.png" group-title="TV/BULGARIA",RMTV (288p)
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-id="Kanal0.bg@SD" tvg-name="Kanal 0" tvg-logo="" group-title="TV/BULGARIA",Kanal 0
@@ -20,7 +20,7 @@ https://tv.tvsb.bg/112.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Тв Шумен" tvg-logo="" group-title="TV/BULGARIA", Тв Шумен
 https://tvshumen.tv/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv 999" tvg-logo="" group-title="TV/BULGARIA",tv 999
-http://live.optinet.bg/n/999/index.m3u8?st=ATo0Pj45z93bwJk4maeioA&e=1782059538
+http://live.optinet.bg/n/999/index.m3u8?st=vtzvBNGhEscjI7rDCqiu4g&e=1782430587
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="TV/BULGARIA",Plovdivska Pravoslavna TV (1080p)
 http://78.130.149.196:1935/live/pptv.stream/chunklist_w1590876551.m3u8
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="TV/BULGARIA",Plovdivska Pravoslavna TV (1080p)
@@ -44,7 +44,7 @@ https://cdn2.invivo.bg/codehealth_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-name="DSTV" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="TV/BULGARIA",DSTV 
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="TiankovFolk.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/VKY4q64.png" group-title="TV/BULGARIA",Tiankov Folk 
-https://streamer103.neterra.tv/tiankov-folk/live.m3
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 #EXTINF:-1 tvg-id="TiankovOrientFolk.bg@SD" tvg-name="Tiankov Orient Folk" tvg-logo="" group-title="TV/BULGARIA",Tiankov Orient Folk
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="TV/BULGARIA",City TV 
@@ -60,6 +60,57 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",vvv.bg Live
+https://www.youtube.com/watch?v=Vk5bSUDUwco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Michael Jackson: The Station
+https://www.youtube.com/watch?v=-OfA04BD4GA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Metallica TV
+https://www.youtube.com/watch?v=1fz60gNnSdU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Frontiers Music 24-7 
+https://www.youtube.com/watch?v=UiCK7SCpSIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",NUCLEAR BLAST RECORDS
+https://www.youtube.com/watch?v=3LWMFjRZQ6k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",SHARPTONE RECORDS
+https://www.youtube.com/watch?v=-BJg05my_xE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",SABATON
+https://www.youtube.com/watch?v=HSJOF4ulYG8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Rolling Stones
+https://www.youtube.com/watch?v=FrhnrNXtQKg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Bring Me The Horizon
+https://www.youtube.com/watch?v=sL_fbNaq6VA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",AOR & Hard Rock Project 
+https://www.youtube.com/watch?v=Nsj7CDxsb9Y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Oasis
+https://www.youtube.com/watch?v=JbFRzyqW22g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Romantic Station by Bruno Mars
+https://www.youtube.com/watch?v=4J41KdZ3JR8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",GB News 
+https://www.youtube.com/watch?v=QliL4CGc7iY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv", България 24 Live
+https://www.youtube.com/watch?v=TsPPWPpl_uM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Sky News
+https://www.youtube.com/watch?v=YDvsBbKfLPA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ABC News
+https://www.youtube.com/watch?v=iipR5yUp36o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ДОБРУДЖА ТВ
+https://www.youtube.com/watch?v=mPoEv0q1Qvo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",GRAND RADIO
+https://www.youtube.com/watch?v=aJgu2xSo-t0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",HRT 4 
+https://www.youtube.com/watch?v=-aWjN5N7kac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Tv Nasledje
+https://www.youtube.com/watch?v=t6YV4duq3ak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Alicia Keys
+https://www.youtube.com/watch?v=1A2_W2hIXe0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The World Live - EarthTV
+https://www.youtube.com/watch?v=HfgIFGbdGJ0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",IN Televizija Macedonia 
+https://www.youtube.com/watch?v=FR-_-3qsEjs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Thriller Records 
+https://www.youtube.com/watch?v=O_ZO3hzSdAs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Spinnin’ Records
+https://www.youtube.com/watch?v=xf9Ejt4OmWQ
 
 
 
