@@ -124,7 +124,7 @@ http://giganet.mk/hls/macdoc.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="SOSKanalPlus.rs@SD",SOS Kanal Plus (720p)
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="TVNOVA12.mk@SD",TV NOVA 12 (576p) [Not 24/7]
-http://151.236.247.171:8080/nova/index.m3u8
+https://novastreaming.cloudns.info/nova12_music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Vistel" tvg-logo="https://i.imgur.com/MbM0E6L.png" tvg-id="" tvg-chno="13" tvg-country="MK" group-title="Ex-Yu/TV",Вистел
 https://live.vtv.mk/live/vtv/chunks.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",Vistel TV (MK)
@@ -214,7 +214,7 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=nova
 #EXTINF:-1 group-title="Ex-Yu/TV" tvg-id="Nova.rs" tvg-name="Nova" tvg-logo="https://i.imgur.com/sU8UPPY.png" group-title="Ex-Yu/TV",Nova
 https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream/?i=_psvGe-DSHiFxsP5kVGEEQ&a=qTaYSJ-Ke_CLRsGQ2ZmM5omPrLlP2TPIN6wRWl-_31L0oIymyO0wgIY_PMVAlu43lGQJ1i4a2qfYFxynbmdj57vz7vb7SI4aZFnAIWXbrz4IVi3ukE2yIDWUxWkYFO_esaEqXRVYMaMwIFr8of-5qcBW22WsXZXRJaY5fRR4HFi-c5CaxNnMlcWONWUIoz_YdUs0okZe6VAGfgRzgHACxA&sp=novas&u=novas&player=m3u8
 #EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="Ex-Yu/TV",Nova tv Croatia
-
+https://nl1.nghk.ai/NovaHRHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",RTV AS
 https://de1.dstv.cx/TVAS/rewind-7200.m3u8
 #EXTINF:-1 group-title="Ex-Yu/TV",RTV AS
