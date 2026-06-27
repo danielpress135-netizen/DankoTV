@@ -286,11 +286,11 @@ http://178.253.201.11:8081/live/tvnis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVNOVA12.mk@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV NOVA 12 music(576p) [Not 24/7]
 https://novastreaming.cloudns.info/nova12_music/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/Music tv",PAN DA! TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",PAN DA! TV
 https://lbgo.bozztv.com/ssh101/ssh101/rtvpanda/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ZzDcSx4S/image-2025-07-09-T095211-583.png" group-title="Ex-Yu/TV",Radio Best TV
 https://radio.serv.si/BestTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/Music tv",Jupok Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Jupok Radio
 https://lbgo.bozztv.com/ssh101/ssh101/jupokradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/BM39YmP/image-2025-07-09-T095625-258.png" group-title="Ex-Yu/TV",Radio Aktual
 https://radio.serv.si/AktualTV/tracks-v1a1/mono.m3u8
