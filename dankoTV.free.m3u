@@ -59,52 +59,68 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",vvv.bg Live
 https://www.youtube.com/watch?v=Vk5bSUDUwco
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Michael Jackson: The Station
-https://www.youtube.com/watch?v=-OfA04BD4GA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Metallica TV
-https://www.youtube.com/watch?v=1fz60gNnSdU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Frontiers Music 24-7 
-https://www.youtube.com/watch?v=UiCK7SCpSIA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",NUCLEAR BLAST RECORDS
-https://www.youtube.com/watch?v=3LWMFjRZQ6k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",SHARPTONE RECORDS
-https://www.youtube.com/watch?v=-BJg05my_xE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",SABATON
-https://www.youtube.com/watch?v=HSJOF4ulYG8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Rolling Stones
-https://www.youtube.com/watch?v=FrhnrNXtQKg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Bring Me The Horizon
-https://www.youtube.com/watch?v=sL_fbNaq6VA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",AOR & Hard Rock Project 
-https://www.youtube.com/watch?v=Nsj7CDxsb9Y
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Oasis
-https://www.youtube.com/watch?v=JbFRzyqW22g
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Romantic Station by Bruno Mars
-https://www.youtube.com/watch?v=4J41KdZ3JR8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",GB News 
-https://www.youtube.com/watch?v=QliL4CGc7iY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv", България 24 Live
 https://www.youtube.com/watch?v=TsPPWPpl_uM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Sky News
-https://www.youtube.com/watch?v=YDvsBbKfLPA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ABC News
-https://www.youtube.com/watch?v=iipR5yUp36o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",GRAND RADIO
 https://www.youtube.com/watch?v=aJgu2xSo-t0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",HRT 4 
 https://www.youtube.com/watch?v=-aWjN5N7kac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Tv Nasledje
 https://www.youtube.com/watch?v=t6YV4duq3ak
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Alicia Keys
-https://www.youtube.com/watch?v=1A2_W2hIXe0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The World Live - EarthTV
-https://www.youtube.com/watch?v=HfgIFGbdGJ0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",IN Televizija Macedonia 
-https://www.youtube.com/watch?v=FR-_-3qsEjs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",DW на русском
+https://www.youtube.com/watch?v=gP7872YRFDk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CGTN-Русский
+https://www.youtube.com/watch?v=wnKoBZunemE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Настоящее Время
+https://www.youtube.com/watch?v=t9Ilev-uk4w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews Russian
+https://www.youtube.com/watch?v=lwYzwdBiaho
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Frontiers Music 24-7 
+https://www.youtube.com/watch?v=UiCK7SCpSIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",NUCLEAR BLAST RECORDS
+https://www.youtube.com/watch?v=3LWMFjRZQ6k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",SHARPTONE RECORDS
+https://www.youtube.com/watch?v=-BJg05my_xE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Thriller Records 
 https://www.youtube.com/watch?v=O_ZO3hzSdAs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Spinnin’ Records
 https://www.youtube.com/watch?v=xf9Ejt4OmWQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Metallica TV
+https://www.youtube.com/watch?v=1fz60gNnSdU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",SABATON
+https://www.youtube.com/watch?v=HSJOF4ulYG8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Rolling Stones
+https://www.youtube.com/watch?v=FrhnrNXtQKg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Bring Me The Horizon
+https://www.youtube.com/watch?v=sL_fbNaq6VA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Oasis
+https://www.youtube.com/watch?v=JbFRzyqW22g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",AOR & Hard Rock Project 
+https://www.youtube.com/watch?v=Nsj7CDxsb9Y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Michael Jackson: The Station
+https://www.youtube.com/watch?v=-OfA04BD4GA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Romantic Station by Bruno Mars
+https://www.youtube.com/watch?v=4J41KdZ3JR8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Alicia Keys
+https://www.youtube.com/watch?v=1A2_W2hIXe0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The World Live - EarthTV
+https://www.youtube.com/watch?v=HfgIFGbdGJ0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",China Travel
+https://www.youtube.com/watch?v=LJgXwC-AKu8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CGTN 
+https://www.youtube.com/watch?v=BOy2xDU1LC8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CGTN Europe
+https://www.youtube.com/watch?v=_6dRRfnYJws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Sky News
+https://www.youtube.com/watch?v=YDvsBbKfLPA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ABC News
+https://www.youtube.com/watch?v=iipR5yUp36o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",IN Televizija Macedonia 
+https://www.youtube.com/watch?v=FR-_-3qsEjs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",KBS KOREA
+https://www.youtube.com/watch?v=OxQQsIvJTTU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",YTN DMB
+https://www.youtube.com/watch?v=2C2WCLhDsR4
 
 
 
@@ -239,9 +255,9 @@ https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
 https://edge-de-04.maksnet.tv/rtvbap/uzivo/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-name="" tvg-logo="https://i.imgur.com/TBAtPH6.png" group-title="Ex-Yu/TV",RTV Bap 
 https://edge-rs-04.maksnet.tv/rtvbap/uzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV SLO 1 HD test antik
+#EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV SLO 1 HD (test)
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV SLO 2 HD test antik
+#EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV SLO 2 HD (test)
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Nasha TV (test) 
 http://cdn1.invivo.bg/NASHA_TV_SD/index.m3u8?token=test

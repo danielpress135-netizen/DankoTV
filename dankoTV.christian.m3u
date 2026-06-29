@@ -10,6 +10,9 @@ https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 https://hc1.hopetv.bg/live/hopetv/playlist.m3u8
 #EXTINF:-1 tvg-id="LightChannel.bg@SD" tvg-name="Light Channel (BG)" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="BULGARIA",Light Channel (BG) 
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BULGARIA",vvv.bg Live(youtube tv)
+https://www.youtube.com/watch?v=Vk5bSUDUwco
+
 
 
 
@@ -51,6 +54,11 @@ https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="" tvg-logo="https://i.imgur.com/WKr5ncQ.png" group-title="Ex-Yu",Exodus TV (prvo-katolik)
 https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHram.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu",TV Hram (576p) [Not 24/7]
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu",Tv Nasledje
+https://www.youtube.com/watch?v=t6YV4duq3ak
+
 
 
 
@@ -88,6 +96,17 @@ https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
 #EXTINF:-1 tvg-id="RTHTV2Gospel.us@SD" tvg-logo="https://i.imgur.com/4z0FiEA.png" group-title="christian music tv",RTH-TV2 Gospel (720p)
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Escuchame Radio Tv 
+https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Planetshakers Praise and Worship(Youtube Tv)
+https://www.youtube.com/watch?v=NbMoVSXluzo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Don Moen TV(Youtube Tv)
+https://www.youtube.com/watch?v=lO5Nn_uqjr8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",The Global Prayer Room(Youtube Tv)
+https://www.youtube.com/watch?v=0uaZ30NEHLU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",
+
+
 
 
 
@@ -195,7 +214,7 @@ https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ManaCirkevOnline.pt@SD" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="Czesh",Maná Cirkev Online (1080p) [Not 24/7]
 https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LifeTv.sk@SD" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="Cezsh",LifeTv (1080p)
+#EXTINF:-1 tvg-id="LifeTv.sk@SD" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="Czesh",LifeTv (1080p)
 https://lifetv.mpks.sk/s.m3u8
 
 
@@ -415,40 +434,6 @@ https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="HimlenTV7.fi@SD" tvg-name="" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="Sweden",Himlen TV7 (720p)
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 
@@ -490,7 +475,8 @@ http://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u
 #EXTINF:-1 tvg-id="EWTN.de@SD" tvg-name="" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="German",EWTN Germany (catolic)
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KITTV.at@SD" tvg-logo="https://i.imgur.com/5rDo1Za.png" group-title="German",KIT-TV (720p)
-https://everest.pa-hosting.de:3591/live/joseflive.m3u8#EXTINF:-1 tvg-id="LightChannel.de@SD" tvg-logo="https://i.imgur.com/0OmBlfE.png" group-title="German",Light Channel (576p) [Not 24/7]
+https://everest.pa-hosting.de:3591/live/joseflive.m3u8
+#EXTINF:-1 tvg-id="LightChannel.de@SD" tvg-logo="https://i.imgur.com/0OmBlfE.png" group-title="German",Light Channel (576p) [Not 24/7]
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
 #EXTINF:-1 tvg-id="RCCTV.py@SD" tvg-logo="https://i.imgur.com/qdjBnRl.png" group-title="German",RCC TV (1080p) [Not 24/7]
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
@@ -738,64 +724,10 @@ https://mc.servidor.stream:19360/8240/8240.m3u8
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="WECN.pr@SD" tvg-logo="https://i.imgur.com/NYBZBY0.png" group-title="Latino",WECN (Único TV) (720p) ispan
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino",Gostei Gospel Tv (port) 
+https://video03.logicahost.com.br/gospeltv/gospeltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino",Apocalipsis Network TV (ispan)
+https://livetv.305streamhd.com:3394/live/tvapocalipsisnetworklive.m3u8
 
 
 
