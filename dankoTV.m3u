@@ -5192,18 +5192,41 @@ https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021
 https://s.505050.me:64610/rock_zone2/pl.m3u8
 #EXTINF:-1 tvg-id="MetaleitorTV.us@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_14_1752798826.png" group-title="MUSIC/TV ROCK",Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
-#EXTINF:-1  group-title="MUSIC/TV ROCK" , FRESH Rock Covers HD
+#EXTINF:-1  tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK", FRESH Rock Covers HD (RU)
 https://tinyurl.com/24kg5qjp
-#EXTINF:-1  group-title="MUSIC/TV ROCK" , FRESH Rock Hits HD
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , FRESH Rock Hits HD (RU)
 https://tinyurl.com/2245vf4m
-#EXTINF:-1  group-title="MUSIC/TV ROCK" , MM rock HD
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , MM rock HD (RU)
 https://tinyurl.com/28z23esa
-#EXTINF:-1  group-title="MUSIC/TV ROCK" , VF Rock
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , VF Rock (RU)
 https://tinyurl.com/27o9j5a9
-#EXTINF:-1  group-title="MUSIC/TV ROCK" , VF Metal
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , VF Metal (RU)
 https://tinyurl.com/2cykcka8
-#EXTINF:-1  group-title="MUSIC/TV ROCK" , Z! Rock HD
+#EXTINF:-1  group-title="MUSIC/TV ROCK" , Z! Rock HD (RU)
 https://tinyurl.com/268ktjp8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER (RU)
+https://headbanger.online/hls/headbanger/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER CAGE OF RAGE (RU)
+https://headbanger.online/hls/cage_of_rage/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER FLAME ON (RU)
+https://headbanger.online/hls/flame_on/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER MEAT GRINDER (RU)
+https://headbanger.online/hls/meat_grinder/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER MELODY & MAYHEM (RU)
+https://headbanger.online/hls/melody_mayhem/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER NOCTURNE (RU)
+https://headbanger.online/hls/nocturne/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER PULSE (RU)
+https://headbanger.online/hls/pulse/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER QUEENS OF NOISE (RU)
+https://headbanger.online/hls/queens_of_noise/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER REACTOR (RU)
+https://headbanger.online/hls/reactor/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER RIFF RIOTS (RU)
+https://headbanger.online/hls/riff_riots/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="' TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER YES! MUSIC (RU)
+https://headbanger.online/hls/yesmusic/index.m3u8
+
 
 #EXTINF:-1 group-title="MUSIC/TV ROCK", MetalCentral Music TV (използвай youtube, препоръчва се използване на ott navigator)
 
