@@ -669,7 +669,7 @@ http://87.120.179.187:8000/play/a007
 http://84.54.128.52:9999/BNT2
 #EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" tvg-logo="" group-title="BG/TV",BNT 4
 http://85.11.144.9:4222/BNT4
-#EXTINF:-1 tvg-id="BTV.bg" tvg-name="BTV BG" tvg-logo="" group-title="BG/TV",BTV BG
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV BG" tvg-logo="" group-title="BG/TV",bTV BG
 http://84.54.128.52:9999/BTV
 #EXTINF:-1 tvg-id="Kanal3.bg" tvg-name="Kanal 3 BG" tvg-logo="" group-title="BG/TV",Kanal 3 BG
 https://cdn2.invivo.bg/k3artfrwbsitfrnglpvlv/tracks-v1a1/index.m3u8
@@ -730,15 +730,15 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 http://213.91.179.28:8000/play/a046
 #EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2 HD" tvg-logo="" group-title="BG/TV",BNT 2 HD
 http://213.91.179.28:8000/play/a049
-#EXTINF:-1 tvg-id="BTV.bg" tvg-name="bTV HD" tvg-logo="" tvg-id="btv.bg" group-title="BG/TV",bTV HD
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV HD" tvg-logo="" tvg-id="btv.bg" group-title="BG/TV",bTV HD
 http://213.91.179.28:8000/play/a03w
-#EXTINF:-1 tvg-id="BTVAction.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV",bTV Action HD
+#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV",bTV Action HD
 http://213.91.179.28:8000/play/a04n
-#EXTINF:-1 tvg-id="BTVCinema.bg" tvg-name="bTV Cinema" tvg-logo="" group-title="BG/TV",bTV Cinema
+#EXTINF:-1 tvg-id="bTVCinema.bg" tvg-name="bTV Cinema" tvg-logo="" group-title="BG/TV",bTV Cinema
 http://213.91.179.28:8000/play/a04i
-#EXTINF:-1 tvg-id="BTVComedy.bg" tvg-name="bTV Comedy HD" tvg-logo="" group-title="BG/TV",bTV Comedy HD
+#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="bTV Comedy HD" tvg-logo="" group-title="BG/TV",bTV Comedy HD
 http://213.91.179.28:8000/play/a04k
-#EXTINF:-1 tvg-id="BTVStory.bg" tvg-name="bTV Story" tvg-logo="" group-title="BG/TV",bTV Story
+#EXTINF:-1 tvg-id="bTVStory.bg" tvg-name="bTV Story" tvg-logo="" group-title="BG/TV",bTV Story
 http://213.91.179.28:8000/play/a05i
 #EXTINF:-1 tvg-id="NOVA.bg" tvg-name="NOVA HD" tvg-logo="" group-title="BG/TV",NOVA HD
 http://213.91.179.28:8000/play/a03l
@@ -806,7 +806,7 @@ http://78.108.251.7/EKids/mono.m3u8
 
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1 HD" tvg-logo="" group-title="BG/TV test",BNT 1 HD
 http://87.120.179.187:8000/play/a007
-#EXTINF:-1 tvg-id="BTV.bg" tvg-name="bTV HD" tvg-logo="" group-title="BG/TV test",bTV HD
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV HD" tvg-logo="" group-title="BG/TV test",bTV HD
 http://87.120.179.187:8000/play/a00a
 #EXTINF:-1 tvg-id="Nova.bg" tvg-name="Nova HD" tvg-logo="" group-title="BG/TV test",Nova HD
 http://87.120.179.187:8000/play/a00c
@@ -816,11 +816,11 @@ http://87.120.179.187:8000/play/a00h
 http://87.120.179.187:8000/play/a00d
 #EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-name="Diema Family" tvg-logo="" group-title="BG/TV test",Diema Family
 http://87.120.179.187:8000/play/a00i
-#EXTINF:-1 tvg-id="BTVAction.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV test",bTV Action HD
+#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV test",bTV Action HD
 http://87.120.179.187:8000/play/a00v
-#EXTINF:-1 tvg-id="BTVCinema.bg" tvg-name="bTV Cinema HD" tvg-logo="" group-title="BG/TV test",bTV Cinema HD
+#EXTINF:-1 tvg-id="bTVCinema.bg" tvg-name="bTV Cinema HD" tvg-logo="" group-title="BG/TV test",bTV Cinema HD
 http://87.120.179.187:8000/play/a00s
-#EXTINF:-1 tvg-id="BTVComedy.bg" tvg-name="bTV Comedy" tvg-logo="" group-title="BG/TV test",bTV Comedy
+#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="bTV Comedy" tvg-logo="" group-title="BG/TV test",bTV Comedy
 http://87.120.179.187:8000/play/a00t
 #EXTINF:-1 tvg-id="Evrokom.bg" tvg-name="Evrokom" tvg-logo="" group-title="BG/TV test",Evrokom
 http://87.120.179.187:8000/play/a00o
@@ -872,19 +872,19 @@ http://87.120.179.187:8000/play/a02j
 http://87.120.179.187:8000/play/a04s
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1 HD" tvg-logo="" group-title="BG/TV test",BNT 1 HD
 http://62.176.112.19:8008/play/a046
-#EXTINF:-1 tvg-id="BTV.bg" tvg-name="bTV HD" tvg-logo="" group-title="BG/TV test",bTV HD
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV HD" tvg-logo="" group-title="BG/TV test",bTV HD
 http://62.176.112.19:8008/play/a03w
 #EXTINF:-1 tvg-id="Nova.bg" tvg-name="Nova HD" tvg-logo="" group-title="BG/TV test",Nova HD
 http://62.176.112.19:8008/play/a0cx
-#EXTINF:-1 tvg-id="BTVStory.bg" tvg-name="BTV Story" tvg-logo="" group-title="BG/TV test",BTV Story
+#EXTINF:-1 tvg-id="bTVStory.bg" tvg-name="bTV Story" tvg-logo="" group-title="BG/TV test",bTV Story
 http://62.176.112.19:8008/play/a049
 #EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3 HD" tvg-logo="" group-title="BG/TV test",BNT 3 HD
 http://62.176.112.19:8008/play/a063
-#EXTINF:-1 tvg-id="BTVAction.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV test",bTV Action HD
+#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV test",bTV Action HD
 http://62.176.112.19:8008/play/a04n
-#EXTINF:-1 tvg-id="BTVCinema.bg" tvg-name="bTV Cinema HD" tvg-logo="" group-title="BG/TV test",bTV Cinema HD
+#EXTINF:-1 tvg-id="bTVCinema.bg" tvg-name="bTV Cinema HD" tvg-logo="" group-title="BG/TV test",bTV Cinema HD
 http://62.176.112.19:8008/play/a04i
-#EXTINF:-1 tvg-id="BTVComedy.bg" tvg-name="bTV Comedy" tvg-logo="" group-title="BG/TV test",bTV Comedy
+#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="bTV Comedy" tvg-logo="" group-title="BG/TV test",bTV Comedy
 http://62.176.112.19:8008/play/a04k
 #EXTINF:-1 tvg-id="Euronews.bg" tvg-name="Euronews Bulgaria" tvg-logo="" group-title="BG/TV test",Euronews Bulgaria
 http://62.176.112.19:8008/play/a0e3
@@ -1070,7 +1070,7 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt2Y6ks6J8zALfaLcErq6kzI/ts
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7HqfobNp8Va0Li_NjGBda8/ts
 #EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBNWrzsPf2eme7azobUsCrGmbot1uMhrWsvY5QpOqPmQY.png" group-title="BG/TV test",BNT 4 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt04s5YXZrhTrElV1kI215SU/ts
-#EXTINF:-1 tvg-id="BTV.bg" tvg-name="BTV HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6pgDwC_VrDJd2q-5ySDyEpFg8r8NakNhHzxwODasQhRU.png" group-title="BG/TV test",BTV HD
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="BTV HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6pgDwC_VrDJd2q-5ySDyEpFg8r8NakNhHzxwODasQhRU.png" group-title="BG/TV test",BTV HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-qCx6IvseOE0tUaC8uvIS4/ts
 #EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-name="BULGARIA 24" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6BYyswYJs2gGU1GKRAxrLPkP0FlQe5nivwfvM52pFWMg.png" group-title="BG/TV test",BULGARIA 24
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxrRCExozjJHkgCf7m3e_Bc/ts
@@ -1124,13 +1124,13 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltx_31m1aiQbZpfnuRSiitOY/ts
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5WKrEvx_oQarKJGdVBmcXY/ts
 #EXTINF:-1 tvg-id="Actionbox.bg" tvg-name="ACTION BOX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/ACTION BOX HD.png" group-title="BG/TV test",ACTION BOX HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltyb36KXQemcbLfThzXM2hQ4/ts
-#EXTINF:-1 tvg-id="BTVCinema.bg" tvg-name="BTV CINEMA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6tPwSc2AcX1XU_mskKS-E6pE3osJ03DuwKp5auVGHM8Q.png" group-title="BG/TV test",BTV CINEMA
+#EXTINF:-1 tvg-id="bTVCinema.bg" tvg-name="bTV CINEMA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6tPwSc2AcX1XU_mskKS-E6pE3osJ03DuwKp5auVGHM8Q.png" group-title="BG/TV test",bTV CINEMA
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltyS_YMcvv5Osa3QVqRBhYXA/ts
-#EXTINF:-1 tvg-id="BTVAction.bg" tvg-name="BTV ACTION HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzu8BbriXKtp3viz8gBkBVrpADXN6sDrHZ64dCAO20sveg.png" group-title="BG/TV test",BTV ACTION HD
+#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV ACTION HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzu8BbriXKtp3viz8gBkBVrpADXN6sDrHZ64dCAO20sveg.png" group-title="BG/TV test",bTV ACTION HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4WMASGJ5a0PYErMiD5wcxg/ts
-#EXTINF:-1 tvg-id="BTVComedy.bg" tvg-name="BTV COMEDY HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw63Kb4HgJLi8RfzIDqz9BL2eC9vFUYUD5i1Km9tmdrsdA.png" group-title="BG/TV test",BTV COMEDY HD
+#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="bTV COMEDY HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw63Kb4HgJLi8RfzIDqz9BL2eC9vFUYUD5i1Km9tmdrsdA.png" group-title="BG/TV test",bTV COMEDY HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_0xB-coTiqB4DLcKmnJR0o/ts
-#EXTINF:-1 tvg-id="BTVLady.bg" tvg-name="BTV LADY" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw67MNgmN6TOaDCSeU-tjReG3kbg2PVSoDBEEwXObq0xEQ.png" group-title="BG/TV test",BTV LADY
+#EXTINF:-1 tvg-id="bTVLady.bg" tvg-name="bTV LADY" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw67MNgmN6TOaDCSeU-tjReG3kbg2PVSoDBEEwXObq0xEQ.png" group-title="BG/TV test",bTV LADY
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9y_pJUlnYMMInP-ETtg1S8/ts
 #EXTINF:-1 tvg-id="Filmbox+Emotion.bg" tvg-name="FILMBOX+ emotion" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs14WTcOjTBN2CLcCTYOlzKZieKKTva5eJEoV6qlnUA9g.png" group-title="BG/TV test",FILMBOX+ emotion
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6XygmBl0ICb-01A1h33TMs/ts
@@ -1208,7 +1208,7 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4BnhUscdhcOmTqM5uLFTpU/ts
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5FiVBAX40WBl9wCmmCVRtY/ts
 #EXTINF:-1 tvg-id="TheVoice.bg" tvg-name="THE VOICE" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvCagyi6VkD3PPQN6NmVtdO1Xa55wf77LoZAEibqxIDnw.png" group-title="BG/TV test",THE VOICE
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7pyX7CFBo9P8DPoZBV83MI/ts
-#EXTINF:-1 tvg-id="BTV.bg" tvg-name="BTV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6pgDwC_VrDJd2q-5ySDyEpFg8r8NakNhHzxwODasQhRU.png" group-title="BG/TV test",BTV
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6pgDwC_VrDJd2q-5ySDyEpFg8r8NakNhHzxwODasQhRU.png" group-title="BG/TV test",bTV
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_CMMNaLvxxxguO-nqpmoys/ts
 #EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBoasI-O_lQFp7bEfMEZ-YrPir5s4rDIY3gz5ikEEUMDE.png" group-title="BG/TV test",BNT 3
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6IT4KMdG3Zdlyyg4aJCygk/ts
