@@ -1,4 +1,4 @@
-#EXTM3U  x-tvg-url="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml"
+#EXTM3U  x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 group-title="4K/TV",Ultra HD Cinema
 
@@ -653,27 +653,27 @@ https://stream-175.zeno.fm/4knvkgfhb78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="BG/TV",This is Bulgaria HD (1080p)
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
-#EXTINF:-1 tvg-id="TravelTV.bg" tvg-name="Travel TV BG" tvg-logo="" group-title="BG/TV",Travel TV BG
+#EXTINF:-1 tvg-id="Travel.TV.bg" tvg-name="Travel TV BG" tvg-logo="" group-title="BG/TV",Travel TV BG
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
-#EXTINF:-1 tvg-id="NGWILD.bg" tvg-name="Nat Geo Wild BG" tvg-logo="" group-title="BG/TV",Nat Geo Wild BG
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.bg" tvg-name="Nat Geo Wild BG" tvg-logo="" group-title="BG/TV",Nat Geo Wild BG
 http://78.108.244.134:8899/ngw
-#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-name="Viasat Explore" tvg-logo="" group-title="BG/TV",Viasat Explore
+#EXTINF:-1 tvg-id="Viasat.Explore.bg" tvg-name="Viasat Explore" tvg-logo="" group-title="BG/TV",Viasat Explore
 http://85.11.144.9:4222/ViasatExplorer
 #EXTINF:-1 tvg-id="AgroTV.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="BG/TV",Agro TV (480p)
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
-#EXTINF:-1 tvg-id="TLC.bg" tvg-name="TLC BG" tvg-logo="" group-title="BG/TV",TLC BG
+#EXTINF:-1 tvg-id="TLC.Balkans.bg" tvg-name="TLC BG" tvg-logo="" group-title="BG/TV",TLC BG
 http://78.108.244.134:8899/tlc
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" tvg-logo="" group-title="BG/TV",BNT 1
+#EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1" tvg-logo="" group-title="BG/TV",BNT 1
 http://87.120.179.187:8000/play/a007
-#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" tvg-logo="" group-title="BG/TV",BNT 2
+#EXTINF:-1 tvg-id="БНТ2.bg" tvg-name="BNT 2" tvg-logo="" group-title="BG/TV",BNT 2
 http://84.54.128.52:9999/BNT2
-#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" tvg-logo="" group-title="BG/TV",BNT 4
+#EXTINF:-1 tvg-id="БНТ.Свят.bg" tvg-name="BNT 4" tvg-logo="" group-title="BG/TV",BNT 4
 http://85.11.144.9:4222/BNT4
 #EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV BG" tvg-logo="" group-title="BG/TV",bTV BG
 http://84.54.128.52:9999/BTV
 #EXTINF:-1 tvg-id="Kanal3.bg" tvg-name="Kanal 3 BG" tvg-logo="" group-title="BG/TV",Kanal 3 BG
 https://cdn2.invivo.bg/k3artfrwbsitfrnglpvlv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Eurocom.bg" tvg-name="Eurocom" tvg-logo="" group-title="BG/TV",Eurocom (BG)
+#EXTINF:-1 tvg-id="Евроком.НКТВ.bg" tvg-name="Eurocom" tvg-logo="" group-title="BG/TV",Eurocom (BG)
 https://ektzarevets.invivo.bg/EVROKOM_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RMTV.bg@SD" tvg-name="RMTV" tvg-logo="https://rmtv.bg/img/logo.png" group-title="BG/TV",RMTV (288p)
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
@@ -710,7 +710,7 @@ https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 https://hc1.hopetv.bg/live/hopetv/playlist.m3u8
 #EXTINF:-1 tvg-id="LightChannel.bg@SD" tvg-name="Light Channel" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="BG/TV",Light Channel (480p) [Not 24/7]
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.bg" tvg-name="Cartoon Network" tvg-logo="" group-title="BG/TV",Cartoon Network BG
+#EXTINF:-1 tvg-id="Cartoon.Network.bg" tvg-name="Cartoon Network" tvg-logo="" group-title="BG/TV",Cartoon Network BG
 http://78.108.244.134:8899/cn
 #EXTINF:-1 tvg-id="Ekids.bg" tvg-name="Ekids" tvg-logo="" group-title="BG/TV",Ekids
 http://78.108.244.134:8899/ekids
@@ -722,35 +722,35 @@ https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-name="City TV" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="BG/TV",City TV (576p) [Not 24/7]
 https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1 tvg-id="TheVoice.bg@SD" tvg-name="The Voice" tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="BG/TV",The Voice TV (720p)
+#EXTINF:-1 tvg-id="The.Voice.bg" tvg-name="The Voice" tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="BG/TV",The Voice TV (720p)
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-id="MagicTV.bg@SD" tvg-name="Magic TV" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="BG/TV",Magic TV (720p)
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1 HD" tvg-logo="" group-title="BG/TV",BNT 1 HD
+#EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1 HD" tvg-logo="" group-title="BG/TV",BNT 1 HD
 http://213.91.179.28:8000/play/a046
-#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2 HD" tvg-logo="" group-title="BG/TV",BNT 2 HD
+#EXTINF:-1 tvg-id="БНТ2.bg" tvg-name="BNT 2 HD" tvg-logo="" group-title="BG/TV",BNT 2 HD
 http://213.91.179.28:8000/play/a049
 #EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV HD" tvg-logo="" tvg-id="btv.bg" group-title="BG/TV",bTV HD
 http://213.91.179.28:8000/play/a03w
-#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV",bTV Action HD
+#EXTINF:-1 tvg-id="bTV.Action.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV",bTV Action HD
 http://213.91.179.28:8000/play/a04n
-#EXTINF:-1 tvg-id="bTVCinema.bg" tvg-name="bTV Cinema" tvg-logo="" group-title="BG/TV",bTV Cinema
+#EXTINF:-1 tvg-id="bTV.Cinema.bg" tvg-name="bTV Cinema" tvg-logo="" group-title="BG/TV",bTV Cinema
 http://213.91.179.28:8000/play/a04i
-#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="bTV Comedy HD" tvg-logo="" group-title="BG/TV",bTV Comedy HD
+#EXTINF:-1 tvg-id="bTV.Comedy.bg" tvg-name="bTV Comedy HD" tvg-logo="" group-title="BG/TV",bTV Comedy HD
 http://213.91.179.28:8000/play/a04k
-#EXTINF:-1 tvg-id="bTVStory.bg" tvg-name="bTV Story" tvg-logo="" group-title="BG/TV",bTV Story
+#EXTINF:-1 tvg-id="bTV.Story.bg" tvg-name="bTV Story" tvg-logo="" group-title="BG/TV",bTV Story
 http://213.91.179.28:8000/play/a05i
-#EXTINF:-1 tvg-id="NOVA.bg" tvg-name="NOVA HD" tvg-logo="" group-title="BG/TV",NOVA HD
+#EXTINF:-1 tvg-id="Нова.телевизия.bg" tvg-name="NOVA HD" tvg-logo="" group-title="BG/TV",NOVA HD
 http://213.91.179.28:8000/play/a03l
-#EXTINF:-1 tvg-id="NovaNews.bg" tvg-name="Nova News HD" tvg-logo="" group-title="BG/TV",Nova News HD
+#EXTINF:-1 tvg-id="NOVANEWS.bg" tvg-name="Nova News HD" tvg-logo="" group-title="BG/TV",Nova News HD
 http://213.91.179.28:8000/play/a063
-#EXTINF:-1 tvg-id="Kino Nova.bg" tvg-name="Kino Nova" tvg-logo="" group-title="BG/TV",Kino Nova
+#EXTINF:-1 tvg-id="KinoNova.bg" tvg-name="Kino Nova" tvg-logo="" group-title="BG/TV",Kino Nova
 http://213.91.179.28:8000/play/a041
-#EXTINF:-1 tvg-id="Diema.bg" tvg-name="Diema" tvg-logo="" group-title="BG/TV",Diema
+#EXTINF:-1 tvg-id="Диема.bg" tvg-name="Diema" tvg-logo="" group-title="BG/TV",Diema
 http://213.91.179.28:8000/play/a045
-#EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-name="Diema Family" tvg-logo="" group-title="BG/TV",Diema Family
+#EXTINF:-1 tvg-id="Диема.Фемили.bg" tvg-name="Diema Family" tvg-logo="" group-title="BG/TV",Diema Family
 http://213.91.179.28:8000/play/a047
-#EXTINF:-1 tvg-id="VivacomArena.bg" tvg-name="Vivacom Arena" tvg-logo="" group-title="BG/TV",Vivacom Arena
+#EXTINF:-1 tvg-id="Vivacom.Arena.bg" tvg-name="Vivacom Arena" tvg-logo="" group-title="BG/TV",Vivacom Arena
 http://213.91.179.28:8000/play/a053
 #EXTINF:-1 tvg-id="Cinestar.bg" tvg-name="Cinestar" tvg-logo="" group-title="BG/TV",Cinestar
 http://213.91.179.28:8000/play/a05h
@@ -765,56 +765,56 @@ https://tvshumen.tv/hls/stream1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MovieStar.bg" tvg-name="MovieStar HD" tvg-logo="" group-title="BG/TV test",MovieStar HD
+#EXTINF:-1 tvg-id="MovieSTAR.bg" tvg-name="Movie Star HD" tvg-logo="" group-title="BG/TV test",Movie Star HD
 http://78.108.251.7/MovieStar/mono.m3u8
-#EXTINF:-1 tvg-id="Diema.bg" tvg-name="Diema HD" tvg-logo="" group-title="BG/TV test",Diema HD
+#EXTINF:-1 tvg-id="Диема.bg" tvg-name="Diema HD" tvg-logo="" group-title="BG/TV test",Diema HD
 http://78.108.251.7/Diema/mono.m3u8
-#EXTINF:-1 tvg-id="DiemaFamily,bg" tvg-name="Diema Family" tvg-logo="" group-title="BG/TV test",Diema Family
+#EXTINF:-1 tvg-id="Диема.Фемили.bg" tvg-name="Diema Family" tvg-logo="" group-title="BG/TV test",Diema Family
 http://78.108.251.7/DiemaFamily/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery.bg" tvg-name="Discovery HD" tvg-logo="" group-title="BG/TV test",Discovery HD
+#EXTINF:-1 tvg-id="Discovery.Channel.bg" tvg-name="Discovery HD" tvg-logo="" group-title="BG/TV test",Discovery HD
 http://78.108.251.7/Discovery_HD/mono.m3u8
-#EXTINF:-1 tvg-id="Cinemax1.bg" tvg-name="Cinemax HD" tvg-logo="" group-title="BG/TV test",Cinemax HD
+#EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="Cinemax HD" tvg-logo="" group-title="BG/TV test",Cinemax HD
 http://78.108.251.7/Cinemax_HD/mono.m3u8
-#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-name="Cinemax 2 HD" tvg-logo="" group-title="BG/TV test",Cinemax 2 HD
+#EXTINF:-1 tvg-id="Cinemax.2.bg" tvg-name="Cinemax 2 HD" tvg-logo="" group-title="BG/TV test",Cinemax 2 HD
 http://78.108.251.7/Cinemax2_HD/mono.m3u8
-#EXTINF:-1 tvg-id="DisneyJr.bg" tvg-name="Disney Junior" tvg-logo="" group-title="BG/TV test",Disney Junior
+#EXTINF:-1 tvg-id="Disney.Junior.bg" tvg-name="Disney Junior" tvg-logo="" group-title="BG/TV test",Disney Junior
 http://78.108.251.7/Disney_Junior/mono.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.bg" tvg-name="Food Network HD" tvg-logo="" group-title="BG/TV test",Food Network HD
+#EXTINF:-1 tvg-id="Food.Network.HD.bg" tvg-name="Food Network HD" tvg-logo="" group-title="BG/TV test",Food Network HD
 http://78.108.251.7/Food_Network_HD/mono.m3u8
-#EXTINF:-1 tvg-id="HBO2.bg" tvg-name="HBO 2 HD" tvg-logo="" group-title="BG/TV test",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO.Comedy.bg" tvg-name="HBO 2 HD" tvg-logo="" group-title="BG/TV test",HBO 2 HD
 http://78.108.251.7/HBO2_HD/mono.m3u8
 #EXTINF:-1 tvg-id="HBO.bg" tvg-name="HBO HD" tvg-logo="" group-title="BG/TV test",HBO HD
 http://78.108.251.7/HBO_HD/mono.m3u8
-#EXTINF:-1 tvg-id="HBO3.bg" tvg-name="HBO 3 HD" tvg-logo="" group-title="BG/TV test",HBO 3 HD
+#EXTINF:-1 tvg-id="HBO.3.bg" tvg-name="HBO 3 HD" tvg-logo="" group-title="BG/TV test",HBO 3 HD
 http://78.108.251.7/HBO3_HD/mono.m3u8
 #EXTINF:-1 tvg-id="AMC.bg" tvg-name="amc" tvg-logo="" group-title="BG/TV test",amc
 http://78.108.251.7/amc/mono.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.bg" tvg-name="Travel Channel_HD" tvg-logo="" group-title="BG/TV test",Travel Channel_HD
+#EXTINF:-1 tvg-id="Travel.Channel.bg" tvg-name="Travel Channel_HD" tvg-logo="" group-title="BG/TV test",Travel Channel_HD
 http://78.108.251.7/Travel_Channel_HD/mono.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.bg" tvg-name="Cartoon Network" tvg-logo="" group-title="BG/TV test",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.bg" tvg-name="Cartoon Network" tvg-logo="" group-title="BG/TV test",Cartoon Network
 http://78.108.251.7/Cartoon_Network/mono.m3u8
 #EXTINF:-1 tvg-id="Cartonito.bg" tvg-name="Cartoonito" tvg-logo="" group-title="BG/TV test",Cartoonito
 http://78.108.251.7/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="NickJr.bg" tvg-name="Nick Jr" tvg-logo="" group-title="BG/TV test",Nick Jr
+#EXTINF:-1 tvg-id="Nick.Jr.bg" tvg-name="Nick Jr" tvg-logo="" group-title="BG/TV test",Nick Jr
 http://78.108.251.7/Nick_Jr/mono.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.bg" tvg-name="NickToons" tvg-logo="" group-title="BG/TV test",NickToons
 http://78.108.251.7/NickToons/mono.m3u8
-#EXTINF:-1 tvg-id="DaVinci.bg" tvg-name="DaVinciLearning" tvg-logo="" group-title="BG/TV test",DaVinciLearning
+#EXTINF:-1 tvg-id="Da.Vinci.Learning.bg" tvg-name="DaVinciLearning" tvg-logo="" group-title="BG/TV test",DaVinciLearning
 http://78.108.251.7/DaVinciLearning/mono.m3u8
 #EXTINF:-1 tvg-id="EKids.bg" tvg-name="EKids" tvg-logo="" group-title="BG/TV test",EKids
 http://78.108.251.7/EKids/mono.m3u8
 
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1 HD" tvg-logo="" group-title="BG/TV test",BNT 1 HD
+#EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1 HD" tvg-logo="" group-title="BG/TV test",BNT 1 HD
 http://87.120.179.187:8000/play/a007
 #EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV HD" tvg-logo="" group-title="BG/TV test",bTV HD
 http://87.120.179.187:8000/play/a00a
-#EXTINF:-1 tvg-id="Nova.bg" tvg-name="Nova HD" tvg-logo="" group-title="BG/TV test",Nova HD
+#EXTINF:-1 tvg-id="Нова.телевизия.bg" tvg-name="Nova HD" tvg-logo="" group-title="BG/TV test",Nova HD
 http://87.120.179.187:8000/play/a00c
-#EXTINF:-1 tvg-id="Diema.bg" tvg-name="Diema HD" tvg-logo="" group-title="BG/TV test",Diema HD
+#EXTINF:-1 tvg-id="Диема.bg" tvg-name="Diema HD" tvg-logo="" group-title="BG/TV test",Diema HD
 http://87.120.179.187:8000/play/a00h
 #EXTINF:-1 tvg-id="KinoNova.bg" tvg-name="Kino Nova HD" tvg-logo="" group-title="BG/TV test",Kino Nova HD
 http://87.120.179.187:8000/play/a00d
-#EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-name="Diema Family" tvg-logo="" group-title="BG/TV test",Diema Family
+#EXTINF:-1 tvg-id="Diema.Family.bg" tvg-name="Diema Family" tvg-logo="" group-title="BG/TV test",Diema Family
 http://87.120.179.187:8000/play/a00i
 #EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV test",bTV Action HD
 http://87.120.179.187:8000/play/a00v
@@ -822,27 +822,27 @@ http://87.120.179.187:8000/play/a00v
 http://87.120.179.187:8000/play/a00s
 #EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="bTV Comedy" tvg-logo="" group-title="BG/TV test",bTV Comedy
 http://87.120.179.187:8000/play/a00t
-#EXTINF:-1 tvg-id="Evrokom.bg" tvg-name="Evrokom" tvg-logo="" group-title="BG/TV test",Evrokom
+#EXTINF:-1 tvg-id="Евроком.НКТВ.bg" tvg-name="Evrokom" tvg-logo="" group-title="BG/TV test",Evrokom
 http://87.120.179.187:8000/play/a00o
 #EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" tvg-logo="" group-title="BG/TV test",Star Channel
 http://87.120.179.187:8000/play/a013
 #EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" tvg-logo="" group-title="BG/TV test",Star Life
 http://87.120.179.187:8000/play/a00q
-#EXTINF:-1 tvg-id="StarCrime.bg" tvg-name="Star Crime" tvg-logo="" group-title="BG/TV test",Star Crime
+#EXTINF:-1 tvg-id="Star.Crime.bg" tvg-name="Star Crime" tvg-logo="" group-title="BG/TV test",Star Crime
 http://87.120.179.187:8000/play/a00r
 #EXTINF:-1 tvg-id="FilmBox.bg" tvg-name="Filmbox" tvg-logo="" group-title="BG/TV test",Filmbox
 http://87.120.179.187:8000/play/a021
 #EXTINF:-1 tvg-id="Eurosport.bg" tvg-name="Eurosport HD" tvg-logo="" group-title="BG/TV test",Eurosport HD
 http://87.120.179.187:8000/play/a02c
-#EXTINF:-1 tvg-id="REurosport2.bg" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="BG/TV test",Eurosport 2 HD
+#EXTINF:-1 tvg-id="REurosport.2.bg" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="BG/TV test",Eurosport 2 HD
 http://87.120.179.187:8000/play/a04w
-#EXTINF:-1 tvg-id="NovaNews.bg" tvg-name="Nova News HD" tvg-logo="" group-title="BG/TV test",Nova News HD
+#EXTINF:-1 tvg-id="NOVANEWS.bg" tvg-name="Nova News HD" tvg-logo="" group-title="BG/TV test",Nova News HD
 http://87.120.179.187:8000/play/a04r
-#EXTINF:-1 tvg-id="Ring.bg" tvg-name="RING HD" tvg-logo="" group-title="BG/TV test",RING HD
+#EXTINF:-1 tvg-id="RING.BG.bg" tvg-name="RING HD" tvg-logo="" group-title="BG/TV test",RING HD
 http://87.120.179.187:8000/play/a00w
-#EXTINF:-1 tvg-id="NovaSport.bg" tvg-name="Nova Sport HD" tvg-logo="" group-title="BG/TV test",Nova Sport HD
+#EXTINF:-1 tvg-id="Нова.Спорт.bg" tvg-name="Nova Sport HD" tvg-logo="" group-title="BG/TV test",Nova Sport HD
 http://87.120.179.187:8000/play/a00l
-#EXTINF:-1 tvg-id="Discovery.bg" tvg-name="Discovery HD" tvg-logo="" group-title="BG/TV test",Discovery HD
+#EXTINF:-1 tvg-id="Discovery.Channel.bg" tvg-name="Discovery HD" tvg-logo="" group-title="BG/TV test",Discovery HD
 http://87.120.179.187:8000/play/a02e
 #EXTINF:-1 tvg-id="tv1.bg" tvg-name="TV 1" tvg-logo="" group-title="BG/TV test",TV 1
 http://87.120.179.187:8000/play/a02f
@@ -852,9 +852,9 @@ http://87.120.179.187:8000/play/a04y
 http://87.120.179.187:8000/play/a04x
 #EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" tvg-logo="" group-title="BG/TV test",Nickelodeon
 http://87.120.179.187:8000/play/a00x
-#EXTINF:-1 tvg-id="NickJr.bg" tvg-name="Nick Jr" tvg-logo="" group-title="BG/TV test",Nick Jr
+#EXTINF:-1 tvg-id="Nick.Jr.bg" tvg-name="Nick Jr" tvg-logo="" group-title="BG/TV test",Nick Jr
 http://87.120.179.187:8000/play/a01c
-#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" tvg-logo="" group-title="BG/TV test",Disney Channel
+#EXTINF:-1 tvg-id="Disney.Channel.bg" tvg-name="Disney Channel" tvg-logo="" group-title="BG/TV test",Disney Channel
 http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="EKids.bg" tvg-name="E-Kids" tvg-logo="" group-title="BG/TV test",E-Kids
 http://87.120.179.187:8000/play/a011
@@ -862,245 +862,245 @@ http://87.120.179.187:8000/play/a011
 http://87.120.179.187:8000/play/a001
 #EXTINF:-1 tvg-id="FolklorTv.bg" tvg-name="Folklor TV" tvg-logo="" group-title="BG/TV test",Folklor TV
 http://87.120.179.187:8000/play/a008
-#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="Max Sport 1 HD" tvg-logo="" group-title="BG/TV test",Max Sport 1 HD
+#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="Max Sport 1 HD" tvg-logo="" group-title="BG/TV test",Max Sport 1 HD
 http://87.120.179.187:8000/play/a00k
-#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2 HD" tvg-logo="" group-title="BG/TV test",Max Sport 2 HD
+#EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="Max Sport 2 HD" tvg-logo="" group-title="BG/TV test",Max Sport 2 HD
 http://87.120.179.187:8000/play/a00f
-#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" tvg-logo="" group-title="BG/TV test",BNT 4
+#EXTINF:-1 tvg-id="БНТ.Свят.bg" tvg-name="BNT 4" tvg-logo="" group-title="BG/TV test",BNT 4
 http://87.120.179.187:8000/play/a02j
-#EXTINF:-1 tvg-id="Balkanika.bg" tvg-name="Balkanika HD" tvg-logo="" group-title="BG/TV test",Balkanika HD
+#EXTINF:-1 tvg-id="Balkanika.MTV.bg" tvg-name="Balkanika HD" tvg-logo="" group-title="BG/TV test",Balkanika HD
 http://87.120.179.187:8000/play/a04s
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1 HD" tvg-logo="" group-title="BG/TV test",BNT 1 HD
+#EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1 HD" tvg-logo="" group-title="BG/TV test",BNT 1 HD
 http://62.176.112.19:8008/play/a046
 #EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV HD" tvg-logo="" group-title="BG/TV test",bTV HD
 http://62.176.112.19:8008/play/a03w
-#EXTINF:-1 tvg-id="Nova.bg" tvg-name="Nova HD" tvg-logo="" group-title="BG/TV test",Nova HD
+#EXTINF:-1 tvg-id="Нова.телевизия.bg" tvg-name="Nova HD" tvg-logo="" group-title="BG/TV test",Nova HD
 http://62.176.112.19:8008/play/a0cx
-#EXTINF:-1 tvg-id="bTVStory.bg" tvg-name="bTV Story" tvg-logo="" group-title="BG/TV test",bTV Story
+#EXTINF:-1 tvg-id="bTV.Story.bg" tvg-name="bTV Story" tvg-logo="" group-title="BG/TV test",bTV Story
 http://62.176.112.19:8008/play/a049
-#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3 HD" tvg-logo="" group-title="BG/TV test",BNT 3 HD
+#EXTINF:-1 tvg-id="БНТ.HD.bg" tvg-name="BNT 3 HD" tvg-logo="" group-title="BG/TV test",BNT 3 HD
 http://62.176.112.19:8008/play/a063
-#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV test",bTV Action HD
+#EXTINF:-1 tvg-id="bTV.Action.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG/TV test",bTV Action HD
 http://62.176.112.19:8008/play/a04n
-#EXTINF:-1 tvg-id="bTVCinema.bg" tvg-name="bTV Cinema HD" tvg-logo="" group-title="BG/TV test",bTV Cinema HD
+#EXTINF:-1 tvg-id="bTV.Cinema.bg" tvg-name="bTV Cinema HD" tvg-logo="" group-title="BG/TV test",bTV Cinema HD
 http://62.176.112.19:8008/play/a04i
-#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="bTV Comedy" tvg-logo="" group-title="BG/TV test",bTV Comedy
+#EXTINF:-1 tvg-id="bTV.Comedy.bg" tvg-name="bTV Comedy" tvg-logo="" group-title="BG/TV test",bTV Comedy
 http://62.176.112.19:8008/play/a04k
 #EXTINF:-1 tvg-id="Euronews.bg" tvg-name="Euronews Bulgaria" tvg-logo="" group-title="BG/TV test",Euronews Bulgaria
 http://62.176.112.19:8008/play/a0e3
-#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" tvg-logo="" group-title="BG/TV test",BNT 4
+#EXTINF:-1 tvg-id="БНТ.Свят.bg" tvg-name="BNT 4" tvg-logo="" group-title="BG/TV test",BNT 4
 http://62.176.112.19:8008/play/a0e5
-#EXTINF:-1 tvg-id="ViasatKino.bg" tvg-name="VIASAT KINO" tvg-logo="" group-title="BG/TV test",VIASAT KINO
+#EXTINF:-1 tvg-id="Viasat.TV.1000.bg" tvg-name="VIASAT KINO" tvg-logo="" group-title="BG/TV test",VIASAT KINO
 http://62.176.112.19:8008/play/a0en
-#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="BG/TV test",MAX Sport 1 HD
+#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="BG/TV test",MAX Sport 1 HD
 http://62.176.112.19:8008/play/a0be
-#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="MAX Sport 2 HD" tvg-logo="" group-title="BG/TV test",MAX Sport 2 HD
+#EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="MAX Sport 2 HD" tvg-logo="" group-title="BG/TV test",MAX Sport 2 HD
 http://62.176.112.19:8008/play/a0bf
-#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="BG/TV test",MAX Sport 3 HD
+#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="BG/TV test",MAX Sport 3 HD
 http://62.176.112.19:8008/play/a0bg
-#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="BG/TV test",Diema Sport HD
+#EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="BG/TV test",Diema Sport HD
 http://62.176.112.19:8008/play/a0bc
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="BG/TV test",Diema Sport 2 HD
+#EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="BG/TV test",Diema Sport 2 HD
 http://62.176.112.19:8008/play/a0bd
-#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="BG/TV test",Diema Sport 3 HD
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="BG/TV test",Diema Sport 3 HD
 http://62.176.112.19:8008/play/a0cj
-#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="BG/TV test",Max Sport 4
+#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="BG/TV test",Max Sport 4
 http://62.176.112.19:8008/play/a0d6
 #EXTINF:-1 tvg-id="Eurosport.bg" tvg-name="Eurosport HD" tvg-logo="" group-title="BG/TV test",Eurosport HD
 http://62.176.112.19:8008/play/a0bb
-#EXTINF:-1 tvg-id="Eurosport2.bg" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="BG/TV test",Eurosport 2 HD
+#EXTINF:-1 tvg-id="Eurosport.2.bg" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="BG/TV test",Eurosport 2 HD
 http://62.176.112.19:8008/play/a04b
-#EXTINF:-1 tvg-id="Ring.bg" tvg-name="RING HD" tvg-logo="" group-title="BG/TV test",RING HD
+#EXTINF:-1 tvg-id="RING.BG.bg" tvg-name="RING HD" tvg-logo="" group-title="BG/TV test",RING HD
 http://62.176.112.19:8008/play/a0bo
-#EXTINF:-1 tvg-id="FilmBox+One.bg" tvg-name="FilmBox+ one" tvg-logo="" group-title="BG/TV test",FilmBox+ one
+#EXTINF:-1 tvg-id="FilmBox+.One.bg" tvg-name="FilmBox+ one" tvg-logo="" group-title="BG/TV test",FilmBox+ one
 http://62.176.112.19:8008/play/a0cz
-#EXTINF:-1 tvg-id="FilmBox+Emotin.bg" tvg-name="FilmBox+ emotion" tvg-logo="" group-title="BG/TV test",FilmBox+ emotion
+#EXTINF:-1 tvg-id="FilmBox+.Emotion.bg" tvg-name="FilmBox+ emotion" tvg-logo="" group-title="BG/TV test",FilmBox+ emotion
 http://62.176.112.19:8008/play/a0c4
-#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="Discovery Channel HD" tvg-logo="" group-title="BG/TV test",Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery.Channel.bg" tvg-name="Discovery Channel HD" tvg-logo="" group-title="BG/TV test",Discovery Channel HD
 http://62.176.112.19:8008/play/a044
-#EXTINF:-1 tvg-id="AnimalPlanet.bg" tvg-name="Animal Planet H" tvg-logo="" group-title="BG/TV test",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal.Planet.bg" tvg-name="Animal Planet H" tvg-logo="" group-title="BG/TV test",Animal Planet HD
 http://62.176.112.19:8008/play/a05r
-#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-name="Viasat History" tvg-logo="" group-title="BG/TV test",Viasat History
+#EXTINF:-1 tvg-id="Viasat.History.bg" tvg-name="Viasat History" tvg-logo="" group-title="BG/TV test",Viasat History
 http://62.176.112.19:8008/play/a0bq
-#EXTINF:-1 tvg-id="NG.bg" tvg-name="National Geographic HD" tvg-logo="" group-title="BG/TV test",National Geographic HD
+#EXTINF:-1 tvg-id="National.Geographic.Channel.bg" tvg-name="National Geographic HD" tvg-logo="" group-title="BG/TV test",National Geographic HD
 http://62.176.112.19:8008/play/a0bt
 #EXTINF:-1 tvg-id="City.bg" tvg-name="City TV" tvg-logo="" group-title="BG/TV test",City TV
 http://62.176.112.19:8008/play/a0dy
-#EXTINF:-1 tvg-id="NickJr.BG" tvg-name="Nick Jr" tvg-logo="" group-title="BG/TV test",Nick Jr
+#EXTINF:-1 tvg-id="Nick.Jr.BG" tvg-name="Nick Jr" tvg-logo="" group-title="BG/TV test",Nick Jr
 http://62.176.112.19:8008/play/a05k
 #EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-name="Bulgaria 24" tvg-logo="" group-title="BG/TV test",Bulgaria 24
 http://62.176.112.19:8008/play/a0da
 #EXTINF:-1 tvg-id="DocuBox.bg" tvg-name="DocuBox HD" tvg-logo="" group-title="BG/TV test",DocuBox HD
 http://62.176.112.19:8008/play/a05n
-#EXTINF:-1 tvg-id="Planeta.bg" tvg-name="Planeta TV HD" tvg-logo="" group-title="BG/TV test",Planeta TV HD
+#EXTINF:-1 tvg-id="Планета.HD.bg" tvg-name="Planeta TV HD" tvg-logo="" group-title="BG/TV test",Planeta TV HD
 http://62.176.112.19:8008/play/a03t
 #EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-name="Bulgaria 24" tvg-logo="" group-title="BG/TV test",Bulgaria 24 HD
 http://62.176.112.19:8008/play/a0ew
-#EXTINF:-1 tvg-id="Evrokom.bg" tvg-name="Evrokom" tvg-logo="" group-title="BG/TV test",Evrokom HD
+#EXTINF:-1 tvg-id="Евроком.НКТВ.bg" tvg-name="Evrokom" tvg-logo="" group-title="BG/TV test",Evrokom HD
 http://62.176.112.19:8008/play/a0es
 #EXTINF:-1 tvg-id="TV1.bg" tvg-name="TV 1" tvg-logo="" group-title="BG/TV test",TV1 HD
 http://62.176.112.19:8008/play/a0ev
 
-#EXTINF:-1 tvg-id="BloombergTVBulgaria.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/cHwOVqk.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Bloomberg TV Bulgaria
+#EXTINF:-1 tvg-id="Bloomberg.TV.Bulgaria.bg" tvg-name="Bloomberg TV Bulgaria" tvg-logo="https://i.imgur.com/cHwOVqk.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Bloomberg TV Bulgaria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04m
-#EXTINF:-1 tvg-id="BNT1.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/7JU9b5j.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",BNT 1
+#EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1" tvg-logo="https://i.imgur.com/7JU9b5j.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",BNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a046
-#EXTINF:-1 tvg-id="BNT2.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/FyTUr9Q.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",BNT 2
+#EXTINF:-1 tvg-id="БНТ2.bg" tvg-name="BNT 2" tvg-logo="https://i.imgur.com/FyTUr9Q.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",BNT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a049
-#EXTINF:-1 tvg-id="BNT3.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/pPpSJ4u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",BNT 3
+#EXTINF:-1 tvg-id="БНТ.HD.bg" tvg-name="BNT 3" tvg-logo="https://i.imgur.com/pPpSJ4u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",BNT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03x
-#EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/Lw8b3yu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",BNT 4
+#EXTINF:-1 tvg-id="БНТ.Свят.bg" tvg-name="BNT 4" tvg-logo="https://i.imgur.com/Lw8b3yu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",BNT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04u
-#EXTINF:-1 tvg-id="BOXTV.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/swFzesA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",BOX TV
+#EXTINF:-1 tvg-id="BOXTV.bg" tvg-name="BOX TV" tvg-logo="https://i.imgur.com/swFzesA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",BOX TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0an
-#EXTINF:-1 tvg-id="bTV.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/l47z7gw.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",bTV
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV" tvg-logo="https://i.imgur.com/l47z7gw.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",bTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03w
-#EXTINF:-1 tvg-id="bTVAction.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/hGUXHuT.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",bTV Action
+#EXTINF:-1 tvg-id="bTV.Action.bg" tvg-name="bTV Action" tvg-logo="https://i.imgur.com/hGUXHuT.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",bTV Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04n
-#EXTINF:-1 tvg-id="bTVCinema.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/uV81rS4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",bTV Cinema
+#EXTINF:-1 tvg-id="bTV.Cinema.bg" tvg-name="bTV Cinema" tvg-logo="https://i.imgur.com/uV81rS4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",bTV Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04i
-#EXTINF:-1 tvg-id="bTVComedy.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/1c6A5dO.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",bTV Comedy
+#EXTINF:-1 tvg-id="bTV.Comedy.bg" tvg-name="bTV Comedy" tvg-logo="https://i.imgur.com/1c6A5dO.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",bTV Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04k
-#EXTINF:-1 tvg-id="bTVLady.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/rXBPJ1e.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",bTV Lady
+#EXTINF:-1 tvg-id="bTV.Story.bg" tvg-name="bTV Story" tvg-logo="https://i.imgur.com/rXBPJ1e.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",bTV Story
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05i
-#EXTINF:-1 tvg-id="BulgariaOnAir.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/mvShl7F.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Bulgaria On Air
+#EXTINF:-1 tvg-id="България.он.еър.bg" tvg-name="Bulgaria On Air" tvg-logo="https://i.imgur.com/mvShl7F.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Bulgaria On Air
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05x
-#EXTINF:-1 tvg-id="cinebox.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/Ff8iaVP.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",cine.box
+#EXTINF:-1 tvg-id="cinebox.bg" tvg-name="cine.box" tvg-logo="https://i.imgur.com/Ff8iaVP.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",cine.box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://212.70.131.37:8000/play/a08b
-#EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="BG/TV test",City TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="CityTV.bg" tvg-name="City TV" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="BG/TV test",City TV (576p) [Not 24/7]
 https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1 tvg-id="Diema.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/BkaZBaG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Diema
+#EXTINF:-1 tvg-id="Диема.bg" tvg-name="Diema" tvg-logo="https://i.imgur.com/BkaZBaG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Diema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a045
-#EXTINF:-1 tvg-id="DiemaFamily.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/SgNVY4d.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Diema Family
+#EXTINF:-1 tvg-id="Диема.Фемили.bg" tvg-name="Diema Family" tvg-logo="https://i.imgur.com/SgNVY4d.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Diema Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a047
-#EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="BG/TV test",DSTV (614p) [Not 24/7]
+#EXTINF:-1 tvg-id="DSTV.bg" tvg-name="DSTV" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="BG/TV test",DSTV (614p) [Not 24/7]
 http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1 tvg-id="EuronewsBulgaria.bg@SD" tvg-logo="https://i.imgur.com/RrQVoOg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" tvg-name="" group-title="BG/TV test",Euronews Bulgaria
+#EXTINF:-1 tvg-id="EuronewsBulgaria.bg" tvg-name="Euronews Bulgaria" tvg-logo="https://i.imgur.com/RrQVoOg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" tvg-name="" group-title="BG/TV test",Euronews Bulgaria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05e
-#EXTINF:-1 tvg-id="FilmBox.nl@Bulgary" tvg-name="" tvg-logo="https://i.imgur.com/VyaslIY.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox+ one Bulgary
+#EXTINF:-1 tvg-id="FilmBox.bg" tvg-name="FilmBox+ one Bulgary" tvg-logo="https://i.imgur.com/VyaslIY.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox+ one Bulgary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a06i
-#EXTINF:-1 tvg-id="FilmBoxExtra.nl@Bulgary" tvg-name="" tvg-logo="https://i.imgur.com/ML7SlIW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox+ emotion Bulgary
+#EXTINF:-1 tvg-id="FilmBox.Extra.bg" tvg-name="FilmBox+ emotion Bulgary" tvg-logo="https://i.imgur.com/ML7SlIW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox+ emotion Bulgary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04r
-#EXTINF:-1 tvg-id="FilmBoxStars.nl@Bulgary" tvg-name="" tvg-logo="https://i.imgur.com/eZFdHbR.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox Bulgary
+#EXTINF:-1 tvg-id="FilmBox.Stars.bg" tvg-name="FilmBox Bulgary" tvg-logo="https://i.imgur.com/eZFdHbR.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",FilmBox Bulgary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a066
-#EXTINF:-1 tvg-id="H2.bg@SD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",H2
+#EXTINF:-1 tvg-id="H2.bg" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",H2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03r
-#EXTINF:-1 tvg-id="History.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/6UWM2ER.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",History
+#EXTINF:-1 tvg-id="History.bg" tvg-name="History" tvg-logo="https://i.imgur.com/6UWM2ER.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c1
-#EXTINF:-1 tvg-id="HitMixMusic.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/Gbaxq6P.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Hit Mix Music
+#EXTINF:-1 tvg-id="HitMixMusic.bg" tvg-name="Hit Mix Music" tvg-logo="https://i.imgur.com/Gbaxq6P.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Hit Mix Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cl
-#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="BG/TV test",Hope Channel Bulgaria
+#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg" tvg-name="Hope Channel Bulgaria" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="BG/TV test",Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KinoNova.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/hMqEY0J.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Kino Nova
+#EXTINF:-1 tvg-id="KinoNova.bg" tvg-name="Kino Nova" tvg-logo="https://i.imgur.com/hMqEY0J.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Kino Nova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a041
-#EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/0ohnpql.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Max Sport 1
+#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="Max Sport 1" tvg-logo="https://i.imgur.com/0ohnpql.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Max Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport1
-#EXTINF:-1 tvg-id="MaxSport2.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/33m1wPN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Max Sport 2
+#EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="Max Sport 2" tvg-logo="https://i.imgur.com/33m1wPN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Max Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport2
-#EXTINF:-1 tvg-id="MaxSport3.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/eGiGgZ2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Max Sport 3
+#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="Max Sport 3" tvg-logo="https://i.imgur.com/eGiGgZ2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Max Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-id="MaxSport4.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/7IxXX6f.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Max Sport 4
+#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="https://i.imgur.com/7IxXX6f.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Max Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05n
-#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",National Geographic
+#EXTINF:-1 tvg-id="National.Geographic.Channel.bg" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0ct
-#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",National Geographic Wild
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.bg" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cu
-#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/E84jnP8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a056
-#EXTINF:-1 tvg-id="Nostalgia.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/JU1dFfK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Nostalgia
+#EXTINF:-1 tvg-id="Nostalgia.bg" tvg-name="Nostalgia" tvg-logo="https://i.imgur.com/JU1dFfK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Nostalgia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03q
-#EXTINF:-1 tvg-id="Nova.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/WCsPSLX.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Nova
+#EXTINF:-1 tvg-id="Нова.телевизия.bg" tvg-name="Nova" tvg-logo="https://i.imgur.com/WCsPSLX.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Nova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03l
-#EXTINF:-1 tvg-id="NovaNews.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/s6IryS3.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Nova News
+#EXTINF:-1 tvg-id="NOVANEWS.bg" tvg-name="Nova News" tvg-logo="https://i.imgur.com/s6IryS3.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Nova News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a063
-#EXTINF:-1 tvg-id="RING.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/1SeAhD0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",RING
+#EXTINF:-1 tvg-id="RING.BG.bg" tvg-name="RING" tvg-logo="https://i.imgur.com/1SeAhD0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",RING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a06e
-#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
-#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Star Crime
+#EXTINF:-1 tvg-id="Star.Crime.bg" tvg-name="Star Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Star Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cs
-#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Star Life
+#EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Star Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cr
-#EXTINF:-1 tvg-id="VivacomArena.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/M7QKnH3.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Vivacom Arena
+#EXTINF:-1 tvg-id="Vivacom.Arena.bg" tvg-name="Vivacom Arena" tvg-logo="https://i.imgur.com/M7QKnH3.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="BG/TV test",Vivacom Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a053
 
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw64zLJ0vlcEiz875UO2vYSOw.png" group-title="BG/TV test",BNT 1 HD
+#EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw64zLJ0vlcEiz875UO2vYSOw.png" group-title="BG/TV test",BNT 1 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4wo4G-GaU9TZoTO4HhvVa0/ts
-#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBf2Zadqlu8MsoRhEURCNhzVNTSF_KiYu4K08wG2kP7SA.png" group-title="BG/TV test",BNT 2 HD
+#EXTINF:-1 tvg-id="БНТ2.bg" tvg-name="BNT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBf2Zadqlu8MsoRhEURCNhzVNTSF_KiYu4K08wG2kP7SA.png" group-title="BG/TV test",BNT 2 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt2Y6ks6J8zALfaLcErq6kzI/ts
-#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBoasI-O_lQFp7bEfMEZ-YrPir5s4rDIY3gz5ikEEUMDE.png" group-title="BG/TV test",BNT 3 HD
+#EXTINF:-1 tvg-id="БНТ.HD.bg" tvg-name="BNT 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBoasI-O_lQFp7bEfMEZ-YrPir5s4rDIY3gz5ikEEUMDE.png" group-title="BG/TV test",BNT 3 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7HqfobNp8Va0Li_NjGBda8/ts
-#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBNWrzsPf2eme7azobUsCrGmbot1uMhrWsvY5QpOqPmQY.png" group-title="BG/TV test",BNT 4 HD
+#EXTINF:-1 tvg-id="БНТ.Свят.bg" tvg-name="BNT 4 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBNWrzsPf2eme7azobUsCrGmbot1uMhrWsvY5QpOqPmQY.png" group-title="BG/TV test",BNT 4 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt04s5YXZrhTrElV1kI215SU/ts
 #EXTINF:-1 tvg-id="bTV.bg" tvg-name="BTV HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6pgDwC_VrDJd2q-5ySDyEpFg8r8NakNhHzxwODasQhRU.png" group-title="BG/TV test",BTV HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-qCx6IvseOE0tUaC8uvIS4/ts
 #EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-name="BULGARIA 24" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6BYyswYJs2gGU1GKRAxrLPkP0FlQe5nivwfvM52pFWMg.png" group-title="BG/TV test",BULGARIA 24
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxrRCExozjJHkgCf7m3e_Bc/ts
-#EXTINF:-1 tvg-id="Bulgariaonair.bg" tvg-name="BULGARIA ON AIR" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6dL50q0zXwW20zA3hHh6cHsAQobtrVZRXEXVKNMsTXFo.png" group-title="BG/TV test",BULGARIA ON AIR
+#EXTINF:-1 tvg-id="България.он.еър.bg" tvg-name="BULGARIA ON AIR" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6dL50q0zXwW20zA3hHh6cHsAQobtrVZRXEXVKNMsTXFo.png" group-title="BG/TV test",BULGARIA ON AIR
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt8RSM3RXSGR9GiHz-Bk5AEs/ts
-#EXTINF:-1 tvg-id="Bloomberg.bg" tvg-name="BLOOMBERG" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6eyMLkluNL_8QIzlhTVXAfYVDBcKENM2K2qL7x6nGikQ.png" group-title="BG/TV test",BLOOMBERG
+#EXTINF:-1 tvg-id="Bloomberg.TV.Bulgaria.bg" tvg-name="BLOOMBERG" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6eyMLkluNL_8QIzlhTVXAfYVDBcKENM2K2qL7x6nGikQ.png" group-title="BG/TV test",BLOOMBERG
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt51LpX84Ce0NHb503Hm3Xc8/ts
-#EXTINF:-1 tvg-id="Skat.bg" tvg-name="SKAT" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzt3Owj6Z7NuKPswL9MUgjTMN2br6F5QTis7fuxCyWz3mw.png" group-title="BG/TV test",SKAT
+#EXTINF:-1 tvg-id="СКАТ.bg" tvg-name="SKAT" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzt3Owj6Z7NuKPswL9MUgjTMN2br6F5QTis7fuxCyWz3mw.png" group-title="BG/TV test",SKAT
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt8g9ZoYnHnw5JyYJMT36ZH8/ts
-#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="MAX SPORT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVNnTlwkx5ZmljqQ5FzA4QjdlTb-oHHUiSIV_vjasG0g.png" group-title="BG/TV test",MAX SPORT 1 HD
+#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX SPORT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVNnTlwkx5ZmljqQ5FzA4QjdlTb-oHHUiSIV_vjasG0g.png" group-title="BG/TV test",MAX SPORT 1 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxQeCnehiQJWP4VWNyOO2xY/ts
-#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="MAX SPORT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfa7vzjAUagty8bfoEhGl99A.png" group-title="BG/TV test",MAX SPORT 2 HD
+#EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="MAX SPORT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfa7vzjAUagty8bfoEhGl99A.png" group-title="BG/TV test",MAX SPORT 2 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0KOPJ_ePhs6K5pVyB9KxL4/ts
-#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="MAX SPORT 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzszrybKpPWLt191ZydixvCwkxrngfTD7xPDXcunXOE_bdw5k7WBFblnVl25wph5B6A.png" group-title="BG/TV test",MAX SPORT 3 HD
+#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX SPORT 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzszrybKpPWLt191ZydixvCwkxrngfTD7xPDXcunXOE_bdw5k7WBFblnVl25wph5B6A.png" group-title="BG/TV test",MAX SPORT 3 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_iFuNsjJz3Gojb0Tbc5tg0/ts
-#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="MAX SPORT 4 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVTq2C5zcFfM1O9p2qivvsg.png" group-title="BG/TV test",MAX SPORT 4 HD
+#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="MAX SPORT 4 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVTq2C5zcFfM1O9p2qivvsg.png" group-title="BG/TV test",MAX SPORT 4 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_0BlAWhxUhKeutSjF7G-uA/ts
-#EXTINF:-1 tvg-id="DiemaSport1.bg" tvg-name="DIEMA SPORT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT 1 HD
+#EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="DIEMA SPORT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT 1 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4v2f7TauKwtXNu_OyRRTqw/ts
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="DIEMA SPORT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT 2 HD
+#EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="DIEMA SPORT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT 2 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4oPNAemNrSGtRcHv3NGuv4/ts
-#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-name="DIEMA SPORT 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT 3 HD
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="DIEMA SPORT 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT 3 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4JlHt9QidRKRGxIZa6W5W0/ts
-#EXTINF:-1 tvg-id="NovaSport.bg" tvg-name="NOVA SPORT HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPj3YDORNFF8yotFjs1NzJ-w.png" group-title="BG/TV test",NOVA SPORT HD
+#EXTINF:-1 tvg-id="Нова.Спорт.bg" tvg-name="NOVA SPORT HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPj3YDORNFF8yotFjs1NzJ-w.png" group-title="BG/TV test",NOVA SPORT HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_ZHioiK4aovz7UkpkVPp9U/ts
 #EXTINF:-1 tvg-id="Ring.bg" tvg-name="RING HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvypXPiByyPJcmCSRD7_gw367QEJGsdqqz4JO5-K42VMyCPxgA3Bx4jU5d7Bqqs7Uc.png" group-title="BG/TV test",RING HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-WSrFJmph9HiIHDlewujzI/ts
-#EXTINF:-1 tvg-id="Eurosport1.bg" tvg-name="EUROSPORT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzskWQuDu34NmAf2B8CV1TB7LJw2k-L2ZGpyM54OJILoLQ.png" group-title="BG/TV test",EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="Eurosport.bg" tvg-name="EUROSPORT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzskWQuDu34NmAf2B8CV1TB7LJw2k-L2ZGpyM54OJILoLQ.png" group-title="BG/TV test",EUROSPORT 1 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt72kuR4s4aIZx5kQmHtIItY/ts
-#EXTINF:-1 tvg-id="Eurosport2.bg" tvg-name="EUROSPORT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzskWQuDu34NmAf2B8CV1TB7GIXVI0e3Bo07Vyd01b2gzDC_3tJMsYnXajJ-0ynShAI.png" group-title="BG/TV test",EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="Eurosport.2.bg" tvg-name="EUROSPORT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzskWQuDu34NmAf2B8CV1TB7GIXVI0e3Bo07Vyd01b2gzDC_3tJMsYnXajJ-0ynShAI.png" group-title="BG/TV test",EUROSPORT 2 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_3DjL3kzmjA4xOuWkXvnbU/ts
 #EXTINF:-1 tvg-id="TraceSportStars.int" tvg-name="TRACE SPORTS STARS HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvCagyi6VkD3PPQN6NmVtdOxZimzM_J07GmpOW_hiOf-w.png" group-title="BG/TV test",TRACE SPORTS STARS HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4xHojg439VLOapfbXbaezE/ts
@@ -1112,39 +1112,39 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt1MATeWWPRp5vgIGAHD3g3w/ts
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltwH0Ey3fK3_f13S_2-jVH28/ts
 #EXTINF:-1 tvg-id="HBO.bg" tvg-name="HBO HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzscqlUcqfFTEWbqbGxKv9yhIPy34Yz1_YdprK8C0aGy7A.png" group-title="BG/TV test",HBO HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7RQsbs8XtqMYEJiILBgano/ts
-#EXTINF:-1 tvg-id="HBO2.bg" tvg-name="HBO 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs0vDndMGjJQi7skx6ZQIefau1U0jCAmk8c7wSe8wSiKw.png" group-title="BG/TV test",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO.Comedy.bg" tvg-name="HBO 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs0vDndMGjJQi7skx6ZQIefau1U0jCAmk8c7wSe8wSiKw.png" group-title="BG/TV test",HBO 2 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9qyFV2XuTdPVEGdUj7jljk/ts
-#EXTINF:-1 tvg-id="HBO3.bg" tvg-name="HBO 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzscqlUcqfFTEWbqbGxKv9yhhu9Gzw0FrhprQSHeK9jJCA.png" group-title="BG/TV test",HBO 3 HD
+#EXTINF:-1 tvg-id="HBO.3.bg" tvg-name="HBO 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzscqlUcqfFTEWbqbGxKv9yhhu9Gzw0FrhprQSHeK9jJCA.png" group-title="BG/TV test",HBO 3 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt8CANxyhjMv6z9TJhdKoOdc/ts
 #EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="CINEMAX HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztG8cdZ8SK2GrYDLykjK9TmxI-5Q-BJzcYvKvs4AVILjA.png" group-title="BG/TV test",CINEMAX HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9Ya_8hy0d_w9pMT5ZwsZZs/ts
-#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-name="CINEMAX 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztG8cdZ8SK2GrYDLykjK9TmqljBQuCsD3YR8Y1h_mYk5A.png" group-title="BG/TV test",CINEMAX 2 HD
+#EXTINF:-1 tvg-id="Cinemax.2.bg" tvg-name="CINEMAX 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztG8cdZ8SK2GrYDLykjK9TmqljBQuCsD3YR8Y1h_mYk5A.png" group-title="BG/TV test",CINEMAX 2 HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltx_31m1aiQbZpfnuRSiitOY/ts
 #EXTINF:-1 tvg-id="Cinebox.bg" tvg-name="CINEBOX HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs_96w2psBmreBWjpiFZMCfI5Doi3n01_Z1ipoTk2JA9A.png" group-title="BG/TV test",CINEBOX HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5WKrEvx_oQarKJGdVBmcXY/ts
 #EXTINF:-1 tvg-id="Actionbox.bg" tvg-name="ACTION BOX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/ACTION BOX HD.png" group-title="BG/TV test",ACTION BOX HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltyb36KXQemcbLfThzXM2hQ4/ts
-#EXTINF:-1 tvg-id="bTVCinema.bg" tvg-name="bTV CINEMA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6tPwSc2AcX1XU_mskKS-E6pE3osJ03DuwKp5auVGHM8Q.png" group-title="BG/TV test",bTV CINEMA
+#EXTINF:-1 tvg-id="bTV.Cinema.bg" tvg-name="bTV CINEMA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6tPwSc2AcX1XU_mskKS-E6pE3osJ03DuwKp5auVGHM8Q.png" group-title="BG/TV test",bTV CINEMA
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltyS_YMcvv5Osa3QVqRBhYXA/ts
-#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV ACTION HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzu8BbriXKtp3viz8gBkBVrpADXN6sDrHZ64dCAO20sveg.png" group-title="BG/TV test",bTV ACTION HD
+#EXTINF:-1 tvg-id="bTV.Action.bg" tvg-name="bTV ACTION HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzu8BbriXKtp3viz8gBkBVrpADXN6sDrHZ64dCAO20sveg.png" group-title="BG/TV test",bTV ACTION HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4WMASGJ5a0PYErMiD5wcxg/ts
-#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="bTV COMEDY HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw63Kb4HgJLi8RfzIDqz9BL2eC9vFUYUD5i1Km9tmdrsdA.png" group-title="BG/TV test",bTV COMEDY HD
+#EXTINF:-1 tvg-id="bTV.Comedy.bg" tvg-name="bTV COMEDY HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw63Kb4HgJLi8RfzIDqz9BL2eC9vFUYUD5i1Km9tmdrsdA.png" group-title="BG/TV test",bTV COMEDY HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_0xB-coTiqB4DLcKmnJR0o/ts
-#EXTINF:-1 tvg-id="bTVLady.bg" tvg-name="bTV LADY" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw67MNgmN6TOaDCSeU-tjReG3kbg2PVSoDBEEwXObq0xEQ.png" group-title="BG/TV test",bTV LADY
+#EXTINF:-1 tvg-id="bTV.Story.bg" tvg-name="bTV Story" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw67MNgmN6TOaDCSeU-tjReG3kbg2PVSoDBEEwXObq0xEQ.png" group-title="BG/TV test",bTV Story
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9y_pJUlnYMMInP-ETtg1S8/ts
-#EXTINF:-1 tvg-id="Filmbox+Emotion.bg" tvg-name="FILMBOX+ emotion" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs14WTcOjTBN2CLcCTYOlzKZieKKTva5eJEoV6qlnUA9g.png" group-title="BG/TV test",FILMBOX+ emotion
+#EXTINF:-1 tvg-id="Filmbox+.Emotion.bg" tvg-name="FILMBOX+ emotion" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs14WTcOjTBN2CLcCTYOlzKZieKKTva5eJEoV6qlnUA9g.png" group-title="BG/TV test",FILMBOX+ emotion
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6XygmBl0ICb-01A1h33TMs/ts
-#EXTINF:-1 tvg-id="FilmboxStars.bg" tvg-name="FILMBOX STARS" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztRQmpXZP1hcP1MtA27nYeIo9nyKOJBYnRI-VDT_TGfFQ.png" group-title="BG/TV test",FILMBOX STARS
+#EXTINF:-1 tvg-id="Filmbox.Stars.bg" tvg-name="FILMBOX STARS" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztRQmpXZP1hcP1MtA27nYeIo9nyKOJBYnRI-VDT_TGfFQ.png" group-title="BG/TV test",FILMBOX STARS
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0ukl_TjX23Xu1WCJxB5rtA/ts
-#EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-name="DIEMA FAMILY" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcXgtjctwJ4CvdQ_CuL1_pNdsojBZB-UvJtZb_sh92ADsXelwBECT8j6d1tBTtOs6Qk.png" group-title="BG/TV test",DIEMA FAMILY
+#EXTINF:-1 tvg-id="Диема.Фемили.bg" tvg-name="DIEMA FAMILY" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcXgtjctwJ4CvdQ_CuL1_pNdsojBZB-UvJtZb_sh92ADsXelwBECT8j6d1tBTtOs6Qk.png" group-title="BG/TV test",DIEMA FAMILY
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzPuykwoK-MQiTayqqoXZ_E/ts
 #EXTINF:-1 tvg-id="KinoNova.bg" tvg-name="KINO NOVA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvhgfa7lGLQZJipZKWH-qHUTEa6w9-lvfPADOQdxEJTyw.png" group-title="BG/TV test",KINO NOVA
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0l6XNubpeoRd6IynNPsStc/ts
-#EXTINF:-1 tvg-id="DisneiChannel.bg" tvg-name="DISNEY CHANNEL" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX4UTDu81fCkQBhxD3GGhcKul00GX14hrrSWof6OrYyYc.png" group-title="BG/TV test",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="Disney.Channel.bg" tvg-name="DISNEY CHANNEL" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX4UTDu81fCkQBhxD3GGhcKul00GX14hrrSWof6OrYyYc.png" group-title="BG/TV test",DISNEY CHANNEL
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt3CjZEC8czaLKLzDIyiDaJY/ts
-#EXTINF:-1 tvg-id="DisneiJunior.bg" tvg-name="DISNEY JUNIOR" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcXWrJ20TXBx3ukLD2xQJ9wxDvsxVDmERuVedkx9cT0Hyo.png" group-title="BG/TV test",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="Disney.Junior.bg" tvg-name="DISNEY JUNIOR" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcXWrJ20TXBx3ukLD2xQJ9wxDvsxVDmERuVedkx9cT0Hyo.png" group-title="BG/TV test",DISNEY JUNIOR
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt43xzv1apjyOYz65lDrvqmg/ts
-#EXTINF:-1 tvg-id="Nick.bg" tvg-name="NICK" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPTKMmZfBIukON_DWkA9NOKw.png" group-title="BG/TV test",NICK
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPTKMmZfBIukON_DWkA9NOKw.png" group-title="BG/TV test",Nickelodeon
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-bq8VXQ6H6n2HO8f2q20_E/ts
 #EXTINF:-1 tvg-id="JimJam.bg" tvg-name="JIM JAM" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuFIdgoi0a6xOB-hjUH0Oa1ZIT8K7Dsrl6bBoFz3eLcMA.png" group-title="BG/TV test",JIM JAM
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt2IkmhBW80jTq6WB3HCiCEo/ts
@@ -1152,7 +1152,7 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt2IkmhBW80jTq6WB3HCiCEo/ts
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt63u5MJz40WS3SdfYXOFw7E/ts
 #EXTINF:-1 tvg-id="EKids.bg" tvg-name="E-KIDS" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzskWQuDu34NmAf2B8CV1TB7uMn3D7ln4K3fY9TGMHgnhw.png" group-title="BG/TV test",E-KIDS
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9Kixh11tQiE8akYxvoCdYc/ts
-#EXTINF:-1 tvg-id="Nova.bg" tvg-name="NOVA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPcsayqkzZk8N82yXXeZz--9DO6-IYYjQ9vxUnJAKCOlA.png" group-title="BG/TV test",NOVA
+#EXTINF:-1 tvg-id="Нова.телевизия.bg" tvg-name="NOVA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPcsayqkzZk8N82yXXeZz--9DO6-IYYjQ9vxUnJAKCOlA.png" group-title="BG/TV test",NOVA
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_wQtg82uASC3ENcnq0tIJ8/ts
 #EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="STAR CHANNEL HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztRQmpXZP1hcP1MtA27nYeIgd7NikyuP0jdj5GCWObNvQ.png" group-title="BG/TV test",STAR CHANNEL HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5HeOD8ROmVWEVscR5TLmMI/ts
@@ -1166,37 +1166,37 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt8nKOqtmJLI8-CT9x9L4gyY/ts
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltx8UzfvrSTi2Zff2zck2ELs/ts
 #EXTINF:-1 tvg-id="CBSReality.bg" tvg-name="CBS REALITY" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztG8cdZ8SK2GrYDLykjK9TmC7jYUTEeakVULmLKCbyXfQ.png" group-title="BG/TV test",CBS REALITY
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltwIxyYZWXMg3IVj-K70u8Jo/ts
-#EXTINF:-1 tvg-id="EpicDrama.bg" tvg-name="EPIC DRAMA HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzskWQuDu34NmAf2B8CV1TB7rm_73pv5NY3h6tXB1-y3Xw.png" group-title="BG/TV test",EPIC DRAMA HD
+#EXTINF:-1 tvg-id="Epic.Drama.bg" tvg-name="EPIC DRAMA HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzskWQuDu34NmAf2B8CV1TB7rm_73pv5NY3h6tXB1-y3Xw.png" group-title="BG/TV test",EPIC DRAMA HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltwd7Px5byPSbIhLtld6ICOo/ts
-#EXTINF:-1 tvg-id="NGC.bg" tvg-name="NGC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/NGC HD.png" group-title="BG/TV test",NGC HD
+#EXTINF:-1 tvg-id="National.Geographic.Channel.bg" tvg-name="NGC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/NGC HD.png" group-title="BG/TV test",NGC HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6pay4eqJAe1qQ04i8t6DvA/ts
-#EXTINF:-1 tvg-id="NGCWild.bg" tvg-name="NGC WILD HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztnV8SKQbq25SDj62ukLh5WP7id-GMMd-OOQXMM03BNZg.png" group-title="BG/TV test",NGC WILD HD
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.bg" tvg-name="NGC WILD HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztnV8SKQbq25SDj62ukLh5WP7id-GMMd-OOQXMM03BNZg.png" group-title="BG/TV test",NGC WILD HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt1PQqiQDgLAxD1d75EyIG2c/ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvyPljVZp2YN7zrchcERcrZU-LoKf3tWYCTtW9wlMf9JHCoNX_WoPT6BinXCo3uRFM.png" group-title="BG/TV test",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="Discovery.Channel.bg" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvyPljVZp2YN7zrchcERcrZU-LoKf3tWYCTtW9wlMf9JHCoNX_WoPT6BinXCo3uRFM.png" group-title="BG/TV test",DISCOVERY CHANNEL HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzxACWUzxwwm2a7c-Wn2aKM/ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.bg" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsoGKgBgEMly236zuQmMZQaLm8vZoOX0ZXqEUtHs2drdOu6olF44czp1YKG6fufbCc.png" group-title="BG/TV test",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="Investigation.Discovery.bg" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsoGKgBgEMly236zuQmMZQaLm8vZoOX0ZXqEUtHs2drdOu6olF44czp1YKG6fufbCc.png" group-title="BG/TV test",INVESTIGATION DISCOVERY
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4KHGuN9joyVL_dBGVwJ9pQ/ts
 #EXTINF:-1 tvg-id="History.bg" tvg-name="HISTORY HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzscqlUcqfFTEWbqbGxKv9yhxpPzPhQLyALaA3Wxi_eT3A.png" group-title="BG/TV test",HISTORY HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt3YncsU8uEPqQlJx45V7G4w/ts
 #EXTINF:-1 tvg-id="LoveNature.bg" tvg-name="LOVE NATURE HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvKYXgLFAciNFhkSOfx7_8FbQcVV1p3QFVuIwzo9uXSSjNgIOqlrDx1PnZZabNiLeU.png" group-title="BG/TV test",LOVE NATURE HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-2kN4xBb6G7mp96NLvpf2U/ts
-#EXTINF:-1 tvg-id="TravelChannel.bg" tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzshszVybfmvpeARb88joouBwXj93oDO4DvbOWN0qxkb2hL9Io8jZkjJxDgBQECMZCFUnaKRiHiUuU9WWXALumP1.png" group-title="BG/TV test",TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-id="Travel.Channel.bg" tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzshszVybfmvpeARb88joouBwXj93oDO4DvbOWN0qxkb2hL9Io8jZkjJxDgBQECMZCFUnaKRiHiUuU9WWXALumP1.png" group-title="BG/TV test",TRAVEL CHANNEL HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt1hdLkSUqBOSu_vOjrt7G2E/ts
-#EXTINF:-1 tvg-id="24Kitchen.bg" tvg-name="24KITCHEN HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuv6kuO0UkR2HSL79Q-PUwsWvZQ3LQfrjter7y_8fh34w.png" group-title="BG/TV test",24KITCHEN HD
+#EXTINF:-1 tvg-id="24kitchen.bg" tvg-name="24KITCHEN HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuv6kuO0UkR2HSL79Q-PUwsWvZQ3LQfrjter7y_8fh34w.png" group-title="BG/TV test",24KITCHEN HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzrIVdg_v7wf4BbmuCUmVIM/ts
-#EXTINF:-1 tvg-id="TLC.bg" tvg-name="TLC HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv4kHWbzvYKdt3GayJ96F7kR09L8QET7CCg19PFHL1drg.png" group-title="BG/TV test",TLC HD
+#EXTINF:-1 tvg-id="TLC.Balkans.bg" tvg-name="TLC HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv4kHWbzvYKdt3GayJ96F7kR09L8QET7CCg19PFHL1drg.png" group-title="BG/TV test",TLC HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltwhTGbjfd8WXCwhbEpcOJcY/ts
-#EXTINF:-1 tvg-id="FoodNetwork.bg" tvg-name="FOOD NETWORK HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzslpIxYIvQ1O1H2n1ugrkA7AHeOfencVu6_e6Toj05Tv9q8moK0rZFs51o0w02Txmg.png" group-title="BG/TV test",FOOD NETWORK HD
+#EXTINF:-1 tvg-id="Food.Network.HD.bg" tvg-name="FOOD NETWORK HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzslpIxYIvQ1O1H2n1ugrkA7AHeOfencVu6_e6Toj05Tv9q8moK0rZFs51o0w02Txmg.png" group-title="BG/TV test",FOOD NETWORK HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt3fhbC27tX56mGviizMWpqQ/ts
-#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="VIASAT NATURE" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs_I0PnLzPorXUXMtnDUpa6uZx1Ss2QzkCQk_EZgDOv1f2XjQiK2B3vhQ9U9fs834w.png" group-title="BG/TV test",VIASAT NATURE
+#EXTINF:-1 tvg-id="Viasat.Nature.bg" tvg-name="VIASAT NATURE" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs_I0PnLzPorXUXMtnDUpa6uZx1Ss2QzkCQk_EZgDOv1f2XjQiK2B3vhQ9U9fs834w.png" group-title="BG/TV test",VIASAT NATURE
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltz7zqZmsJcEwt6B6uutQ9Hw/ts
-#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-name="VIASAT HISTORY HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs_I0PnLzPorXUXMtnDUpa6IfW0JCiR0mYRogpePd7eS3-b_W9GnImjFF1xS0eAecA.png" group-title="BG/TV test",VIASAT HISTORY HD
+#EXTINF:-1 tvg-id="Viasat.History.bg" tvg-name="VIASAT HISTORY HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs_I0PnLzPorXUXMtnDUpa6IfW0JCiR0mYRogpePd7eS3-b_W9GnImjFF1xS0eAecA.png" group-title="BG/TV test",VIASAT HISTORY HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5EfdLOzjQcJ5fKT2pTsDfY/ts
-#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-name="VIASAT EXPLORE" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs_I0PnLzPorXUXMtnDUpa60G6rhBKyyaSwEfK5KhUrX_1SBi_ATqh9PJ3KXoZ7ddw.png" group-title="BG/TV test",VIASAT EXPLORE
+#EXTINF:-1 tvg-id="Viasat.Explore.bg" tvg-name="VIASAT EXPLORE" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs_I0PnLzPorXUXMtnDUpa60G6rhBKyyaSwEfK5KhUrX_1SBi_ATqh9PJ3KXoZ7ddw.png" group-title="BG/TV test",VIASAT EXPLORE
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltwxv2WEUYw_bI85x4YsQxyk/ts
-#EXTINF:-1 tvg-id="Planeta.bg" tvg-name="PLANETA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs70DESNqCoh-VK8tQXouB5A0I8Do0CbrGJpIPE7B6JFw.png" group-title="BG/TV test",PLANETA
+#EXTINF:-1 tvg-id="Планета.bg" tvg-name="PLANETA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs70DESNqCoh-VK8tQXouB5A0I8Do0CbrGJpIPE7B6JFw.png" group-title="BG/TV test",PLANETA
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzKPrgb5XwBbkhPYnSiW9HE/ts
-#EXTINF:-1 tvg-id="PlanetaFolk.bg" tvg-name="PLANETA FOLK" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs70DESNqCoh-VK8tQXouB57ajxeO64ycMb7nmUdwVxsA.png" group-title="BG/TV test",PLANETA FOLK
+#EXTINF:-1 tvg-id="Планета.Фолк.bg" tvg-name="PLANETA FOLK" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs70DESNqCoh-VK8tQXouB57ajxeO64ycMb7nmUdwVxsA.png" group-title="BG/TV test",PLANETA FOLK
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_CzJKXriuWQNsiU0TfPW4U/ts
 #EXTINF:-1 tvg-id="FenFolk.bg" tvg-name="FEN FOLK" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztRQmpXZP1hcP1MtA27nYeILVZCyhgAFKq7U_Wb1P9nTg.png" group-title="BG/TV test",FEN FOLK
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt36OlJtKwb-lZslHqIC-VQo/ts
@@ -1206,59 +1206,59 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-wiyBUMsESGWmanxRm3rcc/ts
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4BnhUscdhcOmTqM5uLFTpU/ts
 #EXTINF:-1 tvg-id="TiankovFolk.bg" tvg-name="TIANKOV FOLK" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv4kHWbzvYKdt3GayJ96F7kvQyc-U-sfc2PFb-cvH6pIQ.png" group-title="BG/TV test",TIANKOV FOLK
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5FiVBAX40WBl9wCmmCVRtY/ts
-#EXTINF:-1 tvg-id="TheVoice.bg" tvg-name="THE VOICE" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvCagyi6VkD3PPQN6NmVtdO1Xa55wf77LoZAEibqxIDnw.png" group-title="BG/TV test",THE VOICE
+#EXTINF:-1 tvg-id="The.Voice.bg" tvg-name="THE VOICE" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvCagyi6VkD3PPQN6NmVtdO1Xa55wf77LoZAEibqxIDnw.png" group-title="BG/TV test",THE VOICE
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7pyX7CFBo9P8DPoZBV83MI/ts
 #EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuDWanoJ2MI1o6KtlSHjCw6pgDwC_VrDJd2q-5ySDyEpFg8r8NakNhHzxwODasQhRU.png" group-title="BG/TV test",bTV
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_CMMNaLvxxxguO-nqpmoys/ts
-#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBoasI-O_lQFp7bEfMEZ-YrPir5s4rDIY3gz5ikEEUMDE.png" group-title="BG/TV test",BNT 3
+#EXTINF:-1 tvg-id="БНТ.HD.bg" tvg-name="BNT 3" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBoasI-O_lQFp7bEfMEZ-YrPir5s4rDIY3gz5ikEEUMDE.png" group-title="BG/TV test",BNT 3
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6IT4KMdG3Zdlyyg4aJCygk/ts
-#EXTINF:-1 tvg-id="Balkanika.bg" tvg-name="BALKANIKA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzu8BbriXKtp3viz8gBkBVrpx5zvGPC_tSTYzq2toDZrnQ.png" group-title="BG/TV test",BALKANIKA
+#EXTINF:-1 tvg-id="Balkanika.MTV.bg" tvg-name="BALKANIKA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzu8BbriXKtp3viz8gBkBVrpx5zvGPC_tSTYzq2toDZrnQ.png" group-title="BG/TV test",BALKANIKA
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzry-8AiJS6j3YUueU4Geqk/ts
-#EXTINF:-1 tvg-id="FENTV.bg" tvg-name="FEN TV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBcz534-bInUsaqZEX_6u_cQ48xiyuFfv-diuB4ePH3rY.png" group-title="BG/TV test",FEN TV
+#EXTINF:-1 tvg-id="Фен.ТВ.bg" tvg-name="FEN TV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBcz534-bInUsaqZEX_6u_cQ48xiyuFfv-diuB4ePH3rY.png" group-title="BG/TV test",FEN TV
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5_GGNXOMsOnVWc-bkQdQaU/ts
-#EXTINF:-1 tvg-id="AnimalPlanet.bg" tvg-name="ANIMAL PLANET" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuv6kuO0UkR2HSL79Q-PUwsB4D6JMG99TykTntwJ-dL3Vq_Mc3D1Z3kMG0UqXI2CJQ.png" group-title="BG/TV test",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal.Planet.bg" tvg-name="ANIMAL PLANET" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuv6kuO0UkR2HSL79Q-PUwsB4D6JMG99TykTntwJ-dL3Vq_Mc3D1Z3kMG0UqXI2CJQ.png" group-title="BG/TV test",ANIMAL PLANET
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt2OqJysKdcCmTXNvb0N5pC0/ts
-#EXTINF:-1 tvg-id="7/8TV.bg" tvg-name="7/8 TV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuQfOr4GT-DcUsUH5jWjztFCk5maPZYMZ8OFrmR67Izlw.png" group-title="BG/TV test",7/8 TV
+#EXTINF:-1 tvg-id="ТВ.78.bg" tvg-name="7/8 TV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzuQfOr4GT-DcUsUH5jWjztFCk5maPZYMZ8OFrmR67Izlw.png" group-title="BG/TV test",7/8 TV
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0c9z4QikXdPx0EM5w4sbW4/ts
-#EXTINF:-1 tvg-id="AXNBlack.bg" tvg-name="AXN BLACK" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvX0iZOc-DCpj9c4UJwfASHs1cMRcUwsEvuX1TjYTgAtA.png" group-title="BG/TV test",AXN BLACK
+#EXTINF:-1 tvg-id="AXN.Black.bg" tvg-name="AXN BLACK" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvX0iZOc-DCpj9c4UJwfASHs1cMRcUwsEvuX1TjYTgAtA.png" group-title="BG/TV test",AXN BLACK
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzrwxJyfNQo34BMmfNc6AFo/ts
-#EXTINF:-1 tvg-id="AXNWhite.bg" tvg-name="AXN WHITE" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvoEmPfTK7Pwlk0_ulJxIxBFuIKl4PkOYjCvoVlMYs0CTlV3lmsPZjryej0yQEBpBg.png" group-title="BG/TV test",AXN WHITE
+#EXTINF:-1 tvg-id="AXN.White.bg" tvg-name="AXN WHITE" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvoEmPfTK7Pwlk0_ulJxIxBFuIKl4PkOYjCvoVlMYs0CTlV3lmsPZjryej0yQEBpBg.png" group-title="BG/TV test",AXN WHITE
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt2p7BW7UhUIm16hf8I1_xss/ts
-#EXTINF:-1 tvg-id="NovaNews.bg" tvg-name="NOVA NEWS" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztnV8SKQbq25SDj62ukLh5WECS3T77fWStGsLFcAUAO1Q.png" group-title="BG/TV test",NOVA NEWS
+#EXTINF:-1 tvg-id="NOVANEWS.bg" tvg-name="NOVA NEWS" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztnV8SKQbq25SDj62ukLh5WECS3T77fWStGsLFcAUAO1Q.png" group-title="BG/TV test",NOVA NEWS
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt85_KrT4YX9vJdMTYjkjHsE/ts
-#EXTINF:-1 tvg-id="CartoonNetwork.bg" tvg-name="CARTOON NETWORK" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztG8cdZ8SK2GrYDLykjK9TmkOZSjoUnEdI27a3IzhNa0HONqeE272y7JtxtzPkqi8w.png" group-title="BG/TV test",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon.Network.bg" tvg-name="CARTOON NETWORK" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztG8cdZ8SK2GrYDLykjK9TmkOZSjoUnEdI27a3IzhNa0HONqeE272y7JtxtzPkqi8w.png" group-title="BG/TV test",CARTOON NETWORK
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-kd3zBE9RPKRr3PbjW8BfY/ts
-#EXTINF:-1 tvg-id="NickJunior.bg" tvg-name="NICK JR" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPn553trdGFsQI0pk7NmnN0l-EYOZcUFSOCfm1pZiX_xA.png" group-title="BG/TV test",NICK JR
+#EXTINF:-1 tvg-id="Nick.Jr.bg" tvg-name="NICK JR" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPn553trdGFsQI0pk7NmnN0l-EYOZcUFSOCfm1pZiX_xA.png" group-title="BG/TV test",NICK JR
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4BOYMkBjxogI_mJ2aPwyHk/ts
-#EXTINF:-1 tvg-id="ViasatKino.bg" tvg-name="Viasat Kino" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv4kHWbzvYKdt3GayJ96F7kqWfnu665qL_BGrp5wneozw.png" group-title="BG/TV test",Viasat Kino
+#EXTINF:-1 tvg-id="Viasat.TV.1000.bg" tvg-name="Viasat Kino" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv4kHWbzvYKdt3GayJ96F7kqWfnu665qL_BGrp5wneozw.png" group-title="BG/TV test",Viasat Kino
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_o3sDO9kLhIoSbiqC4GlyA/ts
 #EXTINF:-1 tvg-id="ArenaComedy.bg" tvg-name="ARENA COMEDY" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs_96w2psBmreBWjpiFZMCfV-v7WE_UFui-eIMs1cgnrg.png" group-title="BG/TV test",ARENA COMEDY 
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt88UCWnBYxXgaAoTwEwpu_g/ts
-#EXTINF:-1 tvg-id="MovieStar.bg" tvg-name="MOVIE STAR" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzszrybKpPWLt191ZydixvCwrGIcnEBcAqqgSmwuWxX5Tg.png" group-title="BG/TV test",MOVIE STAR
+#EXTINF:-1 tvg-id="MovieSTAR.bg" tvg-name="MOVIE STAR" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzszrybKpPWLt191ZydixvCwrGIcnEBcAqqgSmwuWxX5Tg.png" group-title="BG/TV test",MOVIE STAR
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt941Og151-NUC8AopHBN1js/ts
-#EXTINF:-1 tvg-id="Evrokom.bg" tvg-name="EVROKOM" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvbkY8ROBHlDaHE9fKtxNKDsrb6S-lEpwjhLMqWSV7uMg.png" group-title="BG/TV test",EVROKOM
+#EXTINF:-1 tvg-id="Евроком.НКТВ.bg" tvg-name="EVROKOM" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvbkY8ROBHlDaHE9fKtxNKDsrb6S-lEpwjhLMqWSV7uMg.png" group-title="BG/TV test",EVROKOM
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0E0hjMqY69XTtcmW_ne0ok/ts
 #EXTINF:-1 tvg-id="TV1.bg" tvg-name="TV1" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv4kHWbzvYKdt3GayJ96F7kSXLX_whbsACQzZhthDF96w.png" group-title="BG/TV test",TV1
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt1IS5tGTUpA8eSJBY-XQgto/ts
-#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="MAX SPORT 1" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVNnTlwkx5ZmljqQ5FzA4QjdlTb-oHHUiSIV_vjasG0g.png" group-title="BG/TV test",MAX SPORT 1
+#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX SPORT 1" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVNnTlwkx5ZmljqQ5FzA4QjdlTb-oHHUiSIV_vjasG0g.png" group-title="BG/TV test",MAX SPORT 1
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltw7SZM0uYIr8m0OPyynvUv0/ts
-#EXTINF:-1 tvg-id="MaxSPORT2.BG" tvg-name="MAX SPORT 2" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfa7vzjAUagty8bfoEhGl99A.png" group-title="BG/TV test",MAX SPORT 2
+#EXTINF:-1 tvg-id="Max.SPORT.2.BG" tvg-name="MAX SPORT 2" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfa7vzjAUagty8bfoEhGl99A.png" group-title="BG/TV test",MAX SPORT 2
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxuWjfB90EPusSkq6He1Tz4/ts
-#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="MAX SPORT 3" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzszrybKpPWLt191ZydixvCwkxrngfTD7xPDXcunXOE_bdw5k7WBFblnVl25wph5B6A.png" group-title="BG/TV test",MAX SPORT 3
+#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX SPORT 3" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzszrybKpPWLt191ZydixvCwkxrngfTD7xPDXcunXOE_bdw5k7WBFblnVl25wph5B6A.png" group-title="BG/TV test",MAX SPORT 3
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxbM00EvaAPmvBJB3gPmlAk/ts
-#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="MAX SPORT 4" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVTq2C5zcFfM1O9p2qivvsg.png" group-title="BG/TV test",MAX SPORT 4
+#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="MAX SPORT 4" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVTq2C5zcFfM1O9p2qivvsg.png" group-title="BG/TV test",MAX SPORT 4
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt8nsk3wgT5HmbX93Ec_cdvI/ts
-#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="DIEMA SPORT" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT
+#EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="DIEMA SPORT" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_3KaVV5gCjShYAxmfzV-Hc/ts
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="DIEMA SPORT 2" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT 2
+#EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="DIEMA SPORT 2" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT 2
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-7_6nJQB7JbJl9GmWgexP0/ts
-#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-name="DIEMA SPORT 3" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT 3
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="DIEMA SPORT 3" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG/TV test",DIEMA SPORT 3
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt29Ny8MNjWNHTmTMxun8q9Q/ts
 #EXTINF:-1 tvg-id="CITY.bg" tvg-name="CITY TV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvqbuAKc45tzR9rsng-9uaBpwtK6R0Q8DVUTgVp2CwTnd9QEfVrNW9clLRoHspZguY.png" group-title="BG/TV test",CITY TV
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt13nViHKhuURbVejhUXRoNo/ts
-#EXTINF:-1 tvg-id="PlanetaTv.bg" tvg-name="PLANETA TV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs70DESNqCoh-VK8tQXouB5A0I8Do0CbrGJpIPE7B6JFw.png" group-title="BG/TV test",PLANETA TV
+#EXTINF:-1 tvg-id="Планета.bg" tvg-name="PLANETA TV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzs70DESNqCoh-VK8tQXouB5A0I8Do0CbrGJpIPE7B6JFw.png" group-title="BG/TV test",PLANETA TV
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt46Qw1l9Ww-DmBdWLVUvDOM/ts
-#EXTINF:-1 tvg-id="DaVinci.bg" tvg-name="DA VINCI" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcXb5YU7wPyENniNahQ3bSjuFCZlUuwwYYostYBLqs1qobAmUAg3hVajy1vzbAOopSr.png" group-title="BG/TV test",DA VINCI
+#EXTINF:-1 tvg-id="Da.Vinci.Learning.bg" tvg-name="DA VINCI" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcXb5YU7wPyENniNahQ3bSjuFCZlUuwwYYostYBLqs1qobAmUAg3hVajy1vzbAOopSr.png" group-title="BG/TV test",DA VINCI
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-yB_7JJn8B1PS4be5ZnVD4/ts
 #EXTINF:-1 tvg-id="NickToons.bg" tvg-name="NICK TOONS" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPilEXfzV1zZQgkQ97Scx61w.png" group-title="BG/TV test",NICK TOONS
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzSsLhomakhn1b3tDqRHVpI/ts
@@ -1266,13 +1266,13 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzSsLhomakhn1b3tDqRHVpI/ts
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltw_w-aF7DTmZ5Lu-Gi6wkIM/ts
 #EXTINF:-1 tvg-id="Nostalgia.bg" tvg-name="NOSTALIGA" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPzCqessmLwEZRomYcdOL91qazVahFX1Af2NNjy5S-3Dk.png" group-title="BG/TV test",NOSTALIGA
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltyeTYNymt9SMstaYuJ6uMI0/ts
-#EXTINF:-1 tvg-id="Crime&Investigation.bg" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztG8cdZ8SK2GrYDLykjK9Tm369_ULTGw0C287lXbi7ILrMXOLMue0BYiqM1Jc85WmvCistzh-fr2XQ2JpjFhk4o.png" group-title="BG/TV test",CRIME & INVESTIGATION
+#EXTINF:-1 tvg-id="Crime.and.Investigation.bg" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRztG8cdZ8SK2GrYDLykjK9Tm369_ULTGw0C287lXbi7ILrMXOLMue0BYiqM1Jc85WmvCistzh-fr2XQ2JpjFhk4o.png" group-title="BG/TV test",CRIME & INVESTIGATION
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7Qvg3XLsfxHQfx8cweWYvw/ts
 #EXTINF:-1 tvg-id="TheWorld.bg" tvg-name="THE WORLD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv4kHWbzvYKdt3GayJ96F7kl5WrTnI-ySvHOtAYoFCt9A.png" group-title="BG/TV test",THE WORLD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5hcw--7_yFVvJT_wdDdyxg/ts
-#EXTINF:-1 tvg-id="TravelTv.bg" tvg-name="TRAVEL TV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv4kHWbzvYKdt3GayJ96F7kMYSbRO-bzi-MVMOdygn9dA.png" group-title="BG/TV test",TRAVEL TV
+#EXTINF:-1 tvg-id="Travel.TV.bg" tvg-name="TRAVEL TV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv4kHWbzvYKdt3GayJ96F7kMYSbRO-bzi-MVMOdygn9dA.png" group-title="BG/TV test",TRAVEL TV
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7bLjneKtiBhEdQn90vJID8/ts
-#EXTINF:-1 tvg-id="HGTV.bg" tvg-name="HGTV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzscqlUcqfFTEWbqbGxKv9yhR8oDD-3p3nv9vzg1yG3pAZ4CkxG2LsW7Sdfk1uvQrTo.png" group-title="BG/TV test",HGTV
+#EXTINF:-1 tvg-id="HG.TV.bg" tvg-name="HGTV" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzscqlUcqfFTEWbqbGxKv9yhR8oDD-3p3nv9vzg1yG3pAZ4CkxG2LsW7Sdfk1uvQrTo.png" group-title="BG/TV test",HGTV
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0rvx7yFWaQSW3GjbeO_ZBM/ts
 #EXTINF:-1 tvg-id="Docubox.bg" tvg-name="DOCUBOX" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvyPljVZp2YN7zrchcERcrZDhf6W_NUUqmer4HcSSN86g.png" group-title="BG/TV test",DOCUBOX
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt8F1yyihZx44K26l-qZlMvs/ts
