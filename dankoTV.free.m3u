@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U   x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 
 
@@ -135,258 +135,258 @@ https://www.youtube.com/watch?v=a47ckXKZjxI
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Macedonian Channel Documentary
+#EXTINF:-1 tvg-id="" tvg-name="Macedonian Channel Documentary" tvg-logo="" group-title="Ex-Yu/TV",Macedonian Channel Documentary
 http://giganet.mk/hls/macdoc.m3u8
-#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",SOS Kanal Plus (720p)
+#EXTINF:-1 tvg-id="SOS.Kanal.Plus.rs" tvg-name="SOS Kanal Plus" tvg-logo="" group-title="Ex-Yu/TV",SOS Kanal Plus (720p)
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNOVA12.mk" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV NOVA 12 (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVNOVA12.mk" tvg-name="TV NOVA 12" tvg-logo="" group-title="Ex-Yu/TV",TV NOVA 12 (576p) 
 https://novastreaming.cloudns.info/nova12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vistel" tvg-logo="https://i.imgur.com/MbM0E6L.png" group-title="Ex-Yu/TV",Вистел
+#EXTINF:-1 tvg-id="" tvg-name="Vistel" tvg-logo="https://i.imgur.com/MbM0E6L.png" group-title="Ex-Yu/TV",Vistel TV
 https://live.vtv.mk/live/vtv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Vistel TV (MK)
+#EXTINF:-1 tvg-id="" tvg-name="Vistel" tvg-logo="" group-title="Ex-Yu/TV",Vistel TV 
 http://live.vtv.mk:8081/live/vtv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Vistel TV (MK)
+#EXTINF:-1 tvg-id="" tvg-name="Vistel" tvg-logo="" group-title="Ex-Yu/TV",Vistel TV 
 https://live.vtv.mk/live/vtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",BN TV
+#EXTINF:-1 tvg-id="BN.HD.(BIH).ba" tvg-name="BN TV" tvg-logo="" group-title="Ex-Yu/TV",BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",BN TV
+#EXTINF:-1 tvg-id="BN.HD.(BIH).ba" tvg-name="BN TV" tvg-logo="" group-title="Ex-Yu/TV",BN TV
 https://stream1.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
-#EXTINF:-1 tvg-id="TVNiksic.me@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Niksic (720p)
+#EXTINF:-1 tvg-id="TVNiksic.me@SD" tvg-name="TV Niksic" tvg-logo="" group-title="Ex-Yu/TV",TV Niksic (720p)
 https://tv.rtv-niksic.me/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RTVHB.ba@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RTV Herceg-Bosne (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTVHB.HD.ba" tvg-name="RTV HB" tvg-logo="" group-title="Ex-Yu/TV",RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RTV HB
+#EXTINF:-1 tvg-id="RTVHB.HD.ba" tvg-name="RTV HB" tvg-logo="" group-title="Ex-Yu/TV",RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TelevizijaM.ba@SD" tvg-name"" tvg-logo="" group-title="Ex-Yu/TV",Televizija M (1080p)
+#EXTINF:-1 tvg-id="Televizija.M.ba" tvg-name"Televizija M" tvg-logo="" group-title="Ex-Yu/TV",Televizija M (1080p)
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",tok tv
+#EXTINF:-1 tvg-id="" tvg-name="tok tv" tvg-logo="" group-title="Ex-Yu/TV",tok tv
 https://elara.netcomm.rs/toktv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",tok tv
+#EXTINF:-1 tvg-id="" tvg-name="tok tv" tvg-logo="" group-title="Ex-Yu/TV",tok tv
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RTV ZE(ZENICA)
+#EXTINF:-1 tvg-id="" tvg-name="RTV ZE" tvg-logo="" group-title="Ex-Yu/TV",RTV ZE(ZENICA)
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Newsmax Balkan
+#EXTINF:-1 tvg-id="NewsMax.Balkans.(RS).rs" tvg-name="Newsmax Balkan" tvg-logo="" group-title="Ex-Yu/TV",Newsmax Balkan
 https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RT Balkan
+#EXTINF:-1 tvg-id="Russia.Today.TV.hr" tvg-name="RT Balkan" tvg-logo="" group-title="Ex-Yu/TV",RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RT Balkan
+#EXTINF:-1 tvg-id="Russia.Today.TV.hr" tvg-name="RT Balkan" tvg-logo="" group-title="Ex-Yu/TV",RT Balkan
 http://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Osjecka tv
+#EXTINF:-1 tvg-id="" tvg-name="Osjecka tv" tvg-logo="" group-title="Ex-Yu/TV",Osjecka tv
 https://live.osjecka.com/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",rtv puls brcko
+#EXTINF:-1 tvg-id="" tvg-name="rtv puls brcko" tvg-logo="" group-title="Ex-Yu/TV",rtv puls brcko
 https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
-#EXTINF:-1 tvg-id="KurirTV.rs" tvg-name="Kurir TV" tvg-logo="https://i.imgur.com/HBPnUD5.png" group-title="Ex-Yu/TV",Kurir TV
+#EXTINF:-1 tvg-id="Kurir.TV.(RS).rs" tvg-name="Kurir TV" tvg-logo="https://i.imgur.com/HBPnUD5.png" group-title="Ex-Yu/TV",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
-#EXTINF:-1 tvg-id="TVCGMNE.me@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TVCG MNE (1080p)
+#EXTINF:-1 tvg-id="TVMNE.(RTCG.Sat.(RS)).rs" tvg-name="TVCG MNE" tvg-logo="" group-title="Ex-Yu/TV",TVCG MNE (1080p)
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCGMNE.me@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TVCG MNE (1080p)
+#EXTINF:-1 tvg-id="TVMNE.(RTCG.Sat.(RS)).rs" tvg-name="TVCG MNE" tvg-logo="" group-title="Ex-Yu/TV",TVCG MNE (1080p)
 https://rtcg-live-open.morescreens.com/RTCG_1_004/media_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Jefimija TV (1080)
+#EXTINF:-1 tvg-id="TV.Jefimija.rs" tvg-name="Jefimija TV" tvg-logo="" group-title="Ex-Yu/TV",Jefimija TV (1080)
 https://live.jefimija.eu/hls/stream_src/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",rtvvrnjackabanja
+#EXTINF:-1 tvg-id="TV.Vrnjacka.Banja.(RS).rs" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",rtv vrnjacka banja
 https://live.rtvvrnjackabanja.com/rvb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RTV NP
+#EXTINF:-1 tvg-id="RTV.Novi.Pazar.(RS).rs" tvg-name="RTV NP" tvg-logo="" group-title="Ex-Yu/TV",RTV NP
 https://tv.rtvnp.rs/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV" tvg-id="DiadoraTV.hr@SD",Diadora TV
+#EXTINF:-1 tvg-id="Diadora.TV.hr" tvg-name="Diadora TV" tvg-logo="" group-title="Ex-Yu/TV",Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",LTV (Libertas)
+#EXTINF:-1 tvg-id="" tvg-name="LTV (Libertas)" tvg-logo="" group-title="Ex-Yu/TV",LTV (Libertas)
 https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1 tvg-id="TVJadran.hr@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Jadran (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TV.Jadran.hr" tvg-name="TV Jadran" tvg-logo="" group-title="Ex-Yu/TV",TV Jadran (720p) 
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 tvg-id="SBTV.hr@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",SBTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SBTV.hr" tvg-name="SBTV" tvg-logo="" group-title="Ex-Yu/TV",SBTV (1080p) 
 https://live.leveex.hr/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Skolska Tv
+#EXTINF:-1 tvg-id="" tvg-name="Skolska Tv" tvg-logo="" group-title="Ex-Yu/TV",Skolska Tv
 https://uzivo.skolska-tv.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Skolska Tv
+#EXTINF:-1 tvg-id="" tvg-name="Skolska Tv" tvg-logo="" group-title="Ex-Yu/TV",Skolska Tv
 https://uzivo.skolska-tv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TVHram.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Hram (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVHram.rs@SD" tvg-name="TV Hram" tvg-logo="" group-title="Ex-Yu/TV",TV Hram (576p) 
 https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RTV MIR Leposavic
+#EXTINF:-1 tvg-id="" tvg-name="RTV MIR Leposavic" tvg-logo="" group-title="Ex-Yu/TV",RTV MIR Leposavic
 https://rtvmir.info/MIR/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TVNova.hr@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Nova (720p)
+#EXTINF:-1 tvg-id="TV.Nova.hr" tvg-name="TV Nova" tvg-logo="" group-title="Ex-Yu/TV",TV Nova (720p)
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Nasha TV 
+#EXTINF:-1 tvg-id="" tvg-name="Nasha TV" tvg-logo="" group-title="Ex-Yu/TV",Nasha TV 
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",gm plus cable
+#EXTINF:-1 tvg-id="" tvg-name="gm plus cable" tvg-logo="" group-title="Ex-Yu/TV",gm plus cable
 https://539745e629986.streamlock.net/gmpluscable/stream/chunklist_w639476776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",gm plus cable
+#EXTINF:-1 tvg-id="" tvg-name="gm plus cable" tvg-logo="" group-title="Ex-Yu/TV",gm plus cable
 https://edge-rs-03.maksnet.tv/gmpluscable/stream/chunklist_w332155896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",gm plus cable
+#EXTINF:-1 tvg-id="" tvg-name="gm plus cable" tvg-logo="" group-title="Ex-Yu/TV",gm plus cable
 https://6069699a9e3f3.streamlock.net/gmpluscable/stream/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",gm plus cable
+#EXTINF:-1 tvg-id="" tvg-name="gm plus cable" tvg-logo="" group-title="Ex-Yu/TV",gm plus cable
 https://677c038a28f30.streamlock.net/gmpluscable/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV", ITH Zelina
+#EXTINF:-1 tvg-id="ITH.Zelina" tvg-name="ITH Zelina" tvg-logo="" group-title="Ex-Yu/TV", ITH Zelina
 https://ith.zelina.tv/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV", TV Zapad
+#EXTINF:-1 tvg-id="TV.Zapad.hr" tvg-name="TV Zapad" tvg-logo="" group-title="Ex-Yu/TV", TV Zapad
 http://streaming.megatronik.ba:8081/tvzapad/tvzapad2025/tvzapad2025/playlist.m3u8
-#EXTINF:-1 tvg-id="HRT1.hr@HD"" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",HRT 1 HD (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HRT.1.cz" tvg-name="HRT 1 HD" tvg-logo="" group-title="Ex-Yu/TV",HRT 1 HD (1080p) 
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
-#EXTINF:-1 tvg-id="HRT2.hr@HD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",HRT 2 HD (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HRT.2.cz" tvg-name="HRT 2 HD" tvg-logo="" group-title="Ex-Yu/TV",HRT 2 HD (1080p) 
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
-#EXTINF:-1 tvg-id="HRT3.hr@HD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",HRT 3 HD (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HRT.3.cz" tvg-name="HRT 3 HD" tvg-logo="" group-title="Ex-Yu/TV",HRT 3 HD (720p) 
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
-#EXTINF:-1 tvg-id="HRT4.hr@HD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",HRT 4 HD (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HRT.4.cz" tvg-name="HRT 4 HD" tvg-logo="" group-title="Ex-Yu/TV",HRT 4 HD (720p) 
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV", Sabor HR
+#EXTINF:-1 tvg-id="" tvg-name="Sabor HR" tvg-logo="" group-title="Ex-Yu/TV", Sabor HR
 https://itv2.sabor.hr/saborHLS/sabor.m3u8
-#EXTINF:-1 tvg-id="NarodnaTV.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Narodna TV (720p)
+#EXTINF:-1 tvg-id="Narodna.TV.(RS).rs" tvg-name="Narodna TV" tvg-logo="" group-title="Ex-Yu/TV",Narodna TV (720p)
 https://edge8.pink.rs/narodnatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",narodna tv
+#EXTINF:-1 tvg-id="Narodna.TV.(RS).rs" tvg-name="Narodna TV" tvg-logo="" group-title="Ex-Yu/TV",narodna tv
 https://edge8.pink.rs/narodnatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Pink.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Pink (720p)
+#EXTINF:-1 tvg-id="Pink.HD.rs" tvg-name="pink s" tvg-logo="" group-title="Ex-Yu/TV",Pink s(720p)
 https://edge8.pink.rs/pinktv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",pink rs
+#EXTINF:-1 tvg-id="Pink.HD.rs" tvg-name="pink s" tvg-logo="" group-title="Ex-Yu/TV",pink s
 https://edge8.pink.rs/pinktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Red TV
+#EXTINF:-1 tvg-id="RED.TV.(Pink.2.HD).rs" tvg-name="Red TV" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="Ex-Yu/TV",Red TV
 https://edge8.pink.rs/redtv/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="Red TV" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="Ex-Yu/TV",Red TV
+#EXTINF:-1 tvg-id="RED.TV.(Pink.2.HD).rs"tvg-name="Red TV" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="Ex-Yu/TV",Red TV
 https://edge8.pink.rs/redtv/chunklist_w1213385221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",red tv
+#EXTINF:-1 tvg-id="RED.TV.(Pink.2.HD).rs" tvg-name="Red TV" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="Ex-Yu/TV",red tv
 https://edge8.pink.rs/redtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV 1" tvg-logo="https://i.imgur.com/CG44YT3.png" tvg-id="RTV1.rs" group-title="Ex-Yu/TV",RTV 1
+#EXTINF:-1 tvg-id="RTV.1.(RS).rs" tvg-name="RTV 1" tvg-logo="https://i.imgur.com/CG44YT3.png" group-title="Ex-Yu/TV",RTV 1
 http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RTV 1
+#EXTINF:-1 tvg-id="RTV.1.(RS).rs" tvg-name="RTV 1" tvg-logo="https://i.imgur.com/CG44YT3.png" group-title="Ex-Yu/TV",RTV 1
 http://212.200.230.50:1935/RTV/rtv1/chunklist_w268295718.m3u8
-#EXTINF:-1 group-title="Ex-Yu/TV",RTV 2
+#EXTINF:-1 tvg-id="RTV.2.(RS).rs" tvg-name="RTV 2" tvg-logo="https://i.imgur.com/skpr66t.png" group-title="Ex-Yu/TV",RTV 2
 http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV 2" tvg-logo="https://i.imgur.com/skpr66t.png" tvg-id="RTV2.rs" group-title="Ex-Yu/TV",RTV 2
+#EXTINF:-1 tvg-id="RTV.2.(RS).rs" tvg-name="RTV 2" tvg-logo="https://i.imgur.com/skpr66t.png" group-title="Ex-Yu/TV",RTV 2
 http://212.200.230.50:1935/RTV/rtv2/chunklist_w889336324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV", K1 info rs
+#EXTINF:-1 tvg-id="K1.(RS).rs" tvg-name="K1 info rs" tvg-logo="" group-title="Ex-Yu/TV", K1 info rs
 https://edge-rs-03.maksnet.tv/minacordmedia-secure/k1studio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV", K1 info rs
+#EXTINF:-1 tvg-id="K1.(RS).rs" tvg-name="K1 info rs" tvg-logo="" group-title="Ex-Yu/TV", K1 info rs
 https://edge-rs-03.maksnet.tv/minacordmedia-secure/k1studio/index.m3u8
-#EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-name="" tvg-logo="https://i.imgur.com/TBAtPH6.png" group-title="Ex-Yu/TV",RTV Bap (480p)
+#EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-name="RTV Bap" tvg-logo="https://i.imgur.com/TBAtPH6.png" group-title="Ex-Yu/TV",RTV Bap (480p)
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-name="" tvg-logo="https://i.imgur.com/TBAtPH6.png" group-title="Ex-Yu/TV",RTV Bap 
+#EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-name="RTV Bap" tvg-logo="https://i.imgur.com/TBAtPH6.png" group-title="Ex-Yu/TV",RTV Bap 
 https://edge-de-04.maksnet.tv/rtvbap/uzivo/chunklist.m3u8
-#EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-name="" tvg-logo="https://i.imgur.com/TBAtPH6.png" group-title="Ex-Yu/TV",RTV Bap 
+#EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-name="RTV Bap" tvg-logo="https://i.imgur.com/TBAtPH6.png" group-title="Ex-Yu/TV",RTV Bap 
 https://edge-rs-04.maksnet.tv/rtvbap/uzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV SLO 1 HD (test)
+#EXTINF:-1 tvg-id="SLO1.hr" tvg-name="TV SLO 1 HD" tvg-logo="" group-title="Ex-Yu/TV",TV SLO 1 HD (test)
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV SLO 2 HD (test)
+#EXTINF:-1 tvg-id="SLO2.hr" tvg-name="TV SLO 2 HD" tvg-logo="" group-title="Ex-Yu/TV",TV SLO 2 HD (test)
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Nasha TV (test) 
+#EXTINF:-1 tvg-id="" tvg-name="Nasha TV" tvg-logo="" group-title="Ex-Yu/TV",Nasha TV (test) 
 http://cdn1.invivo.bg/NASHA_TV_SD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",HRT Int.(test)
+#EXTINF:-1 tvg-id="HRT.International.cz" tvg-name="HRT Int." tvg-logo="" group-title="Ex-Yu/TV",HRT Int.(test)
 http://cdn1.invivo.bg/HRT_INT_SD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RTV AS
+#EXTINF:-1 tvg-id="TV..AS.rs" tvg-name="RTV AS" tvg-logo="" group-title="Ex-Yu/TV",RTV AS
 https://de1.dstv.cx/TVAS/rewind-7200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RTV AS
+#EXTINF:-1 tvg-id="TV..AS.rs" tvg-name="RTV AS" tvg-logo="" group-title="Ex-Yu/TV",RTV AS
 https://de1.dstv.cx/TVAS/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="BelleAmie.rs@SD" tvg-name="" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="Ex-Yu/TV",TV Belle Amie 
+#EXTINF:-1 tvg-id="TV.Belle.Amie.rs" tvg-name="TV Belle Amie" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="Ex-Yu/TV",TV Belle Amie 
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-#EXTINF:-1 tvg-id="BelleAmie.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Belle Amie (fhd)
+#EXTINF:-1 tvg-id="TV.Belle.Amie.rs" tvg-name="TV Belle Amie" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="Ex-Yu/TV",TV Belle Amie (fhd)
 http://92.60.239.23:52935/live/web/chunklist_w577308926.m3u8
-#EXTINF:-1 tvg-id="BelleAmie.rs@SD" tvg-name="" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="Ex-Yu/TV",TV Belle Amie 
+#EXTINF:-1 tvg-id="TV.Belle.Amie.rs" tvg-name="TV Belle Amie" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="Ex-Yu/TV",TV Belle Amie 
 http://92.60.239.23:52935/live/web/chunklist_w1603290575.m3u8
-#EXTINF:-1 tvg-id="TVPiKanal.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Pi Kanal (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPiKanal.rs@SD" tvg-name="TV Pi Kanal" tvg-logo="" group-title="Ex-Yu/TV",TV Pi Kanal (576p) [Not 24/7]
 https://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="Televizija Republike Srpske (RTRS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" group-title="Ex-Yu/TV",RTRS (пускат когато искат)
+#EXTINF:-1 tvg-id="RTRS.ba" tvg-name="RTRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" group-title="Ex-Yu/TV",RTRS (пускат когато искат)
 https://parh.rtrs.tv/tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RTRSplus.ba@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",RTRS Plus (пускат когато искат)
+#EXTINF:-1 tvg-id="RTRS.Plus.ba" tvg-name="RTRS Plus" tvg-logo="" group-title="Ex-Yu/TV",RTRS Plus (пускат когато искат)
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Plava vinkovacka tv
+#EXTINF:-1 tvg-id="Plava.Vinkovacka.hr" tvg-name="Plava vinkovacka tv" tvg-logo="" group-title="Ex-Yu/TV",Plava vinkovacka tv
 https://edge2.livebroadcastsolutions.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Exodus TV (720p)
+#EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="Exodus TV" tvg-logo="" group-title="Ex-Yu/TV",Exodus TV (720p)
 https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Exodus TV (720p)
+#EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="Exodus TV" tvg-logo="" group-title="Ex-Yu/TV",Exodus TV (720p)
 https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",KTV Zrenjanin
+#EXTINF:-1 tvg-id="KTV.Zrenjanin.rs" tvg-name="KTV Zrenjanin" tvg-logo="" group-title="Ex-Yu/TV",KTV Zrenjanin
 https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",OBN
+#EXTINF:-1 tvg-id="" tvg-name="OBN" tvg-logo="" group-title="Ex-Yu/TV",OBN
 http://5.57.74.130/OBN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",rtv k (kragujevac)
+#EXTINF:-1 tvg-id="TV.Kragujevac.rs" tvg-name="rtv k" tvg-logo="" group-title="Ex-Yu/TV",rtv k (kragujevac)
 https://edge-rs-01.maksnet.tv/rtvkg/uzivo/chunklist_w39685983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",rtv city ub
+#EXTINF:-1 tvg-id="" tvg-name="rtv city ub" tvg-logo="" group-title="Ex-Yu/TV",rtv city ub
 http://109.72.57.12/hls/tvcityub.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",KANAL RI
+#EXTINF:-1 tvg-id="KanalRi.hr" tvg-name="KANAL RI" tvg-logo="" group-title="Ex-Yu/TV",KANAL RI
 https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",NISH TV
+#EXTINF:-1 tvg-id="" tvg-name="NISH TV" tvg-logo="" group-title="Ex-Yu/TV",NISH TV
 http://178.253.201.11:8081/live/tvnis/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TVNOVA12.mk@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV NOVA 12 music(576p) [Not 24/7]
+#EXTINF:-1 tvg-id="TV.NOVA.12.music.mk" tvg-name="TV NOVA 12 music" tvg-logo="" group-title="Ex-Yu/TV",TV NOVA 12 music(576p) [Not 24/7]
 https://novastreaming.cloudns.info/nova12_music/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",PAN DA! TV
+#EXTINF:-1 tvg-id="" tvg-name="PAN DA! TV" tvg-logo="" group-title="Ex-Yu/TV",PAN DA! TV
 https://lbgo.bozztv.com/ssh101/ssh101/rtvpanda/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ZzDcSx4S/image-2025-07-09-T095211-583.png" group-title="Ex-Yu/TV",Radio Best TV
+#EXTINF:-1 tvg-id="" tvg-name="Radio Best TV" tvg-logo="https://i.ibb.co/ZzDcSx4S/image-2025-07-09-T095211-583.png" group-title="Ex-Yu/TV",Radio Best TV
 https://radio.serv.si/BestTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Jupok Radio
+#EXTINF:-1 tvg-id="" tvg-name="Jupok Radio" tvg-logo="" group-title="Ex-Yu/TV",Jupok Radio
 https://lbgo.bozztv.com/ssh101/ssh101/jupokradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/BM39YmP/image-2025-07-09-T095625-258.png" group-title="Ex-Yu/TV",Radio Aktual
+#EXTINF:-1 tvg-id="" tvg-name="Radio Aktual" tvg-logo="https://i.ibb.co/BM39YmP/image-2025-07-09-T095625-258.png" group-title="Ex-Yu/TV",Radio Aktual
 https://radio.serv.si/AktualTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV"",Adria
+#EXTINF:-1 tvg-id="ADRIA.MUSIC.TELEVISION.ch" tvg-name="Adria" tvg-logo="" group-title="Ex-Yu/TV"",Adria
 https://cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV"",ONE 1 Adria
+#EXTINF:-1 tvg-id="One.music.cz" tvg-name="ONE 1 Adria" tvg-logo="" group-title="Ex-Yu/TV"",ONE 1 Adria
 https://cdne.folxplay.tv/fxt/streams/ch-6/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV"",FOLX Slovenija
+#EXTINF:-1 tvg-id="folx.tv.ch" tvg-name="FOLX Slovenija" tvg-logo="" group-title="Ex-Yu/TV"",FOLX Slovenija
 https://cdne.folxplay.tv/fxt/streams/ch-5/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV"",FOLX Music Tv
+#EXTINF:-1 tvg-id="" tvg-name="FOLX Music Tv" tvg-logo="" group-title="Ex-Yu/TV"",FOLX Music Tv
 https://cdne.folxplay.tv/fxt/streams/ch-4/master.m3u8
-#EXTINF:-1 tvg-id="CMCTV.hr@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV"",CMC TV (1080p)
+#EXTINF:-1 tvg-id="CMC.hr" tvg-name="CMC TV" tvg-logo="" group-title="Ex-Yu/TV"",CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV"",Jugoton TV
+#EXTINF:-1 tvg-id="Jugoton.hr" tvg-name="Jugoton TV" tvg-logo="" group-title="Ex-Yu/TV"",Jugoton TV
 https://stream.cmctv.hr:49998/jugoton/live.m3u8
-#EXTINF:-1 tvg-id="KlapeiTambureTV.hr@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Klape i Tambure TV (1080p)
+#EXTINF:-1 tvg-id="Klape.i.Tambure.hr" tvg-name="Klape i Tambure TV " tvg-logo="" group-title="Ex-Yu/TV",Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Merak tv
+#EXTINF:-1 tvg-id="" tvg-name="Merak tv" tvg-logo="" group-title="Ex-Yu/TV",Merak tv
 https://streaming.ataxmedia.com/hls/MerakTV/main_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Play M
+#EXTINF:-1 tvg-id="" tvg-name="Play M" tvg-logo="" group-title="Ex-Yu/TV",Play M
 https://streaming.ataxmedia.com/hls/playM/main_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Reverb E
+#EXTINF:-1 tvg-id="" tvg-name="Reverb E" tvg-logo="" group-title="Ex-Yu/TV",Reverb E
 https://streaming.ataxmedia.com/hls/reverbE/main_stream.m3u8
-#EXTINF:-1 tvg-id="ExtraTV.hr@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Extra TV (1080p)
+#EXTINF:-1 tvg-id="Extra.TV.hr" tvg-name="Extra TV" tvg-logo="" group-title="Ex-Yu/TV",Extra TV (1080p)
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Banovina
+#EXTINF:-1 tvg-id="RTV.Banovina.hr" tvg-name="TV Banovina" tvg-logo="" group-title="Ex-Yu/TV",TV Banovina
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Banovina
+#EXTINF:-1 tvg-id="RTV.Banovina.hr" tvg-name="TV Banovina" tvg-logo="" group-title="Ex-Yu/TV",TV Banovina
 http://pool.alter-media.hr:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioKarolinaTV.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Radio Karolina TV (720p)
+#EXTINF:-1 tvg-id="Radio.Karolina.rs" tvg-name="Radio Karolina TV" tvg-logo="" group-title="Ex-Yu/TV",Radio Karolina TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:-1 tvg-id="RadioLolaTV.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Radio Lola (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Radio.Lola.HD.(Radiovizijski)..rs" tvg-name="Radio Lola" tvg-logo="" group-title="Ex-Yu/TV",Radio Lola (720p) [Not 24/7]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/master.m3u8
-#EXTINF:-1 tvg-id="RadioLolaTV.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Radio Lola (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Radio.Lola.HD.(Radiovizijski)..rs" tvg-name="Radio Lola" tvg-logo="" group-title="Ex-Yu/TV",Radio Lola (720p) [Not 24/7]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-#EXTINF:-1 tvg-id="TDIRadioTV.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TDI Radio TV
+#EXTINF:-1 tvg-id="TDI.radio.rs" tvg-name="TDI Radio TV" tvg-logo="" group-title="Ex-Yu/TV",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-#EXTINF:-1 tvg-id="RadioHitFMTV.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Radio Hit FM TV (720p)
+#EXTINF:-1 tvg-id="Hit.FM.radio.rs" tvg-name="Radio Hit FM TV" tvg-logo="" group-title="Ex-Yu/TV",Radio Hit FM TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
-#EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Veseljak Golica HD
+#EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si" tvg-name="TV Veseljak Golica HD" tvg-logo="" group-title="Ex-Yu/TV",TV Veseljak Golica HD
 https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Balkan Music
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Music" tvg-logo="" group-title="Ex-Yu/TV",Balkan Music
 http://giganet.mk/hls/balkanmusictv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Наша ТВ cOOL
+#EXTINF:-1 tvg-id="" tvg-name="Наша ТВ cOOL" tvg-logo="" group-title="Ex-Yu/TV",Наша ТВ cOOL
 https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
-#EXTINF:-1 tvg-id="FolkKlubTV.au@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Folk Klub (720p)
+#EXTINF:-1 tvg-id="FolkKlubTV.au@SD" tvg-name="Folk Klub" tvg-logo="" group-title="Ex-Yu/TV",Folk Klub (720p)
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-#EXTINF:-1 tvg-id="INTVAustralia.au@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",INTV Australia (720p)
+#EXTINF:-1 tvg-id="INTVAustralia.au@SD" tvg-name="INTV Australia" tvg-logo="" group-title="Ex-Yu/TV",INTV Australia (720p)
 http://tv1.intv.mk:1935/live/intv/index.m3u
 #EXTINF:-1 tvg-id="SkyFolkTV.mk" tvg-name="Sky Folk" tvg-logo="https://i.imgur.com/xRw4Hmu.png" group-title="Ex-Yu/TV",Sky Folk
 https://skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",Sky Folk TV
+#EXTINF:-1 tvg-id="" tvg-name="Sky Folk" tvg-logo="" group-title="Ex-Yu/TV",Sky Folk TV
 http://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Duga+
+#EXTINF:-1 tvg-id="TV.Duga+.ch" tvg-name="TV Duga+" tvg-logo="" group-title="Ex-Yu/TV",TV Duga+
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308_output_0.m3u8
 #EXTINF:-1 tvg-id="Hugo2.mk" tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" group-title="Ex-Yu/TV",Хуго 2
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 #EXTINF:-1 tvg-id="zonam1.mk" tvg-name="ЗОНА М1 ТВ" tvg-logo="https://i.imgur.com/yTR7A0d.png" group-title="Ex-Yu/TV",ЗОНА М1 ТВ
 https://zonam1.ddns.net/hls/stream1.m3u8
-#EXTINF:-1 group-title="Ex-Yu/TV",IDJ TV
+#EXTINF:-1 tvg-id="IDJTV.HD.rs" tvg-name="IDJ TV" tvg-logo="" group-title="Ex-Yu/TV",IDJ TV
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rKf5jmNt/image-100.png" group-title="Ex-Yu/TV", Top TV
+#EXTINF:-1 tvg-id="TOP.TV.rs" tvg-name="Top TV" tvg-logo="https://i.ibb.co/rKf5jmNt/image-100.png" group-title="Ex-Yu/TV", Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rKf5jmNt/image-100.png" group-title="Ex-Yu/TV", Top TV
+#EXTINF:-1 tvg-id="TOP.TV.rs" tvg-name="Top TV" tvg-logo="https://i.ibb.co/rKf5jmNt/image-100.png" group-title="Ex-Yu/TV", Top TV
 http://74.208.199.212:8081/TopTV/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3yPKqWqp/image-2025-09-01-T195635-215.png" group-title="Ex-Yu/TV", Radio S
+#EXTINF:-1 tvg-id="" tvg-name="Radio S" tvg-logo="https://i.ibb.co/3yPKqWqp/image-2025-09-01-T195635-215.png" group-title="Ex-Yu/TV", Radio S
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w799893154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3yPKqWqp/image-2025-09-01-T195635-215.png" group-title="Ex-Yu/TV", Radio S
+#EXTINF:-1 tvg-id="" tvg-name="Radio S" tvg-logo="https://i.ibb.co/3yPKqWqp/image-2025-09-01-T195635-215.png" group-title="Ex-Yu/TV", Radio S
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w666705940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3yPKqWqp/image-2025-09-01-T195635-215.png" group-title="Ex-Yu/TV", Radio S
+#EXTINF:-1 tvg-id="" tvg-name="Radio S" tvg-logo="https://i.ibb.co/3yPKqWqp/image-2025-09-01-T195635-215.png" group-title="Ex-Yu/TV", Radio S
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",adria info
+#EXTINF:-1 tvg-id="" tvg-name="adria info" tvg-logo="" group-title="Ex-Yu/TV",adria info
 https://nl1.dstv.cx/AdriaInfo/tracks-v2a1/rewind-7200.ts.m3u8
-#EXTINF:-1 tvg-id="TVZdravkin.mk@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",TV Zdravkin (400p)
+#EXTINF:-1 tvg-id="TVZdravkin.mk" tvg-name="TV Zdravkin" tvg-logo="" group-title="Ex-Yu/TV",TV Zdravkin (400p)
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 
 

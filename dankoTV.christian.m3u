@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U   x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="BULGARIA",Plovdivska Pravoslavna TV (1080p)
 http://78.130.149.196:1935/live/pptv.stream/chunklist_w1590876551.m3u8
