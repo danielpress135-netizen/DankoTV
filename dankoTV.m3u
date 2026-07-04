@@ -2525,97 +2525,97 @@ https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Mega News" tvg-logo="" group-title="GR/TV",Mega News
+#EXTINF:-1 tvg-id="MEGA.NEWS.HD.gr" tvg-name="Mega News" tvg-logo="" group-title="GR/TV",Mega News
 https://streamcdnb4-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4E TV" tvg-logo="" group-title="GR/TV",4E TV
+#EXTINF:-1 tvg-id="4E.gr" tvg-name="4E TV" tvg-logo="" group-title="GR/TV",4E TV
 http://eu2.tv4e.gr:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action 24" tvg-logo="" group-title="GR/TV",Action 24
+#EXTINF:-1 tvg-id="ACTION.24.gr" tvg-name="Action 24" tvg-logo="" group-title="GR/TV",Action 24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alpha TV" tvg-logo="" group-title="GR/TV",Alpha TV
+#EXTINF:-1 tvg-id="ALPHA.HD.gr" tvg-name="Alpha TV" tvg-logo="" group-title="GR/TV",Alpha TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_source/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blue Sky" tvg-logo="" group-title="GR/TV",Blue Sky
+#EXTINF:-1 tvg-id="Blue.Sky.gr" tvg-name="Blue Sky" tvg-logo="" group-title="GR/TV",Blue Sky
 
-#EXTINF:-1 tvg-id="" tvg-name="Boyah TV" tvg-logo="" group-title="GR/TV",Boyah TV
+#EXTINF:-1 tvg-id="BOYΛΗ.gr" tvg-name="Boyah TV" tvg-logo="" group-title="GR/TV",Boyah TV
 https://diavlos3.cnt.grnet.gr/parltv/webtv-1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Faros 1" tvg-logo="" group-title="GR/TV",Faros 1
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Faros 2" tvg-logo="" group-title="GR/TV",Faros 2
 https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crete TV" tvg-logo="" group-title="GR/TV",Crete TV
+#EXTINF:-1 tvg-id="ΚΡΗΤΗ.TV.gr" tvg-name="Crete TV" tvg-logo="" group-title="GR/TV",Crete TV
 https://cretetvlive.siliconweb.com/cretetv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ERT1.gr@SD" tvg-name="ERT1" tvg-logo="https://i.imgur.com/UKbCtC1.png" group-title="GR/TV",ERT1 (1080p)
+#EXTINF:-1 tvg-id="ΕΡΤ1.HD.gr" tvg-name="ERT1" tvg-logo="https://i.imgur.com/UKbCtC1.png" group-title="GR/TV",ERT1 (1080p)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8
-#EXTINF:-1 tvg-id="ERT2.gr@SD" tvg-name="ERT2" tvg-logo="https://i.imgur.com/nMHKG3A.png" group-title="GR/TV",ERT2 (1080p)
+#EXTINF:-1 tvg-id="ΕΡΤ2.HD.gr" tvg-name="ERT2" tvg-logo="https://i.imgur.com/nMHKG3A.png" group-title="GR/TV",ERT2 (1080p)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8
-#EXTINF:-1 tvg-id="ERT3.gr@SD" tvg-name="ERT3" tvg-logo="https://i.imgur.com/f2l9bDR.png" group-title="GR/TV",ERT3 (1080p)
+#EXTINF:-1 tvg-id="ΕΡΤ3.HD.gr" tvg-name="ERT3" tvg-logo="https://i.imgur.com/f2l9bDR.png" group-title="GR/TV",ERT3 (1080p)
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/index.m3u8
-#EXTINF:-1 tvg-id="ERTCosmos.gr@SD" tvg-name="ERT Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png" group-title="GR/TV",ERT Cosmos (1080p)
+#EXTINF:-1 tvg-id="ERT.WORLD.gr" tvg-name="ERT Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png" group-title="GR/TV",ERT Cosmos (1080p)
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT Kids" tvg-logo="" group-title="GR/TV",ERT Kids
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTKids/default/index.m3u8
-#EXTINF:-1 tvg-id="ERTNews.gr@HD" tvg-name="ERT News HD" tvg-logo="https://i.imgur.com/HXbsPfB.png" group-title="GR/TV",ERT News HD (1080p)
+#EXTINF:-1 tvg-id="ΕΡΤ.NEWS.HD.gr" tvg-name="ERT News HD" tvg-logo="https://i.imgur.com/HXbsPfB.png" group-title="GR/TV",ERT News HD (1080p)
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ionian TV" tvg-logo="" group-title="GR/TV",Ionian TV
+#EXTINF:-1 tvg-id="Ionian.TV.gr" tvg-name="Ionian TV" tvg-logo="" group-title="GR/TV",Ionian TV
 
 #EXTINF:-1 tvg-id="" tvg-name="Baraza Music TV Greek Hits" tvg-logo="" group-title="GR/TV",Baraza Music TV Greek Hits
 http://eco.streams.ovh:8080/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EllinikosFM.gr@SD" tvg-name="Ellinikos FM" tvg-logo="https://i.ibb.co/y0ydCNB/unnamed-4.png" group-title="GR/TV",Ellinikos FM (720p)
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
-#EXTINF:-1 tvg-id="PanikTV.gr@SD" tvg-name="Panik TV" tvg-logo="https://i.imgur.com/13C3CPr.png" group-title="GR/TV",Panik TV (1080p)
+#EXTINF:-1 tvg-id="Panik.TV.gr" tvg-name="Panik TV" tvg-logo="https://i.imgur.com/13C3CPr.png" group-title="GR/TV",Panik TV (1080p)
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayTV.gr@SD" tvg-name="Play TV" tvg-logo="https://i.imgur.com/JWFOYuD.png" group-title="GR/TV",Play TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlayTV.gr" tvg-name="Play TV" tvg-logo="https://i.imgur.com/JWFOYuD.png" group-title="GR/TV",Play TV (480p) [Not 24/7]
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONE Channel" tvg-logo="" group-title="GR/TV",ONE Channel
+#EXTINF:-1 tvg-id="One.Channel.HD.gr" tvg-name="ONE Channel" tvg-logo="" group-title="GR/TV",ONE Channel
 https://onechannel.siliconweb.com/one/live_abr/one/stream_720p/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PIK Sat TV" tvg-logo="" group-title="GR/TV",PIK Sat TV
+#EXTINF:-1 tvg-id="ΡΙΚ.SAT.gr" tvg-name="PIK Sat TV" tvg-logo="" group-title="GR/TV",PIK Sat TV
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKAI" tvg-logo="" group-title="GR/TV",SKAI
+#EXTINF:-1 tvg-id="ΣΚΑΪ.ΗD.gr" tvg-name="SKAI" tvg-logo="" group-title="GR/TV",SKAI
 
-#EXTINF:-1 tvg-id="" tvg-name="Star TV HD" tvg-logo="" group-title="GR/TV",Star TV HD
+#EXTINF:-1 tvg-id="STAR.HD.gr" tvg-name="Star TV HD" tvg-logo="" group-title="GR/TV",Star TV HD
 http://livestar.siliconweb.com/starvod/star_int/star_intsd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vergina TV" tvg-logo="" group-title="GR/TV",Vergina TV
+#EXTINF:-1 tvg-id="ΒΕΡΓΙΝΑ.gr" tvg-name="Vergina TV" tvg-logo="" group-title="GR/TV",Vergina TV
 https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zougla TV" tvg-logo="" group-title="GR/TV",Zougla TV
 http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
-#EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" tvg-name="ANT1 Cyprus" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="GR/TV",ANT1 Cyprus (1080p)
+#EXTINF:-1 tvg-id="ANT1.cy" tvg-name="ANT1 Cyprus" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="GR/TV",ANT1 Cyprus (1080p)
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SigmaTV.cy@SD" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="GR/TV",Sigma TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="Sigma.cy" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="GR/TV",Sigma TV (576p) [Not 24/7]
 https://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="AigaioTV.gr@SD" tvg-name="Aigaio TV" tvg-logo="https://i.imgur.com/7LfuDJi.png" group-title="GR/TV",Aigaio TV (720p)
+#EXTINF:-1 tvg-id="ΑΙΓΑΙΟ.gr" tvg-name="Aigaio TV" tvg-logo="https://i.imgur.com/7LfuDJi.png" group-title="GR/TV",Aigaio TV (720p)
 https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel8.gr@HD" tvg-name="Channel 8" tvg-logo="https://www.channel8.gr/img/channel8.png" group-title="GR/TV",Channel 8 (1080p)
+#EXTINF:-1 tvg-id="Channel.8.gr" tvg-name="Channel 8" tvg-logo="https://www.channel8.gr/img/channel8.png" group-title="GR/TV",Channel 8 (1080p)
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
-#EXTINF:-1 tvg-id="CorfuChannel.gr@SD" tvg-name="Corfu Channel" tvg-logo="https://i.imgur.com/EFL1Tjg.png" group-title="GR/TV",Corfu Channel (720p)
+#EXTINF:-1 tvg-id="CORFU.TV.gr" tvg-name="Corfu Channel" tvg-logo="https://i.imgur.com/EFL1Tjg.png" group-title="GR/TV",Corfu Channel (720p)
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="DELTATV.gr@SD" tvg-name="DELTA TV" tvg-logo="https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png" group-title="GR/TV",DELTA TV (720p)
+#EXTINF:-1 tvg-id="ΔΕΛΤΑ.ΤΗΛΕΟΡΑΣΗ.gr" tvg-name="DELTA TV" tvg-logo="https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png" group-title="GR/TV",DELTA TV (720p)
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="EgnatiaTV.gr@SD" tvg-name="Egnatia TV" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="GR/TV",Egnatia TV (576p)
+#EXTINF:-1 tvg-id="EGNATIA.THLEORASI.gr" tvg-name="Egnatia TV" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="GR/TV",Egnatia TV (576p)
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1 tvg-id="FORMediaTV.gr@SD" tvg-name="FORMedia TV" tvg-logo="https://i.imgur.com/8FcJ2I9.png" group-title="GR/TV",FORMedia TV (720p)
+#EXTINF:-1 tvg-id="FORMedia.TV.gr" tvg-name="FORMedia TV" tvg-logo="https://i.imgur.com/8FcJ2I9.png" group-title="GR/TV",FORMedia TV (720p)
 
-#EXTINF:-1 tvg-id="KontraChannel.gr@SD" tvg-name="Kontra Channel" tvg-logo="https://kontrachannel.gr/images/kontrachannel24.png" group-title="GR/TV",Kontra Channel (1080p)
+#EXTINF:-1 tvg-id="Kontra.gr" tvg-name="Kontra Channel" tvg-logo="https://kontrachannel.gr/images/kontrachannel24.png" group-title="GR/TV",Kontra Channel (1080p)
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 tvg-id="NaftemporikiTV.gr@HD" tvg-name="Naftemporiki TV" tvg-logo="https://i.imgur.com/9OFdMud.png" group-title="GR/TV",Naftemporiki TV (1080p)
+#EXTINF:-1 tvg-id="Naftemporiki.TV.gr" tvg-name="Naftemporiki TV" tvg-logo="https://i.imgur.com/9OFdMud.png" group-title="GR/TV",Naftemporiki TV (1080p)
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
-#EXTINF:-1 tvg-id="NetmaxTV.gr@SD" tvg-name="Netmax TV" tvg-logo="https://i.imgur.com/dLvRD4k.png" group-title="GR/TV",Netmax TV (720p)
+#EXTINF:-1 tvg-id="Netmax.TV.gr" tvg-name="Netmax TV" tvg-logo="https://i.imgur.com/dLvRD4k.png" group-title="GR/TV",Netmax TV (720p)
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
-#EXTINF:-1 tvg-id="NotioiTV.gr@SD" tvg-name="Notioi TV" tvg-logo="https://i.imgur.com/Nq00n8h.png" group-title="GR/TV",Notioi TV (1080p)
+#EXTINF:-1 tvg-id="Notioi.TV.gr" tvg-name="Notioi TV" tvg-logo="https://i.imgur.com/Nq00n8h.png" group-title="GR/TV",Notioi TV (1080p)
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1 tvg-id="StarKentrikisElladas.gr@SD" tvg-name="Star Kentrikis Elladas" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="GR/TV",Star Kentrikis Elladas (1080p)
+#EXTINF:-1 tvg-id="Star.Kentrikis.Ellados.gr" tvg-name="Star Kentrikis Elladas" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="GR/TV",Star Kentrikis Elladas (1080p)
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
-#EXTINF:-1 tvg-id="StartTV.gr@SD" tvg-name="Start TV" tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg" group-title="GR/TV",Start TV (480p)
+#EXTINF:-1 tvg-id="START.gr" tvg-name="Start TV" tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg" group-title="GR/TV",Start TV (480p)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 tvg-id="SyrosTV1.gr@SD" tvg-name="Syros TV1" tvg-logo="https://i.imgur.com/arQe5qS.png" group-title="GR/TV",Syros TV1 (720p)
+#EXTINF:-1 tvg-id="SYROS.TV1.gr" tvg-name="Syros TV1" tvg-logo="https://i.imgur.com/arQe5qS.png" group-title="GR/TV",Syros TV1 (720p)
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Telekriti.gr@SD" tvg-name="Telekriti" tvg-logo="https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png" group-title="GR/TV",Telekriti (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TeleKPHTH.gr" tvg-name="Telekriti" tvg-logo="https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png" group-title="GR/TV",Telekriti (720p) [Not 24/7]
 https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 tvg-id="ThrakiNetTV.gr@SD" tvg-name="Thraki Net TV" tvg-logo="https://i.imgur.com/3ITSnqT.png" group-title="GR/TV",Thraki Net TV (1080p)
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 tvg-id="TopChannel.gr@SD" tvg-name="Top Channel" tvg-logo="https://i.imgur.com/SfV2gJg.png" group-title="GR/TV",Top Channel (720p)
+#EXTINF:-1 tvg-id="TOP.CHANNEL.gr" tvg-name="Top Channel" tvg-logo="https://i.imgur.com/SfV2gJg.png" group-title="GR/TV",Top Channel (720p)
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="TV100.gr@SD" tvg-name="TV 100" tvg-logo="https://i.imgur.com/OBH2DfE.png" group-title="GR/TV",TV 100 (720p)
+#EXTINF:-1 tvg-id="TV100.gr" tvg-name="TV 100" tvg-logo="https://i.imgur.com/OBH2DfE.png" group-title="GR/TV",TV 100 (720p)
 https://gwebstream.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="Xplore.gr@SD" tvg-name="Xplore" tvg-logo="https://i.imgur.com/8oy62fX.png" group-title="GR/TV",Xplore (714p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Xplore.ch" tvg-name="Xplore" tvg-logo="https://i.imgur.com/8oy62fX.png" group-title="GR/TV",Xplore (714p) [Geo-blocked]
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
 
