@@ -2254,7 +2254,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LI
 #EXTINF:-1 tvg-id="BFM.MARSEILLE.PROVENCE.fr" tvg-name="BFM Marseille" tvg-logo="https://i.imgur.com/h7t0l6q.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="FRA/TV",BFM Marseille (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM.NICE.COTE.D&apos;AZUR.fr" tvg-name="BFM Nice Côte d'Azur" tvg-logo="https://i.imgur.com/iiVFvIw.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="FRA/TV",BFM Nice Côte d'Azur (1080p)
+#EXTINF:-1 tvg-id="BFM.NICE.COTE.D'AZUR.fr" tvg-name="BFM Nice Côte d'Azur" tvg-logo="https://i.imgur.com/iiVFvIw.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="FRA/TV",BFM Nice Côte d'Azur (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFM.NORMANDIE.fr" tvg-name="BFM Normandie" tvg-logo="https://i.imgur.com/WWWQ44G.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="FRA/TV",BFM Normandie (1080p)
