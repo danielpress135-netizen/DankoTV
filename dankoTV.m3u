@@ -2855,48 +2855,48 @@ https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 
 
 
-#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-name="WildEarth" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Mix-Docu",WildEarth (1080p)
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Mix-Docu",WildEarth (1080p)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-name="MyZen TV" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Mix-Docu",MyZen TV (1080p)
+#EXTINF:-1 tvg-id="My.Zen.TV.fr" tvg-name="MyZen TV" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Mix-Docu",MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es@FR" tvg-name="Voyages & Saveurs" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="Mix-Docu",Voyages & Saveurs (720p)
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
-#EXTINF:-1 tvg-name="Popular Science" tvg-name="Popular Science" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288" group-title="Mix-Docu",Popular Science
+#EXTINF:-1 tvg-id="plex.tv.Popular.Science.plex" tvg-name="Popular Science" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288" group-title="Mix-Docu",Popular Science
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8?channel_name=Popular%20Science&content_genre=Entertainment&ic=IAB1-7&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-#EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-name="Terra Mater WILD English" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="Mix-Docu",Terra Mater WILD English (1080p)
+#EXTINF:-1 tvg-id="Terra.Mater.Wild.us" tvg-name="Terra Mater WILD English" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="Mix-Docu",Terra Mater WILD English (1080p)
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 tvg-id="INFAST.nl@SD" tvg-name="INFAST" tvg-logo="https://i.imgur.com/VwAMqA7.png" group-title="Mix-Docu",INFAST (1080p)
+#EXTINF:-1 tvg-id="INFAST.US.us2" tvg-name="INFAST" tvg-logo="https://i.imgur.com/VwAMqA7.png" group-title="Mix-Docu",INFAST (1080p)
 https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-name="INWILD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Mix-Docu",INWILD (1080p)
 https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="Mix-Docu",InWonder (1080p)
+#EXTINF:-1 tvg-id="plex.tv.INWONDER.plex" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="Mix-Docu",InWonder (1080p)
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" tvg-name="InTravel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" group-title="Mix-Docu",InTravel (1080p)
+#EXTINF:-1 tvg-id="INTRAVEL.us" tvg-name="InTravel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" group-title="Mix-Docu",InTravel (1080p)
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-name="INTROUBLE" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Mix-Docu",INTROUBLE (1080p)
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="INTROUBLE" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Mix-Docu",INTROUBLE (1080p)
 https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-name="Autentic History" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="Mix-Docu",Autentic History (1080p)
+#EXTINF:-1 tvg-id="Autentic.History.us" tvg-name="Autentic History" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="Mix-Docu",Autentic History (1080p)
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
-#EXTINF:-1 tvg-id="AutenticTravel.de@SD" tvg-name="Autentic Travel" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Mix-Docu",Autentic Travel (1080p)
+#EXTINF:-1 tvg-id="Autentic.Travel.us" tvg-name="Autentic Travel" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Mix-Docu",Autentic Travel (1080p)
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Mix-Docu",CGTN Documentary (1080p)
+#EXTINF:-1 tvg-id="UK:.CGTN.Documentary.be" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Mix-Docu",CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="ChinaTravel.cn@SD" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Mix-Docu",China Travel (1080p)
+#EXTINF:-1 tvg-id="UK:.China.Travel.be" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Mix-Docu",China Travel (1080p)
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-name="Discovering China" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Mix-Docu",Discovering China (1080p)
+#EXTINF:-1 tvg-id="Discovering.China.us" tvg-name="Discovering China" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Mix-Docu",Discovering China (1080p)
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-name="Documentary+ International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Mix-Docu",Documentary+ International (1080p)
+#EXTINF:-1 tvg-id="plex.tv.Documentary+.plex" tvg-name="Documentary+ International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Mix-Docu",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-name="Dokusat" tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="Mix-Docu",Dokusat (1080p)
+#EXTINF:-1 tvg-id="DOKUSAT.de" tvg-name="Dokusat" tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="Mix-Docu",Dokusat (1080p)
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-id="GustoTV.ca@SD" tvg-name="Gusto TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gusto_TV.png" group-title="Mix-Docu",Gusto TV (1080p)
+#EXTINF:-1 tvg-id="GustoTV.ca@SD" tvg-name="Gusto.TV.us" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gusto_TV.png" group-title="Mix-Docu",Gusto TV (1080p)
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca@AU" tvg-name="NatureTime" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Mix-Docu",NatureTime (1080p)
+#EXTINF:-1 tvg-id="UK:.Nature.Time.be" tvg-name="NatureTime" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Mix-Docu",NatureTime (1080p)
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4K TRAVEL TV" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Mix-Docu",4K TRAVEL TV (1080p)
+#EXTINF:-1 tvg-id="4K.TRAVEL.TV.distro" tvg-name="4K TRAVEL TV" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Mix-Docu",4K TRAVEL TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=ndSxSDe4vbu
-#EXTINF:-1 tvg-id="" tvg-name="4K TRAVEL TV" tvg-logo="" group-title="Mix-Docu",4K Travel TV (1080p)
+#EXTINF:-1 tvg-id="4K.TRAVEL.TV.distro" tvg-name="4K TRAVEL TV" tvg-logo="" group-title="Mix-Docu",4K Travel TV (1080p)
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Escape to the Country" tvg-logo="" group-title="Mix-Docu",Escape to the Country (1080p)
 https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8
@@ -2904,62 +2904,62 @@ https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8
 https://linear-738.frequency.stream/dist/stirr/738/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Heritage Tourism" tvg-logo="" group-title="Mix-Docu",Heritage Tourism (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Heritage+" tvg-logo="" group-title="Mix-Docu",Heritage+ (1080p)
+#EXTINF:-1 tvg-id="Heritage+.es" tvg-name="Heritage+" tvg-logo="" group-title="Mix-Docu",Heritage+ (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History & Warfare Now" tvg-logo="" group-title="Mix-Docu",History & Warfare Now (1080p)
+#EXTINF:-1 tvg-id="HistoryandWarfareNow.au" tvg-name="History & Warfare Now" tvg-logo="" group-title="Mix-Docu",History & Warfare Now (1080p)
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History and Warfare Now" tvg-logo="" group-title="Mix-Docu",History and Warfare Now (1080p)
+#EXTINF:-1 tvg-id="HistoryandWarfareNow.au tvg-name="History and Warfare Now" tvg-logo="" group-title="Mix-Docu",History and Warfare Now (1080p)
 
-#EXTINF:-1 tvg-id="" tvg-name="Home.Made.Nation" tvg-logo="" group-title="Mix-Docu",Home.Made.Nation (720p)
+#EXTINF:-1 tvg-id="" tvg-name="plex.tv.Home.Made.Nation.plex" tvg-logo="" group-title="Mix-Docu",Home.Made.Nation (720p)
 https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Modern Marvels" tvg-logo="" group-title="Mix-Docu",Modern Marvels (720p)
 https://jmp2.uk/plu-6540ff2d770cf1000866b90a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Modern Marvels by HISTORY" tvg-logo="" group-title="Mix-Docu",Modern Marvels by HISTORY (720p)
+#EXTINF:-1 tvg-id="plex.tv.Modern.Marvels.by.History.plex" tvg-name="Modern Marvels by HISTORY" tvg-logo="" group-title="Mix-Docu",Modern Marvels by HISTORY (720p)
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Space Series" tvg-logo="" group-title="Mix-Docu",Space Series (1080p)
+#EXTINF:-1 tvg-id="Space.Series.us" tvg-name="Space Series" tvg-logo="" group-title="Mix-Docu",Space Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Pet Collective" tvg-logo="" group-title="Mix-Docu",The Pet Collective (720p)
+#EXTINF:-1 tvg-id="UK:.The.Pet.Collective.be" tvg-name="The Pet Collective" tvg-logo="" group-title="Mix-Docu",The Pet Collective (720p)
 https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tiny House Nation" tvg-logo="" group-title="Mix-Docu",Tiny House Nation (720p)
+#EXTINF:-1 tvg-id="UK:.Tiny.House.Nation.be" tvg-name="Tiny House Nation" tvg-logo="" group-title="Mix-Docu",Tiny House Nation (720p)
 https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel Escapes" tvg-logo="" group-title="Mix-Docu",Travel Escapes (1080p)
+#EXTINF:-1 tvg-id="plex.tv.Travel.Escapes.plex" tvg-name="Travel Escapes" tvg-logo="" group-title="Mix-Docu",Travel Escapes (1080p)
 https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True History Channel" tvg-logo="" group-title="Mix-Docu",True History Channel (720p)
+#EXTINF:-1 tvg-id="plex.tv.True.History.plex" tvg-name="True History Channel" tvg-logo="" group-title="Mix-Docu",True History Channel (720p)
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="True Lives" group-title="Mix-Docu",True Lives (1080p)
+#EXTINF:-1 tvg-id="UK:.True.Lives.be" tvg-name="" tvg-logo="True Lives" group-title="Mix-Docu",True Lives (1080p)
 https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ultimate Builds" tvg-logo="" group-title="Mix-Docu",Ultimate Builds (720p)
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Voyages+" tvg-logo="" group-title="Mix-Docu",Voyages+ (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="World War TV" tvg-logo="" group-title="Mix-Docu",World War TV (1080p)
+#EXTINF:-1 tvg-id="UK:.World.War.TV.be" tvg-name="World War TV" tvg-logo="" group-title="Mix-Docu",World War TV (1080p)
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Xtreme Outdoor by HISTORY" tvg-logo="" group-title="Mix-Docu",Xtreme Outdoor by HISTORY
+#EXTINF:-1 tvg-id="plex.tv.Xtreme.Outdoor.by.HISTORY.plex" tvg-name="Xtreme Outdoor by HISTORY" tvg-logo="" group-title="Mix-Docu",Xtreme Outdoor by HISTORY
 https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
-#EXTINF:-1 tvg-id="XploreTV.us@SD" tvg-name="Xplore" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="Mix-Docu",Xplore (1080p)
+#EXTINF:-1 tvg-id="Xplore.ch" tvg-name="Xplore" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="Mix-Docu",Xplore (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="ThisOldHouse.us@SD" tvg-name="This Old House" tvg-logo="https://i.imgur.com/nrVLyE6.png" group-title="Mix-Docu",This Old House (1080p)
+#EXTINF:-1 tvg-id="plex.tv.This.Old.House.plex" tvg-name="This Old House" tvg-logo="https://i.imgur.com/nrVLyE6.png" group-title="Mix-Docu",This Old House (1080p)
 https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-name="Outside" tvg-logo="https://i.imgur.com/0UMmG41.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Mix-Docu",Outside (1080p)
+#EXTINF:-1 tvg-id="plex.tv.Outside.plex" tvg-name="Outside" tvg-logo="https://i.imgur.com/0UMmG41.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Mix-Docu",Outside (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8?ads.vf=_zniV8aeQY4
-#EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-name="Outdoor America" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Mix-Docu",Outdoor America (1080p)
+#EXTINF:-1 tvg-id="Outdoor.America.Field.and.Stream.us2" tvg-name="Outdoor America" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Mix-Docu",Outdoor America (1080p)
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryHit.uk@SD" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Mix-Docu",History Hit (1080p)
+#EXTINF:-1 tvg-id="UK:.History.Hit.be" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Mix-Docu",History Hit (1080p)
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GoUSATV.us@SD" tvg-name="Go USA TV" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="Mix-Docu",Go USA TV (720p)
+#EXTINF:-1 tvg-id="GoUSA.TV.us" tvg-name="Go USA TV" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="Mix-Docu",Go USA TV (720p)
 https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Go2Travel.us@SD" tvg-name="Go2Travel" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="Mix-Docu",Go2Travel (1080p)
 https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FunRoads.us@SD" tvg-name="Fun Roads TV" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="Mix-Docu",Fun Roads TV (720p)
+#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads TV" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="Mix-Docu",Fun Roads TV (720p)
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Mix-Docu",BBC Earth (1080p)
+#EXTINF:-1 tvg-id="plex.tv.BBC.Earth.plex" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Mix-Docu",BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="Love Nature" tvg-logo="" group-title="Mix-Docu",Love Nature
+#EXTINF:-1 tvg-id="plex.tv.Love.Nature.plex" tvg-name="Love Nature" tvg-logo="" group-title="Mix-Docu",Love Nature
 https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="Love Nature 4K" tvg-logo="" group-title="Mix-Docu",Love Nature 4K
+#EXTINF:-1 tvg-id="Love.Nature.4K.ch" tvg-name="Love Nature 4K" tvg-logo="" group-title="Mix-Docu",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="Outdoor Channel" tvg-logo="" group-title="Mix-Docu",Outdoor Channel
+#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" tvg-logo="" group-title="Mix-Docu",Outdoor Channel
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 channel-id="0b88dcd80f6a5e838c83a67e7cfa4b3a" tvg-id="0b88dcd80f6a5e838c83a67e7cfa4b3a" tvg-chno="475" tvg-name="MagellanTV Wildest" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b88dcd80f6a5e838c83a67e7cfa4b3a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1743518131834_Roku_MGTVWildest_Logo_HUD.png" group-title="Mix-Docu",MagellanTV Wildest
 https://jmp2.uk/rok-0b88dcd80f6a5e838c83a67e7cfa4b3a.m3u8
