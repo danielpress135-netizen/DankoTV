@@ -2615,7 +2615,7 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="TV100.gr" tvg-name="TV 100" tvg-logo="https://i.imgur.com/OBH2DfE.png" group-title="GR/TV",TV 100 (720p)
 https://gwebstream.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="Xplore.ch" tvg-name="Xplore" tvg-logo="https://i.imgur.com/8oy62fX.png" group-title="GR/TV",Xplore (714p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Xplore.gr" tvg-name="Xplore" tvg-logo="https://i.imgur.com/8oy62fX.png" group-title="GR/TV",Xplore (714p) [Geo-blocked]
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
 
@@ -2625,7 +2625,7 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="16 TV Budapest" tvg-logo="" group-title="HU/TV",16 TV Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Balaton TV" tvg-logo="" group-title="HU/TV",Balaton TV
+#EXTINF:-1 tvg-id="Balaton.TV.hu" tvg-name="Balaton TV" tvg-logo="" group-title="HU/TV",Balaton TV
 http://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Budapest TV" tvg-logo="" group-title="HU/TV",Budapest TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/chunks.m3u8
@@ -2641,11 +2641,11 @@ https://stream.uni-eszterhazy.hu/live.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV7 Bekescsada" tvg-logo="" group-title="HU/TV",TV7 Bekescsada
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
-#EXTINF:-1 tvg-id="PannonTV.rs@SD" tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="HU/TV",Pannon RTV (648p)  
+#EXTINF:-1 tvg-id="Pannon.RTV.rs" tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="HU/TV",Pannon RTV (648p)  
 https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:-1 tvg-id="HeviziTV.hu@SD" tvg-name="Hévízi TV" tvg-logo="https://i.imgur.com/zuWQKDm.png" group-title="HU/TV",Hévízi TV (1080p)
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HirTV.hu@SD" tvg-name="Hir TV" tvg-logo="https://i.imgur.com/xmIUDRN.png" group-title="HU/TV",Hir TV (1080p)
+#EXTINF:-1 tvg-id="HIR.TV.hu" tvg-name="Hir TV" tvg-logo="https://i.imgur.com/xmIUDRN.png" group-title="HU/TV",Hir TV (1080p)
 https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
 #EXTINF:-1 tvg-id="KanizsaTV.hu@SD" tvg-name="Kanizsa TV" tvg-logo="https://i.imgur.com/l02znlE.png" group-title="HU/TV",Kanizsa TV (400p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
@@ -2653,25 +2653,25 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KarcagTV.hu@SD" tvg-name="Karcag TV" tvg-logo="https://i.imgur.com/QcrVj3Q.png" group-title="HU/TV",Karcag TV (720p)
 https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="M1.hu@SD" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="HU/TV",M1 (576p)
+#EXTINF:-1 tvg-id="m1.HD.hu" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="HU/TV",M1 (576p)
 
-#EXTINF:-1 tvg-id="M2.hu@SD" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="HU/TV",M2 (1080p)
+#EXTINF:-1 tvg-id="m2.HD.hu" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="HU/TV",M2 (1080p)
 http://88.212.15.19/live/m2_hun/index.m3u8
-#EXTINF:-1 tvg-id="M5.hu@SD" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="HU/TV",M5 (1080p)
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="HU/TV",M5 (1080p)
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu@SD" tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="HU/TV",Oroszlányi Városi Televízió (720p)
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OzdiVarosiTV.hu@SD" tvg-name="Ózdi Városi TV" tvg-logo="https://i.imgur.com/t0Aq3UD.png" group-title="HU/TV",Ózdi Városi TV (720p) [Not 24/7]
 http://stream.nmih.hu:7980/live.m3u8
-#EXTINF:-1 tvg-id="RTL.hu@SD" tvg-name="RTL" tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="HU/TV",RTL (1080p)
+#EXTINF:-1 tvg-id="RTL.hu" tvg-name="RTL" tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="HU/TV",RTL (1080p)
 
-#EXTINF:-1 tvg-id="RTLHarom.hu@SD" tvg-name="RTL Harom" tvg-logo="https://i.imgur.com/c4Hhhzs.png" group-title="HU/TV",RTL Harom (1080p)
+#EXTINF:-1 tvg-id="RTL.HÁROM.hu" tvg-name="RTL Harom" tvg-logo="https://i.imgur.com/c4Hhhzs.png" group-title="HU/TV",RTL Harom (1080p)
 
-#EXTINF:-1 tvg-id="RTLKetto.hu@SD" tvg-name="RTL Ketto" tvg-logo="https://i.imgur.com/IVv0qrI.png" group-title="HU/TV",RTL Ketto (1080p)
+#EXTINF:-1 tvg-id="RTL.KETTŐ.hu" tvg-name="RTL Ketto" tvg-logo="https://i.imgur.com/IVv0qrI.png" group-title="HU/TV",RTL Ketto (1080p)
 
-#EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-name="Sport 1" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="HU/TV",Sport 1 (1280p)
+#EXTINF:-1 tvg-id="Sport1.hu" tvg-name="Sport 1" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="HU/TV",Sport 1 (1280p)
 
-#EXTINF:-1 tvg-id="TV2.hu@SD" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png" group-title="HU/TV",TV2 (1080p)
+#EXTINF:-1 tvg-id="TV2.hu" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png" group-title="HU/TV",TV2 (1080p)
 
 #EXTINF:-1 tvg-id="TVKeszthely.hu@SD" tvg-name="TV Keszthely" tvg-logo="https://i.imgur.com/2LE8xSW.png" group-title="HU/TV",TV Keszthely (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
@@ -2684,37 +2684,37 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Euro Tv" tvg-name="Euro Tv" tvg-logo="https://i.imgur.com/HCl5Zbu.png" tvg-country="IT" group-title="IT/TV",Euro Tv
+#EXTINF:-1 tvg-id="Euro.Tv.it" tvg-name="Euro Tv" tvg-logo="https://i.imgur.com/HCl5Zbu.png" tvg-country="IT" group-title="IT/TV",Euro Tv
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 tvg-name="Lombardia Tv" tvg-name="Lombardia Tv" tvg-logo="https://i.imgur.com/aksVy9f.jpg" tvg-country="IT" group-title="IT/TV",Lombardia Tv
+#EXTINF:-1 tvg-id="Lombardia.Tv.it" tvg-name="Lombardia Tv" tvg-logo="https://i.imgur.com/aksVy9f.jpg" tvg-country="IT" group-title="IT/TV",Lombardia Tv
 https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Super Six" tvg-name="Super Six" tvg-logo="https://i.imgur.com/kHSuyub.png" tvg-id="SuperSix.it" tvg-country="IT" group-title="IT/TV",Super Six
+#EXTINF:-1 tvg-id="Super.Six.it" tvg-name="Super Six" tvg-logo="https://i.imgur.com/kHSuyub.png" tvg-id="SuperSix.it" tvg-country="IT" group-title="IT/TV",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 tvg-name="Supertv" tvg-name="Supertv" tvg-logo="https://i.imgur.com/7gUZcEh.png" tvg-country="IT" group-title="IT/TV",Supertv
+#EXTINF:-1 tvg-id="Super.tv.it" tvg-name="Supertv" tvg-logo="https://i.imgur.com/7gUZcEh.png" tvg-country="IT" group-title="IT/TV",Super tv
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 1" tvg-logo="" group-title="IT/TV",Rai 1
+#EXTINF:-1 tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1" tvg-logo="" group-title="IT/TV",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="" group-title="IT/TV",Rai 2
+#EXTINF:-1 tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2" tvg-logo="" group-title="IT/TV",Rai 2
 http://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 24" tvg-logo="" group-title="IT/TV",Rai 24
+#EXTINF:-1 tvg-id="Rai.News.24..508.it" tvg-name="Rai 24" tvg-logo="" group-title="IT/TV",Rai 24
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="IT/TV",Rai 3
+#EXTINF:-1 tvg-id="Rai.3.HD..103.it" tvg-name="Rai 3" tvg-logo="" group-title="IT/TV",Rai 3
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai Italia" tvg-logo="" group-title="IT/TV",Rai Italia
+#EXTINF:-1 tvg-id="RAI.Italia.ch" tvg-name="Rai Italia" tvg-logo="" group-title="IT/TV",Rai Italia
 http://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai Premium" tvg-logo="" group-title="IT/TV",Rai Premium
+#EXTINF:-1 tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium" tvg-logo="" group-title="IT/TV",Rai Premium
 http://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai Scuola" tvg-logo="" group-title="IT/TV",Rai Scuola
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="" group-title="IT/TV",Rai Scuola
 http://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai Storia" tvg-logo="" group-title="IT/TV",Rai Storia
+#EXTINF:-1 tvg-id="Rai.Storia..5054.it" tvg-name="Rai Storia" tvg-logo="" group-title="IT/TV",Rai Storia
 
-#EXTINF:-1 tvg-id="RaiGulp.it@HD" tvg-name="Rai Gulp HD" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="IT/TV",Rai Gulp HD (1080p)
+#EXTINF:-1 tvg-id="Rai.Gulp..5042.it" tvg-name="Rai Gulp HD" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="IT/TV",Rai Gulp HD (1080p)
 
-#EXTINF:-1 tvg-id="RaiSport.it@HD" tvg-name="Rai Sport HD" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="IT/TV",Rai Sport HD (1080p)
+#EXTINF:-1 tvg-id="RAI.Sport...227.it" tvg-name="Rai Sport HD" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="IT/TV",Rai Sport HD (1080p)
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN" tvg-logo="" group-title="IT/TV",TSN
+#EXTINF:-1 tvg-id="TSN.it" tvg-name="TSN" tvg-logo="" group-title="IT/TV",TSN
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSN Visual Radio" tvg-logo="" group-title="IT/TV",TSN Visual Radio
+#EXTINF:-1 tvg-id="TSN.Visual.Radio.it" tvg-name="TSN Visual Radio" tvg-logo="" group-title="IT/TV",TSN Visual Radio
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_3d0ad040b69311edbdfe833877bb03e2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AltoAdigeTV.it@SD" tvg-name="Alto Adige TV" tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="IT/TV",Alto Adige TV (720p)
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
@@ -2734,7 +2734,7 @@ https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="eTvRete7.it@SD" tvg-name="èTv Rete 7" tvg-logo="https://i.imgur.com/xYVI5OC.png" group-title="IT/TV",èTv Rete 7 (720p)
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Italia2TV.it@SD" tvg-name="Italia 2 TV" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="IT/TV",Italia 2 TV (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Italia.2.it" tvg-name="Italia 2 TV" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="IT/TV",Italia 2 TV (480p) [Geo-blocked]
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it@SD" tvg-name="MadeinBO TV" tvg-logo="https://i.imgur.com/47X44DD.png" group-title="IT/TV",MadeinBO TV (1080p)
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
@@ -2742,7 +2742,7 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PadrePioTV.it@SD" tvg-name="Padre Pio TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="IT/TV",Padre Pio TV (1080p)
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ParolediVita.it@SD" tvg-name="Parole di Vita" tvg-logo="https://i.imgur.com/vkFlXbR.png" group-title="IT/TV",Parole di Vita (1080p)
+#EXTINF:-1 tvg-id="Parole.di.Vita.ch" tvg-name="Parole di Vita" tvg-logo="https://i.imgur.com/vkFlXbR.png" group-title="IT/TV",Parole di Vita (1080p)
 https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it@SD" tvg-name="Peer TV Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="IT/TV",Peer TV Alto Adige (1280p)
 https://iptv.peer.biz/live/peertv-it.m3u8
@@ -2752,15 +2752,15 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 #EXTINF:-1 tvg-id="QuartoCanaleFlegreo.it@SD" tvg-name="Quarto Canale Flegreo" tvg-logo="https://i.imgur.com/XfNSWp0.png" group-title="IT/TV",Quarto Canale Flegreo (720p)
 https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Italy" tvg-name="Rakuten TV Action Movies Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="IT/TV",Rakuten TV Action Movies Italy (1080p)
+#EXTINF:-1 tvg-id="IT:.Azione.-.Rakuten.TV.be" tvg-name="Rakuten TV Action Movies Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="IT/TV",Rakuten TV Action Movies Italy (1080p)
 https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Italy" tvg-name="Rakuten TV Comedy Movies Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="IT/TV",Rakuten TV Comedy Movies Italy (1080p)
+#EXTINF:-1 tvg-id="IT:.Commedia.-.Rakuten.TV.be" tvg-name="Rakuten TV Comedy Movies Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="IT/TV",Rakuten TV Comedy Movies Italy (1080p)
 https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Italy" tvg-name="Rakuten TV Drama Movies Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="IT/TV",Rakuten TV Drama Movies Italy (1080p)
+#EXTINF:-1 tvg-id="IT:.Dramma.-.Rakuten.TV.be" tvg-name="Rakuten TV Drama Movies Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="IT/TV",Rakuten TV Drama Movies Italy (1080p)
 https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Italy" tvg-name="Rakuten TV Family Movies Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="IT/TV",Rakuten TV Family Movies Italy (1080p)
+#EXTINF:-1 tvg-id="IT:.Family.-.Rakuten.TV.be" tvg-name="Rakuten TV Family Movies Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="IT/TV",Rakuten TV Family Movies Italy (1080p)
 https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Italy" tvg-name="Rakuten TV Top Movies Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="IT/TV",Rakuten TV Top Movies Italy (1080p)
+#EXTINF:-1 tvg-id="IT:.Film.Top.-.Rakuten.TV.be" tvg-name="Rakuten TV Top Movies Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="IT/TV",Rakuten TV Top Movies Italy (1080p)
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 #EXTINF:-1 tvg-id="ReggioTV.it@SD" tvg-name="ReggioTV" tvg-logo="https://i.imgur.com/cEwJkRV.png" group-title="IT/TV",ReggioTV (480p) [Not 24/7]
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
@@ -2772,7 +2772,7 @@ https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:-1 tvg-id="ReteTVItalia.it@SD" tvg-name="Rete TV Italia" tvg-logo="https://i.imgur.com/BR7QfUF.png" group-title="IT/TV",Rete TV Italia (1080p)
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
-#EXTINF:-1 tvg-id="Reteveneta.it@SD" tvg-name="Reteveneta" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="IT/TV",Reteveneta (480p)
+#EXTINF:-1 tvg-id="Reteveneta.it@SD" tvg-name="Rete Veneta" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="IT/TV",Rete Veneta (480p)
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
 #EXTINF:-1 tvg-id="RTMTV.it@SD" tvg-name="RTM TV" tvg-logo="https://i.imgur.com/w9Twxsi.png" group-title="IT/TV",RTM TV (1080p)
 https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
@@ -2782,9 +2782,9 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV38.it@SD" tvg-name="RTV38" tvg-logo="https://i.imgur.com/YOlwudm.png" group-title="IT/TV",RTV38 (576p)
 https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="Sportitalia.it@SD" tvg-name="Sport Italia" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="IT/TV",Sport Italia (1080p)
+#EXTINF:-1 tvg-id="IT:.Sport.Italia.be" tvg-name="Sport Italia" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="IT/TV",Sport Italia (1080p)
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Super.it@SD" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png" group-title="IT/TV",Super!
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png" group-title="IT/TV",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAbruzzo.it@SD" tvg-name="Tele Abruzzo" tvg-logo="https://i.imgur.com/XymK2PR.png" group-title="IT/TV",Tele Abruzzo (384p)
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
@@ -2831,7 +2831,7 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-name="Alterna TV" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Mix",Alterna TV (720p) [Not 24/7]
 
-#EXTINF:-1 tvg-id="" tvg-name="NOW TV" tvg-logo="" group-title="MIX",NOW TV
+#EXTINF:-1 tvg-id="NOW.US.de" tvg-name="NOW TV" tvg-logo="" group-title="MIX",NOW TV
 https://nowhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioRealpolitik.ar@SD" tvg-name="Radio Realpolitik" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="MIX",Radio Realpolitik (720p)
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
@@ -2839,15 +2839,15 @@ https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PerviyInformationniy.by@SD" tvg-name="Первый информационный" tvg-logo="https://i.imgur.com/eIiXRAI.png" group-title="MIX",Первый информационный (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Liv.fi@SD" tvg-name="Liv" tvg-logo="https://i.imgur.com/k6NsXBj.png" group-title="MIX",Liv (720p)  FINLAND
+#EXTINF:-1 tvg-id="Liv.fi" tvg-name="Liv" tvg-logo="https://i.imgur.com/k6NsXBj.png" group-title="MIX",Liv (720p)  FINLAND
 https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="MTV3.fi@SD" tvg-name="MTV3" tvg-logo="https://i.imgur.com/C5rQbBM.png" group-title="MIX",MTV3 (720p)FINLAND
+#EXTINF:-1 tvg-id="MTV3.fi" tvg-name="MTV3" tvg-logo="https://i.imgur.com/C5rQbBM.png" group-title="MIX",MTV3 (720p)FINLAND
 https://live-fi.tvkaista.net/mtv3/live.m3u8
-#EXTINF:-1 tvg-id="MTVAva.fi@SD" tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/WxNCiAk.png" group-title="MIX",MTV Ava (720p)FINLAND
+#EXTINF:-1 tvg-id="MTV.Ava.fi" tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/WxNCiAk.png" group-title="MIX",MTV Ava (720p)FINLAND
 https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 tvg-id="MTVSub.fi@SD" tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/rmV8LO1.png" group-title="MIX",MTV Sub (720p)FINLAND
+#EXTINF:-1 tvg-id="Uutiset.fi" tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/rmV8LO1.png" group-title="MIX",MTV Sub (720p)FINLAND
 https://live-fi.tvkaista.net/sub/live.m3u8
-#EXTINF:-1 tvg-id="MTVUutiset.fi@SD" tvg-name="MTV Uutiset" tvg-logo="https://i.imgur.com/ZO8ShOK.png" group-title="MIX",MTV Uutiset (720p)FINLAND
+#EXTINF:-1 tvg-id="MTVUutiset.fi" tvg-name="MTV Uutiset" tvg-logo="https://i.imgur.com/ZO8ShOK.png" group-title="MIX",MTV Uutiset (720p)FINLAND
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 
 
