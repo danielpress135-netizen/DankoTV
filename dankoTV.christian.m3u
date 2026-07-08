@@ -56,8 +56,8 @@ https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
 https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVHram.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu",TV Hram (576p) [Not 24/7]
 https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu",Tv Nasledje
-https://www.youtube.com/watch?v=t6YV4duq3ak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu",Tv Nasledje (youtube tv)
+https://www.youtube.com/watch?v=4xDB1K1zvPw
 
 
 
@@ -98,6 +98,8 @@ https://s.emisoras.tv:8081/penielmusical/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Escuchame Radio Tv 
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+#EXTINF:-1 tvg-id="plex.tv.XITE.Gospel.plex" tvg-name="XITE Gospel" tvg-logo="" group-title="christian music tv",XITE Gospel (720p)
+https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Planetshakers Praise and Worship(Youtube Tv)
 https://www.youtube.com/watch?v=NbMoVSXluzo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Don Moen TV(Youtube Tv)
