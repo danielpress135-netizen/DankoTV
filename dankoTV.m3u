@@ -5269,7 +5269,7 @@ https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.Brezova.sk" tvg-name="TV Brezova" tvg-logo="" group-title="SK/TV",TV Brezova  
 https://videostudioris.sk/hls/tvb.m3u8
 #EXTINF:-1 tvg-id="TV.Myjava.sk" tvg-name="TV Myjava" tvg-logo="" group-title="SK/TV",TV Myjava 
-https://videostudioris.sk/hls/tvm.m3u8
+https://cdnsk003.panaccess.com/local/TV_MYJAVA_DC/index.m3u8
 #EXTINF:-1 tvg-id="Nove.Zamky.sk" tvg-name="TV Nove Zamky" tvg-logo="" group-title="SK/TV",TV Nove Zamky   
 https://livestream.lznet.work/hls/nztv-playout/index.m3u8
 #EXTINF:-1 tvg-id="TV.RAJ.cz" tvg-name="TV RAJ" tvg-logo="" group-title="SK/TV",TV RAJ     
@@ -5281,11 +5281,13 @@ http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 #EXTINF:-1 tvg-id="Ruzinov.sk" tvg-name="TV Ruzinov" tvg-logo="" group-title="SK/TV",TV Ruzinov   
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Senica.sk" tvg-name="TV Senica" tvg-logo="" group-title="SK/TV",TV Senica   
-https://videostudioris.sk/hls/tvsen.m3u8
+https://cdnsk003.panaccess.com/local/TV_SEN_DC/index.m3u8
 #EXTINF:-1 tvg-id="Skalica.sk" tvg-name="TV Skalica" tvg-logo="" group-title="SK/TV",TV Skalica    
 https://videostudioris.sk/hls/tvs.m3u8
 #EXTINF:-1 tvg-id="Stara.Tura.sk" tvg-name="TV Stara Tura" tvg-logo="" group-title="SK/TV",TV Stara Tura 
-   
+ https://cdnsk003.panaccess.com/local/TV_STARA_TURA_DC/index.m3u8 
+#EXTINF:-1 tvg-id="Stara.Tura.sk" tvg-name="TV Stara Tura" tvg-logo="" group-title="SK/TV",TV Stara Tura 
+https://cdnsk003.panaccess.com/local/TV_STARA_TURA_DC/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="TV.Vita.sk" tvg-name="TV Vita" tvg-logo="" group-title="SK/TV",TV Vita    
 https://dash2.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDK.sk" tvg-name="TVDK" tvg-logo="" group-title="SK/TV",TVDK  
