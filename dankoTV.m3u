@@ -5699,112 +5699,112 @@ https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1 HD
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1 HD
 http://178.253.194.79:10006
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 2 HD
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 2 HD
 http://178.253.194.79:10007
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 3 HD
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-name="Arena Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 3 HD
 http://178.253.194.79:10008
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 4 HD
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 4 HD
 http://178.253.194.79:10009
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 HD
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 HD
 http://178.253.194.79:10010
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 6 HD
+#EXTINF:-1 tvg-id="Arena.Sport.6.HD.(RS).rs" tvg-name="Arena Sport 6 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 6 HD
 http://178.253.194.79:10011
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 7 HD
+#EXTINF:-1 tvg-id="Arena.Sport.7.HD.(RS).rs" tvg-name="Arena Sport 7 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 7 HD
 http://178.253.194.79:10012
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 8 HD
+#EXTINF:-1 tvg-id="Arena.Sport.8.HD.(RS).rs" tvg-name="Arena Sport 8 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 8 HD
 http://178.253.194.79:10013
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1 Premium HD
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-name="Arena Sport 1 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1 Premium HD
 http://178.253.194.79:10001
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 2 Premium HD
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-name="Arena Sport 2 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 2 Premium HD
 http://178.253.194.79:10004
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 3 Premium HD
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-name="Arena Sport 3 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 3 Premium HD
 http://178.253.194.79:10005
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 4 Premium HD
+#EXTINF:-1 tvg-id="Arena.Premium.4.HD.(RS).rs" tvg-name="Arena Sport 4 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 4 Premium HD
 http://178.253.194.79:10016
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 Premium HD
+#EXTINF:-1 tvg-id="Arena.Premium.5.HD.(RS).rs" tvg-name="Arena Sport 5 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 Premium HD
 http://178.253.194.79:10017
-#EXTINF:-1 tvg-id="" tvg-name="Arena Tennis HD" tvg-logo="" group-title="SPORT/TEST",Arena Tennis HD
+#EXTINF:-1 tvg-id="Arena.Tenis.rs" tvg-name="Arena Tennis HD" tvg-logo="" group-title="SPORT/TEST",Arena Tennis HD
 http://178.253.194.79:10019
-#EXTINF:-1 tvg-id="" tvg-name="Arena Adrenalin HD" tvg-logo="" group-title="SPORT/TEST",Arena Adrenalin HD
+#EXTINF:-1 tvg-id="Arena.Adrenalin.rs" tvg-name="Arena Adrenalin HD" tvg-logo="" group-title="SPORT/TEST",Arena Adrenalin HD
 http://178.253.194.79:10018
-#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 1" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 1
+#EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-name="MAX SPORT 1" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 1
 http://77.46.130.252:99/maxsport1
-#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 2" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 2
+#EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-name="MAX SPORT 2" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 2
 http://77.46.130.252:99/maxsport2
-#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 3" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 3
+#EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-name="MAX SPORT 3" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 3
 http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 4" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 4
+#EXTINF:-1 tvg-id="MAX.Sport.4.bg" tvg-name="MAX SPORT 4" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 4
 http://77.46.130.252:99/maxsport4
-#EXTINF:-1 tvg-id="" tvg-name="DAZN_2" tvg-logo="" group-title="SPORT/TEST",DAZN_2
+#EXTINF:-1 tvg-id="" tvg-name="DAZN_2" tvg-logo="" group-title="SPORT/TEST",DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN_3" tvg-logo="" group-title="SPORT/TEST",DAZN_3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN_3" tvg-logo="" group-title="SPORT/TEST",DAZN 3
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="SPORT/TEST",DAZN 4 HD
 http://46.151.196.223:14423
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 1 HD
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 1 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 1 HD
 http://46.151.196.223:14435
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 2 HD
 http://46.151.196.223:14438
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 4 HD
 http://46.151.196.223:14453
-#EXTINF:-1 tvg-id="" tvg-name="MATCH4 HD" tvg-logo="" group-title="SPORT/TEST",MATCH4 HD
+#EXTINF:-1 tvg-id="Match.4.hu" tvg-name="MATCH4 HD" tvg-logo="" group-title="SPORT/TEST",MATCH4 HD
 http://46.149.191.217:9010/play/a019
-#EXTINF:-1 tvg-id="" tvg-name="M4 Sport" tvg-logo="" group-title="SPORT/TEST",M4 Sport
+#EXTINF:-1 tvg-id="M4.Sport.cz" tvg-name="M4 Sport" tvg-logo="" group-title="SPORT/TEST",M4 Sport
 http://46.149.191.217:9010/play/a017
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 1 HD
+#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="Digi Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 1 HD
 http://91.201.172.14:35005
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 2 HD
+#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="Digi Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 2 HD
 http://91.201.172.14:35006
-#EXTINF:-1 tvg-id="" tvg-name="DIGI Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 1 HD
+#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 1 HD
 #EXTVLCOPT:network-caching=1000
 http://82.78.243.219:45739/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIGI Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 2 HD
+#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 2 HD
 #EXTVLCOPT:network-caching=1000
 http://82.78.243.219:45739/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIGI Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 3 HD
+#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="DIGI Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 3 HD
 #EXTVLCOPT:network-caching=1000
 http://82.78.243.219:45739/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIGI Sport 4 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 4 HD
+#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="DIGI Sport 4 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 4 HD
 #EXTVLCOPT:network-caching=1000
 http://82.78.243.219:45739/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Diemma Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Diemma Sport 1 HD
+#EXTINF:-1 tvg-id="Diema.Sport.HD.bg" tvg-name="Diemma Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Diemma Sport 1 HD
 http://85.11.144.9:3341/1
-#EXTINF:-1 tvg-id="" tvg-name="Diemma Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Diemma Sport 2 HD
+#EXTINF:-1 tvg-id="Diema.Sport.2.HD.bg" tvg-name="Diemma Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Diemma Sport 2 HD
 http://85.11.144.9:3341/2
-#EXTINF:-1 tvg-id="" tvg-name="Diemma Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",Diemma Sport 3 HD
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diemma Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",Diemma Sport 3 HD
 http://85.11.144.9:3341/3
-#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 1 HD
+#EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 1 HD
 http://85.11.144.9:3341/6
-#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 2 HD
+#EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-name="MAX Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 2 HD
 http://85.11.144.9:3341/7
-#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 3 HD
+#EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 3 HD
 http://85.11.144.9:3341/8
-#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 4 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 4 HD
+#EXTINF:-1 tvg-id="MAX.Sport.4.bg" tvg-name="MAX Sport 4 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 4 HD
 http://85.11.144.9:3341/9
-#EXTINF:-1 tvg-id="" tvg-name="sport tv 1" tvg-logo="" group-title="SPORT/TEST",sport tv 1
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="sport tv 1" tvg-logo="" group-title="SPORT/TEST",sport tv 1
 http://94.130.32.19:8080/sporttv1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport tv 2" tvg-logo="" group-title="SPORT/TEST",sport tv 2
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="sport tv 2" tvg-logo="" group-title="SPORT/TEST",sport tv 2
 http://94.130.32.19:8080/sporttv2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport tv 3" tvg-logo="" group-title="SPORT/TEST",sport tv 3
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="sport tv 3" tvg-logo="" group-title="SPORT/TEST",sport tv 3
 http://94.130.32.19:8080/sporttv3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport tv 4" tvg-logo="" group-title="SPORT/TEST",sport tv 4
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="sport tv 4" tvg-logo="" group-title="SPORT/TEST",sport tv 4
 http://94.130.32.19:8080/sporttv4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport tv 5" tvg-logo="" group-title="SPORT/TEST",sport tv 5
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="sport tv 5" tvg-logo="" group-title="SPORT/TEST",sport tv 5
 http://94.130.32.19:8080/sporttv5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport tv 6" tvg-logo="" group-title="SPORT/TEST",sport tv 6
+#EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-name="sport tv 6" tvg-logo="" group-title="SPORT/TEST",sport tv 6
 http://94.130.32.19:8080/sporttv6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport tv 7" tvg-logo="" group-title="SPORT/TEST",sport tv 7
+#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="sport tv 7" tvg-logo="" group-title="SPORT/TEST",sport tv 7
 http://94.130.32.19:8080/sporttv7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 3 HD
 http://216.106.179.7:8080/ESPN3HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 4 HD
 http://216.106.179.7:8080/ESPN4HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 5 HD
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 5 HD
 http://216.106.179.7:8080/ESPN5HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 6 HD
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 6 HD
 http://216.106.179.7:8080/ESPN6HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 7 HD
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 7 HD
 http://216.106.179.7:8080/ESPN7HD/index.m3u8
 
 
