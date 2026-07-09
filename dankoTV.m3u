@@ -1530,6 +1530,11 @@ http://5.57.74.130:8000/play/a0e3/index.m3u8
 http://5.57.74.130:8000/play/a0bz/index.m3u8
 #EXTINF:-1 tvg-id="K::CN.Music.2.(RS).rs" tvg-name="KCN 2" tvg-logo="" group-title="Ex-Yu/Music tv",KCN 2
 https://de1.dstv.cx/KCN2/index.m3u8
+#EXTINF:-1 tvg-id="Power.tv.sr" tvg-name="Power tv" tvg-logo="" group-title="Ex-Yu/Music tv",Power tv
+https://media2.streambrothers.com:1936/8168/8168/playlist.m3u8
+#EXTINF:-1 tvg-id="Power.tv.rs" tvg-name="Power tv" tvg-logo="" group-title="Ex-Yu/Music tv",Power tv
+https://media2.streambrothers.com:1936/8168/8168/chunklist_w869830387.m3u8
+
 
 
 
