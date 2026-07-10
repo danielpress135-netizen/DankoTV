@@ -2996,10 +2996,18 @@ https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 
 #EXTINF:-1 tvg-id="Stingray.Classic.Rock.ca2" tvg-name="Stingray Classic Rock" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="MUSIC/RADIO+",Stingray Classic Rock (1080p)
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Country Greats" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Country Greats
+https://lotus.stingray.com/manifest/ose-109ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Cristian Pop & Rock" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Cristian Pop & Rock
+https://lotus.stingray.com/manifest/ose-144ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Stingray.Easy.Listening.ca2" tvg-name="Stingray Easy Listening" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="MUSIC/RADIO+",Stingray Easy Listening (1080p)
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Época Dorada Delcine Mexicano" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Época Dorada Delcine Mexicano
+https://lotus.stingray.com/manifest/ose-219ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayEuroHits.ca@SD" tvg-name="Stingray Euro Hits" tvg-logo="https://i.imgur.com/FyhO9U5.png" group-title="MUSIC/RADIO+",Stingray Euro Hits (1080p)
 https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Exitos Regional Mexicanos" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Exitos Regional Mexicanos
+https://lotus.stingray.com/manifest/ose-226ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayExitosdelMomento.ca@SD" tvg-name="Stingray Éxitos del Momento" tvg-logo="https://i.imgur.com/wiasHUR.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="MUSIC/RADIO+",Stingray Éxitos del Momento (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi
@@ -3014,14 +3022,24 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="PL:.Stingray:.Hitlist.be" tvg-name="Stingray Hit list" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="MUSIC/RADIO+",Stingray Hit list (1080p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hits Brasiletros" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Hits Brasiletros
+https://lotus.stingray.com/manifest/ose-212ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Stingray.Hot.Country.ca2" tvg-name="Stingray Hot Country" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="MUSIC/RADIO+",Stingray Hot Country (1080p)
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Stingray.Jukebox.Oldies.ca2" tvg-name="Stingray Jukebox Oldies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="MUSIC/RADIO+",Stingray Jukebox Oldies (1080p)
 https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray MPB" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray MPB
+https://lotus.stingray.com/manifest/ose-204ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Stingray.Nothin’.but.’90s.ca2" tvg-name="Stingray Nothin' But 90s" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="MUSIC/RADIO+",Stingray Nothin' But 90s (1080p)
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Stingray.Pop.Adult.ca2" tvg-name="Stingray Pop Adult" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="MUSIC/RADIO+",Stingray Pop Adult (1080p)
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Mexicano 80S" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Pop Mexicano 80S
+https://lotus.stingray.com/manifest/ose-218ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Reggaeton" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Reggaeton
+https://lotus.stingray.com/manifest/ose-176ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Stingray.Remember.the.’80s.ca2" tvg-name="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="MUSIC/RADIO+",Stingray Remember the 80s (1080p)
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayRememberthe80s.ca@Poland" tvg-name="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="MUSIC/RADIO+",Stingray Remember the 80s (1080p)
@@ -3036,14 +3054,65 @@ https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingraySoulStorm.ca@SD" tvg-name="Stingray Soul Storm" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="MUSIC/RADIO+",Stingray Soul Storm (1080p)
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Thai Pop" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Thai Pop
+https://lotus.stingray.com/manifest/ose-314ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Stingray.The.Spa.ca2" tvg-name="Stingray The Spa" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="MUSIC/RADIO+",Stingray The Spa (1080p)
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="TikTok.Radio.on.Stingray.ca" tvg-name="Stingray Tik Tok Radio" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Tik Tok Radio
+https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD" tvg-name="Stingray Today's KPOP" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="MUSIC/RADIO+",Stingray Today's KPOP (1080p)
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC/RADIO+",Stingray Today's Latin Pop (1080p)
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@SD" tvg-name="Stingray Urban Beat" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC/RADIO+",Stingray Urban Beat (1080p)
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Y2K" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Y2K
+https://lotus.stingray.com/manifest/ose-232ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Супердискотека 90х" tvg-logo="" group-title="MUSIC/RADIO+",Record Супердискотека 90х
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=Bb6s3gvqYj1P6gxMTEU5FA&e=2083666557&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Big Hits" tvg-logo="" group-title="MUSIC/RADIO+",Record Big Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=QaIXjM-lRhVbDpeRIM-ctw&e=2083666558&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Rock" tvg-logo="" group-title="MUSIC/RADIO+",Record Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=AQrMjQ8tr10gUQKx33x4gw&e=2083666558&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Dance Radio" tvg-logo="" group-title="MUSIC/RADIO+",Record Dance Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=ycal5iprUnQqrVrCPm2vsQ&e=2083666559&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Russian Hits" tvg-logo="" group-title="MUSIC/RADIO+",Record Russian Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=ho4jqg2Wor6NYzac8Jb4Bg&e=2083666560&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Гоп FM" tvg-logo="" group-title="MUSIC/RADIO+",Record Гоп FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=rK6FS824boiz2QQkxHWVXQ&e=2083666560&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Megamix" tvg-logo="" group-title="MUSIC/RADIO+",Record Megamix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=nv9Ou8YsYjPADHUwJKd4Gg&e=2083666561&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Russian Mix" tvg-logo="" group-title="MUSIC/RADIO+",Record Russian Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=QZtPeE538X7l3HYntvfxpg&e=2083666561&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Deep" tvg-logo="" group-title="MUSIC/RADIO+",Record Deep
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=X0uZEcjBj7gK2wLXVL8tKA&e=2083666562&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Phonk" tvg-logo="" group-title="MUSIC/RADIO+",Record Phonk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=4U2xURasDU2A18do9R9wdw&e=2083666562&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Chill House" tvg-logo="" group-title="MUSIC/RADIO+",Record Chill House
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=O_9M3U_4WkgOD8Uhi7-a9A&e=2083666562&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Drum n Bass" tvg-logo="" group-title="MUSIC/RADIO+",Record Drum n Bass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=ofvdbq0_Y301p7S6Evj1Mg&e=2083666563&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Chill-Out" tvg-logo="" group-title="MUSIC/RADIO+",Record Chill-Out
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=AUJ3cCcdnHJEh6y-23ClpQ&e=2083666563&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Techno by Innocence" tvg-logo="" group-title="MUSIC/RADIO+",Record Techno by Innocence
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=oKsie7GPXl5jKP14Zy0C5A&e=2083666563&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Record Trance" tvg-logo="" group-title="MUSIC/RADIO+",Record Trance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=yQeeZn4CcToHwC7uGYbUSQ&e=2083666565&scheme=https
 
 
 
