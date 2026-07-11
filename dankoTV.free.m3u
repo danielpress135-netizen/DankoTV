@@ -351,6 +351,8 @@ http://109.72.57.12/hls/tvcityub.m3u8
 https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NISH TV" tvg-logo="" group-title="Ex-Yu/TV",NISH TV
 http://178.253.201.11:8081/live/tvnis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 8 mak" tvg-logo="" group-title="Ex-Yu/TV",Kanal 8 mak
+https://tv.kanal8.mk/live/kanal8.m3u8
 
 
 

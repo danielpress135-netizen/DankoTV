@@ -1963,6 +1963,8 @@ https://live.vtv.mk/live/vtv/chunks.m3u8
 http://live.vtv.mk:8081/live/vtv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vistel" tvg-logo="https://i.imgur.com/MbM0E6L.png" group-title="Ex-Yu/TV",Вистел TV (MK)
 https://live.vtv.mk/live/vtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 8 mak" tvg-logo="" group-title="Ex-Yu/TV",Kanal 8 mak
+https://tv.kanal8.mk/live/kanal8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nasha TV" tvg-logo="" group-title="Ex-Yu/TV",Nasha TV
 http://cdn1.invivo.bg/NASHA_TV_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Slavonska.TV.hr" tvg-name="STV" tvg-logo="" group-title="Ex-Yu/TV",STV (720p)
@@ -3565,7 +3567,13 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/111
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+", Exclusive Radio - Roxette
 https://streaming.exclusive.radio/er/roxette/icecast.audio
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK+",The A.X.E. Project
-http://79.98.108.170:8004/autodj 
+http://79.98.108.170:8004/autodj
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+",
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+",
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+",
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+",
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+",
+#EXTINF:-1 group-title="MUSIC/RADIO ROCK+", 
 
 
 
@@ -4102,6 +4110,8 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Gostei Pop Tv" tvg-logo="" group-title="MUSIC/TV MIX",Rede Gostei Pop Tv
 https://video03.logicahost.com.br/redegostei/redegostei/playlist.m3u8
+#EXTINF:-1 tvg-id="LINETV.tr" tvg-name="line tv" tvg-logo="" group-title="MUSIC/TV MIX",line tv tr.
+https://edge.taksimbilisim.com/linetv/bant1/playlist.m3u8
 
 
 
@@ -5319,14 +5329,20 @@ https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Jednotka.HD.sk" tvg-name=":1(Jednotka)" tvg-logo="" group-title="SK/TV",:1(Jednotka)
+#EXTINF:-1 tvg-id="Jednotka.HD.sk" tvg-name=":1(Jednotka)" tvg-logo="" group-title="SK/TV",:1(Jednotka) test
 http://88.212.7.11/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Dvojka.HD.sk" tvg-name=":2(Dvojka)" tvg-logo="" group-title="SK/TV",:2(Dvojka)
+#EXTINF:-1 tvg-id="Jednotka.HD.sk" tvg-name=":1(Jednotka)" tvg-logo="" group-title="SK/TV",:1(Jednotka) saita
+https://n17.stv.livebox.sk/stv-tv/e70863fd32be0bef07183d40fb333c0a/stv1.smil/chunklist_b2691072.m3u8
+#EXTINF:-1 tvg-id="Dvojka.HD.sk" tvg-name=":2(Dvojka)" tvg-logo="" group-title="SK/TV",:2(Dvojka) test
 http://88.212.7.11/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Dvojka.HD.sk" tvg-name=":2(Dvojka)" tvg-logo="" group-title="SK/TV",:2(Dvojka) saita
+https://n17.stv.livebox.sk/stv-tv/3e443982ffb2132d351d84c4e0ff02e8/stv2.smil/chunklist_b2691072.m3u8
 #EXTINF:-1 tvg-id=":ŠPORT.HD.sk" tvg-name=":Šport" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="SK/TV",:Šport (1080p)
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id=":24.HD.sk" tvg-name=":24" tvg-logo="https://i.imgur.com/tTCuczU.png" group-title="SK/TV",:24 (1080p)
+#EXTINF:-1 tvg-id=":24.HD.sk" tvg-name=":24" tvg-logo="https://i.imgur.com/tTCuczU.png" group-title="SK/TV",:24 (1080p) test
 http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id=":24.HD.sk" tvg-name=":24" tvg-logo="https://i.imgur.com/tTCuczU.png" group-title="SK/TV",:24 (1080p) saita
+https://n17.stv.livebox.sk/stv-tv/6efb93ffd80f24242cdd5111f1b10891/stv3.smil/chunklist_b2691072.m3u8
 #EXTINF:-1 tvg-id="JOJ.HD.sk" tvg-name="JOJ" tvg-logo="" group-title="SK/TV",JOJ
 http://88.212.15.47/live/test_joj_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ.Cinema.HD.sk" tvg-name="JOJ Cinema" tvg-logo="" group-title="SK/TV",JOJ Cinema
@@ -5373,6 +5389,16 @@ https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
 #EXTINF:-1 tvg-id="Západoslovenská.televízia.cz" tvg-name="Zapadoslovenska TV" tvg-logo="https://i.imgur.com/D72Y1IB.png" group-title="SK/TV",Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+#EXTINF:-1 tvg-id="TA3.HD.sk" tvg-name="TV TA.3" tvg-logo="" group-title="SK/TV",TV TA.3
+https://n13.stv.livebox.sk/ta3/92e0721cb56aa5f5a3d45a1716e0636e/1.smil/chunklist_b2691072.m3u8
+#EXTINF:-1 tvg-id="TV.Bratislava.cz" tvg-name="Bratislava tv" tvg-logo="" group-title="SK/TV",Bratislava tv
+https://cdnsk003.panaccess.com/local/Bratislava/index.m3u8
+#EXTINF:-1 tvg-id="TV.Bratislava.cz" tvg-name="Bratislava tv" tvg-logo="" group-title="SK/TV",Bratislava tv
+https://cdnsk003.panaccess.com/local/Bratislava/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Lux.TV.HD.sk" tvg-name="TV LUX" tvg-logo="" group-title="SK/TV",TV LUX
+https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w1028636292_DVR.m3u8
+#EXTINF:-1 tvg-id="Lux.TV.HD.sk" tvg-name="TV LUX" tvg-logo="" group-title="SK/TV",TV LUX
+https://stream.tvlux.sk/luxtv/luxtv-livestream/playlist.m3u8?DVR
 
 
 
