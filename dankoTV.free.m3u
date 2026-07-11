@@ -158,8 +158,6 @@ https://www.youtube.com/watch?v=U8x51eUfFTI
 https://www.youtube.com/watch?v=_h_PYDt-Rd8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.camers",на живо от център Берковица
 https://www.youtube.com/watch?v=zQ36kh3ygco
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.camers",На живо от Велико Търново
-https://www.youtube.com/watch?v=_rExfPRYnRM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.camers",Вършец на живо
 https://www.youtube.com/watch?v=dZaNnsHPj64
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.camers",Beograd Com Live Stream
@@ -438,6 +436,11 @@ https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 https://nl1.dstv.cx/AdriaInfo/tracks-v2a1/rewind-7200.ts.m3u8
 #EXTINF:-1 tvg-id="TVZdravkin.mk" tvg-name="TV Zdravkin" tvg-logo="" group-title="Ex-Yu/TV",TV Zdravkin (400p)
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 tvg-id="Power.tv.sr" tvg-name="Power tv" tvg-logo="" group-title="Ex-Yu/TV",Power tv
+https://media2.streambrothers.com:1936/8168/8168/playlist.m3u8
+#EXTINF:-1 tvg-id="Power.tv.sr" tvg-name="Power tv" tvg-logo="" group-title="Ex-Yu/TV",Power tv
+https://media2.streambrothers.com:1936/8168/8168/chunklist_w869830387.m3u8
+
 
 
 
