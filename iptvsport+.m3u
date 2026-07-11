@@ -1,0 +1,89 @@
+#EXTM3U  x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Первый канал HD" tvg-logo="" group-title="Sport+",Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Sport+",Россия 24 (Хабаровск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="Sport+",Россия 1 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Sport+",Россия К (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Sport+",Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDI2IDY6NTM6NTggQU0maGFzaF92YWx1ZT05bkhuRG1maVphc0Z1NGY4MCs4VmJBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="Sport+",Матч! Премьер
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="Sport+",MAX Sport 1 HD
+http://62.176.112.19:8008/play/a0be
+#EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-name="MAX SPORT 1" tvg-logo="" group-title="Sport+",MAX SPORT 1
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-name="MAX SPORT 2" tvg-logo="" group-title="Sport+",MAX SPORT 2
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="MAX Sport 2 HD" tvg-logo="" group-title="Sport+",MAX Sport 2 HD
+http://62.176.112.19:8008/play/a0bf
+#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="Sport+",MAX Sport 3 HD
+http://62.176.112.19:8008/play/a0bg
+#EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-name="MAX SPORT 3" tvg-logo="" group-title="Sport+",MAX SPORT 3
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 tvg-id="MAX.Sport.4.bg" tvg-name="MAX SPORT 4" tvg-logo="" group-title="Sport+",MAX SPORT 4
+http://77.46.130.252:99/maxsport4
+#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="Sport+",Max Sport 4
+http://62.176.112.19:8008/play/a0d6
+#EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="Sport+",Diema Sport HD
+http://62.176.112.19:8008/play/a0bc
+#EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="Sport+",Diema Sport HD
+http://213.91.179.28:8000/play/a06q
+#EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="Sport+",Diema Sport 2 HD
+http://213.91.179.28:8000/play/a08e
+#EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="Sport+",Diema Sport 2 HD
+http://62.176.112.19:8008/play/a0bd
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="Sport+",Diema Sport 3 HD
+http://62.176.112.19:8008/play/a0cj
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="Sport+",Diema Sport 3 HD
+http://213.91.179.28:8000/play/a08f
+#EXTINF:-1 tvg-id="RING.BG.bg" tvg-name="RING HD" tvg-logo="" group-title="Sport+",RING HD
+http://62.176.112.19:8008/play/a0bo
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="Sport+",Arena Sport 1 HD
+http://178.253.194.79:10006
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="Sport+",Arena Sport 2 HD
+http://178.253.194.79:10007
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-name="Arena Sport 3 HD" tvg-logo="" group-title="Sport+",Arena Sport 3 HD
+http://178.253.194.79:10008
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="Sport+",Arena Sport 4 HD
+http://178.253.194.79:10009
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="Sport+",Arena Sport 5 HD
+http://178.253.194.79:10010
+#EXTINF:-1 tvg-id="Arena.Sport.6.HD.(RS).rs" tvg-name="Arena Sport 6 HD" tvg-logo="" group-title="Sport+",Arena Sport 6 HD
+http://178.253.194.79:10011
+#EXTINF:-1 tvg-id="Arena.Sport.7.HD.(RS).rs" tvg-name="Arena Sport 7 HD" tvg-logo="" group-title="Sport+",Arena Sport 7 HD
+http://178.253.194.79:10012
+#EXTINF:-1 tvg-id="Arena.Sport.8.HD.(RS).rs" tvg-name="Arena Sport 8 HD" tvg-logo="" group-title="Sport+",Arena Sport 8 HD
+http://178.253.194.79:10013
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-name="Arena Sport 1 Premium HD" tvg-logo="" group-title="Sport+",Arena Sport 1 Premium HD
+http://178.253.194.79:10001
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-name="Arena Sport 2 Premium HD" tvg-logo="" group-title="Sport+",Arena Sport 2 Premium HD
+http://178.253.194.79:10004
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-name="Arena Sport 3 Premium HD" tvg-logo="" group-title="Sport+",Arena Sport 3 Premium HD
+http://178.253.194.79:10005
+#EXTINF:-1 tvg-id="Arena.Premium.4.HD.(RS).rs" tvg-name="Arena Sport 4 Premium HD" tvg-logo="" group-title="Sport+",Arena Sport 4 Premium HD
+http://178.253.194.79:10016
+#EXTINF:-1 tvg-id="Arena.Premium.5.HD.(RS).rs" tvg-name="Arena Sport 5 Premium HD" tvg-logo="" group-title="Sport+",Arena Sport 5 Premium HD
+http://178.253.194.79:10017
+#EXTINF:-1 tvg-id="Arena.Tenis.rs" tvg-name="Arena Tennis HD" tvg-logo="" group-title="Sport+",Arena Tennis HD
+http://178.253.194.79:10019
+#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI Sport 1 HD" tvg-logo="" group-title="Sport+",DIGI Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://82.78.243.219:45739/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI Sport 2 HD" tvg-logo="" group-title="Sport+",DIGI Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://82.78.243.219:45739/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="DIGI Sport 3 HD" tvg-logo="" group-title="Sport+",DIGI Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://82.78.243.219:45739/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="DIGI Sport 4 HD" tvg-logo="" group-title="Sport+",DIGI Sport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://82.78.243.219:45739/play/a00v/index.m3u8
+
+
+
