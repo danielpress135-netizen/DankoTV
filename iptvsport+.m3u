@@ -11,7 +11,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Sport+",Россия К (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Sport+",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDI2IDY6NTM6NTggQU0maGFzaF92YWx1ZT05bkhuRG1maVphc0Z1NGY4MCs4VmJBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
 #EXTINF:-1 group-title="Sport+",Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="Sport+",MAX Sport 1 HD

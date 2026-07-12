@@ -579,6 +579,19 @@ http://213.91.179.28:8000/play/a06b
 https://tv.tvsb.bg/112.m3u8
 #EXTINF:-1 tvg-id="ТвШумен.bg" tvg-name="Тв Шумен" tvg-logo="" group-title="BG/TV", Тв Шумен
 https://tvshumen.tv/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rodina TV" tvg-logo="" group-title="BG/TV",Rodina TV
+http://87.246.54.90:8080/Rodina/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BOXTV.bg" tvg-name="Box TV BG" tvg-logo="" group-title="BG/TV",Box TV BG
+http://87.246.54.90:8080/BoxTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Нова.Спорт.bg" tvg-name="Nova Sport BG" tvg-logo="" group-title="BG/TV",Nova Sport BG
+http://87.120.179.187:8000/play/a00l
+#EXTINF:-1 tvg-id="RING.BG.bg" tvg-name="RING HD" tvg-logo="" group-title="BG/TV",RING HD
+http://87.246.54.90:8080/RING/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1" tvg-logo="" group-title="BG/TV",BNT 1
+http://87.246.54.90:8080/BNT1/tracks-v1a1/mono.m3u8
+
+
+
 
 
 
@@ -2319,6 +2332,7 @@ http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="Ciné+.Frisson.fr" tvg-name="Cine Frisson" tvg-logo="" group-title="FRA/TV",Cine Frisson
 http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="Ciné+.Family.fr" tvg-name="Cine Family" tvg-logo="" group-title="FRA/TV",Cine Family
+http://99.27.51.147:8080/CineFamiz/index.m3u8
 
 
 
@@ -2501,7 +2515,7 @@ https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:1 tvg-id="RTLZWEI.de" tvg-name="RTL Zwei" tvg-logo="" group-title="GER/TV",RTL Zwei
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:1 tvg-id="SUPER.RTL.de" tvg-name="Super RTL" tvg-logo="" group-title="GER/TV",Super RTL
-
+https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV.at@SD" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png" group-title="GER/TV",RTV (1080p) [Not 24/7]
 http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 tvg-id="AlexBerlin.de@SD" tvg-name="Alex Berlin" tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="GER/TV",Alex Berlin (1080p)
@@ -2837,7 +2851,7 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-name="Alterna TV" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Mix",Alterna TV (720p) [Not 24/7]
-
+https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="NOW.US.de" tvg-name="NOW TV" tvg-logo="" group-title="MIX",NOW TV
 https://nowhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioRealpolitik.ar@SD" tvg-name="Radio Realpolitik" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="MIX",Radio Realpolitik (720p)
@@ -3485,6 +3499,10 @@ https://radio21.streamabc.net/radio21-hardrock-mp3-192-5131129?sABC=6n357r3n%230
 https://streams.deltaradio.de/delta-foehnfrisur/mp3-192
 #EXTINF:-1 group-title="MUSIC/RADIO ROCK",delta radio germany - HARDROCK & HEAVY METAL
 https://deltaradio.streamabc.net/regc-deltahardheavy-mp3-192-1449782?sABC=6n3588qs%230%230q224srq9001q506rr4opq386pr01sn4%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1781893343
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1554784042.jpg" group-title="MUSIC/RADIO ROCK", HearMe - 80s Metal - 128 kbit/s
+http://hearme.fm:8564/stream
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="MUSIC/RADIO ROCK", Kombinat jest Metal - 128 kbit/s
+http://s1.slotex.pl:7836/stream/1/
 
 
 
@@ -3679,6 +3697,42 @@ http://stream.laut.fm/primetime
 
 #EXTINF:-1 group-title="Music/Radio-Mix+", Exclusive Radio - Madonna
 https://streaming.exclusive.radio/er/madonna/icecast.audio 
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/296e04f171392830df1ac1c183ea817f.png", Золотая Коллекция - ABBA
+https://pub0202.101.ru:8443/stream/pro/aac/64/104
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/d2ac41989c42ac96d5b88acb6fecd1ba.png", Золотая Коллекция - Adriano Celentano
+https://pub0202.101.ru:8443/stream/pro/aac/64/277
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/95da8eeffe07636996748d23fd8f887b.png", Золотая Коллекция - Boney M.
+https://pub0202.101.ru:8443/stream/pro/aac/64/114
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/7eeb2f4860de4a03bdcf6dc195088df2.png", Золотая Коллекция - Depeche Mode
+https://pub0202.101.ru:8443/stream/pro/aac/64/105
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/e05642a6de556469eeba77c950216d63.png", Золотая Коллекция - Elton John
+https://pub0202.101.ru:8443/stream/pro/aac/64/142
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/b1bc4d369dd5b1b5d42e577e2b0097fd.png", Золотая Коллекция - Enigma
+https://pub0202.101.ru:8443/stream/pro/aac/64/175
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/28f7a3234bc9644f51456bb4e6a9cee1.jpg", Золотая Коллекция - Ennio Morricone
+https://pub0202.101.ru:8443/stream/pro/aac/64/395
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/04253cd8538a11f3c3edb1220e491023.png", Золотая Коллекция - Madonna
+https://pub0202.101.ru:8443/stream/pro/aac/64/128
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/93306a074917ec60accd66162266477b.png", Золотая Коллекция - Michael Jackson
+https://pub0202.101.ru:8443/stream/pro/aac/64/52
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d48662c7b190a9462bbc2737b863e07c.png", Золотая Коллекция - Modern Talking
+https://pub0202.101.ru:8443/stream/pro/aac/64/115
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/4f585601cc148ee8918922ed54b57a02.png", Золотая Коллекция - Mylene Farmer
+https://pub0202.101.ru:8443/stream/pro/aac/64/166
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/998ff6a12f567aa0f99e5029fdecebb9.png", Золотая Коллекция - Prince
+https://pub0202.101.ru:8443/stream/pro/aac/64/282
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d7d84c94ad02c2f6b4479677ade8eee3.png", Золотая Коллекция - Robbie Williams
+https://pub0202.101.ru:8443/stream/pro/aac/64/138
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/7c1ba516f86d0595c452495ab6c59367.png", Золотая Коллекция - Sandra
+https://pub0202.101.ru:8443/stream/pro/aac/64/179
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/f2a6ffa61cf05674f399f7d0efd42929.png", Золотая Коллекция - The Prodigy
+https://pub0202.101.ru:8443/stream/pro/aac/64/306
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/81363bb7a6be3735833eba0be7f697b0.png", Золотая Коллекция - Алла Пугачёва
+https://pub0202.101.ru:8443/stream/pro/aac/64/56
+#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/791c050c21ee2cb5f33797d88fad66a9.png", Золотая Коллекция - Филипп Киркоров
+https://pub0202.101.ru:8443/stream/pro/aac/64/116
+
+
 
 
 
@@ -3779,7 +3833,7 @@ http://mains.services/live/0228902066/tc674KJ3du/e6adbe1e-f56c-4d33-b8c2-1c51166
 #EXTINF:-1 tvg-id="Thats70s.au" tvg-name="THAT'S 70S" tvg-logo="" group-title="MUSIC/TV CLASSIC",THAT'S 70S
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio 70-80 TV" tvg-logo="" group-title="MUSIC/TV CLASSIC",Radio 70-80 TV
-
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 tvg-id="IT:.Vevo.`70s.&.`80s.be" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="MUSIC/TV CLASSIC",Vevo '70s & '80s
 https://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 tvg-id="" tvg-name="DanceHits80" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="MUSIC/TV CLASSIC",DanceHits80
@@ -3939,7 +3993,7 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zerouno TV Music" tvg-logo="https://i.imgur.com/r74lqW8.png" group-title="MUSIC/TV MIX",Zerouno TV Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tilemousiki Greek Music TV" tvg-logo="https://i.ibb.co/7JWFjgyc/image-2025-08-31-T201409-004.png" group-title="MUSIC/TV MIX",Tilemousiki Greek Music TV
-
+https://live20.bozztv.com/akamaissh101/ssh101/tilemousiki/chunks.m3u8
 #EXTINF:-1 tvg-id="Panik.TV.gr" tvg-name="" tvg-logo="https://i.ibb.co/LdL2yZ5S/image-33.png" group-title="MUSIC/TV MIX", Panik TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baraza Music TV Greek Hits" tvg-logo="" group-title="MUSIC/TV MIX",Baraza Music TV Greek Hits
@@ -4061,7 +4115,7 @@ https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w10277
 #EXTINF:-1 tvg-id="" tvg-name="Tele 7 music" tvg-logo="https://i.postimg.cc/FRvDdjTv/image-2025-07-10-T180555-865.png" group-title="MUSIC/TV MIX", Tele 7 music
 https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TMA" tvg-logo="https://i.ibb.co/bgTfXGpx/image-62.png" group-title="MUSIC/TV MIX", TMA
-
+http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VIVO TV" tvg-logo="https://i.ibb.co/60QfKJD7/image-75.png" group-title="MUSIC/TV MIX", VIVO TV
 https://stream.vivotv.uy/hls/stream.m3u8
 #EXTINF:-1 tvg-id="100%.NL.TV.nl" tvg-name="100%NL" tvg-logo="https://i.ibb.co/3mB9q3NH/image-57.png" group-title="MUSIC/TV MIX",100%NL
@@ -4362,7 +4416,7 @@ http://mains.services/live/0228902066/tc674KJ3du/9e37623d-f55a-4794-8d31-b064716
 #EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live USA" tvg-logo="https://i.postimg.cc/Hkdq02qn/image-2025-07-10-T162831-990.png" group-title="MUSIC/TV PACK", MTV Live USA
 http://mains.services/live/0228902066/tc674KJ3du/64f9c049-a2b1-41bf-9cf6-706aaaa89221.m3u
 #EXTINF:-1 tvg-id="MTV.Polska.cz" tvg-name="MTV Polska" tvg-logo="https://i.ibb.co/CshndJ4N/image-11.png" group-title="MUSIC/TV PACK", MTV Polska
-
+http://mains.services/live/0228902066/tc674KJ3du/f5a18dab-cedb-40c6-80b6-c30f07cedb1e.m3u
 #EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV FR" tvg-logo="https://i.ibb.co/CshndJ4N/image-11.png" group-title="MUSIC/TV PACK", MTV FR
 http://mains.services/live/0228902066/tc674KJ3du/410d8740-8490-4fbc-931e-269e693559e7.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MTV GB" tvg-logo="https://i.ibb.co/CshndJ4N/image-11.png" group-title="MUSIC/TV PACK", MTV GB
@@ -4840,6 +4894,9 @@ https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="România.TV.HD.ro" tvg-name="Romania TV" tvg-logo="https://i.imgur.com/ZIfEp5I.png" http-referrer="https://www.romaniatv.net/live" group-title="ROM/TV",Romania TV (576p)
 #EXTVLCOPT:http-referrer=https://www.romaniatv.net/live
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="Iasi TV Life" tvg-logo="https://i.imgur.com/HY7EL5e.png" group-title="ROM/TV",Iasi TV Life (1080p) [Not 24/7]
+https://tv.streambox.ro/hls/itv/index.m3u8
+
 
 
 
@@ -5146,11 +5203,11 @@ https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15 Plus Music" tvg-logo="" group-title="RU/TV",15 Plus Music
 http://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15 Plus NSC" tvg-logo="" group-title="RU/TV",15 Plus NSC
-
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15 Plus Animation" tvg-logo="" group-title="RU/TV",15 Plus Animation
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Чип и Дейл" tvg-logo="" group-title="RU/TV",Чип и Дейл
-
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="СоюзМультфильм" tvg-logo="" group-title="RU/TV",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="SmileTV.ru" tvg-name="Смайл ТВ" tvg-logo="https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png" group-title="RU/TV",Смайл ТВ
@@ -5195,15 +5252,15 @@ http://46.32.176.50/boets/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV1000 русское кино" tvg-logo="" group-title="RU/TV",TV1000 русское кино
 
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Любовь" tvg-logo="" group-title="RU/TV" ,Смотрим 100% Любовь
-
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Мужское" tvg-logo="" group-title="RU/TV" ,Смотрим 100% Мужское
-
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Классика" tvg-logo="" group-title="RU/TV" ,Смотрим 100% Классика
-
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Праздник" tvg-logo="" group-title="RU/TV" ,Смотрим 100% Праздник
-
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Детское" tvg-logo="" group-title="RU/TV" ,Смотрим 100% Детское
-
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Факты" tvg-logo="" group-title="RU/TV" ,Смотрим 100% Факты
 
 #EXTINF:-1 tvg-id="" tvg-name="Честный детектив" tvg-logo="" group-title="RU/TV" ,Честный детектив
