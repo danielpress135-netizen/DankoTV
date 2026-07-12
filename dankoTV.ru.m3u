@@ -168,6 +168,9 @@ http://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Mn0zcNb_7CJ_LE91r5mKdw&e=2066519853&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Ты супер !" tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" group-title="music", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="FonMusic.ru@SD" tvg-name="Fon Music" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="Music",Fon Music (1080p)
+http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
+
 
 
 

@@ -187,6 +187,8 @@ https://www.youtube.com/watch?v=0wHWHAFnNh0
 http://giganet.mk/hls/macdoc.m3u8
 #EXTINF:-1 tvg-id="SOS.Kanal.Plus.rs" tvg-name="SOS Kanal Plus" tvg-logo="" group-title="Ex-Yu/TV",SOS Kanal Plus (720p)
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Shift.TV.HD.(BIH).ba" tvg-name="Shift TV" tvg-logo="https://i.imgur.com/mudXVT8.png" group-title="Ex-Yu/TV",Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNOVA12.mk" tvg-name="TV NOVA 12" tvg-logo="" group-title="Ex-Yu/TV",TV NOVA 12 (576p) 
 https://novastreaming.cloudns.info/nova12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vistel" tvg-logo="https://i.imgur.com/MbM0E6L.png" group-title="Ex-Yu/TV",Vistel TV
@@ -435,7 +437,7 @@ https://sradio.ipradio.rs/sradio/radiostv/chunklist_w666705940.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio S" tvg-logo="https://i.ibb.co/3yPKqWqp/image-2025-09-01-T195635-215.png" group-title="Ex-Yu/TV", Radio S
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="adria info" tvg-logo="" group-title="Ex-Yu/TV",adria info
-https://nl1.dstv.cx/AdriaInfo/tracks-v2a1/rewind-7200.ts.m3u8
+https://de1.dstv.cx/AdriaInfo/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TVZdravkin.mk" tvg-name="TV Zdravkin" tvg-logo="" group-title="Ex-Yu/TV",TV Zdravkin (400p)
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 #EXTINF:-1 tvg-id="Power.tv.sr" tvg-name="Power tv" tvg-logo="" group-title="Ex-Yu/TV",Power tv

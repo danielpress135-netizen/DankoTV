@@ -1412,35 +1412,35 @@ https://sradio.ipradio.rs/sradio/radiostv/chunklist_w799893154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio S TV" tvg-logo="https://i.ibb.co/3yPKqWqp/image-2025-09-01-T195635-215.png" group-title="Ex-Yu/Music tv", Radio S TV
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w666705940.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="adria info" tvg-logo="" group-title="Ex-Yu/Music tv",adria info
-
+https://de1.dstv.cx/AdriaInfo/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="adria info" tvg-logo="" group-title="Ex-Yu/Music tv",adria info
-https://nl1.dstv.cx/AdriaInfo/tracks-v2a1/rewind-7200.ts.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/Music tv",Adria EX YU Rock
-https://de100.dstvmultimedia.com/AdriaEXYURock/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaEXYURock/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria Hits 4K" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Hits 4K
-https://de100.dstvmultimedia.com/AdriaHits4K/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaHits4K/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria Hits 1" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Hits 1
-https://de100.dstvmultimedia.com/AdriaHits1/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaHits1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria Hits 2" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Hits 2
-https://de100.dstvmultimedia.com/AdriaHits2/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaHits2/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria CRO Hits" tvg-logo="" group-title="Ex-Yu/Music tv",Adria CRO Hits
-https://de100.dstvmultimedia.com/AdriaCROHits/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaCROHits/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria Trubaci" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Trubaci
-https://de100.dstvmultimedia.com/AdriaTrubaci/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaTrubaci/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria Urban" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Urban
-https://de100.dstvmultimedia.com/AdriaUrban/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaUrban/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria Cubanismo" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Cubanismo
-https://de100.dstvmultimedia.com/AdriaCubanismo/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaCubanismo/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria Narodna" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Narodna
-https://de100.dstvmultimedia.com/AdriaNarodna/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaNarodna/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria Folk" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Folk
-https://de100.dstvmultimedia.com/AdriaFolk/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaFolk/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria Nostalgy" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Nostalgy
-https://de100.dstvmultimedia.com/AdriaNostalgy/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaNostalgy/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria 90s" tvg-logo="" group-title="Ex-Yu/Music tv",Adria 90s
-https://de100.dstvmultimedia.com/Adria90s/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/Adria90s/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adria Big Band" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Big Band
-https://de100.dstvmultimedia.com/AdriaBigBand/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaBigBand/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Hit.FM.radio.rs" tvg-name="Hit FM radio" tvg-logo="" group-title="Ex-Yu/Music tv",Radio Hit FM TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 #EXTINF:-1 tvg-id="Radio.Karolina.rs" tvg-name="Radio Karolina" tvg-logo="" group-title="Ex-Yu/Music tv",Radio Karolina TV (720p)
@@ -1968,6 +1968,8 @@ http://giganet.mk/hls/macdoc.m3u8
 
 #EXTINF:-1 tvg-id="SOS.Kanal.Plus.rs" tvg-name="TV NOVA 12" tvg-logo="" group-title="Ex-Yu/TV",SOS Kanal Plus (720p)
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Shift.TV.HD.(BIH).ba" tvg-name="Shift TV" tvg-logo="https://i.imgur.com/mudXVT8.png" group-title="Ex-Yu/TV",Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNOVA12.mk@SD" tvg-name="TV NOVA 12" tvg-logo="" group-title="Ex-Yu/TV",TV NOVA 12 (576p) [Not 24/7]
 https://novastreaming.cloudns.info/nova12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vistel" tvg-logo="https://i.imgur.com/MbM0E6L.png" group-title="Ex-Yu/TV",Вистел
@@ -2184,6 +2186,8 @@ https://edge11.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 https://edge11.vedge.infomaniak.com/livecast/ik:lfmhd/chunklist.m3u8
 #EXTINF:-1 tvg-id="CARAC.4.ch" tvg-name="Carac 4" tvg-logo="" group-title="FRA/TV",Carac 4
 https://edge11.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist.m3u8
+#EXTINF:-1 tvg-id="CARAC.5.ch" tvg-name="Carac 5" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="FRA/TV",Carac 5
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-id="France.24.fr" tvg-name="France 24 Francais" tvg-logo="" group-title="FRA/TV",France 24 Francais
 http://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli France" tvg-logo="" group-title="FRA/TV",Gulli France
@@ -3129,6 +3133,14 @@ https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=oK
 #EXTINF:-1 tvg-id="" tvg-name="Record Trance" tvg-logo="" group-title="MUSIC/RADIO+",Record Trance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=yQeeZn4CcToHwC7uGYbUSQ&e=2083666565&scheme=https
+#EXTINF:-1 tvg-id="HitradioO3.at@SD" tvg-name="Hitradio O3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png" group-title="MUSIC/RADIO+",Hitradio O3 (720p)
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+#EXTINF:-1 tvg-id="RTLGold.lu@SD" tvg-name="RTL Gold" tvg-logo="https://i.imgur.com/LzHQoUv.png" group-title="MUSIC/RADIO+",RTL Gold (1080p)
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="TodayRadio.lu@SD" tvg-name="RTL Today Radio" tvg-logo="https://i.imgur.com/O1c6wpt.png" group-title="MUSIC/RADIO+",RTL Today Radio (720p)
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+
+
 
 
 
@@ -3757,6 +3769,12 @@ https://cityeden.catcast.tv/content/34100/index.m3u8
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Trace.Gospel.fr" tvg-name="TRACE GOSPEL" tvg-logo="" group-title="MUSIC/TV CHRISTIAN",TRACE GOSPEL
 https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr@SD" tvg-name="Trace Gospel Africa Franco" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="MUSIC/TV CHRISTIAN",Trace Gospel Africa Franco (1080p)
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr@NigeriaandEastAfrica" tvg-name="Trace Gospel Nigeria and East Africa" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="MUSIC/TV CHRISTIAN",Trace Gospel Nigeria and East Africa (1080p)
+https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr@SouthernAfrica" tvg-name="Trace Gospel Southern Africa" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="MUSIC/TV CHRISTIAN",Trace Gospel Southern Africa (1080p)
+https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 yvg-id=" tvg-name="RadioU TV USA" tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200" group-title="MUSIC/TV CHRISTIAN",RadioU TV USA EN
 #EXTVLCOPT:http-referrer=https://radiou.com/tv/
 https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
@@ -3887,6 +3905,12 @@ https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="RadioZona903.cl@SD" tvg-name="Radio Zona 90.3" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png" group-title="MUSIC/TV CLASSIC",Radio Zona 90.3 (cile)
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
+#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind TV" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="MUSIC/TV CLASSIC",Rewind TV (1080p)
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SensacionCosta.cl@SD" tvg-name="Sensacion Costa" tvg-logo="https://i.imgur.com/oYQoWAB.png" group-title="MUSIC/TV CLASSIC"",Sensacion Costa
+https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
+
+
 
 
 
@@ -4004,8 +4028,8 @@ https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
 http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro Indie Music" tvg-logo="" group-title="MUSIC/TV MIX",Euro Indie Music
 https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MCM" tvg-logo="" group-title="MUSIC/TV MIX",MCM
-
+#EXTINF:-1 tvg-id="MCM.Top.ch" tvg-name="MCM Top" tvg-logo="" group-title="MUSIC/TV MIX",MCM Top
+http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NR1 DANCE" tvg-logo="" group-title="MUSIC/TV MIX",NR1 DANCE
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER DANCE" tvg-logo="" group-title="MUSIC/TV MIX",POWER DANCE
@@ -4166,6 +4190,67 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://video03.logicahost.com.br/redegostei/redegostei/playlist.m3u8
 #EXTINF:-1 tvg-id="LINETV.tr" tvg-name="line tv" tvg-logo="" group-title="MUSIC/TV MIX",line tv tr.
 https://edge.taksimbilisim.com/linetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="7YOUME.it" tvg-name="7 YOU & ME" tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="MUSIC/TV MIX",7 YOU & ME (720p)
+https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FMITALIA.it@SD" tvg-name="FM ITALIA" tvg-logo="https://i.imgur.com/54CO2u9.png" group-title="MUSIC/TV MIX",FM ITALIA (1080p)
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-name="Afrobeats" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="MUSIC/TV MIX",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id="AghaniAghaniTV.lb" tvg-name="Aghani Aghani TV" tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="MUSIC/TV MIX",Aghani Aghani TV (1080p)
+https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="MUSIC/TV MIX",AlbKanale Music TV (1080p)
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="Bandamax.us2" tvg-name="Bandamax" tvg-logo="https://i.imgur.com/Pch8vTI.png" group-title="MUSIC/TV MIX"",Bandamax USA (1080p)
+http://177.234.249.135:8888/Bandamax/index.m3u8
+#EXTINF:-1 tvg-id="DREAM.TÜRK.TV.tr" tvg-name="Dream Türk" tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="MUSIC/TV MIX",Dream Türk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png" group-title="MUSIC/TV MIX",ETV Music (1080p) india
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="FunVision.be" tvg-name="Fun Vision" tvg-logo="https://i.imgur.com/AhkKr7Y.png" group-title="MUSIC/TV MIX",Fun Vision
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="MUSIC/TV MIX",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="HypeVisualRadio.nl@SD" tvg-name="Hype Visual Radio" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" group-title="MUSIC/TV MIX",Hype Visual Radio (1080p)
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicTVGranada.es@SD" tvg-name="Music TV Granada" tvg-logo="https://i.ibb.co/Swd9NP7n/music-tv-granada.png" group-title="MUSIC/TV MIX",Music TV Granada (1080p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-id="Muzvar.ua@SD" tvg-name="Muzvar" tvg-logo="https://i.imgur.com/Klu5k9U.png" group-title="MUSIC/TV MIX",Muzvar (1080p) ua
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="NASHEMusic.ua@SD" tvg-name="NASHE Music" tvg-logo="https://i.imgur.com/ienkbOc.png" group-title="MUSIC/TV MIX",NASHE Music (720p) ua
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="NavahangTV.fi@SD" tvg-name="Navahang" tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="MUSIC/TV MIX",Navahang TV (720p)
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PunjabiHits.in@SD" tvg-name="Punjabi Hits" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUNJABI_HITS/images/LOGO_HD/image.png" group-title="MUSIC/TV MIX",Punjabi Hits (1080p) india
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="RedMusic.gr@SD" tvg-name="Red Music" tvg-logo="https://i.ibb.co/1Lk8P1x/1-150x150.png" group-title="MUSIC/TV MIX",Red Music (1080p)
+https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT.MÜZİK.tr" tvg-name="TRT Müzik" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="MUSIC/TV MIX",TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru@HD" tvg-name="Сити Эдем Бирма Play" tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="MUSIC/TV MIX",Сити Эдем Бирма Play [Not 24/7]
+https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-name="Сити Эдем Классическая Музыка" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="MUSIC/TV MIX",Сити Эдем Классическая Музыка [Not 24/7]
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenSirtakiTV.ru@HD" tvg-name="Сити Эдем Сиртаки ТВ" tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="MUSIC/TV MIX",Сити Эдем Сиртаки ТВ [Not 24/7]
+https://cityeden.catcast.tv/content/46421/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4354,6 +4439,16 @@ https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="Trace.Urban.fr" tvg-name="Trace Urban" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="MUSIC/TV PACK",Trace Urban (Australia) (1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@AfricaFranco" tvg-name="" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="MUSIC/TV PACK",Trace Urban Africa Franco (1080p)
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@CaribbeanAndIndianOcean" tvg-name="Trace Urban Caribbean and Indian Ocean" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="MUSIC/TV PACK",Trace Urban Caribbean and Indian Ocean (1080p)
+https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@HD" tvg-name="Trace Urban France" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="MUSIC/TV PACK",Trace Urban France (1080p)
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@InternationalHD" tvg-name="Trace Urban International" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="MUSIC/TV PACK",Trace Urban International (1080p)
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@SouthernAfrica" tvg-name="Trace Urban Southern Africa" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="MUSIC/TV PACK",Trace Urban Southern Africa (1080p)
+https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="Trace.Brasil.ng" tvg-name="Trace Brasil" tvg-logo="https://suzustv.clan.su/Logo/Trace_Brasil_HD.png" group-title="MUSIC/TV PACK",Trace Brasil HD
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="Trace.Brasil.ng" tvg-name="Trace Brasil" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="MUSIC/TV PACK",Trace Brasil (1080p)
@@ -4371,8 +4466,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsung
 #EXTINF:-1 tvg-id="Trace.Latina.us" tvg-name="TRACE Latina" tvg-logo="https://i.imgur.com/CUVAi4u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="MUSIC/TV PACK",TRACE Latina (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 
-#EXTINF:-1 tvg-id="" tvg-name="TRACE MBOA" tvg-logo="" group-title="MUSIC/TV PACK",TRACE MBOA
+#EXTINF:-1 tvg-id="TraceMboa.fr@SD" tvg-name="TRACE MBOA" tvg-logo="https://i.imgur.com/cYwkCj2.png" group-title="MUSIC/TV PACK",TRACE MBOA
 https://channels.trace.plus/Traceprod/MBOA/.m3u8
+#EXTINF:-1 tvg-id="TraceMboa.fr@SD" tvg-name="Trace Mboa" tvg-logo="https://i.imgur.com/cYwkCj2.png" group-title="MUSIC/TV PACK",Trace Mboa
+https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceNgoma.fr@SD" tvg-name="Trace Ngoma" tvg-logo="https://www.hypresslive.com/wp-content/uploads/2025/12/9cf0931b-5e1e-16da-515a-bd203ca3c928-1536x1074.png" group-title="MUSIC/TV PACK",Trace Ngoma (1080p)
+https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 #EXTINF:-1 tvg-id="[323].TRACE.Mziki.ke" tvg-name="Trace Mziki" tvg-logo="https://i.imgur.com/l3X9Gg4.png" group-title="MUSIC/TV PACK",Trace Mziki
 https://channels.trace.plus/Traceprod/MZIKI.m3u8
 #EXTINF:-1 tvg-id="[323].TRACE.Mziki.ke" tvg-name="Trace Mziki" tvg-logo="https://i.imgur.com/l3X9Gg4.png" group-title="MUSIC/TV PACK",Trace Mziki
@@ -4395,12 +4494,18 @@ https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 #EXTINF:-1 tvg-id="Trace.Gospel.ng" tvg-name="Trace Gospel" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="MUSIC/TV PACK",Trace Gospel (1080p)
 https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr@SD" tvg-name="Trace Gospel Africa Franco" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="MUSIC/TV PACK",Trace Gospel Africa Franco (1080p)
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr@NigeriaandEastAfrica" tvg-name="Trace Gospel Nigeria and East Africa" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="MUSIC/TV PACK",Trace Gospel Nigeria and East Africa (1080p)
+https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr@SouthernAfrica" tvg-name="Trace Gospel Southern Africa" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="MUSIC/TV PACK",Trace Gospel Southern Africa (1080p)
+https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceIvoire.fr@SD" tvg-name="Trace Ivoire" tvg-logo="https://ibb.co/JwMs0bFF" group-title="MUSIC/TV PACK",Trace Ivoire (1080p)
+https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 #EXTINF:-1 tvg-id="[333].Trace.Jama.ke" tvg-name="Trace Jama" tvg-logo="https://i.imgur.com/pthX34m.png" group-title="MUSIC/TV PACK",Trace Jama
 https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8
 #EXTINF:-1 tvg-id="TraceKitoko.fr@SD" tvg-name="Trace Kitoko" tvg-logo="https://i.imgur.com/q6vkMrU.png" group-title="MUSIC/TV PACK",Trace Kitoko
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceMboa.fr@SD" tvg-name="Trace Mboa" tvg-logo="https://i.imgur.com/cYwkCj2.png" group-title="MUSIC/TV PACK",Trace Mboa
-https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 #EXTINF:-1 tvg-id="[325].TRACE.Naija.ke" tvg-name="Trace Naija" tvg-logo="https://i.imgur.com/Rguekcp.png" group-title="MUSIC/TV PACK",Trace Naija
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 #EXTINF:-1 tvg-id="Trace.Toca.pt" tvg-name="Trace Toca" tvg-logo="https://i.imgur.com/6SpWnBR.png" group-title="MUSIC/TV PACK",Trace Toca
@@ -4440,6 +4545,36 @@ http://88.212.15.19/live/mb_dance/index.m3u8
 http://88.212.15.19/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-id="Music.Box.Sexy.cz" tvg-name="Music Box Sexy" tvg-logo="https://musicboxsexy.com/music_box_sexy_logo.png" group-title="MUSIC/TV PACK",Music Box Sexy
 http://88.212.15.19/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-id="BarazaTV.gr@SD" tvg-name="Baraza TV" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSIC/TV PACK",Baraza TV (1080p)
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr@SD" tvg-name="Baraza TV Deep House" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSIC/TV PACK",Baraza TV Deep House (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="BarazaTVRelaxing.gr@SD" tvg-name="Baraza TV Relaxing" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSIC/TV PACK",Baraza TV Relaxing (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Ask.tr@SD" tvg-name="Number 1 Ask" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="MUSIC/TV PACK",Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-id="NR1.DAMAR.HD.tr" tvg-name="Number 1 Damar" tvg-logo="https://i.imgur.com/rYtbAGZ.png" group-title="MUSIC/TV PACK",Number 1 Damar (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Dance.tr@SD" tvg-name="Number 1 Dance" tvg-logo="https://i.imgur.com/ZM4PSyq.png" group-title="MUSIC/TV PACK",Number 1 Dance (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Turk.tr@SD" tvg-name="Number 1 Türk" tvg-logo="https://i.imgur.com/18zjk3q.png" group-title="MUSIC/TV PACK",Number 1 Türk (720p)
+
+#EXTINF:-1 tvg-id="NR1.HD.gr" tvg-name="Number 1 TV" tvg-logo="https://i.imgur.com/02cDIBi.png" group-title="MUSIC/TV PACK",Number 1 TV (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-name="Power Dance" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="MUSIC/TV PACK",Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerLove.tr@SD" tvg-name="Power Love" tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="MUSIC/TV PACK",Power Love (1080p)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr@SD" tvg-name="Power Türk Akustik" tvg-logo="https://i.imgur.com/driabBO.png" group-title="MUSIC/TV PACK",Power Türk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr@SD" tvg-name="Power Türk Slow" tvg-logo="https://i.imgur.com/tQSoQXW.png" group-title="MUSIC/TV PACK",Power Türk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" tvg-name="Power Türk Taptaze" tvg-logo="https://i.imgur.com/a5nW3HU.png" group-title="MUSIC/TV PACK",Power Türk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+
+
+
 
 
 
@@ -4626,7 +4761,7 @@ http://hls127.freeott.top:8080/BOX_Metall_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M2 Rock" tvg-logo="https://i.ibb.co/fGn7WGV5/image-69.png" group-title="MUSIC/TV ROCK", M2 Rock
 http://49.0.64.96:8007/M2ROCK
 #EXTINF:-1 tvg-id="" tvg-name="Adria EX YU Rock" tvg-logo="" group-title="MUSIC/TV ROCK",Adria EX YU Rock
-https://de100.dstvmultimedia.com/AdriaEXYURock/tracks-v1a1/mono.ts.m3u8
+https://de1.dstv.cx/AdriaEXYURock/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Pink.n.roll.(BIH).ba" tvg-name="Pink&Roll" tvg-logo="" group-title="MUSIC/TV ROCK",Pink&Roll
 http://45.82.88.87:15153/udp/237.40.1.158:5000
 #EXTINF:-1 tvg-id="Pink.n.roll.(BIH).ba" tvg-name="Pink&Roll" tvg-logo="" group-title="MUSIC/TV ROCK",Pink&Roll
@@ -5192,6 +5327,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=nFNatjqnT2kdlr0RamCo8w&e=2066519924&scheme=https
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="Viva Russia" tvg-logo="https://i.ibb.co/Nnm8fJN5/image-2025-07-10-T134908-994.png" group-title="RU/TV", Viva Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+#EXTINF:-1 tvg-id="FonMusic.ru@SD" tvg-name="Fon Music" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="RU/TV"",Fon Music (1080p)
+http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bridge TV" tvg-logo="" group-title="RU/TV", Bridge TV
 http://46.32.176.50/bridgetv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="" group-title="RU/TV", Bridge Classic
@@ -5523,6 +5660,18 @@ https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us" tvg-name="Rally TV" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="SPORT/EXTREME+",Rally TV (1080p)
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+#EXTINF:-1 tvg-id="30A.We.Love.Cars.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="SPORT/EXTREME+",30A We Love Cars (720p)
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+#EXTINF:-1 tvg-id="Canal.Motor.no" tvg-name="Canal Motor" tvg-logo="https://i.imgur.com/nCAt3QN.png" group-title="SPORT/EXTREME+",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-id="ChopperTown.distro" tvg-name="Choppertown" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="SPORT/EXTREME+",Choppertown (720p)
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar@SD" tvg-name="Garage tv" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="SPORT/EXTREME+",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="POWERNATION.us" tvg-name="Power Nation" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="SPORT/EXTREME+",Power Nation (1080p)
+https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="REVNAction.us@SD" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" group-title="SPORT/EXTREME+",REV'N Action (720p)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/961DD3B6-5494-4BE4-BB56-877AAE5BED1E/3-1x1.png" tvg-id="LN_961DD3B6-5494-4BE4-BB56-877AAE5BED1E" group-title="SPORT/EXTREME+",Speedvision
 https://cd3bd475.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TG9jYWxOb3dfU3BlZWR2aXNpb25fSExT/playlist.m3u8?ads.app_bundle=&ads.dnt=&ads.cust_devicename=&ads.content_title=EPG%20%20Speedvision&ads.ifa_type=&ads.channel_ext_id=6351981fd9d23b4f110aab94&ads.app_name=&ads.ip=185.217.168.164&ads.channel_company_id=AMDP500472&ads.did=&ads.device_model=&ads.wurl_name=Speedvision&ads.channel_brand_id=AMDB013116&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.wurl_channel=1325&ads.cust_channeltype=channel&ads.content_genre=Sports&ads.content_provider=speedvision&ads.app_store_url=&ads.device_make=&ads.device_type=&ads.us_privacy=1YNY&ads.channel_corp=Speedvision%20Media%20Group%20INC&ads.coppa=0&ads.content_id=961DD3B6-5494-4BE4-BB56-877AAE5BED1E&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0
 #EXTINF:-1 tvg-id="MTRSPT1.distro" tvg-name="MTRSPT1" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add" group-title="SPORT/EXTREME+",MTRSPT1
