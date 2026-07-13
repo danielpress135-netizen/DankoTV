@@ -4770,11 +4770,11 @@ http://92.36.202.5:10003/play/a02n
 
 #EXTINF:-1 tvg-id="" tvg-name="Музыка Рок" tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" tvg-id="no_epg_sport" group-title="MUSIC/TV ROCK", Музыка Рок
 
-#EXTINF:-1 tvg-id="" tvg-name="BRIDGE Rock" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12356/logo_256_1660828595.png" group-title="MUSIC/TV ROCK",BRIDGE ROCK
-
+#EXTINF:-1 tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bridge-tv-rock" tvg-logo="http://epg.one/img2/6188.png" $ExtFilter="UFLTV" group-title="MUSIC/TV ROCK",Bridge Rock
+http://62.32.84.50:18000/play/a0le/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRIDGE Rock" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12356/logo_256_1660828595.png" group-title="MUSIC/TV ROCK",BRIDGE Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-
+http://188.113.190.15/75/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lamore Rock Show WebTV" tvg-logo="https://s3minio.webativa.com.br/redeitv/lamore-rock-show-webtv.png" group-title="MUSIC/TV ROCK",Lamore Rock Show WebTV
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classic Rock Network" tvg-logo="" group-title="MUSIC/TV ROCK", Classic Rock Network
@@ -4798,27 +4798,27 @@ https://tinyurl.com/2cykcka8
 #EXTINF:-1  tvg-id="" tvg-name="Z! Rock HD" tvg-logo="" group-title="MUSIC/TV ROCK" , Z! Rock HD (RU)
 https://tinyurl.com/268ktjp8
 #EXTINF:-1 tvg-id="" tvg-name="" TVG-LOGO"HEADBANGER" group-title="MUSIC/TV ROCK",HEADBANGER (RU)(MIX/1 HOURS BLOCKS/BAND OR GENRE)
-https://headbanger.online/hls/headbanger/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HEADBANGER CAGE OF RAGE" TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER CAGE OF RAGE (RU)(METALCORE/POST-HARDCORE)
-https://headbanger.online/hls/cage_of_rage/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HEADBANGER FLAME ON" TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER FLAME ON (RU)(HEAVY/POWER METAL)
-https://headbanger.online/hls/flame_on/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HEADBANGER MEAT GRINDER" TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER MEAT GRINDER (RU)(DEATH METAL/DEATHCORE )
-https://headbanger.online/hls/meat_grinder/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HEADBANGER MELODY & MAYHEM" TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER MELODY & MAYHEM (RU)(BLACK/FOLK/MELODIC DEATH METAL)
-https://headbanger.online/hls/melody_mayhem/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HEADBANGER NOCTURNE" TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER NOCTURNE (RU)(SYMPHONIC/DOOM/GOTHIC)
-https://headbanger.online/hls/nocturne/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HEADBANGER PULSE" TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER PULSE (RU)(ALTERNATIVE/GROOVE/NU/RAP METAL)
-https://headbanger.online/hls/pulse/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HEADBANGER QUEENS OF NOISE" TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER QUEENS OF NOISE (RU)(WOMAN FRONTMAN/VOCALS)
-https://headbanger.online/hls/queens_of_noise/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HEADBANGER REACTOR" TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER REACTOR (RU)(INDUSTRIAL/PROGRESSIVE METAL)
-https://headbanger.online/hls/reactor/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HEADBANGER RIFF RIOTS" TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER RIFF RIOTS (RU)(THRASH METAL)
-https://headbanger.online/hls/riff_riots/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HEADBANGER YES! MUSIC" TVG-LOGO"" group-title="MUSIC/TV ROCK",HEADBANGER YES! MUSIC (RU)
-https://headbanger.online/hls/yesmusic/index.m3u8
+
 
 
 
