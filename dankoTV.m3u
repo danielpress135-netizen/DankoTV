@@ -4772,8 +4772,8 @@ http://92.36.202.5:10003/play/a02n
 
 #EXTINF:-1 tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bridge-tv-rock" tvg-logo="http://epg.one/img2/6188.png" $ExtFilter="UFLTV" group-title="MUSIC/TV🎸ROCK",Bridge Rock
 http://62.32.84.50:18000/play/a0le/index.m3u8
-#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=213440" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bridge-tv-rock" $ExtFilter="UFLTV" group-title="MUSIC/TV🎸ROCK",Bridge Rock
-http://188.113.190.15/75/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6188.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bridge-tv-rock" $ExtFilter="UFLTV" group-title="MUSIC/TV🎸ROCK",Bridge Rock
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LXXGL6KDPBHBE2/17043/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lamore Rock Show WebTV" tvg-logo="https://s3minio.webativa.com.br/redeitv/lamore-rock-show-webtv.png" group-title="MUSIC/TV🎸ROCK",Lamore Rock Show WebTV
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classic Rock Network" tvg-logo="" group-title="MUSIC/TV🎸ROCK", Classic Rock Network
