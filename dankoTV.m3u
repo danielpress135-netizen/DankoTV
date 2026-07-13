@@ -4769,7 +4769,7 @@ http://92.36.202.5:10003/play/a02n
 #EXTINF:-1 tvg-id="Eska.Rock.TV.pl" tvg-name="Eska Rock HD" tvg-logo="" group-title="MUSIC/TV🎸ROCK",Eska Rock HD
 
 #EXTINF:-1 tvg-id="" tvg-name="Музыка Рок" tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" tvg-id="no_epg_sport" group-title="MUSIC/TV🎸ROCK", Музыка Рок
-
+https://lbgo.bozztv.com/07/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bridge-tv-rock" tvg-logo="http://epg.one/img2/6188.png" $ExtFilter="UFLTV" group-title="MUSIC/TV🎸ROCK",Bridge Rock
 http://62.32.84.50:18000/play/a0le/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6188.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bridge-tv-rock" $ExtFilter="UFLTV" group-title="MUSIC/TV🎸ROCK",Bridge Rock
