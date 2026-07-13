@@ -470,7 +470,7 @@ https://stream-175.zeno.fm/4knvkgfhb78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 
 
 
-#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="BG/TV",This is Bulgaria HD (1080p)
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="BG(🇧🇬)/TV",This is Bulgaria HD (1080p)
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="Travel.TV.bg" tvg-name="Travel TV BG" tvg-logo="" group-title="BG/TV",Travel TV BG
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
