@@ -3157,7 +3157,7 @@ https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 https://securestreams6.autopo.st:2222/stream
 #EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="../Channel/Logo/Comedy Radio.png",Radio A Rock
 https://icast.connectmedia.hu/5301/live.mp3
-#EXTINF:-1 group-title="MUSIC/RADIOR🎸OCK",Radio Antena Rock
+#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Radio Antena Rock
 http://live.antenazagreb.hr:8019/stream
 #EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Duo Rock
 http://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac
@@ -3183,7 +3183,7 @@ http://mp3channels.webradio.antenne.de/90er-rock
 http://mp3channels.webradio.antenne.de/biker-rock
 #EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Deutsch Rock
 http://mp3channels.webradio.antenne.de/deutschrock
-#EXTINF:-1 group-title="MUSIC/RADIOR🎸OCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Heavy Metal
+#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Heavy Metal
 http://mp3channels.webradio.antenne.de/heavy-metal
 #EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Modern Rock
 http://mp3channels.webradio.antenne.de/modern-rock
@@ -3203,7 +3203,7 @@ http://stream-03.radiotangra.com:8000/Tangra-high
 http://s.aplus.fm:9000/aplus_rock_128
 #EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Радио Пляж - Rock
 http://listen7.myradio24.com:9000/16454
-#EXTINF:-1 group-title="MUSIC/RADIOR🎸OCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Радио Рок-Атака
+#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Радио Рок-Атака
 http://listen7.myradio24.com:9000/rockataka
 #EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Супер Радио (Эстония) - Рок
 http://skymedia-live.bitflip.ee/rrock
@@ -3213,7 +3213,7 @@ http://strm112.1.fm/highvoltage_mobile_mp3
 http://strm112.1.fm/blues_mobile_mp3
 #EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",1 FM - Americas Best Ballads
 http://strm112.1.fm/onelive_mobile_mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1436097296.png" group-title="MUSIC/RADIOR🎸OCK", RADIO 1 ROCK - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1436097296.png" group-title="MUSIC/RADIO🎸ROCK", RADIO 1 ROCK - 128 kbit/s
 http://stream.radioreklama.bg/radio1rock64
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1537500305.jpg" group-title="MUSIC/RADIO🎸ROCK", HD Radio - Classic Rock - 128 kbit/s
 http://rosetta.shoutca.st:8352/stream/1/
@@ -3285,7 +3285,7 @@ http://icecast.radiorocks.cdnvideo.ru/roks.stream
 http://tuner.rockyfm.com:80/;
 #EXTINF:-1 tvg-name="Antenne Bayern Classic Rock Live" group-title="MUSIC/RADIO🎸ROCK", Antenne Bayern Classic Rock Live
 http://mp3channels.webradio.antenne.de/classic-rock-live
-#EXTINF:-1 group-title="MUSIC/RADIOR🎸OCK",antenne 1 Modern Rock Listen live
+#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",antenne 1 Modern Rock Listen live
 https://stream.antenne1.de/modernrock/livestream1.aac
 #EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rock Radio
 https://onair.superfm.rs/superfm.mp3
