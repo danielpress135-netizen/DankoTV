@@ -5585,7 +5585,7 @@ https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
 #EXTINF:-1 tvg-id="Západoslovenská.televízia.cz" tvg-name="Zapadoslovenska TV" tvg-logo="https://i.imgur.com/D72Y1IB.png" group-title="SK/TV",Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
 #EXTINF:-1 tvg-id="TA3.HD.sk" tvg-name="TV TA.3" tvg-logo="" group-title="SK/TV",TV TA.3
-https://n15.stv.livebox.sk/ta3/0fa9ebd8cf5ad14580a7cd0a8780cae9/1.smil/chunklist_b2691072.m3u8
+https://n14.stv.livebox.sk/ta3/ac07ee28f0a516e4bd6a94e0c0bb3dc8/1.smil/chunklist_b1667072.m3u8
 #EXTINF:-1 tvg-id="TV.Bratislava.cz" tvg-name="Bratislava tv" tvg-logo="" group-title="SK/TV",Bratislava tv
 https://cdnsk003.panaccess.com/local/Bratislava/index.m3u8
 #EXTINF:-1 tvg-id="TV.Bratislava.cz" tvg-name="Bratislava tv" tvg-logo="" group-title="SK/TV",Bratislava tv
