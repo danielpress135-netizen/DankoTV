@@ -1119,87 +1119,87 @@ http://213.91.179.28:8000/play/a03n
 
 
 
-#EXTINF:-1 tvg-id="ČT1.cz" tvg-name="ČT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="CZECH/TV",ČT 1
+#EXTINF:-1 tvg-id="ČT1.cz" tvg-name="ČT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="CZECH🇨🇿/TV",ČT 1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT2.cz" tvg-name="ČT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="CZECH/TV",ČT 2
+#EXTINF:-1 tvg-id="ČT2.cz" tvg-name="ČT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="CZECH🇨🇿/TV",ČT 2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT24.cz" tvg-name="ČT24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png" group-title="CZECH/TV",ČT24 (1080p)
+#EXTINF:-1 tvg-id="ČT24.cz" tvg-name="ČT24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png" group-title="CZECH🇨🇿/TV",ČT24 (1080p)
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT.sport.cz" tvg-name="ČT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="CZECH/TV",ČT Sport (720p)
+#EXTINF:-1 tvg-id="ČT.sport.cz" tvg-name="ČT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="CZECH🇨🇿/TV",ČT Sport (720p)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT.:D.cz" tvg-name="ČT:D/ČT art" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" group-title="CZECH/TV",ČT:D/ČT art (1080p)
+#EXTINF:-1 tvg-id="ČT.:D.cz" tvg-name="ČT:D/ČT art" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" group-title="CZECH🇨🇿/TV",ČT:D/ČT art (1080p)
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sporty.TV.cz" tvg-name="Sporty TV" tvg-logo="" group-title="CZECH/TV",Sporty TV
+#EXTINF:-1 tvg-id="Sporty.TV.cz" tvg-name="Sporty TV" tvg-logo="" group-title="CZECH🇨🇿/TV",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport 2" tvg-logo="" group-title="CZECH/TV",Sport 2(test)
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport 2" tvg-logo="" group-title="CZECH🇨🇿/TV",Sport 2(test)
 http://185.98.211.8:81/sport2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-name="Elektrika TV" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="CZECH/TV",Elektrika TV (1080p)
+#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-name="Elektrika TV" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="CZECH🇨🇿/TV",Elektrika TV (1080p)
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTV.HD.cz" tvg-name="Fashion TV Czech&Slovak" tvg-logo="" group-title="CZECH/TV",Fashion TV Czech&Slovak
+#EXTINF:-1 tvg-id="FashionTV.HD.cz" tvg-name="Fashion TV Czech&Slovak" tvg-logo="" group-title="CZECH🇨🇿/TV",Fashion TV Czech&Slovak
 
-#EXTINF:-1 tvg-id="JC1.cz" tvg-name="JČ1" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="CZECH/TV",JČ1 (1080p)
+#EXTINF:-1 tvg-id="JC1.cz" tvg-name="JČ1" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="CZECH🇨🇿/TV",JČ1 (1080p)
 https://stream.jc1.cz/hls/jc1.m3u8
-#EXTINF:-1 tvg-id="Jihočeská.televize.cz" tvg-name="Jihočeská televize" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="CZECH/TV",Jihočeská televize (1080p)
+#EXTINF:-1 tvg-id="Jihočeská.televize.cz" tvg-name="Jihočeská televize" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="CZECH🇨🇿/TV",Jihočeská televize (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
-#EXTINF:-1 tvg-id="Minimax.cz" tvg-name="Minimax" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="CZECH/TV",Minimax (576p) (576p)
+#EXTINF:-1 tvg-id="Minimax.cz" tvg-name="Minimax" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="CZECH🇨🇿/TV",Minimax (576p) (576p)
 http://88.212.15.19/live/test_minimax/playlist.m3u8
-#EXTINF:-1 tvg-id="ČRo.Plzeň.cz" tvg-name="Plzeň TV" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="CZECH/TV",Plzeň TV (1080p)
+#EXTINF:-1 tvg-id="ČRo.Plzeň.cz" tvg-name="Plzeň TV" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="CZECH🇨🇿/TV",Plzeň TV (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
-#EXTINF:-1 tvg-id="POLAR.2.cz" tvg-name="Polar 2 TV" tvg-logo="https://i.imgur.com/hCPiMYZ.png" group-title="CZECH/TV",Polar 2 TV (1080p)
+#EXTINF:-1 tvg-id="POLAR.2.cz" tvg-name="Polar 2 TV" tvg-logo="https://i.imgur.com/hCPiMYZ.png" group-title="CZECH🇨🇿/TV",Polar 2 TV (1080p)
 https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
-#EXTINF:-1 tvg-id="POLAR.cz" tvg-name="Polar TV" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="CZECH/TV",Polar TV (1080p)
+#EXTINF:-1 tvg-id="POLAR.cz" tvg-name="Polar TV" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="CZECH🇨🇿/TV",Polar TV (1080p)
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima.cz" tvg-name="Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="CZECH/TV",Prima (1080p)
+#EXTINF:-1 tvg-id="Prima.cz" tvg-name="Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="CZECH🇨🇿/TV",Prima (1080p)
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima.LOVE.cz" tvg-name="Prima Love" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png" group-title="CZECH/TV",Prima Love (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Prima.LOVE.cz" tvg-name="Prima Love" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png" group-title="CZECH🇨🇿/TV",Prima Love (1080p) [Geo-blocked]
 http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Kuryr.TV.cz" tvg-name="Kuryr TV" tvg-logo="" group-title="CZECH/TV",Kuryr TV
+#EXTINF:-1 tvg-id="Kuryr.TV.cz" tvg-name="Kuryr TV" tvg-logo="" group-title="CZECH🇨🇿/TV",Kuryr TV
 http://stream-18.mazana.tv/kuryrtv.m3u8s
-#EXTINF:-1 tvg-id="TV.Brno.1.cz" tvg-name="TV Brno 1" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="CZECH/TV",TV Brno 1 (1080p)
+#EXTINF:-1 tvg-id="TV.Brno.1.cz" tvg-name="TV Brno 1" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="CZECH🇨🇿/TV",TV Brno 1 (1080p)
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
-#EXTINF:-1 tvg-id="ÚTV.cz" tvg-name="ÚTV" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="CZECH/TV",ÚTV (1080p)
+#EXTINF:-1 tvg-id="ÚTV.cz" tvg-name="ÚTV" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="CZECH🇨🇿/TV",ÚTV (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-id="Vychodoceska.TV.cz" tvg-name="Východočeská TV" tvg-logo="https://i.imgur.com/4Wwptd3.png" group-title="CZECH/TV",Východočeská TV (1080p)
+#EXTINF:-1 tvg-id="Vychodoceska.TV.cz" tvg-name="Východočeská TV" tvg-logo="https://i.imgur.com/4Wwptd3.png" group-title="CZECH🇨🇿/TV",Východočeská TV (1080p)
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Animal.Planet.cz" tvg-name="Animal Planet CZ" tvg-logo="" group-title="CZECH/TV",Animal Planet CZ
+#EXTINF:-1 tvg-id="Animal.Planet.cz" tvg-name="Animal Planet CZ" tvg-logo="" group-title="CZECH🇨🇿/TV",Animal Planet CZ
 http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="" group-title="CZECH/TV",Cinemax  
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="" group-title="CZECH🇨🇿/TV",Cinemax  
 http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax.2.cz" tvg-name="Cinemax 2" tvg-logo="" group-title="CZECH/TV",Cinemax 2   
+#EXTINF:-1 tvg-id="Cinemax.2.cz" tvg-name="Cinemax 2" tvg-logo="" group-title="CZECH🇨🇿/TV",Cinemax 2   
 http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery.Channel.cz" tvg-name="Discovery Channel CZ" tvg-logo="" group-title="CZECH/TV",Discovery Channel CZ
+#EXTINF:-1 tvg-id="Discovery.Channel.cz" tvg-name="Discovery Channel CZ" tvg-logo="" group-title="CZECH🇨🇿/TV",Discovery Channel CZ
 http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO.cz" tvg-name="HBO" tvg-logo="" group-title="CZECH/TV",HBO cz
+#EXTINF:-1 tvg-id="HBO.cz" tvg-name="HBO" tvg-logo="" group-title="CZECH🇨🇿/TV",HBO cz
 http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO2.cz" tvg-name="HBO 2" tvg-logo="" group-title="CZECH/TV",HBO 2 cz
+#EXTINF:-1 tvg-id="HBO2.cz" tvg-name="HBO 2" tvg-logo="" group-title="CZECH🇨🇿/TV",HBO 2 cz
 http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO3.cz" tvg-name="HBO 3" tvg-logo="" group-title="CZECH/TV",HBO 3 cz
+#EXTINF:-1 tvg-id="HBO3.cz" tvg-name="HBO 3" tvg-logo="" group-title="CZECH🇨🇿/TV",HBO 3 cz
 http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="RELAX.cz" tvg-name="Relax TV" tvg-logo="" group-title="CZECH/TV",Relax TV   
+#EXTINF:-1 tvg-id="RELAX.cz" tvg-name="Relax TV" tvg-logo="" group-title="CZECH🇨🇿/TV",Relax TV   
 https://dash3.antik.sk/live/test_relax/playlist.m3u8
-#EXTINF:-1 tvg-id="Noe.cz" tvg-name="TV Noe" tvg-logo="" group-title="CZECH/TV",TV Noe    
+#EXTINF:-1 tvg-id="Noe.cz" tvg-name="TV Noe" tvg-logo="" group-title="CZECH🇨🇿/TV",TV Noe    
 https://n106.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/playlist.m3u8
-#EXTINF:-1 tvg-id="Travel.Channel.cz" tvg-name="Travel Channel CZ" tvg-logo="" group-title="CZECH/TV",Travel Channel CZ
+#EXTINF:-1 tvg-id="Travel.Channel.cz" tvg-name="Travel Channel CZ" tvg-logo="" group-title="CZECH🇨🇿/TV",Travel Channel CZ
 http://88.212.7.11/live/test_travel_channel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ÚTV.cz" tvg-name="" tvg-logo="UTV" group-title="CZECH/TV",UTV 
+#EXTINF:-1 tvg-id="ÚTV.cz" tvg-name="" tvg-logo="UTV" group-title="CZECH🇨🇿/TV",UTV 
 http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-id="A11.cz" tvg-name="A11 TV" tvg-logo="" tvg-group-title="CZECH/TV",A11 TV
+#EXTINF:-1 tvg-id="A11.cz" tvg-name="A11 TV" tvg-logo="" tvg-group-title="CZECH🇨🇿/TV",A11 TV
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Óčko.cz" tvg-name="Óčko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png" group-title="CZECH/TV",Óčko (540p)
+#EXTINF:-1 tvg-id="Óčko.cz" tvg-name="Óčko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png" group-title="CZECH🇨🇿/TV",Óčko (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Óčko.Expres.cz" tvg-name="Óčko Expres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png" group-title="CZECH/TV",Óčko Expres (540p)
+#EXTINF:-1 tvg-id="Óčko.Expres.cz" tvg-name="Óčko Expres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png" group-title="CZECH🇨🇿/TV",Óčko Expres (540p)
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 tvg-id="Óčko.Star.cz" tvg-name="Óčko Gold" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="CZECH/TV",Óčko Gold (540p)
+#EXTINF:-1 tvg-id="Óčko.Star.cz" tvg-name="Óčko Gold" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="CZECH🇨🇿/TV",Óčko Gold (540p)
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-id="Óčko.Black.cz" tvg-name="Ocko Black" tvg-logo="" group-title="CZECH/TV",Ocko Black
+#EXTINF:-1 tvg-id="Óčko.Black.cz" tvg-name="Ocko Black" tvg-logo="" group-title="CZECH🇨🇿/TV",Ocko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-#EXTINF:-1 tvg-id="Retro.Music.cz" tvg-name="Retro Music Television" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="CZECH/TV",Retro Music Television (360p)
+#EXTINF:-1 tvg-id="Retro.Music.cz" tvg-name="Retro Music Television" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="CZECH🇨🇿/TV",Retro Music Television (360p)
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w558745467_b3256000.m3u8
-#EXTINF:-1 tvg-id="Sláger.TV.cz" tvg-name="Šlágr 1" tvg-logo="https://i.postimg.cc/Zq0Pgw0V/image-2025-07-10-T175018-580.png" group-title="CZECH/TV", Šlágr 1
+#EXTINF:-1 tvg-id="Sláger.TV.cz" tvg-name="Šlágr 1" tvg-logo="https://i.postimg.cc/Zq0Pgw0V/image-2025-07-10-T175018-580.png" group-title="CZECH🇨🇿/TV", Šlágr 1
 https://stream-13.mazana.tv/slagroriginal.m3u8s
-#EXTINF:-1 tvg-id="Šlágr.Muzika.cz" tvg-name="Šlágr 2" tvg-logo="https://i.postimg.cc/Zq0Pgw0V/image-2025-07-10-T175018-580.png" group-title="CZECH/TV", Šlágr 2
+#EXTINF:-1 tvg-id="Šlágr.Muzika.cz" tvg-name="Šlágr 2" tvg-logo="https://i.postimg.cc/Zq0Pgw0V/image-2025-07-10-T175018-580.png" group-title="CZECH🇨🇿/TV", Šlágr 2
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
-#EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-name="Slager Premium" tvg-logo="https://i.postimg.cc/Zq0Pgw0V/image-2025-07-10-T175018-580.png" group-title="CZECH/TV", Slager Premium
+#EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-name="Slager Premium" tvg-logo="https://i.postimg.cc/Zq0Pgw0V/image-2025-07-10-T175018-580.png" group-title="CZECH🇨🇿/TV", Slager Premium
 https://stream-17.mazana.tv/slagrpremium.m3u8s
 
 
@@ -1208,155 +1208,155 @@ https://stream-17.mazana.tv/slagrpremium.m3u8s
 
 
 
-#EXTINF:-1 tvg-id="TVP.World.cz" tvg-name="TVP World" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="Eng/TV",TVP World (1080p)
+#EXTINF:-1 tvg-id="TVP.World.cz" tvg-name="TVP World" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="Eng🇬🇧/TV",TVP World (1080p)
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
-#EXTINF:-1 tvg-id="France24.EN.cz" tvg-name="France 24 English" tvg-logo="" group-title="Eng/TV",France 24 English
+#EXTINF:-1 tvg-id="France24.EN.cz" tvg-name="France 24 English" tvg-logo="" group-title="Eng🇬🇧/TV",France 24 English
 http://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Luxury Dreams TV" tvg-logo="" group-title="Eng/TV",Luxury Dreams TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="Luxury Dreams TV" tvg-logo="" group-title="Eng🇬🇧/TV",Luxury Dreams TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP TV" tvg-logo="" group-title="Eng/TV",VIP TV
+#EXTINF:-1 tvg-id="" tvg-name="VIP TV" tvg-logo="" group-title="Eng🇬🇧/TV",VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 tvg-id="Al.Jazeera.English.fr" tvg-name="Al Jazeera English" tvg-logo="" group-title="Eng/TV",Al Jazeera English
+#EXTINF:-1 tvg-id="Al.Jazeera.English.fr" tvg-name="Al Jazeera English" tvg-logo="" group-title="Eng🇬🇧/TV",Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
-#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News" tvg-logo="" group-title="Eng/TV",BBC News
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News" tvg-logo="" group-title="Eng🇬🇧/TV",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="GB.News.HD.uk" tvg-name="GB News" tvg-logo="" group-title="Eng/TV",GB News
+#EXTINF:-1 tvg-id="GB.News.HD.uk" tvg-name="GB News" tvg-logo="" group-title="Eng🇬🇧/TV",GB News
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.News.us" tvg-name="CBS News" tvg-logo="" group-title="Eng/TV",CBS News
+#EXTINF:-1 tvg-id="CBS.News.us" tvg-name="CBS News" tvg-logo="" group-title="Eng🇬🇧/TV",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
-#EXTINF:-1 tvg-id="CGTN.English.cz" tvg-name="CGTN" tvg-logo="" group-title="Eng/TV",CGTN
+#EXTINF:-1 tvg-id="CGTN.English.cz" tvg-name="CGTN" tvg-logo="" group-title="Eng🇬🇧/TV",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 tvg-id="CNN.International.(US,EN).no" tvg-name="CNN" tvg-logo="" group-title="Eng/TV",CNN 
+#EXTINF:-1 tvg-id="CNN.International.(US,EN).no" tvg-name="CNN" tvg-logo="" group-title="Eng🇬🇧/TV",CNN 
 
-#EXTINF:-1 tvg-id="DW.Englisch.ch" tvg-name"DW English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Eng/TV",DW English (1080p)
+#EXTINF:-1 tvg-id="DW.Englisch.ch" tvg-name"DW English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Eng🇬🇧/TV",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-id="Euronews.uk" tvg-name="Euronews English" tvg-logo="" group-title="Eng/TV",Euronews English
+#EXTINF:-1 tvg-id="Euronews.uk" tvg-name="Euronews English" tvg-logo="" group-title="Eng🇬🇧/TV",Euronews English
 https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en-avc1_3300000=9-mp4a_143200_eng=2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Global News" tvg-logo="" group-title="Eng/TV",Global News
+#EXTINF:-1 tvg-id="" tvg-name="Global News" tvg-logo="" group-title="Eng🇬🇧/TV",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 tvg-id="NHK.World.HD.uk" tvg-name="NHK World Japan " tvg-logo="" group-title="Eng/TV",NHK World Japan (ENG)
+#EXTINF:-1 tvg-id="NHK.World.HD.uk" tvg-name="NHK World Japan " tvg-logo="" group-title="Eng🇬🇧/TV",NHK World Japan (ENG)
 https://nhk.lls.pbs.org/index_1080p.m3u8
-#EXTINF:-1 tvg-id="NOW.US.de" tvg-name="NOW TV" tvg-logo="" group-title="Eng/TV",NOW TV
+#EXTINF:-1 tvg-id="NOW.US.de" tvg-name="NOW TV" tvg-logo="" group-title="Eng🇬🇧/TV",NOW TV
 https://nowhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News Max 2" tvg-logo="" group-title="Eng/TV",News Max 2
+#EXTINF:-1 tvg-id="" tvg-name="News Max 2" tvg-logo="" group-title="Eng🇬🇧/TV",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reuters TV" tvg-logo="" group-title="Eng/TV",Reuters TV
+#EXTINF:-1 tvg-id="" tvg-name="Reuters TV" tvg-logo="" group-title="Eng🇬🇧/TV",Reuters TV
 https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="SkyNews.au" tvg-name="Sky News Australia" tvg-logo="" group-title="Eng/TV",Sky News Australia
+#EXTINF:-1 tvg-id="SkyNews.au" tvg-name="Sky News Australia" tvg-logo="" group-title="Eng🇬🇧/TV",Sky News Australia
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV BRICS English" tvg-logo="" group-title="Eng/TV",TV BRICS English
+#EXTINF:-1 tvg-id="" tvg-name="TV BRICS English" tvg-logo="" group-title="Eng🇬🇧/TV",TV BRICS English
 http://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Beach.TV.(WDES-CD).Destin,.FL.us_locals1" tvg-name="Beach TV" tvg-logo="" group-title="Eng/TV",Beach TV
+#EXTINF:-1 tvg-id="Beach.TV.(WDES-CD).Destin,.FL.us_locals1" tvg-name="Beach TV" tvg-logo="" group-title="Eng🇬🇧/TV",Beach TV
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beach TV 2" tvg-logo="" group-title="Eng/TV",Beach TV 2
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV 2" tvg-logo="" group-title="Eng🇬🇧/TV",Beach TV 2
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beach TV 3" tvg-logo="" group-title="Eng/TV",Beach TV 3
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV 3" tvg-logo="" group-title="Eng🇬🇧/TV",Beach TV 3
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Key TV" tvg-logo="" group-title="Eng/TV",Key TV
+#EXTINF:-1 tvg-id="" tvg-name="Key TV" tvg-logo="" group-title="Eng🇬🇧/TV",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
-#EXTINF:-1 tvg-id="More.4.cz" tvg-name="More 4" tvg-logo="" group-title="Eng/TV",More 4
+#EXTINF:-1 tvg-id="More.4.cz" tvg-name="More 4" tvg-logo="" group-title="Eng🇬🇧/TV",More 4
 
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel USA" tvg-logo="" group-title="Eng/TV",Discovery Channel USA
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel USA" tvg-logo="" group-title="Eng🇬🇧/TV",Discovery Channel USA
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="History.HD.UK.cz" tvg-name="History" tvg-logo="" group-title="Eng/TV",History
+#EXTINF:-1 tvg-id="History.HD.UK.cz" tvg-name="History" tvg-logo="" group-title="Eng🇬🇧/TV",History
 http://190.11.225.124:5000/live/history_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.Stream.us2" tvg-name="PBS America" tvg-logo="" group-title="Eng/TV",PBS America
+#EXTINF:-1 tvg-id="PBS.Stream.us2" tvg-name="PBS America" tvg-logo="" group-title="Eng🇬🇧/TV",PBS America
 http://185.19.191.2:8094/PBS/index.m3u8
-#EXTINF:-1 tvg-id="PBS.Kids.Stream.us2" tvg-name="PBS Kids" tvg-logo="" group-title="Eng/TV",PBS Kids
+#EXTINF:-1 tvg-id="PBS.Kids.Stream.us2" tvg-name="PBS Kids" tvg-logo="" group-title="Eng🇬🇧/TV",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="Disney.Junior.HD.UK.cz" tvg-name="Disney Jr" tvg-logo="" group-title="Eng/TV",Disney Jr
+#EXTINF:-1 tvg-id="Disney.Junior.HD.UK.cz" tvg-name="Disney Jr" tvg-logo="" group-title="Eng🇬🇧/TV",Disney Jr
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon USA" tvg-logo="" group-title="Eng/TV",Nickelodeon USA
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon USA" tvg-logo="" group-title="Eng🇬🇧/TV",Nickelodeon USA
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="LingoToons.cz" tvg-name="Lingo Toons" tvg-logo="" group-title="Eng/TV",Lingo Toons
+#EXTINF:-1 tvg-id="LingoToons.cz" tvg-name="Lingo Toons" tvg-logo="" group-title="Eng🇬🇧/TV",Lingo Toons
 https://dash2.antik.sk/live/lingotoons/index.m3u8
-#EXTINF:-1 tvg-id="English.Club.TV.ch" tvg-name="English Club" tvg-logo="" group-title="Eng/TV",English Club
+#EXTINF:-1 tvg-id="English.Club.TV.ch" tvg-name="English Club" tvg-logo="" group-title="Eng🇬🇧/TV",English Club
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX USA" tvg-logo="" group-title="Eng/TV",FX USA
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX USA" tvg-logo="" group-title="Eng🇬🇧/TV",FX USA
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="" group-title="Eng/TV",FXX
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="" group-title="Eng🇬🇧/TV",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film 4" tvg-logo="" group-title="Eng/TV",Film 4
+#EXTINF:-1 tvg-id="" tvg-name="Film 4" tvg-logo="" group-title="Eng🇬🇧/TV",Film 4
 
-#EXTINF:-1 tvg-id="" tvg-name="Ifilm English" tvg-logo="" group-title="Eng/TV",Ifilm English
+#EXTINF:-1 tvg-id="" tvg-name="Ifilm English" tvg-logo="" group-title="Eng🇬🇧/TV",Ifilm English
 http://live.presstv.ir/hls/ifilmen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movies Wedo" tvg-logo="" group-title="Eng/TV",Movies Wedo
+#EXTINF:-1 tvg-id="" tvg-name="Movies Wedo" tvg-logo="" group-title="Eng🇬🇧/TV",Movies Wedo
 https://movies4free-lg.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Runtime" tvg-logo="" group-title="Eng/TV",Runtime
+#EXTINF:-1 tvg-id="" tvg-name="Runtime" tvg-logo="" group-title="Eng🇬🇧/TV",Runtime
 https://run-rt-us.otteravision.com/out/v1/336b14e0a931466f99386ae576d30a57/index_1.m3u8
-#EXTINF:-1 tvg-id="SONY.MOVIES.HD..uy" tvg-name="Sony Movies" tvg-logo="" group-title="Eng/TV",Sony Movies
+#EXTINF:-1 tvg-id="SONY.MOVIES.HD..uy" tvg-name="Sony Movies" tvg-logo="" group-title="Eng🇬🇧/TV",Sony Movies
 http://45.5.118.152:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRU TV" tvg-logo="" group-title="Eng/TV",TRU TV
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV" tvg-logo="" group-title="Eng/TV",🇬🇧TRU TV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:-1 tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" tvg-name="AWE TV" tvg-logo="" group-title="Eng/TV",AWE TV 
+#EXTINF:-1 tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" tvg-name="AWE TV" tvg-logo="" group-title="Eng🇬🇧/TV",AWE TV 
 https://awe-lg.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ausbiz TV" tvg-logo="" group-title="Eng/TV",Ausbiz TV   
+#EXTINF:-1 tvg-id="" tvg-name="Ausbiz TV" tvg-logo="" group-title="Eng🇬🇧/TV",Ausbiz TV   
 https://d9quh89lh7dtw.cloudfront.net/public-output/index_2.m3u8
-#EXTINF:-1 tvg-id="Brat.TV.us" tvg-name="Brat TV" tvg-logo="" group-title="Eng/TV",Brat TV 
+#EXTINF:-1 tvg-id="Brat.TV.us" tvg-name="Brat TV" tvg-logo="" group-title="Eng🇬🇧/TV",Brat TV 
 https://brat-tcl.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="" group-title="Eng/TV",Comet    
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="" group-title="Eng🇬🇧/TV",Comet    
 http://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="" group-title="Eng/TV",Court TV 
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="" group-title="Eng🇬🇧/TV",Court TV 
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="" group-title="Eng/TV",Fox Business
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="" group-title="Eng🇬🇧/TV",Fox Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Weather.us" tvg-name="Fox Weather" tvg-logo="" group-title="Eng/TV",Fox Weather
+#EXTINF:-1 tvg-id="Fox.Weather.us" tvg-name="Fox Weather" tvg-logo="" group-title="Eng🇬🇧/TV",Fox Weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="King 5 News" tvg-logo="" group-title="Eng/TV",King 5 News   
+#EXTINF:-1 tvg-id="" tvg-name="King 5 News" tvg-logo="" group-title="Eng🇬🇧/TV",King 5 News   
 https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8
-#EXTINF:-1 tvg-id="Gametoon.HD.pl" tvg-name="Gametoon" tvg-logo="" group-title="Eng/TV",Gametoon
+#EXTINF:-1 tvg-id="Gametoon.HD.pl" tvg-name="Gametoon" tvg-logo="" group-title="Eng🇬🇧/TV",Gametoon
 http://143.244.63.87/gametoon/index.m3u8
-#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="" group-title="Eng/TV",Game Show Network  
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="" group-title="Eng🇬🇧/TV",Game Show Network  
 http://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" tvg-logo="" group-title="Eng/TV",HLN 
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" tvg-logo="" group-title="Eng🇬🇧/TV",HLN 
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTM" tvg-logo="" group-title="Eng/TV",MTM   
+#EXTINF:-1 tvg-id="" tvg-name="MTM" tvg-logo="" group-title="Eng🇬🇧/TV",MTM   
 https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
-#EXTINF:-1 tvg-id="MOONBUG.KIDS.TV.tr" tvg-name="Moonbug Kids" tvg-logo="" group-title="Eng/TV",Moonbug Kids  
+#EXTINF:-1 tvg-id="MOONBUG.KIDS.TV.tr" tvg-name="Moonbug Kids" tvg-logo="" group-title="Eng🇬🇧/TV",Moonbug Kids  
 https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NO TV" tvg-logo="" group-title="Eng/TV",NO TV  
+#EXTINF:-1 tvg-id="" tvg-name="NO TV" tvg-logo="" group-title="Eng🇬🇧/TV",NO TV  
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peer TV South Tyrol" tvg-logo="" group-title="Eng/TV",Peer TV South Tyrol  
+#EXTINF:-1 tvg-id="" tvg-name="Peer TV South Tyrol" tvg-logo="" group-title="Eng🇬🇧/TV",Peer TV South Tyrol  
 http://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 USA" tvg-logo="" group-title="Eng/TV",VH1 USA
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 USA" tvg-logo="" group-title="Eng🇬🇧/TV",VH1 USA
 http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE TV" tvg-logo="" group-title="Eng/TV",WE TV   
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE TV" tvg-logo="" group-title="Eng🇬🇧/TV",WE TV   
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-#EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Eng/TV",ABC News (720p)
+#EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Eng🇬🇧/TV",ABC News (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 tvg-id="ABCTVPlus.au@Sydney" tvg-name"ABC TV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/500px-ABC_TV_Plus_logo_2021.svg.png" group-title="Eng/TV",ABC TV Plus (720p)
+#EXTINF:-1 tvg-id="ABCTVPlus.au@Sydney" tvg-name"ABC TV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/500px-ABC_TV_Plus_logo_2021.svg.png" group-title="Eng🇬🇧/TV",ABC TV Plus (720p)
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au@QLD" tvg-name"ABC TV QLD" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Eng/TV",ABC TV QLD (720p)
+#EXTINF:-1 tvg-id="ABCTV.au@QLD" tvg-name"ABC TV QLD" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Eng🇬🇧/TV",ABC TV QLD (720p)
 https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au@SA" tvg-name"ABC TV SA" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Eng/TV",ABC TV SA (720p)
+#EXTINF:-1 tvg-id="ABCTV.au@SA" tvg-name"ABC TV SA" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Eng🇬🇧/TV",ABC TV SA (720p)
 https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 tvg-id="Yachting.TV.cz" tvg-name="Yachting TV" tvg-logo="https://i.imgur.com/YxO60B1.png" group-title="Eng/TV",Yachting TV (1080p)
+#EXTINF:-1 tvg-id="Yachting.TV.cz" tvg-name="Yachting TV" tvg-logo="https://i.imgur.com/YxO60B1.png" group-title="Eng🇬🇧/TV",Yachting TV (1080p)
 https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
-#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-name"Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Eng/TV",Tom And Jerry (720p)
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-name"Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Eng🇬🇧/TV",Tom And Jerry (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 channel-id="65f83bbbf7a2eb952b798c96300bb329" tvg-id="65f83bbbf7a2eb952b798c96300bb329" tvg-chno="368" tvg-name="Pink Panther" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/65f83bbbf7a2eb952b798c96300bb329/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747839527856_PinkPanther_HUDLogo_Centered_260x147.png" group-title="Eng/TV",Pink Panther
+#EXTINF:-1 channel-id="65f83bbbf7a2eb952b798c96300bb329" tvg-id="65f83bbbf7a2eb952b798c96300bb329" tvg-chno="368" tvg-name="Pink Panther" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/65f83bbbf7a2eb952b798c96300bb329/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747839527856_PinkPanther_HUDLogo_Centered_260x147.png" group-title="Eng🇬🇧/TV",Pink Panther
 https://jmp2.uk/rok-65f83bbbf7a2eb952b798c96300bb329.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Toon.Goggles.plex" tvg-name="Toon Goggles" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Eng/TV",Toon Goggles (720p)
+#EXTINF:-1 tvg-id="plex.tv.Toon.Goggles.plex" tvg-name="Toon Goggles" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Eng🇬🇧/TV",Toon Goggles (720p)
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
-#EXTINF:-1 channel-id="498b53f6f63455bbba27754ceb5fcefc" tvg-id="498b53f6f63455bbba27754ceb5fcefc" tvg-chno="431" tvg-name="Sonic The Hedgehog" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png" group-title="Eng/TV",Sonic The Hedgehog
+#EXTINF:-1 channel-id="498b53f6f63455bbba27754ceb5fcefc" tvg-id="498b53f6f63455bbba27754ceb5fcefc" tvg-chno="431" tvg-name="Sonic The Hedgehog" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png" group-title="Eng🇬🇧/TV",Sonic The Hedgehog
 https://jmp2.uk/rok-498b53f6f63455bbba27754ceb5fcefc.m3u8
-#EXTINF:-1 channel-id="a3c405bfca9b525983054aa761b10dfb" tvg-id="a3c405bfca9b525983054aa761b10dfb" tvg-chno="433" tvg-name="Super Mario Brothers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a3c405bfca9b525983054aa761b10dfb/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694472710975_SuperMarioBrothers_HUDlogo_260x147.png" group-title="Eng/TV",Super Mario Brothers
+#EXTINF:-1 channel-id="a3c405bfca9b525983054aa761b10dfb" tvg-id="a3c405bfca9b525983054aa761b10dfb" tvg-chno="433" tvg-name="Super Mario Brothers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a3c405bfca9b525983054aa761b10dfb/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694472710975_SuperMarioBrothers_HUDlogo_260x147.png" group-title="Eng🇬🇧/TV",Super Mario Brothers
 https://jmp2.uk/rok-a3c405bfca9b525983054aa761b10dfb.m3u8
-#EXTINF:-1 channel-id="77946e082d8958f599087890aebf1623" tvg-id="77946e082d8958f599087890aebf1623" tvg-chno="365" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77946e082d8958f599087890aebf1623/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1712857102121_YuGiOh_LGLogo_HUD-Centered.png" group-title="Eng/TV",Yu-Gi-Oh!
+#EXTINF:-1 channel-id="77946e082d8958f599087890aebf1623" tvg-id="77946e082d8958f599087890aebf1623" tvg-chno="365" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77946e082d8958f599087890aebf1623/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1712857102121_YuGiOh_LGLogo_HUD-Centered.png" group-title="Eng🇬🇧/TV",Yu-Gi-Oh!
 
-#EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="419" tvg-name="BABY SHARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="Eng/TV",BABY SHARK TV
+#EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="419" tvg-name="BABY SHARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="Eng🇬🇧/TV",BABY SHARK TV
 https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
-#EXTINF:-1 channel-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-chno="417" tvg-name="Toony Planet" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e0ba996e9985beb9c5e7f7f994ddc2e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1680614970035_Toony_Planet_HUD_logo_260x147.png" group-title="Eng/TV",Toony Planet
+#EXTINF:-1 channel-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-chno="417" tvg-name="Toony Planet" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e0ba996e9985beb9c5e7f7f994ddc2e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1680614970035_Toony_Planet_HUD_logo_260x147.png" group-title="Eng🇬🇧/TV",Toony Planet
 
-#EXTINF:-1 channel-id="9bd570b8bf145f73bba7532221e12666" tvg-id="9bd570b8bf145f73bba7532221e12666" tvg-chno="432" tvg-name="Transformers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9bd570b8bf145f73bba7532221e12666/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684427983619_TF_CSA_UK_2023Q4_Samsung_FAST_HUD_logo_C_260x147_3.png" group-title="Eng/TV",Transformers
+#EXTINF:-1 channel-id="9bd570b8bf145f73bba7532221e12666" tvg-id="9bd570b8bf145f73bba7532221e12666" tvg-chno="432" tvg-name="Transformers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9bd570b8bf145f73bba7532221e12666/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684427983619_TF_CSA_UK_2023Q4_Samsung_FAST_HUD_logo_C_260x147_3.png" group-title="Eng🇬🇧/TV",Transformers
 
-#EXTINF:-1 channel-id="8346cc0f3d415e39875fca80b67fd951" tvg-id="8346cc0f3d415e39875fca80b67fd951" tvg-chno="320" tvg-name="Universal Westerns" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8346cc0f3d415e39875fca80b67fd951/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1701820121460_Universal-Western-ROKU-HUD-LOGO-260x147.png" group-title="Eng/TV",Universal Westerns
+#EXTINF:-1 channel-id="8346cc0f3d415e39875fca80b67fd951" tvg-id="8346cc0f3d415e39875fca80b67fd951" tvg-chno="320" tvg-name="Universal Westerns" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8346cc0f3d415e39875fca80b67fd951/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1701820121460_Universal-Western-ROKU-HUD-LOGO-260x147.png" group-title="Eng🇬🇧/TV",Universal Westerns
 https://jmp2.uk/rok-8346cc0f3d415e39875fca80b67fd951.m3u8
-#EXTINF:-1 channel-id="306550b8677f5fd3937c26808531d5f3" tvg-id="306550b8677f5fd3937c26808531d5f3" tvg-chno="324" tvg-name="Wild West TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/306550b8677f5fd3937c26808531d5f3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707528061696_WWTV_HUDLogo.png" group-title="Eng/TV",Wild West TV
+#EXTINF:-1 channel-id="306550b8677f5fd3937c26808531d5f3" tvg-id="306550b8677f5fd3937c26808531d5f3" tvg-chno="324" tvg-name="Wild West TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/306550b8677f5fd3937c26808531d5f3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707528061696_WWTV_HUDLogo.png" group-title="Eng🇬🇧/TV",Wild West TV
 
-#EXTINF:-1 channel-id="34b686f999ecaacfbcd91bb5195c3124" tvg-id="34b686f999ecaacfbcd91bb5195c3124" tvg-chno="619" tvg-name="The Masked Singer" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/34b686f999ecaacfbcd91bb5195c3124/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1739302196547_MS_ROKU_HUD_Logo_2.png" group-title="Eng/TV",The Masked Singer
+#EXTINF:-1 channel-id="34b686f999ecaacfbcd91bb5195c3124" tvg-id="34b686f999ecaacfbcd91bb5195c3124" tvg-chno="619" tvg-name="The Masked Singer" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/34b686f999ecaacfbcd91bb5195c3124/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1739302196547_MS_ROKU_HUD_Logo_2.png" group-title="Eng🇬🇧/TV",The Masked Singer
 https://jmp2.uk/rok-34b686f999ecaacfbcd91bb5195c3124.m3u8
-#EXTINF:-1 channel-id="3580b15015379c4256440b0e119d46ed" tvg-id="3580b15015379c4256440b0e119d46ed" tvg-chno="629" tvg-name="America's Got Talent" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3580b15015379c4256440b0e119d46ed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775265472400_AGT_HUD_260x147_CenterAligned.png" group-title="Eng/TV",America's Got Talent
+#EXTINF:-1 channel-id="3580b15015379c4256440b0e119d46ed" tvg-id="3580b15015379c4256440b0e119d46ed" tvg-chno="629" tvg-name="America's Got Talent" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3580b15015379c4256440b0e119d46ed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775265472400_AGT_HUD_260x147_CenterAligned.png" group-title="Eng🇬🇧/TV",America's Got Talent
 https://jmp2.uk/rok-3580b15015379c4256440b0e119d46ed.m3u8
 
 
