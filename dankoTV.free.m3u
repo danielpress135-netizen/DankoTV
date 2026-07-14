@@ -241,6 +241,8 @@ https://tv.rtvnp.rs/stream.m3u8
 https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LTV (Libertas)" tvg-logo="" group-title="Ex-Yu/TV",LTV (Libertas)
 https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LTV (Libertas)" tvg-logo="" group-title="Ex-Yu/TV",LTV (Libertas)
+https://stream.libertas.tv/memfs/6767a62d-34ce-4756-8df5-0722b0475870.m3u8
 #EXTINF:-1 tvg-id="TV.Jadran.hr" tvg-name="TV Jadran" tvg-logo="" group-title="Ex-Yu/TV",TV Jadran (720p) 
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-id="SBTV.hr" tvg-name="SBTV" tvg-logo="" group-title="Ex-Yu/TV",SBTV (1080p) 
@@ -370,12 +372,20 @@ https://lbgo.bozztv.com/ssh101/ssh101/jupokradio/playlist.m3u8
 https://radio.serv.si/AktualTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ADRIA.MUSIC.TELEVISION.ch" tvg-name="Adria" tvg-logo="" group-title="Ex-Yu/TV"",Adria
 https://cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8
+#EXTINF:-1 tvg-id="ADRIA.MUSIC.TELEVISION.ch" tvg-name="Adria" tvg-logo="" group-title="Ex-Yu/TV"",Adria
+https://adriaapp.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="One.music.cz" tvg-name="ONE 1 Adria" tvg-logo="" group-title="Ex-Yu/TV"",ONE 1 Adria
 https://cdne.folxplay.tv/fxt/streams/ch-6/master.m3u8
+#EXTINF:-1 tvg-id="One.music.cz" tvg-name="ONE 1 Adria" tvg-logo="" group-title="Ex-Yu/TV"",ONE 1 Adria
+https://oneadriaapp.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="folx.tv.ch" tvg-name="FOLX Slovenija" tvg-logo="" group-title="Ex-Yu/TV"",FOLX Slovenija
 https://cdne.folxplay.tv/fxt/streams/ch-5/master.m3u8
+#EXTINF:-1 tvg-id="folx.tv.ch" tvg-name="FOLX Slovenija" tvg-logo="" group-title="Ex-Yu/TV"",FOLX Slovenija
+https://folxsloapp.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOLX Music Tv" tvg-logo="" group-title="Ex-Yu/TV"",FOLX Music Tv
 https://cdne.folxplay.tv/fxt/streams/ch-4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOLX Music Tv" tvg-logo="" group-title="Ex-Yu/TV"",FOLX Music Tv
+https://folxapp.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="CMC.hr" tvg-name="CMC TV" tvg-logo="" group-title="Ex-Yu/TV"",CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-id="Jugoton.hr" tvg-name="Jugoton TV" tvg-logo="" group-title="Ex-Yu/TV"",Jugoton TV
