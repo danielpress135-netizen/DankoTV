@@ -589,10 +589,6 @@ http://87.120.179.187:8000/play/a00l
 http://87.246.54.90:8080/RING/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1" tvg-logo="" group-title="BG🇧🇬/TV",BNT 1
 http://87.246.54.90:8080/BNT1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1" tvg-logo="" group-title="BG🇧🇬/TV",BNT 1 test
-https://e102-ts.cdn.bg/bnt1/fls/bnt1HD_abr.stream/at=O0M9MTc4LjI1NC4yNTQuMTQyO0U9MTc4NDA1NzM4NDtBPTE7Sz0zO1A9MDExMTA7Uz1hNmM2YTBkZTcxYjVjYTBiNWJhYjZlM2JhYzZiYmViNmI4OThiNWJh/playlist.m3u8
-#EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1" tvg-logo="" group-title="BG🇧🇬/TV",BNT 1 test
-https://e102-ts.cdn.bg/bnt1/fls/bnt1HD_abr.stream/at=O0M9MTc4LjI1NC4yNTQuMTQyO0U9MTc4NDA1NzM4NDtBPTE7Sz0zO1A9MDExMTA7Uz1hNmM2YTBkZTcxYjVjYTBiNWJhYjZlM2JhYzZiYmViNmI4OThiNWJh/chunklist_b1500000_t64TWVk.m3u8
 
 
 
@@ -5530,18 +5526,12 @@ https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jednotka.HD.sk" tvg-name=":1(Jednotka)" tvg-logo="" group-title="SK/TV",:1(Jednotka) test
 http://88.212.7.11/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Jednotka.HD.sk" tvg-name=":1(Jednotka)" tvg-logo="" group-title="SK/TV",:1(Jednotka) test sa
-https://n13.stv.livebox.sk/stv-tv/_definst_/stv1.smil/playlist.m3u8?auth=b64:X2FueV98MTc4NDA0NDkxMXw1MzgzZWY4ZjA3M2U0NDc5NTk2Mzc1MDRjYmU2OGZiYmRiODkyZmE4
 #EXTINF:-1 tvg-id="Dvojka.HD.sk" tvg-name=":2(Dvojka)" tvg-logo="" group-title="SK/TV",:2(Dvojka) test
 http://88.212.7.11/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Dvojka.HD.sk" tvg-name=":2(Dvojka)" tvg-logo="" group-title="SK/TV",:2(Dvojka) test sa
-https://n13.stv.livebox.sk/stv-tv/_definst_/stv2.smil/playlist.m3u8?auth=b64:X2FueV98MTc4NDA0NTA4N3xhNWQ2MTZhNTUzYmQ0ZWNlMTYwYTlmZjdjY2M0MGQ2MzNiOWE4MjI5
 #EXTINF:-1 tvg-id=":ŠPORT.HD.sk" tvg-name=":Šport" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="SK/TV",:Šport (1080p)
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id=":24.HD.sk" tvg-name=":24" tvg-logo="https://i.imgur.com/tTCuczU.png" group-title="SK/TV",:24 (1080p) test
 http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id=":24.HD.sk" tvg-name=":24" tvg-logo="https://i.imgur.com/tTCuczU.png" group-title="SK/TV",:24 (1080p) saita sa
-https://n15.stv.livebox.sk/stv-tv/_definst_/stv3.smil/playlist.m3u8?auth=b64:X2FueV98MTc4NDAzNzQwNHwzZjFlNGRiNDAyZGE0ODQzMTU5MzUyODExYjRlNDZmMmVjYTZiNDYx
 #EXTINF:-1 tvg-id="JOJ.HD.sk" tvg-name="JOJ" tvg-logo="" group-title="SK/TV",JOJ
 http://88.212.15.47/live/test_joj_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ.Cinema.HD.sk" tvg-name="JOJ Cinema" tvg-logo="" group-title="SK/TV",JOJ Cinema
@@ -5588,8 +5578,6 @@ https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
 #EXTINF:-1 tvg-id="Západoslovenská.televízia.cz" tvg-name="Zapadoslovenska TV" tvg-logo="https://i.imgur.com/D72Y1IB.png" group-title="SK/TV",Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
-#EXTINF:-1 tvg-id="TA3.HD.sk" tvg-name="TV TA.3" tvg-logo="" group-title="SK/TV",TV TA.3
-https://n17.stv.livebox.sk/ta3/1.smil/playlist.m3u8?auth=_any_|1786629256|8407ca95ef57a48a71c159ee52e941dc531fd6b5
 #EXTINF:-1 tvg-id="TV.Bratislava.cz" tvg-name="Bratislava tv" tvg-logo="" group-title="SK/TV",Bratislava tv
 https://cdnsk003.panaccess.com/local/Bratislava/index.m3u8
 #EXTINF:-1 tvg-id="TV.Bratislava.cz" tvg-name="Bratislava tv" tvg-logo="" group-title="SK/TV",Bratislava tv
