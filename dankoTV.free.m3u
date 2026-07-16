@@ -462,7 +462,7 @@ https://media2.streambrothers.com:1936/8168/8168/chunklist_w869830387.m3u8
 
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/Q0qL60o.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Antik Info TV (1080p)
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
-#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/HI7bCHq.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Turbo TV (1080p)
+#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/HI7bCHq.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Turbo TV (1080p).
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",TV Mistral
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
@@ -484,7 +484,7 @@ https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 https://dash2.antik.sk/live/test_raj/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Locall TV" tvg-logo="" group-title="Antik Test",Locall TV
 https://dash3.antik.sk/live/test_locall/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CT24" tvg-logo="" group-title="Antik Test",CT24
+#EXTINF:-1 tvg-id="" tvg-name="CT24" tvg-logo="" group-title="Antik Test",CT 24.
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV SLO1" tvg-logo="" group-title="Antik Test",TV SLO1
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
@@ -494,7 +494,7 @@ https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
 EXTINF:-1 group-title="Antik Test" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_RELAX.cz" $ExtFilter="ГЕДЕМ",RELAX
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
-#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Sporty TV
+#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Sporty TV.
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Barrandov Krimi (1080p)
 https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
@@ -526,7 +526,7 @@ https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 https://dash3.antik.sk/live/test_superyacht/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="English Club" tvg-logo="" group-title="Antik Test",English Club
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lingo Toons" tvg-logo="" group-title="Antik Test",Lingo Toons
+#EXTINF:-1 tvg-id="" tvg-name="Lingo Toons" tvg-logo="" group-title="Antik Test",Lingo Toons.
 https://dash2.antik.sk/live/lingotoons/index.m3u8
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/960px-HR-Fernsehen_Logo_2023.svg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",hr-fernsehen HD
 https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
@@ -556,7 +556,7 @@ https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTL Zwei" tvg-logo="" group-title="Antik Test",RTL Zwei
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
-#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ducktv" $ExtFilter="ГЕДЕМ",ducktv HD
+#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ducktv" $ExtFilter="ГЕДЕМ",ducktv HD.
 https://dash3.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/RFhxfOx.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ducktv-plus" $ExtFilter="ГЕДЕМ",ducktv PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
@@ -564,17 +564,17 @@ https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/4a4qX0P.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
-#EXTINF:-1 group-title="Antik Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Kvartal TV International
+#EXTINF:-1 group-title="Antik Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Kvartal TV International.
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/LOY0rtp.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",1+1 International HD (720p)
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
-#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/smQKa2G.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",1+1 Marafon (1080p)
+#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/smQKa2G.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",1+1 Marafon (1080p).
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/kizTBgS.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/xq6p9BZ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Dacha (1080p)
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
-#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/3cjaXIF.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",DIM
+#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/3cjaXIF.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",DIM.
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/sC0K5BZ.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_36-6-tv" $ExtFilter="ГЕДЕМ",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
@@ -586,13 +586,13 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Silk Way KZ" $ExtFilter="ГЕДЕМ" group-title="Antik Test",Silk Way KZ
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rebel TV" tvg-logo="" group-title="Antik Test",Rebel TV
+#EXTINF:-1 tvg-id="Rebel.cz" tvg-name="Rebel TV" tvg-logo="" group-title="Antik Test",Rebel TV
 https://dash3.antik.sk/live/test_rebel/playlist.m3u8
-#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/5rw9tWy.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Ocko Black
+#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/5rw9tWy.png" tvg-id="Óčko.Black.cz",Ocko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-#EXTINF:-1 group-title="Antik Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Ocko Star
+#EXTINF:-1 group-title="Antik Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png" tvg-id="Óčko.Star.cz",Ocko Star
 https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Classic" tvg-logo="" group-title="Antik Test",Music Box Classic
+#EXTINF:-1 tvg-id="Music.Box.Classic.cz" tvg-name="Music Box Classic" tvg-logo="" group-title="Antik Test",Music Box Classic.
 https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Iconcerts" tvg-logo="" group-title="Antik Test",Stingray Iconcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
@@ -602,9 +602,9 @@ https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Antik Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Rai 3 (720p)
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/LdsRz2E.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",EWTN/Bonum TV
+#EXTINF:-1 group-title="Antik Test" tvg-logo="https://i.imgur.com/LdsRz2E.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",EWTN/Bonum TV.
 https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RIK" tvg-logo="" group-title="Antik Test",RIK
+#EXTINF:-1 tvg-id="" tvg-name="RIK" tvg-logo="" group-title="Antik Test",RIK.
 https://dash2.antik.sk/live/rik_atk/index.m3u8
 
 
