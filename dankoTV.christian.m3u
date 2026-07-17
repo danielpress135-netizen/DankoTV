@@ -1,50 +1,54 @@
 #EXTM3U   x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="BULGARIA",Plovdivska Pravoslavna TV (1080p)
+#EXTINF:-1 tvg-id="Plovdiv.Orthodox.TV.bg" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="BULGARIA",Plovdivska Pravoslavna TV (1080p)
 http://78.130.149.196:1935/live/pptv.stream/chunklist_w1590876551.m3u8
-#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="BULGARIA",Plovdivska Pravoslavna TV (1080p)
+#EXTINF:-1 tvg-id="Plovdiv.Orthodox.TV.bg" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="BULGARIA",Plovdivska Pravoslavna TV (1080p)
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg@SD" tvg-name="Hope Channel Bulgaria" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="BULGARIA",Hope Channel Bulgaria
+#EXTINF:-1 tvg-id="Hope.Channel.Bulgaria.bg" tvg-name="Hope Channel Bulgaria" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="BULGARIA",Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hope Channel Bulgaria" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="BULGARIA",Hope Channel Bulgaria
+#EXTINF:-1 tvg-id="Hope.Channel.Bulgaria.bg" tvg-name="Hope Channel Bulgaria" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="BULGARIA",Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv/playlist.m3u8
-#EXTINF:-1 tvg-id="LightChannel.bg@SD" tvg-name="Light Channel (BG)" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="BULGARIA",Light Channel (BG) 
+#EXTINF:-1 tvg-id="LightChannel.bg" tvg-name="Light Channel (BG)" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="BULGARIA",Light Channel (BG) 
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BULGARIA",vvv.bg Live(youtube tv)
+#EXTINF:-1 tvg-id="" tvg-name="vvv.bg" tvg-logo="" group-title="BULGARIA",vvv.bg Live(youtube tv)
 https://www.youtube.com/watch?v=Vk5bSUDUwco
 
 
 
 
-#EXTINF:-1 tvg-id="Soyuz.ru@SD" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="RUSSIAN",Союз (576p)
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="RUSSIAN",Союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="Spas.ru@SD" tvg-logo="https://i.imgur.com/yY39nMg.png" group-title="RUSSIAN",Spas (576p)
+#EXTINF:-1 tvg-id="Spas.ru" tvg-logo="https://i.imgur.com/yY39nMg.png" group-title="RUSSIAN",Spas (576p)
 https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-id="HopeChannelRussia.ru@SD" tvg-logo="https://i.imgur.com/ah6VnFJ.png" group-title="RUSSIAN",Надежда (720p)
+#EXTINF:-1 tvg-id="Hope.Channel.Russia.ru" tvg-logo="https://i.imgur.com/ah6VnFJ.png" group-title="RUSSIAN",Надежда (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Vera24.ru@SD" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="RUSSIAN",Вера 24
+#EXTINF:-1 tvg-id="Vera.24.ru" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="RUSSIAN",Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNRussia.ru@SD" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="RUSSIAN",Три Ангела (720p)
+#EXTINF:-1 tvg-id="3ABN.Russia.ru" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="RUSSIAN",Три Ангела (720p)
 https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1 tvg-id="3ABNRussia.ru@SD" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="RUSSIAN",Три Ангела (720p)
+#EXTINF:-1 tvg-id="3ABN.Russia.ru" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="RUSSIAN",Три Ангела (720p)
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUSSIAN",Bog Blag TV
+#EXTINF:-1 tvg-id="" tvg-name="Bog Blag" tvg-logo="" group-title="RUSSIAN",Bog Blag TV
 http://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUSSIAN",GNC TV
+#EXTINF:-1 tvg-id="" tvg-name="GNC" tvg-logo="" group-title="RUSSIAN",GNC TV
 https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUSSIAN",Impact TV Network
+#EXTINF:-1 tvg-id="" tvg-name="Impact" tvg-logo="" group-title="RUSSIAN",Impact TV Network
 http://glorystartv.live/Impact/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUSSIAN",TBN Russia
+#EXTINF:-1 tvg-id="" tvg-name="Life TV Estonia" tv-logo="" group-title="RUSSIAN",Life TV Estonia
+http://lifetv.bitflip.ee/live/stream2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Life TV Europe" tv-logo="" group-title="RUSSIAN",Life TV Europe
+http://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBN Russia" tvg-logo="" group-title="RUSSIAN",TBN Russia
 https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TBNBaltia.ee@SD" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="RUSSIAN",TBN Baltia (1080p)
+#EXTINF:-1 tvg-id="TBN.Baltia.ee" tvg-name="TBN Baltia" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="RUSSIAN",TBN Baltia (1080p)
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUSSIAN",TV Blagaya Vest
+#EXTINF:-1 tvg-id="" tvg-name="TV Blagaya Vest" tvg-logo="" group-title="RUSSIAN",TV Blagaya Vest
 https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUSSIAN",TV MANA (RUS)
+#EXTINF:-1 tvg-id="" tvg-name="MANA " tvg-logo="" group-title="RUSSIAN",TV TV MANA (RUS)
 https://w1.manasat.com/tvmana-leste/tvmana-leste/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVManaRusskiy.pt@SD" tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="RUSSIAN",TV Maná Russkiy (1080p)
+#EXTINF:-1 tvg-id="TVManaRusskiy.pt" TVG-NAME="Maná" tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="RUSSIAN",TV Maná Russkiy (1080p)
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt@SD" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="RUSSIAN",Maná Tserkov' Onlayn (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt" TVG-NAME="Maná Tserkov" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="RUSSIAN",Maná Tserkov' Onlayn (1080p) [Not 24/7]
 https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
 
 
@@ -75,7 +79,7 @@ http://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 http://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Sublime Gracia" tvg-logo="https://i.ibb.co/q3tDtrby/image-64.png" group-title="christian music tv",Radio Sublime Gracia
 https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us@SD" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="christian music tv",3ABN Praise Him Music Network
+#EXTINF:-1 tvg-id="3ABN.Praise.Him.Music.us2" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="christian music tv",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOP MIX TV 2" tvg-logo="https://i.ibb.co/yBQgSMDd/image-26.png" group-title="christian music tv",TOP MIX TV 2
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist_w193935129.m3u8
@@ -123,10 +127,12 @@ https://www.youtube.com/watch?v=0uaZ30NEHLU
 
 
 
-#EXTINF:-1 tvg-id="3ABNKids.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="Kids",3ABN Kids Network
+#EXTINF:-1 tvg-id="3ABN.Kids.Network.us2" tvg-name="" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="Kids",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DiosTeVeKids.hn@SD" tvg-name="" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Kids",Dios Te Ve Kids (720p)
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-id="DiosTeVeKids.hn@SD" tvg-name="" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Kids",Dios Te Ve Kids (720p)
+http://s.emisoras.tv:8080/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-name="" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids",God Stands Kids Club TV Arabic
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-name="" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids",God Stands Kids Club TV Chinese
@@ -137,6 +143,8 @@ https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
 #EXTINF:-1 tvg-id="GospelCartoon.br@SD" tvg-name="" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Kids",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Extrema Kids" tv-logo="" group-title="Kids",Extrema Kids
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist.m3u8
 #EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Kids",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PenielKY.gt@SD" tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="Kids",Peniel Kids & Young (480p)
@@ -168,6 +176,10 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BenieTV.ci@SD" tvg-name="" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="French",Benie TV (720p)
 https://tv.voozmedia.fun/benietv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIEU TV" tv-logo="" group-title="French",DIEU TV  
+http://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTO TV" tv-logo="" group-title="French",KTO TV   (catholic)
+https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
 #EXTINF:-1 tvg-id="MiracleTVPlus.ci@SD" tvg-logo="https://i.imgur.com/AQ60OYO.png" group-title="French",Miracle TV+ (720p)
 https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="LMTVFrench.ci@SD" tvg-logo="https://i.imgur.com/FVnq2cQ.png" group-title="French",LMTV French (720p) [Not 24/7]
@@ -188,8 +200,10 @@ https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
 https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLouange.ht@SD" tvg-logo="https://i.imgur.com/DjnMUuL.png" group-title="French",Tele Louange (1080p)
 https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
-#EXTINF:-1 tvg-id="TVFamille.mq@SD" tvg-logo="https://i.imgur.com/Kbfihk5.png" group-title="French",TV Famille (720p)
+#EXTINF:-1 tvg-id="TVFamille.mq" tvg-logo="https://i.imgur.com/Kbfihk5.png" group-title="French",TV Famille (720p)
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Famille" tv-logo="https://i.imgur.com/Kbfihk5.png" group-title="French",TV Famille
+http://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 
 
 
@@ -207,7 +221,8 @@ https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="EWTNPoland.pl@SD" tvg-name="" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="Poland",EWTN Poland (catolic)
+
+#EXTINF:-1 tvg-id="EWTN.pl" tvg-name="" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="Poland",EWTN Poland (catolic)
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 
 
@@ -216,6 +231,9 @@ https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EWTNUkraine.ua@SD" tvg-name="" tvg-logo="" group-title="Ukraina",EWTN Ukraine (catolic)
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBN Ukraina" tv-logo="" group-title="Ukraina",TBN Ukraina
+https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+
 
 
 
@@ -268,15 +286,15 @@ https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 tvg-id="BetterLifeTV.us@SD" tvg-logo="https://i.imgur.com/OWI7Y0l.png" group-title="English",Better Life TV (720p)
 https://tgn.bozztv.com/betterlife/betterlife/betterlife/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNCanada.ca@SD" tvg-name="" tvg-logo="https://i.imgur.com/U99CsEc.png" group-title="English",3ABN Canada (720p)
+#EXTINF:-1 tvg-id="3ABN.Canada.Network.ca2" tvg-name="" tvg-logo="https://i.imgur.com/U99CsEc.png" group-title="English",3ABN Canada (720p)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-#EXTINF:-1 tvg-id="DareToDreamNetwork.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/oNUpXA9.png" group-title="English",3ABN Dare To Dream Network
+#EXTINF:-1 tvg-id="3ABN.Dare.to.Dream.Network.us2" tvg-name="" tvg-logo="https://i.imgur.com/oNUpXA9.png" group-title="English",3ABN Dare To Dream Network
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNEnglish.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="English",3ABN English
+#EXTINF:-1 tvg-id="3ABN.us2" tvg-name="" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="English",3ABN English
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNInternational.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/IecOZHR.png" group-title="English",3ABN International Network
+#EXTINF:-1 tvg-id="3ABN.International.Network.us2" tvg-name="" tvg-logo="https://i.imgur.com/IecOZHR.png" group-title="English",3ABN International Network
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/zUMUNhe.png" group-title="English",3ABN Proclaim! Network
+#EXTINF:-1 tvg-id="3ABN.Proclaim.Network.us2" tvg-name="" tvg-logo="https://i.imgur.com/zUMUNhe.png" group-title="English",3ABN Proclaim! Network
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNAfrica.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/SLrX8Ef.png" group-title="English",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
@@ -286,13 +304,15 @@ https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca@SD" tvg-name="" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="English",Amazing Discoveries TV (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English,Amazing Facts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Amazing Facts
 http://glorystarplus.tv/AmazingFactsCanada/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ArkTV.ug@SD" tvg-name="" tvg-logo="https://i.imgur.com/yCHNZXD.png" group-title="English",Ark TV (1080p) [Not 24/7]
 https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bible TV" tv-logo="" group-title="English",Bible TV
+http://account33.livebox.co.in/bibletvhls/live.m3u8
 #EXTINF:-1 tvg-id="CatholicTV.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="English",Catholic TV (1080p)
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
-#EXTINF:-1 tvg-id="CatholicFaithNetwork.us@SD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="English",CFN Catholic Faith Network (720p)
+#EXTINF:-1 tvg-id="CFN.CATHOLIC.FAITH.NETWORK.us2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="English",CFN Catholic Faith Network (720p)
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNFamily.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/wDPkKT1.png" group-title="English",CBN Family (1080p)
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
@@ -302,8 +322,14 @@ https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/61eV77C.png" group-title="English",Christian Youth Channel (CYC) (1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DaystarTV.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="English",Daystar TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="Cornestone TV" tv-logo="English" group-title="English",Cornestone TV
+https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="Daystar.us" tvg-name="English",Daystar TV" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="English",Daystar TV (1080p)
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Divine TV UK" tv-logo="" group-title="English",Divine TV UK  (catolic)
+https://playout6multirtmp.tulix.tv/live6/Stream1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Divine TV USA" tv-logo="" group-title="English",Divine TV USA  (catolic)
+https://playout7multirtmp.tulix.tv/live21/Stream1/chunklist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@Europe" tvg-name="" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="English",EWTN Europe (catolic)
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@Canada" tvg-name="" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="English",EWTN Canada (catolic)
@@ -312,23 +338,25 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@AsiaPacific" tvg-name="" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="English",EWTN Asia-Pacific (catolic)
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FaithTV.za@SD" tvg-name="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="English",Faith TV (576p)
+#EXTINF:-1 tvg-id="FAITH.za" tvg-name="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="English",Faith TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FaithWorldTV.uk@SD" tvg-name="" tvg-logo="https://i.imgur.com/RLHRjQ3.png" group-title="English",Faith World TV (1080p)
+#EXTINF:-1 tvg-id="Faith.World.TV.uk" tvg-name="" tvg-logo="https://i.imgur.com/RLHRjQ3.png" group-title="English",Faith World TV (1080p)
 https://faithworldtv.abs.tv/1826926230/index.m3u8
+#EXTINF:-1 tvg-id="Firstlight.nz" tvg-name="Firstlight TV" tv-logo="" group-title="English",Firstlight TV
+http://uni01rtmp.tulix.tv:1935/firstlight/firstlight.smil/chunklist_b900000_slen.m3u8
 #EXTINF:-1 tvg-id="GCNAmerica.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/DWSWrtV.png" group-title="English",Global Christian Network America (GCN) (720p)
 http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GNNTV.jm@SD" tvg-name="" tvg-logo="https://i.imgur.com/itetPKw.png" group-title="English",GNN TV (1080p)
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8
 #EXTINF:-1 tvg-id="GodStandsTV.pk@English" tvg-name="" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="English",God Stands TV English
 https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
-#EXTINF:-1 tvg-id="GODTV.uk@SD" tvg-name="" tvg-logo="https://i.imgur.com/hW4g2oe.png" group-title="English",GOD TV (396p)
+#EXTINF:-1 tvg-id="GOD.TV.us2" tvg-name="" tvg-logo="https://i.imgur.com/hW4g2oe.png" group-title="English",GOD TV (396p)
 https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
 #EXTINF:-1 tvg-id="KPCBDT171.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/w1bK8YN.png" group-title="English",God's Learning Channel (480p)
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodLife45.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/AQfVNMK.png" group-title="English",GoodLife 45 (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
-#EXTINF:-1 tvg-id="GoodNewsTV.in@SD" tvg-name="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png" group-title="English",GoodNews TV (720p)
+#EXTINF:-1 tvg-id="GoodNews.Channel.in" tvg-name="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png" group-title="English",GoodNews TV (720p)
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNTV.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/DsFyyHy.png" group-title="English",Gospel Broadcasting Network (GBN) (1080p)
 https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
@@ -364,12 +392,16 @@ https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="LoveWorldUK.ng@SD" tvg-logo="https://i.imgur.com/JgHbDmF.png" group-title="English",Loveworld UK (1080p) [Not 24/7]
 https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love World Pacifics" tv-logo="" group-title="English",Love World Pacifics
+http://go5lm6a6dawb-hls-live.5centscdn.com/6731_push_2488_001/bfbb1582812b8f8194c755a88c3abe9e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveWorldUSA.ng@SD" tvg-logo="" group-title="English",LoveWorld USA (720p)
 https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="English",LoveworldSAT (1080p)
 https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
 #EXTINF:-1 tvg-id="MiracleTV.uk@SD" tvg-logo="https://i.imgur.com/pTn8Vc3.png" group-title="English",Miracle TV (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Miracle Channel" tv-logo="" group-title="English",Miracle Channel
+https://video.corcoplus.com/mclive/_definst_/smil:miraclechannel.smil/chunklist_w750013684_b3328000_sleng.m3u8
 #EXTINF:-1 tvg-id="MyGospelTV.fr@SD" tvg-logo="https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png" group-title="English",My Gospel TV
 https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
 #EXTINF:-1 tvg-id="ManaChurchOnline.pt@SD" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="English",Maná Church Online (1080p) [Not 24/7]
@@ -412,6 +444,8 @@ https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TBNInspire.us@SD" tvg-logo="https://i.imgur.com/GSM0Pkr.png" group-title="English",TBN Inspire (1080p)
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tv-logo="" group-title="English",TBN Nejat
+https://hls.nejat.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVManaEnglish.pt@SD" tvg-logo="https://i.imgur.com/I66IkCw.png" group-title="English",TV Maná English (1080p)
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TLNMediaChicago.us@SD" tvg-logo="" group-title="English",TLN Media Chicago (720p)
@@ -438,12 +472,33 @@ https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Taevas.TV7.est." tvg-name="Taevas TV7" tv-logo="" group-title="Estonia",Taevas TV7 (EST)
+http://vod.tv7.fi:1935/tv7-ee/tv7-ee.stream_720p/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="HimlenTV7.fi@SD" tvg-name="" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="Sweden",Himlen TV7 (720p)
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Taivas TV7" tv-logo="" group-title="Finland",Taivas TV7 (FIN)
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="HimlenTV7.fi@SD" tvg-name="" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="Sweden",Himlen TV7 (720p)se
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HimlenTV7.fi@SD" tvg-name="" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="Sweden",Himlen TV7 (720p)se
+http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
+
 
 
 
@@ -516,7 +571,7 @@ https://stream.sstv.ge/live/sstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino",Better Vida Mejor
 https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8
-#EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="Latino",3ABN Latino
+#EXTINF:-1 tvg-id="3ABN.Latino.Network.us2" tvg-name="" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="Latino",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD" tvg-name="" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="Latino",Amigos TV Chiquimula (480p)
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
@@ -572,6 +627,8 @@ https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="DiosTeVe.hn@SD" tvg-name="" tvg-logo="https://i.imgur.com/7hNwUV2.png" group-title="Latino",Dios Te Ve (720p)
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-id="DiosTeVe.hn@SD" tvg-name="" tvg-logo="https://i.imgur.com/7hNwUV2.png" group-title="Latino",Dios Te Ve (720p)
+http://s.emisoras.tv:8080/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DiosTvTalanga.hn@SD" tvg-name="" tvg-logo="https://i.ibb.co/mb8F7R1/Db52f621d30793337de1cdcfc4f02be1.png" group-title="Latino",Dios Tv Talanga (1080p)
 https://tv.webmedialive.com/unciontv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EbenezerTV.hn@SD" tvg-name="" tvg-logo="https://i.imgur.com/IC30j61.png" group-title="Latino",Ebenezer TV (1080p)
@@ -588,6 +645,8 @@ https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr@SD" tvg-name="" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Latino",Extrema TV (720p)
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ExtremaTV.cr@SD" tvg-name="" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Latino",Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@SpainLatinAmerica" tvg-name="" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Latino",EWTN Spain & Latin America (catolic)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEspana.es@SD" tvg-name="" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Latino",EWTN Espana(catolic)
@@ -736,6 +795,9 @@ https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunkl
 https://video03.logicahost.com.br/gospeltv/gospeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino",Apocalipsis Network TV (ispan)
 https://livetv.305streamhd.com:3394/live/tvapocalipsisnetworklive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red ADvenir" tv-logo="Latino" group-title="",Red ADvenir
+https://streamer1.streamhost.org/salive/GMIredadvenirm/playlist.m3u8
+
 
 
 
