@@ -1114,6 +1114,56 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt8F1yyihZx44K26l-qZlMvs/ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03n
 
+#EXTINF:-1 tvg-id="HBO.bg" tvg-name="HBO HD bg" tvg-logo="" group-title="BG🇧🇬/TV test",HBO HD bg
+https://shift03.isp.bg/HBO2_HD/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Comedy.bg" tvg-name="HBO 2 HD bg" tvg-logo="" group-title="BG🇧🇬/TV test",HBO 2 HD bg
+https://shift03.isp.bg/HBO2_HD/index.m3u8
+#EXTINF:-1 tvg-id="HBO.3.bg" tvg-name="HBO 3 HD bg" tvg-logo="" group-title="BG🇧🇬/TV test",HBO 3 HD bg
+https://shift03.isp.bg/HBO3_HD/index.m3u8
+#EXTINF:-1 tvg-id="Нова.телевизия.bg" tvg-name="NOVA" tvg-logo="" group-title="BG🇧🇬/TV test",NOVA
+https://shift03.isp.bg/Nova_HD/index.m3u8
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV HD" tvg-logo="" group-title="BG🇧🇬/TV test",bTV HD
+https://shift03.isp.bg/bTV_HD/index.m3u8
+#EXTINF:-1 tvg-id="bTV.Action.bg" tvg-name="bTV Action HD" tvg-logo="" group-title="BG🇧🇬/TV test",bTV Action HD
+http://shift03.isp.bg/bTVAction_HD/index.m3u8
+#EXTINF:-1 tvg-id="MovieSTAR.bg" tvg-name="MovieStar HD" tvg-logo="" group-title="BG🇧🇬/TV test",MovieStar HD
+https://shift03.isp.bg/MovieStar/index.m3u8
+#EXTINF:-1 tvg-id="AMC.bg" tvg-name="AMC" tvg-logo="" group-title="BG🇧🇬/TV test",AMC
+https://shift03.isp.bg/amc/index.m3u8
+#EXTINF:-1 tvg-id="AXN.bg" tvg-name="AXN" tvg-logo="" group-title="BG🇧🇬/TV test",AXN
+https://shift03.isp.bg/Axn/index.m3u8
+#EXTINF:-1 tvg-id="Диема.b" tvg-name="Diema HD" tvg-logo="" group-title="BG🇧🇬/TV test",Diema HD
+https://shift03.isp.bg/Diema/index.m3u8
+#EXTINF:-1 tvg-id="Диема.Фемили.bg" tvg-name="Diema Family" tvg-logo="" group-title="BG🇧🇬/TV test",Diema Family
+https://shift03.isp.bg/DiemaFamily/index.m3u8
+#EXTINF:-1 tvg-id="Epic.Drama.bg" tvg-name="Epic Drama HD" tvg-logo="" group-title="BG🇧🇬/TV test",Epic Drama HD
+https://shift03.isp.bg/EpicDrama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MagicTV HD" tvg-logo="" group-title="BG🇧🇬/TV test",MagicTV HD
+https://shift03.isp.bg/MagicTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RodinaTV HD" tvg-logo="" group-title="BG🇧🇬/TV test",RodinaTV HD
+https://shift03.isp.bg/RodinaTV/index.m3u8
+#EXTINF:-1 tvg-id="Планета.HD.bg" tvg-name="Planeta HD" tvg-logo="" group-title="BG🇧🇬/TV test",Planeta HD
+https://shift03.isp.bg/Planeta_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bulgaria 24" tvg-logo="" group-title="BG🇧🇬/TV test",Bulgaria 24
+http://shift03.isp.bg/Bulgaria24/index.m3u8
+#EXTINF:-1 tvg-id="HG.TV.bg" tvg-name="HGTV HD bg" tvg-logo="" group-title="BG🇧🇬/TV test",HGTV HD bg
+https://shift03.isp.bg/HGTV_HD/index.m3u8
+#EXTINF:-1 tvg-id="Viasat.History.bg" tvg-name="Viasat History HD bg" tvg-logo="" group-title="BG🇧🇬/TV test",Viasat History HD bg
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+#EXTINF:-1 tvg-id="Viasat.Explorer.bg" tvg-name="Viasat Explorer HD bg" tvg-logo="" group-title="BG🇧🇬/TV test",Viasat Explorer HD bg
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 tvg-id="Viasat.Nature.bg" tvg-name="Viasat Nature HD bg" tvg-logo="" group-title="BG🇧🇬/TV test",Viasat Nature HD bg
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.Channel.bg" tvg-name="NatGeo HD bg" tvg-logo="" group-title="BG🇧🇬/TV test",NatGeo HD bg
+https://shift03.isp.bg/NatGeo_HD/index.m3u8
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.bg" tvg-name="NatGeo HD bg" tvg-logo="" group-title="BG🇧🇬/TV test",NatGeo HD bg
+https://shift03.isp.bg/NatGeoWild_HD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.bg" tvg-name="Discovery HD" tvg-logo="" group-title="BG🇧🇬/TV test",Discovery HD
+https://shift03.isp.bg/Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.bg" tvg-name="ID HD bg" tvg-logo="" group-title="BG🇧🇬/TV test",ID HD bg
+https://shift03.isp.bg/ID_HD/index.m3u8
+
+
 
 
 
