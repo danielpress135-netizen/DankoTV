@@ -3760,7 +3760,10 @@ http://stream.laut.fm/primetime
 
 
 #EXTINF:-1 group-title="Music🎵📻/Radio-Mix+", Exclusive Radio - Madonna
-https://streaming.exclusive.radio/er/madonna/icecast.audio 
+https://streaming.exclusive.radio/er/madonna/icecast.audio
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d48662c7b190a9462bbc2737b863e07c.png", Золотая Коллекция - Modern Talking
+https://pub0202.101.ru:8443/stream/pro/aac/64/115
+ 
 
 
 
