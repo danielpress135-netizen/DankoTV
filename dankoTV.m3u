@@ -1646,9 +1646,9 @@ http://51.75.147.7:19310/stream/1/
 http://91.228.254.120:8000/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403671036.png" group-title="Ex-Yu/Radio", RADIO LJUBAV JAGODINA HQ - 128 kbit/s
 http://ljubav128.streaming.rs:9360/
-#EXTINF:-1 group-title="Ex-Yu/Radio",tvg-id="RadioS.rs",Radio S
+#EXTINF:-1 group-title="Ex-Yu/Radio" tvg-id="RadioS.rs",Radio S
 https://myradiostanice.rs/ldblncr/radio-s1/radio-s1#.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Radio",tvg-id="RadioSNarodni.rs",Radio S Narodni
+#EXTINF:-1 group-title="Ex-Yu/Radio" tvg-id="RadioSNarodni.rs",Radio S Narodni
 https://539745e629986.streamlock.net/asmedia/radio_s_kafana/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S1
 https://53a7ed211fc32.streamlock.net/asmedia/radios/chunklist.m3u8
@@ -2906,7 +2906,7 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-name="Alterna TV" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Mix",Alterna TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-name="Alterna TV" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="MIX",Alterna TV (720p) [Not 24/7]
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="NOW.US.de" tvg-name="NOW TV" tvg-logo="" group-title="MIX",NOW TV
 https://nowhls.wns.live/hls/stream.m3u8
@@ -3066,130 +3066,130 @@ https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Stingray.Classic.Rock.ca2" tvg-name="Stingray Classic Rock" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="MUSIC/RADIO+",Stingray Classic Rock (1080p)
+#EXTINF:-1 tvg-id="Stingray.Classic.Rock.ca2" tvg-name="Stingray Classic Rock" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="MUSIC🎵📻/RADIO+",Stingray Classic Rock (1080p)
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Country Greats" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Country Greats
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Country Greats" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Country Greats
 https://lotus.stingray.com/manifest/ose-109ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Cristian Pop & Rock" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Cristian Pop & Rock
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Cristian Pop & Rock" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Cristian Pop & Rock
 https://lotus.stingray.com/manifest/ose-144ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Easy.Listening.ca2" tvg-name="Stingray Easy Listening" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="MUSIC/RADIO+",Stingray Easy Listening (1080p)
+#EXTINF:-1 tvg-id="Stingray.Easy.Listening.ca2" tvg-name="Stingray Easy Listening" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="MUSIC🎵📻/RADIO+",Stingray Easy Listening (1080p)
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Época Dorada Delcine Mexicano" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Época Dorada Delcine Mexicano
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Época Dorada Delcine Mexicano" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Época Dorada Delcine Mexicano
 https://lotus.stingray.com/manifest/ose-219ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEuroHits.ca@SD" tvg-name="Stingray Euro Hits" tvg-logo="https://i.imgur.com/FyhO9U5.png" group-title="MUSIC/RADIO+",Stingray Euro Hits (1080p)
+#EXTINF:-1 tvg-id="StingrayEuroHits.ca@SD" tvg-name="Stingray Euro Hits" tvg-logo="https://i.imgur.com/FyhO9U5.png" group-title="MUSIC🎵📻/RADIO+",Stingray Euro Hits (1080p)
 https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Exitos Regional Mexicanos" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Exitos Regional Mexicanos
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Exitos Regional Mexicanos" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Exitos Regional Mexicanos
 https://lotus.stingray.com/manifest/ose-226ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayExitosdelMomento.ca@SD" tvg-name="Stingray Éxitos del Momento" tvg-logo="https://i.imgur.com/wiasHUR.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="MUSIC/RADIO+",Stingray Éxitos del Momento (1080p)
+#EXTINF:-1 tvg-id="StingrayExitosdelMomento.ca@SD" tvg-name="Stingray Éxitos del Momento" tvg-logo="https://i.imgur.com/wiasHUR.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="MUSIC🎵📻/RADIO+",Stingray Éxitos del Momento (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi
-#EXTINF:-1 tvg-id="Stingray.Flashback.’70s.ca2" tvg-name="Stingray Flashback 70s" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="MUSIC/RADIO+",Stingray Flashback 70s (1080p)
+#EXTINF:-1 tvg-id="Stingray.Flashback.’70s.ca2" tvg-name="Stingray Flashback 70s" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="MUSIC🎵📻/RADIO+",Stingray Flashback 70s (1080p)
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="DE:.Stingray.Greatest.Hits.be" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="MUSIC/RADIO+",Stingray Greatest Hits (1080p)
+#EXTINF:-1 tvg-id="DE:.Stingray.Greatest.Hits.be" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Stingray Greatest Hits (1080p)
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Hip-Hop/R&B.ca2" tvg-name="Stingray HipHop and RnB" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="MUSIC/RADIO+",Stingray HipHop and RnB (1080p)
+#EXTINF:-1 tvg-id="Stingray.Hip-Hop/R&B.ca2" tvg-name="Stingray HipHop and RnB" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="MUSIC🎵📻/RADIO+",Stingray HipHop and RnB (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hiphop-and-rnb/master.m3u8?ads.vf=KhFGU34ixdi
-#EXTINF:-1 tvg-id="Stingray.Hit.List.ca2" tvg-name="Stingray Hit List" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="MUSIC/RADIO+",Stingray Hit List (1080p)
+#EXTINF:-1 tvg-id="Stingray.Hit.List.ca2" tvg-name="Stingray Hit List" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="MUSIC🎵📻/RADIO+",Stingray Hit List (1080p)
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="PL:.Stingray:.Hitlist.be" tvg-name="Stingray Hit list" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="MUSIC/RADIO+",Stingray Hit list (1080p)
+#EXTINF:-1 tvg-id="PL:.Stingray:.Hitlist.be" tvg-name="Stingray Hit list" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="MUSIC🎵📻/RADIO+",Stingray Hit list (1080p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hits Brasiletros" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Hits Brasiletros
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hits Brasiletros" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Hits Brasiletros
 https://lotus.stingray.com/manifest/ose-212ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Holiday Hits
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Hot.Country.ca2" tvg-name="Stingray Hot Country" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="MUSIC/RADIO+",Stingray Hot Country (1080p)
+#EXTINF:-1 tvg-id="Stingray.Hot.Country.ca2" tvg-name="Stingray Hot Country" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="MUSIC🎵📻/RADIO+",Stingray Hot Country (1080p)
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Jukebox.Oldies.ca2" tvg-name="Stingray Jukebox Oldies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="MUSIC/RADIO+",Stingray Jukebox Oldies (1080p)
+#EXTINF:-1 tvg-id="Stingray.Jukebox.Oldies.ca2" tvg-name="Stingray Jukebox Oldies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="MUSIC🎵📻/RADIO+",Stingray Jukebox Oldies (1080p)
 https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray MPB" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray MPB
+#EXTINF:-1 tvg-id="" tvg-name="Stingray MPB" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray MPB
 https://lotus.stingray.com/manifest/ose-204ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Nothin’.but.’90s.ca2" tvg-name="Stingray Nothin' But 90s" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="MUSIC/RADIO+",Stingray Nothin' But 90s (1080p)
+#EXTINF:-1 tvg-id="Stingray.Nothin’.but.’90s.ca2" tvg-name="Stingray Nothin' But 90s" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="MUSIC🎵📻/RADIO+",Stingray Nothin' But 90s (1080p)
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Pop.Adult.ca2" tvg-name="Stingray Pop Adult" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="MUSIC/RADIO+",Stingray Pop Adult (1080p)
+#EXTINF:-1 tvg-id="Stingray.Pop.Adult.ca2" tvg-name="Stingray Pop Adult" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="MUSIC🎵📻/RADIO+",Stingray Pop Adult (1080p)
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Mexicano 80S" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Pop Mexicano 80S
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Mexicano 80S" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Pop Mexicano 80S
 https://lotus.stingray.com/manifest/ose-218ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Reggaeton" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Reggaeton
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Reggaeton" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Reggaeton
 https://lotus.stingray.com/manifest/ose-176ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Remember.the.’80s.ca2" tvg-name="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="MUSIC/RADIO+",Stingray Remember the 80s (1080p)
+#EXTINF:-1 tvg-id="Stingray.Remember.the.’80s.ca2" tvg-name="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="MUSIC🎵📻/RADIO+",Stingray Remember the 80s (1080p)
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca@Poland" tvg-name="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="MUSIC/RADIO+",Stingray Remember the 80s (1080p)
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca@Poland" tvg-name="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="MUSIC🎵📻/RADIO+",Stingray Remember the 80s (1080p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071
-#EXTINF:-1 tvg-id="StingrayRockAlternative.ca@SD" tvg-name="Stingray Rock Alternative" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="MUSIC/RADIO+",Stingray Rock Alternative (1080p)
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca@SD" tvg-name="Stingray Rock Alternative" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="MUSIC🎵📻/RADIO+",Stingray Rock Alternative (1080p)
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD" tvg-name="Stingray Romance Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="MUSIC/RADIO+",Stingray Romance Latino (1080p)
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD" tvg-name="Stingray Romance Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="MUSIC🎵📻/RADIO+",Stingray Romance Latino (1080p)
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Soft Hits" tvg-logo="" group-title="MUSIC/RADIO+",Stingray Soft Hits (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Soft Hits" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Stingray Soft Hits (1080p)
 https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Smooth.Jazz.ca2" tvg-name="Stingray Smooth Jazz" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="MUSIC/RADIO+",Stingray Smooth Jazz (1080p)
+#EXTINF:-1 tvg-id="Stingray.Smooth.Jazz.ca2" tvg-name="Stingray Smooth Jazz" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="MUSIC🎵📻/RADIO+",Stingray Smooth Jazz (1080p)
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca@SD" tvg-name="Stingray Soul Storm" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="MUSIC/RADIO+",Stingray Soul Storm (1080p)
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca@SD" tvg-name="Stingray Soul Storm" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="MUSIC🎵📻/RADIO+",Stingray Soul Storm (1080p)
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Thai Pop" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Thai Pop
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Thai Pop" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Thai Pop
 https://lotus.stingray.com/manifest/ose-314ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.The.Spa.ca2" tvg-name="Stingray The Spa" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="MUSIC/RADIO+",Stingray The Spa (1080p)
+#EXTINF:-1 tvg-id="Stingray.The.Spa.ca2" tvg-name="Stingray The Spa" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="MUSIC🎵📻/RADIO+",Stingray The Spa (1080p)
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="TikTok.Radio.on.Stingray.ca" tvg-name="Stingray Tik Tok Radio" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Tik Tok Radio
+#EXTINF:-1 tvg-id="TikTok.Radio.on.Stingray.ca" tvg-name="Stingray Tik Tok Radio" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Tik Tok Radio
 https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD" tvg-name="Stingray Today's KPOP" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="MUSIC/RADIO+",Stingray Today's KPOP (1080p)
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD" tvg-name="Stingray Today's KPOP" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="MUSIC🎵📻/RADIO+",Stingray Today's KPOP (1080p)
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC/RADIO+",Stingray Today's Latin Pop (1080p)
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC🎵📻/RADIO+",Stingray Today's Latin Pop (1080p)
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@SD" tvg-name="Stingray Urban Beat" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC/RADIO+",Stingray Urban Beat (1080p)
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@SD" tvg-name="Stingray Urban Beat" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC🎵📻/RADIO+",Stingray Urban Beat (1080p)
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Y2K" tvg-logo="" group-title="MUSIC/RADIO+" ,Stingray Y2K
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Y2K" tvg-logo="" group-title="MUSIC🎵📻/RADIO+" ,Stingray Y2K
 https://lotus.stingray.com/manifest/ose-232ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Record Супердискотека 90х" tvg-logo="" group-title="MUSIC/RADIO+",Record Супердискотека 90х
+#EXTINF:-1 tvg-id="" tvg-name="Record Супердискотека 90х" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Супердискотека 90х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=Bb6s3gvqYj1P6gxMTEU5FA&e=2083666557&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Big Hits" tvg-logo="" group-title="MUSIC/RADIO+",Record Big Hits
+#EXTINF:-1 tvg-id="" tvg-name="Record Big Hits" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Big Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=QaIXjM-lRhVbDpeRIM-ctw&e=2083666558&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Rock" tvg-logo="" group-title="MUSIC/RADIO+",Record Rock
+#EXTINF:-1 tvg-id="" tvg-name="Record Rock" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=AQrMjQ8tr10gUQKx33x4gw&e=2083666558&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Dance Radio" tvg-logo="" group-title="MUSIC/RADIO+",Record Dance Radio
+#EXTINF:-1 tvg-id="" tvg-name="Record Dance Radio" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Dance Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=ycal5iprUnQqrVrCPm2vsQ&e=2083666559&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Russian Hits" tvg-logo="" group-title="MUSIC/RADIO+",Record Russian Hits
+#EXTINF:-1 tvg-id="" tvg-name="Record Russian Hits" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Russian Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=ho4jqg2Wor6NYzac8Jb4Bg&e=2083666560&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Гоп FM" tvg-logo="" group-title="MUSIC/RADIO+",Record Гоп FM
+#EXTINF:-1 tvg-id="" tvg-name="Record Гоп FM" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Гоп FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=rK6FS824boiz2QQkxHWVXQ&e=2083666560&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Megamix" tvg-logo="" group-title="MUSIC/RADIO+",Record Megamix
+#EXTINF:-1 tvg-id="" tvg-name="Record Megamix" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Megamix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=nv9Ou8YsYjPADHUwJKd4Gg&e=2083666561&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Russian Mix" tvg-logo="" group-title="MUSIC/RADIO+",Record Russian Mix
+#EXTINF:-1 tvg-id="" tvg-name="Record Russian Mix" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Russian Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=QZtPeE538X7l3HYntvfxpg&e=2083666561&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Deep" tvg-logo="" group-title="MUSIC/RADIO+",Record Deep
+#EXTINF:-1 tvg-id="" tvg-name="Record Deep" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Deep
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=X0uZEcjBj7gK2wLXVL8tKA&e=2083666562&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Phonk" tvg-logo="" group-title="MUSIC/RADIO+",Record Phonk
+#EXTINF:-1 tvg-id="" tvg-name="Record Phonk" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Phonk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=4U2xURasDU2A18do9R9wdw&e=2083666562&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Chill House" tvg-logo="" group-title="MUSIC/RADIO+",Record Chill House
+#EXTINF:-1 tvg-id="" tvg-name="Record Chill House" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Chill House
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=O_9M3U_4WkgOD8Uhi7-a9A&e=2083666562&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Drum n Bass" tvg-logo="" group-title="MUSIC/RADIO+",Record Drum n Bass
+#EXTINF:-1 tvg-id="" tvg-name="Record Drum n Bass" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Drum n Bass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=ofvdbq0_Y301p7S6Evj1Mg&e=2083666563&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Chill-Out" tvg-logo="" group-title="MUSIC/RADIO+",Record Chill-Out
+#EXTINF:-1 tvg-id="" tvg-name="Record Chill-Out" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Chill-Out
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=AUJ3cCcdnHJEh6y-23ClpQ&e=2083666563&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Techno by Innocence" tvg-logo="" group-title="MUSIC/RADIO+",Record Techno by Innocence
+#EXTINF:-1 tvg-id="" tvg-name="Record Techno by Innocence" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Techno by Innocence
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=oKsie7GPXl5jKP14Zy0C5A&e=2083666563&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Record Trance" tvg-logo="" group-title="MUSIC/RADIO+",Record Trance
+#EXTINF:-1 tvg-id="" tvg-name="Record Trance" tvg-logo="" group-title="MUSIC🎵📻/RADIO+",Record Trance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=yQeeZn4CcToHwC7uGYbUSQ&e=2083666565&scheme=https
-#EXTINF:-1 tvg-id="HitradioO3.at@SD" tvg-name="Hitradio O3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png" group-title="MUSIC/RADIO+",Hitradio O3 (720p)
+#EXTINF:-1 tvg-id="HitradioO3.at@SD" tvg-name="Hitradio O3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png" group-title="MUSIC🎵📻/RADIO+",Hitradio O3 (720p)
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
-#EXTINF:-1 tvg-id="RTLGold.lu@SD" tvg-name="RTL Gold" tvg-logo="https://i.imgur.com/LzHQoUv.png" group-title="MUSIC/RADIO+",RTL Gold (1080p)
+#EXTINF:-1 tvg-id="RTLGold.lu@SD" tvg-name="RTL Gold" tvg-logo="https://i.imgur.com/LzHQoUv.png" group-title="MUSIC🎵📻/RADIO+",RTL Gold (1080p)
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
-#EXTINF:-1 tvg-id="TodayRadio.lu@SD" tvg-name="RTL Today Radio" tvg-logo="https://i.imgur.com/O1c6wpt.png" group-title="MUSIC/RADIO+",RTL Today Radio (720p)
+#EXTINF:-1 tvg-id="TodayRadio.lu@SD" tvg-name="RTL Today Radio" tvg-logo="https://i.imgur.com/O1c6wpt.png" group-title="MUSIC🎵📻/RADIO+",RTL Today Radio (720p)
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 
 
@@ -3205,367 +3205,367 @@ https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Epic Rock Radio
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Epic Rock Radio
 https://securestreams6.autopo.st:2222/stream
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="../Channel/Logo/Comedy Radio.png",Radio A Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="../Channel/Logo/Comedy Radio.png",Radio A Rock
 https://icast.connectmedia.hu/5301/live.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Radio Antena Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Radio Antena Rock
 http://live.antenazagreb.hr:8019/stream
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Duo Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Duo Rock
 http://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Europe 2 Friday Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Europe 2 Friday Rock
 http://europe2.lmn.fm/vr-wr5.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio OUI FM Rock 70s
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio OUI FM Rock 70s
 http://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio OUI FM Rock 80s
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio OUI FM Rock 80s
 http://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio P6 Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio P6 Rock
 http://p6.p4groupaudio.com/P06_MH
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio RMF Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio RMF Rock
 http://rmfstream1.interia.pl:8000/rmf_rock
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne (DE)
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne (DE)
 http://mp3channels.webradio.antenne.de/rockantenne
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - 70er Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - 70er Rock
 http://mp3channels.webradio.antenne.de/70er-rock
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - 80er Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - 80er Rock
 http://mp3channels.webradio.antenne.de/80er-rock
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - 90er Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - 90er Rock
 http://mp3channels.webradio.antenne.de/90er-rock
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Biker Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Biker Rock
 http://mp3channels.webradio.antenne.de/biker-rock
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Deutsch Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Deutsch Rock
 http://mp3channels.webradio.antenne.de/deutschrock
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Heavy Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Heavy Metal
 http://mp3channels.webradio.antenne.de/heavy-metal
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Modern Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Modern Rock
 http://mp3channels.webradio.antenne.de/modern-rock
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Symphonic Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock Antenne - Symphonic Rock
 http://mp3channels.webradio.antenne.de/symphonic-rock
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock FM (LT)
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock FM (LT)
 http://stream2.rockfm.lt/crf128.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock FM (Эстония)
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock FM (Эстония)
 http://skymedia-live.bitflip.ee/rck
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock FM Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Rock FM Metal
 http://skymedia-live.bitflip.ee/rckmetal
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio ROKS
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio ROKS
 https://online.radioroks.ua/RadioROKS_HD
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Tangra Mega Rock (BG)
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Radio Tangra Mega Rock (BG)
 http://stream-03.radiotangra.com:8000/Tangra-high
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Радио Аплюс Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Радио Аплюс Rock
 http://s.aplus.fm:9000/aplus_rock_128
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Радио Пляж - Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Радио Пляж - Rock
 http://listen7.myradio24.com:9000/16454
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Радио Рок-Атака
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Радио Рок-Атака
 http://listen7.myradio24.com:9000/rockataka
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Супер Радио (Эстония) - Рок
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",Супер Радио (Эстония) - Рок
 http://skymedia-live.bitflip.ee/rrock
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",1 FM - High Voltage
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",1 FM - High Voltage
 http://strm112.1.fm/highvoltage_mobile_mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",1 FM - Blues
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",1 FM - Blues
 http://strm112.1.fm/blues_mobile_mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",1 FM - Americas Best Ballads
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png",1 FM - Americas Best Ballads
 http://strm112.1.fm/onelive_mobile_mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1436097296.png" group-title="MUSIC/RADIO🎸ROCK", RADIO 1 ROCK - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1436097296.png" group-title="MUSIC🎵📻/RADIO🎸ROCK", RADIO 1 ROCK - 128 kbit/s
 http://stream.radioreklama.bg/radio1rock64
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1537500305.jpg" group-title="MUSIC/RADIO🎸ROCK", HD Radio - Classic Rock - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1537500305.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", HD Radio - Classic Rock - 128 kbit/s
 http://rosetta.shoutca.st:8352/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1537503248.jpg" group-title="MUSIC/RADIO🎸ROCK", ROCK RADIO - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1537503248.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", ROCK RADIO - 128 kbit/s
 http://145.14.14.93:9034/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1550756704.jpg" group-title="MUSIC/RADIO🎸ROCK", Metal Express Radio - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1550756704.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Metal Express Radio - 192 kbit/s
 http://s39.myradiostream.com:11590/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537460974.jpg" group-title="MUSIC/RADIO🎸ROCK", NAXI ROCK RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 128k - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537460974.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", NAXI ROCK RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 128k - 128 kbit/s
 http://178.253.200.250:8180
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="MUSIC/RADIO🎸ROCK", Metal Rock Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Metal Rock Radio - 128 kbit/s
 https://kathy.torontocast.com:2800/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1550683668.jpg" group-title="MUSIC/RADIO🎸ROCK", RockRadio wersja ogolnopolska - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1550683668.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", RockRadio wersja ogolnopolska - 128 kbit/s
 http://poznan5-4.radio.pionier.net.pl:8000/tuba8-1.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1549788617.jpg" group-title="MUSIC/RADIO🎸ROCK", Rock Melodic Radio - AOR MELODIC ROCK HARD ROCK - 320 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1549788617.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Rock Melodic Radio - AOR MELODIC ROCK HARD ROCK - 320 kbit/s
 http://i4.streams.ovh:8124/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1436088486.png" group-title="MUSIC/RADIO🎸ROCK", Hard Rock Heaven - 80s Hard Rock, Hair Metal, Heavy Metal, Glam - www.hrhradio.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1436088486.png" group-title="MUSIC🎵📻/RADIO🎸ROCK", Hard Rock Heaven - 80s Hard Rock, Hair Metal, Heavy Metal, Glam - www.hrhradio.com - 128 kbit/s
 http://hydra.cdnstream.com:80/1521_128
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/83597.jpg" group-title="MUSIC/RADIO🎸ROCK", HD Radio - The Blues - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/83597.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", HD Radio - The Blues - 128 kbit/s
 http://rosetta.shoutca.st:8389/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/83597.jpg" group-title="MUSIC/RADIO🎸ROCK", Radio SWH ROCK - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/83597.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Radio SWH ROCK - 192 kbit/s
 http://80.232.162.149:8000/rock96mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1550056975.jpg" group-title="MUSIC/RADIO🎸ROCK", MetalRock.FM - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1550056975.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", MetalRock.FM - 128 kbit/s
 http://kathy.torontocast.com:2820/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1537439750.jpg" group-title="MUSIC/RADIO🎸ROCK", Nashe Radio - Sankt-Peterburg 104,0 FM - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1537439750.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Nashe Radio - Sankt-Peterburg 104,0 FM - 128 kbit/s
 http://nashe1.hostingradio.ru/nashespb128.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550064542.jpg" group-title="MUSIC/RADIO🎸ROCK", Austrian Rock Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550064542.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Austrian Rock Radio - 128 kbit/s
 http://live.antenne.at:80/arr
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1553221488.jpg" group-title="MUSIC/RADIO🎸ROCK", Rockserwis.fm - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1553221488.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Rockserwis.fm - 128 kbit/s
 http://radio.rockserwis.fm:80/live.aac
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="MUSIC/RADIO🎸ROCK", Rock The Blues - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="MUSIC🎵📻/RADIO🎸ROCK", Rock The Blues - 128 kbit/s
 http://stream.laut.fm/rock-the-blues
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1549470744.jpg" group-title="MUSIC/RADIO🎸ROCK", Rock Radio Best Ballads - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1549470744.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Rock Radio Best Ballads - 128 kbit/s
 http://145.14.14.93:9036/stream/1/
-#EXTINF:-1 tvg-name="1 FM - Classic Rock Replay" group-title="MUSIC/RADIO🎸ROCK", 1 FM - Classic Rock Replay
+#EXTINF:-1 tvg-name="1 FM - Classic Rock Replay" group-title="MUSIC🎵📻/RADIO🎸ROCK", 1 FM - Classic Rock Replay
 http://strm112.1.fm/crock_mobile_mp3
-#EXTINF:-1 tvg-name="181 FM Rock 181" group-title="MUSIC/RADIO🎸ROCK", 181 FM Rock 181
+#EXTINF:-1 tvg-name="181 FM Rock 181" group-title="MUSIC🎵📻/RADIO🎸ROCK", 181 FM Rock 181
 http://listen.livestreamingservice.com/181-rock_128k.mp3
-#EXTINF:-1 tvg-name="181 FM Rock 40 (RnRoll)" group-title="MUSIC/RADIO🎸ROCK", 181 FM Rock 40 (RnRoll)
+#EXTINF:-1 tvg-name="181 FM Rock 40 (RnRoll)" group-title="MUSIC🎵📻/RADIO🎸ROCK", 181 FM Rock 40 (RnRoll)
 http://listen.livestreamingservice.com/181-rock40_128k.mp3
-#EXTINF:-1 tvg-name="181 FM The Eagle (Classic Rock)" group-title="MUSIC/RADIO🎸ROCK", 181 FM The Eagle (Classic Rock)
+#EXTINF:-1 tvg-name="181 FM The Eagle (Classic Rock)" group-title="MUSIC🎵📻/RADIO🎸ROCK", 181 FM The Eagle (Classic Rock)
 http://listen.livestreamingservice.com/181-eagle_128k.mp3
-#EXTINF:-1 tvg-name="181 FM The Rock! (Hard Rock)" group-title="MUSIC/RADIO🎸ROCK", 181 FM The Rock! (Hard Rock)
+#EXTINF:-1 tvg-name="181 FM The Rock! (Hard Rock)" group-title="MUSIC🎵📻/RADIO🎸ROCK", 181 FM The Rock! (Hard Rock)
 http://listen.livestreamingservice.com/181-hardrock_128k.mp3
-#EXTINF:-1 tvg-name="Радио Fresh Rock" group-title="MUSIC/RADIO🎸ROCK", Радио Fresh Rock
+#EXTINF:-1 tvg-name="Радио Fresh Rock" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Fresh Rock
 http://stream.freshrock.net/320.mp3
-#EXTINF:-1 tvg-name="Радио Камчатка Live - Rock" group-title="MUSIC/RADIO🎸ROCK", Радио Камчатка Live - Rock
+#EXTINF:-1 tvg-name="Радио Камчатка Live - Rock" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Камчатка Live - Rock
 http://radio.kamchatkalive.ru:8100/rock
-#EXTINF:-1 tvg-name="Радио Каприз - Gothic Metal" group-title="MUSIC/RADIO🎸ROCK", Радио Каприз - Gothic Metal
+#EXTINF:-1 tvg-name="Радио Каприз - Gothic Metal" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Каприз - Gothic Metal
 
-#EXTINF:-1 tvg-name="Радио Рок FM" group-title="MUSIC/RADIO🎸ROCK", Радио Рок FM
+#EXTINF:-1 tvg-name="Радио Рок FM" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Рок FM
 http://nashe1.hostingradio.ru:80/rock-256
-#EXTINF:-1 tvg-name="Радио Рок FM - 00s" group-title="MUSIC/RADIO🎸ROCK", Радио Рок FM - 00s
+#EXTINF:-1 tvg-name="Радио Рок FM - 00s" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Рок FM - 00s
 http://jfm1.hostingradio.ru:14536/rock00.mp3
-#EXTINF:-1 tvg-name="Радио Рок FM - 70s" group-title="MUSIC/RADIO🎸ROCK", Радио Рок FM - 70s
+#EXTINF:-1 tvg-name="Радио Рок FM - 70s" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Рок FM - 70s
 http://jfm1.hostingradio.ru:14536/rock70.mp3
-#EXTINF:-1 tvg-name="Радио Рок FM - 80s" group-title="MUSIC/RADIO🎸ROCK", Радио Рок FM - 80s
+#EXTINF:-1 tvg-name="Радио Рок FM - 80s" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Рок FM - 80s
 http://jfm1.hostingradio.ru:14536/rock80.mp3
-#EXTINF:-1 tvg-name="Радио Рок FM - 90s" group-title="MUSIC/RADIO🎸ROCK", Радио Рок FM - 90s
+#EXTINF:-1 tvg-name="Радио Рок FM - 90s" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Рок FM - 90s
 http://jfm1.hostingradio.ru:14536/rock90.mp3
-#EXTINF:-1 tvg-name="Радио Рок FM - Heavy" group-title="MUSIC/RADIO🎸ROCK", Радио Рок FM - Heavy
+#EXTINF:-1 tvg-name="Радио Рок FM - Heavy" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Рок FM - Heavy
 http://jfm1.hostingradio.ru:14536/metal.mp3
-#EXTINF:-1 tvg-name="Радио Рок FM - Prog" group-title="MUSIC/RADIO🎸ROCK", Радио Рок FM - Prog
+#EXTINF:-1 tvg-name="Радио Рок FM - Prog" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Рок FM - Prog
 http://jfm1.hostingradio.ru:14536/prog.mp3
-#EXTINF:-1 tvg-name="Радио Рок Арсенал (Екатеринбург)" group-title="MUSIC/RADIO🎸ROCK", Радио Рок Арсенал (Екатеринбург)
+#EXTINF:-1 tvg-name="Радио Рок Арсенал (Екатеринбург)" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Рок Арсенал (Екатеринбург)
 http://online.rockarsenal.ru:8000/rockarsenal
-#EXTINF:-1 tvg-name="Радио Рокс (С -Петербург)" group-title="MUSIC/RADIO🎸ROCK", Радио Рокс (С -Петербург)
+#EXTINF:-1 tvg-name="Радио Рокс (С -Петербург)" group-title="MUSIC🎵📻/RADIO🎸ROCK", Радио Рокс (С -Петербург)
 http://icecast.radiorocks.cdnvideo.ru/roks.stream
-#EXTINF:-1 tvg-name="Rocky FM -  Германия" group-title="MUSIC/RADIO🎸ROCK", Rocky FM -  Германия
+#EXTINF:-1 tvg-name="Rocky FM -  Германия" group-title="MUSIC🎵📻/RADIO🎸ROCK", Rocky FM -  Германия
 http://tuner.rockyfm.com:80/;
-#EXTINF:-1 tvg-name="Antenne Bayern Classic Rock Live" group-title="MUSIC/RADIO🎸ROCK", Antenne Bayern Classic Rock Live
+#EXTINF:-1 tvg-name="Antenne Bayern Classic Rock Live" group-title="MUSIC🎵📻/RADIO🎸ROCK", Antenne Bayern Classic Rock Live
 http://mp3channels.webradio.antenne.de/classic-rock-live
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",antenne 1 Modern Rock Listen live
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",antenne 1 Modern Rock Listen live
 https://stream.antenne1.de/modernrock/livestream1.aac
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rock Radio
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rock Radio
 https://onair.superfm.rs/superfm.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Radio 021 - Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Radio 021 - Rock
 http://centova.dukahosting.com:8190/stream/
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Naxi Blues Rock Radio
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Naxi Blues Rock Radio
 https://naxidigital-blues128ssl.streaming.rs:8312/
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",VLADIX 2 Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",VLADIX 2 Rock
 http://vladix.dukahosting.com:8022/stream
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rock Radio Beograd
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rock Radio Beograd
 https://edge9.pink.rs/rockstream/?type=http
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Free Rock Radio 1
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Free Rock Radio 1
 https://stream.zeno.fm/vubke7egbkhvv
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Free Rock Radio 2
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Free Rock Radio 2
 https://stream.zeno.fm/7rfrtfcwqnhvv
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Free Rock Radio 3
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Free Rock Radio 3
 https://stream.zeno.fm/hfp69ys4xnhvv
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Free Rock Radio 4
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Free Rock Radio 4
 https://stream.zeno.fm/xm5qbhkfakluv
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Dark Metal-Radio Listen live
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Dark Metal-Radio Listen live
 https://stream.laut.fm/dark-metal-radio
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1551591593.jpg" group-title="MUSIC/RADIO🎸ROCK", A-0 80s Metal - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1551591593.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", A-0 80s Metal - 128 kbit/s
 http://ares5.radiochoice.net/1027_a080smetal64k
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1550057107.jpg" group-title="MUSIC/RADIO🎸ROCK", ChroniX | AGGRESSION® - 320 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1550057107.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", ChroniX | AGGRESSION® - 320 kbit/s
 http://usa17.fastcast4u.com:5784/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403638712.png" group-title="MUSIC/RADIO🎸ROCK", MrmetalGod Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403638712.png" group-title="MUSIC🎵📻/RADIO🎸ROCK", MrmetalGod Radio - 128 kbit/s
 http://78.129.228.187:8080/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="MUSIC/RADIO🎸ROCK", radio-metalkultur - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="MUSIC🎵📻/RADIO🎸ROCK", radio-metalkultur - 128 kbit/s
 http://stream.laut.fm/radio-metalkultur
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1561182631.jpg" group-title="MUSIC/RADIO🎸ROCK", Freedom Rock Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1561182631.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Freedom Rock Radio - 128 kbit/s
 http://173.208.177.90:9322/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1574001093.jpg" group-title="MUSIC/RADIO🎸ROCK", - 1 A - Rock von 1A Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1574001093.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", - 1 A - Rock von 1A Radio - 128 kbit/s
 http://s3.radionetz.de:80/1a-rock.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="MUSIC/RADIO🎸ROCK", rockallover - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="MUSIC🎵📻/RADIO🎸ROCK", rockallover - 128 kbit/s
 http://stream.laut.fm/rockallover
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1590511143.jpg" group-title="MUSIC/RADIO🎸ROCK", Metal Invasion Radio - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1590511143.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Metal Invasion Radio - 192 kbit/s
 https://radio.metal-invasion.fr/radio/8000/stream.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403757242.png" group-title="MUSIC/RADIO🎸ROCK", Melodic Death Metal - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403757242.png" group-title="MUSIC🎵📻/RADIO🎸ROCK", Melodic Death Metal - 128 kbit/s
 
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403757242.png" group-title="MUSIC/RADIO🎸ROCK", United FM Radio Rock Metal - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403757242.png" group-title="MUSIC🎵📻/RADIO🎸ROCK", United FM Radio Rock Metal - 192 kbit/s
 http://167.114.18.120:8050/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403862944.png" group-title="MUSIC/RADIO🎸ROCK", Best Net Radio - 80s Metal - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403862944.png" group-title="MUSIC🎵📻/RADIO🎸ROCK", Best Net Radio - 80s Metal - 128 kbit/s
 http://bigrradio-edge1.cdnstream.com/5146_128
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1574059738.jpg" group-title="MUSIC/RADIO🎸ROCK", Metal Heart Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1574059738.jpg" group-title="MUSI🎵📻C/RADIO🎸ROCK", Metal Heart Radio - 128 kbit/s
 http://fr.radio-streamhosting.com:8000/metalheartradio128mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/2858.jpg" group-title="MUSIC/RADIO🎸ROCK", HardRadio - 32 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/2858.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", HardRadio - 32 kbit/s
 http://144.217.29.205:80/stream/2/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1554784042.jpg" group-title="MUSIC/RADIO🎸ROCK", HearMe - 80s Metal - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1554784042.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", HearMe - 80s Metal - 128 kbit/s
 http://hearme.fm:8564/stream
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1559957920.jpg" group-title="MUSIC/RADIO🎸ROCK", REGENBOGEN 2 Metallica - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1559957920.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", REGENBOGEN 2 Metallica - 128 kbit/s
 http://streams.regenbogen.de/rr-metallica-128-mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="MUSIC/RADIO🎸ROCK", Kombinat jest Metal - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Kombinat jest Metal - 128 kbit/s
 http://s1.slotex.pl:7836/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/2132.jpg" group-title="MUSIC/RADIO🎸ROCK", Vibration Metal - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/2132.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Vibration Metal - 128 kbit/s
 http://romradio.stream2net.eu:8480/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="MUSIC/RADIO🎸ROCK", Heavy Metal Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Heavy Metal Radio - 128 kbit/s
 http://107.161.126.117:8000/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="MUSIC/RADIO🎸ROCK", Metal Rock Radio by Sonixcast - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Metal Rock Radio by Sonixcast - 128 kbit/s
 https://kathy.torontocast.com:2800/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550682306.jpg" group-title="MUSIC/RADIO🎸ROCK", ChristianHardRock.Net - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550682306.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", ChristianHardRock.Net - 128 kbit/s
 https://shoutcast.christianrock.net/stream/1/
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Prog Palace Radio
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Prog Palace Radio
 https://cheetah.streemlion.com:4775/stream
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Metal (United Music)
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Metal (United Music)
 https://icy.unitedradio.it/um099.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Metal Only Radio
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Metal Only Radio
 http://nordic.streampanel.cloud/stream
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",BadRock Radio.bg
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",BadRock Radio.bg
 http://79.98.108.170:8028/live
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",BadRock Radio,Hard'n heavy.bg
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",BadRock Radio,Hard'n heavy.bg
 http://79.98.108.170:8049/live
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",BadRock Radio,Golden Era.bg
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",BadRock Radio,Golden Era.bg
 http://79.98.108.170:8009/live
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Ballads
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Ballads
 https://stream.radioclub80.cl:8042/baladas80.flac
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Paradise - Rock Mix
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Paradise - Rock Mix
 https://stream.radioparadise.com/rock-flac
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png" ,Metal Detector
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png" ,Metal Detector
 https://ice3.somafm.com/metal-128-mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",CORE RADIO!
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",CORE RADIO!
 http://194.58.97.117:8000/coreradio
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Metal FM
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Metal FM
 https://metal-fm-com.stream.laut.fm/metal-fm-com
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Metal
 https://streams.radiobob.de/bob-metal/mp3-192/mediaplayer/
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Metal
 https://regiocast.streamabc.net/regc-radiobobmetal3070164-mp3-192-5354778
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Power Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Power Metal
 https://streams.radiobob.de/powermetal/mp3-192
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Symphonic Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Symphonic Metal
 https://regiocast.streamabc.net/regc-radiobobsymphmetal4646931-mp3-192-2318934
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Nu Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Nu Metal
 https://streams.radiobob.de/numetal/mp3-192
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Death Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Death Metal
 https://regiocast.streamabc.net/regc-radiobobdeathmetal8709679-mp3-192-6241857
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",RADIO BIZZZZZ
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",RADIO BIZZZZZ
 https://cast1.my-control-panel.com/proxy/webradi2/stream
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Hot Mix Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Hot Mix Metal
 https://streaming.hotmixradio.fr/hotmix-metal-en-mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",La Grosse Radio Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",La Grosse Radio Metal
 http://ice1.lagrosseradio.info/lagrosseradio-metal-192.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Death FM
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Death FM
 http://hi5.death.fm/;
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Crucial Velocity Radio
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Crucial Velocity Radio
 https://ais-sa2.cdnstream1.com/1369_128
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Idobi Howl
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Idobi Howl
 http://idobihowl.idobi.com/;
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Metal shop
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Metal shop
 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM New Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM New Rock
 https://abs.zaycev.fm/rock256k
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM РуРок
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM РуРок
 https://abs.zaycev.fm/rurock256k
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM Folk-Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM Folk-Rock
 https://abs.zaycev.fm/folk256k
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайцев FM Metal
 https://abs.zaycev.fm/metal256k
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d295b97a.jpg",Hit Rock FM
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK" tvg-logo="https://pcradio.ru/images/stations/61b09d295b97a.jpg",Hit Rock FM
 https://stream03.pcradio.app/hit_rock_fm-hi
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Roks Rock Ballads
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Roks Rock Ballads
 https://radio6.dixi.md/listen/rock_ballads/rockballads128.aac
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Roks Hard’n’Heavy 
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Roks Hard’n’Heavy 
 https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Roks Classic Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Roks Classic Rock
 https://radio5.dixi.md/listen/classic_rock/roks_classic_rock128.aac
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Roks Workout Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Roks Workout Rock
 https://radio6.dixi.md/listen/workout_rock/workout.aac
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Roks Pop Rock 
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Roks Pop Rock 
 https://radio6.dixi.md/listen/pop_rock/pop_rock.acc
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Roks New Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Roks New Rock
 https://radio6.dixi.md/listen/new_rock/new_rock128.aac
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Roks Tricolor
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Roks Tricolor
 https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Roks Indie Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Roks Indie Rock
 https://radio6.dixi.md/listen/indie_rock/indie_rock.aac
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK", Cyber-X-Power Worship 
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK", Cyber-X-Power Worship 
 http://ec1.yesstreaming.net:1820/stream
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",BDPST ROCK     
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",BDPST ROCK     
 https://bdpstrock.hu/live_320.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Bestlive-music Rádió Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Bestlive-music Rádió Rock
 https://bestlive-music.net:2096/rock.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rock - Rádió GaGa
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rock - Rádió GaGa
 https://stream.igenbiza.com/rck
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",COOL FM ROCK
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",COOL FM ROCK
 https://mediagw.e-tiger.net/stream/zc10
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rock Magyar Rádió - Mercy Rádió
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rock Magyar Rádió - Mercy Rádió
 http://stream.mercyradio.eu/magyarrock.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it
 https://icy.unitedradio.it/Virgin.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Rock Hits
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Rock Hits
 https://icy.unitedradio.it/VirginRockHits.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Rock '70
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Rock '70
 https://icy.unitedradio.it/VirginRock70.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Rock '80
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Rock '80
 https://icy.unitedradio.it/VirginRock80.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Rock '90
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Rock '90
 https://icy.unitedradio.it/Virgin_03.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Rock 2K 
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Rock 2K 
 https://icy.unitedradio.it/Virgin_02.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Classic Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Classic Rock
 https://icy.unitedradio.it/VirginRockClassics.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Alternative Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Alternative Rock
 https://icy.unitedradio.it/VirginRockAlternative.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Ex-Mixx
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Ex-Mixx
 https://icy.unitedradio.it/Virgin_08.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Rock Ballads
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Rock Ballads
 https://icy.unitedradio.it/Virgin_06.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Rock Party
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Rock Party
 https://icy.unitedradio.it/VirginRockParty.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio.it-Hard Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio.it-Hard Rock
 https://icy.unitedradio.it/VirginHardRock.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Légendes du Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Légendes du Rock
 https://virginlegendesdurock.ice.infomaniak.ch/virgin-radio-legendes-du-rock.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Classique Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Classique Rock
 https://virginclassiquerock.ice.infomaniak.ch/virgin-radio-classique-rock.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Métal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Métal
 https://virginmetal.ice.infomaniak.ch/virgin-radio-metal.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Rock 90's
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Rock 90's
 https://virginrockannees90.ice.infomaniak.ch/virgin-radio-rock-annees-90.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Rock 80's
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Rock 80's
 https://virginrockannees80.ice.infomaniak.ch/virgin-radio-rock-annees-80.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Rock 2000
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Rock 2000
 https://virginrockannees2000.ice.infomaniak.ch/virgin-radio-rock-annees-2000.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Rock Américain
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Rock Américain
 https://virginrockamericain.ice.infomaniak.ch/virgin-radio-rock-americain.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Rock Français
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Rock Français
 https://virginrockfrancais.ice.infomaniak.ch/virgin-radio-rock-francais.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Rock Anglais
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Rock Anglais
 https://virginrockanglais.ice.infomaniak.ch/virgin-radio-rock-anglais.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Rock Party
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Rock Party
 https://virginrockparty.ice.infomaniak.ch/virgin-radio-rock-party.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France-Rock Live
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France-Rock Live
 https://virginrocklive.ice.infomaniak.ch/virgin-radio-rock-live.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Virgin Radio France
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Virgin Radio France
 https://virginradio.ice.infomaniak.ch/virgin-radio.mp3
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",ROCK FM ROMANIA
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",ROCK FM ROMANIA
 https://live.rockfm.ro/rockfm.aacp
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",ROCK FM ROMANIA - Rock Ballads
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",ROCK FM ROMANIA - Rock Ballads
 https://live.rockfm.ro/ballads.rock?direct=false
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",ROCK FM ROMANIA - Rock 80s & 90s
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",ROCK FM ROMANIA - Rock 80s & 90s
 https://live.kissfm.ro/rock.8090
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",ROCK FM ROMANIA - Rock Blues
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",ROCK FM ROMANIA - Rock Blues
 https://live.rockfm.ro/blues?direct=false
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",ROCK FM ROMANIA - Hard Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",ROCK FM ROMANIA - Hard Rock
 https://live.rockfm.ro/hard.rock?direct=false
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rockland Radio GERMANY  -Best of Rock FM - Nonstop Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rockland Radio GERMANY  -Best of Rock FM - Nonstop Metal
 https://bestofrockfm.stream.vip/metal/mp3-192/bestofrock.fm 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - Nonstop Metal
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - Nonstop Metal
 https://radio21.streamabc.net/radio21-metal-mp3-192-8866300?sABC=6n357868%230%230q224srq9001q506rr4opq386pr01sn4%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1781889128
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - 80er
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - 80er
 https://bestofrockfm.stream.vip/80rock/mp3-192/bestofrock.fm
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - 80er
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - 80er
 https://radio21.streamabc.net/radio21-80errock-mp3-192-3349255?sABC=6n357os9%230%230q224srq9001q506rr4opq386pr01sn4%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1781890041
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - 90er
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - 90er
 https://bestofrockfm.stream.vip/90rock/mp3-192/bestofrock.fm
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - 90er
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - 90er
 https://radio21.streamabc.net/radio21-konzertkracher-mp3-192-6022420?sABC=6n357q09%230%230q224srq9001q506rr4opq386pr01sn4%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1781890313
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - Hard Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - Hard Rock
 https://bestofrockfm.stream.vip/hardrock/mp3-192/bestofrock.fm
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - Hard Rock
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",Rockland Radio GERMANY - Best of Rock FM - Hard Rock
 https://radio21.streamabc.net/radio21-hardrock-mp3-192-5131129?sABC=6n357r3n%230%230q224srq9001q506rr4opq386pr01sn4%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1781890618
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",delta radio germany - HARDROCK & HEAVY METAL
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",delta radio germany - HARDROCK & HEAVY METAL
 https://streams.deltaradio.de/delta-foehnfrisur/mp3-192
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK",delta radio germany - HARDROCK & HEAVY METAL
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK",delta radio germany - HARDROCK & HEAVY METAL
 https://deltaradio.streamabc.net/regc-deltahardheavy-mp3-192-1449782?sABC=6n3588qs%230%230q224srq9001q506rr4opq386pr01sn4%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1781893343
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1554784042.jpg" group-title="MUSIC/RADIO🎸ROCK", HearMe - 80s Metal - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1554784042.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", HearMe - 80s Metal - 128 kbit/s
 http://hearme.fm:8564/stream
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="MUSIC/RADIO🎸ROCK", Kombinat jest Metal - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Kombinat jest Metal - 128 kbit/s
 http://s1.slotex.pl:7836/stream/1/
 
 
@@ -3580,82 +3580,82 @@ http://s1.slotex.pl:7836/stream/1/
 
 
 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/a33e9c24b93601dd7841aa0e071d89f6.png", Золотая Коллекция - Metallica
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/a33e9c24b93601dd7841aa0e071d89f6.png", Золотая Коллекция - Metallica
 https://pub0202.101.ru:8443/stream/pro/aac/64/123
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Metallica
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Metallica
 https://streaming.exclusive.radio/er/metallica/icecast.audio
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+",Rockland Radio - Best of Rock FM - Metallica
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+",Rockland Radio - Best of Rock FM - Metallica
 https://bestofrockfm.stream.vip/metallica/mp3-192/bestofrock.fm
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+",Rockland Radio - Best of Rock FM - Metallica
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+",Rockland Radio - Best of Rock FM - Metallica
 https://radio21.streamabc.net/radio21-singersongwriter-mp3-192-5376445?sABC=6n3579r8%230%230q224srq9001q506rr4opq386pr01sn4%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1781889512
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+",BOB - Metallica
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+",BOB - Metallica
 https://regiocast.streamabc.net/regc-radiobobmetallica3164584-mp3-192-3532789
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Megadeth
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Megadeth
 https://stream.pcradio.ru/megadeth-hi
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Nightwish
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Nightwish
 https://stream.pcradio.ru/Nightwish-hi  
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Iron Maiden
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Iron Maiden
 https://streaming.exclusive.radio/er/ironmaiden/icecast.audio
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Manowar
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Manowar
 https://stream.pcradio.ru/Manowar-hi
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Sabaton 
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Sabaton 
 https://stream.pcradio.ru/sabaton-hi 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Gary Moore 
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Gary Moore 
 https://streaming.exclusive.radio/er/garymoore/icecast.audio
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Black Sabbath
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Black Sabbath
 https://streaming.exclusive.radio/er/blacksabbath/icecast.audio 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Van Halen
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Van Halen
 https://streaming.exclusive.radio/er/vanhalen/icecast.audio  
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Deep Purple
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Deep Purple
 https://streaming.exclusive.radio/er/deeppurple/icecast.audio  
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/05d31f3851985ea99d76d89d5126b3d2.png", Золотая Коллекция - Scorpions
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/05d31f3851985ea99d76d89d5126b3d2.png", Золотая Коллекция - Scorpions
 https://pub0202.101.ru:8443/stream/pro/aac/64/113
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/10a9ec079b837552c8030237208cd676.png", Золотая Коллекция - Deep Purple
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/10a9ec079b837552c8030237208cd676.png", Золотая Коллекция - Deep Purple
 https://pub0202.101.ru:8443/stream/pro/aac/64/125
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Bon Jovi
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Bon Jovi
 http://streaming.exclusive.radio/er/bonjovi/icecast.audio
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Alice Cooper
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Alice Cooper
 https://streaming.exclusive.radio/er/alicecooper/icecast.audio
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - KISS
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - KISS
 https://streaming.exclusive.radio/er/kiss/icecast.audio 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Boston
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Boston
 https://streaming.exclusive.radio/er/boston/icecast.audio
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Avenged Sevenfold 
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Avenged Sevenfold 
 https://stream.pcradio.ru/avenged_sevenfold-hi  
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Aerosmith
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Aerosmith
 https://streaming.exclusive.radio/er/aerosmith/icecast.audio 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Rolling Stones
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Rolling Stones
 https://streaming.exclusive.radio/er/rollingstones/icecast.audio 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - AcDc
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - AcDc
 https://streaming.exclusive.radio/er/acdc/icecast.audio
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", ZZ Top 
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", ZZ Top 
 https://2.mystreaming.net/er/zztop/icecast.audio  
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/fb7831b59cad0c74d72061d5a51bea41.png", Золотая Коллекция - Linkin Park
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/fb7831b59cad0c74d72061d5a51bea41.png", Золотая Коллекция - Linkin Park
 https://pub0202.101.ru:8443/stream/pro/aac/64/149
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Foo Fighters
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Foo Fighters
 https://streaming.exclusive.radio/er/foofighters/icecast.audio
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Green Day
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Green Day
 https://streaming.exclusive.radio/er/greenday/icecast.audio  
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/8cc7a970aa1c62ca87d909ed13544504.png", Золотая Коллекция - Queen
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/8cc7a970aa1c62ca87d909ed13544504.png", Золотая Коллекция - Queen
 https://pub0202.101.ru:8443/stream/pro/aac/64/54
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/c09d01c7f07eff8d5b50fddb30312d42.png", Золотая Коллекция - The Rolling Stones
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/c09d01c7f07eff8d5b50fddb30312d42.png", Золотая Коллекция - The Rolling Stones
 https://pub0202.101.ru:8443/stream/pro/aac/64/117
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/035a5754ef3d9c23100befc7a6f46bc7.png", Золотая Коллекция - U2
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/035a5754ef3d9c23100befc7a6f46bc7.png", Золотая Коллекция - U2
 https://pub0202.101.ru:8443/stream/pro/aac/64/109
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/fca1ac0c36643566b09c723ebb8bf6fc.png", Exclusive Radio - The Beatles
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/fca1ac0c36643566b09c723ebb8bf6fc.png", Exclusive Radio - The Beatles
 http://streaming.exclusive.radio/er/beatles/icecast.audio 
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0724971a11b543c96d94f0f228cbcd51.png", Золотая Коллекция - Elvis Presley
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0724971a11b543c96d94f0f228cbcd51.png", Золотая Коллекция - Elvis Presley
 https://pub0202.101.ru:8443/stream/pro/aac/64/111
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", Exclusive Radio - Roxette
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", Exclusive Radio - Roxette
 https://streaming.exclusive.radio/er/roxette/icecast.audio
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+",The A.X.E. Project
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+",The A.X.E. Project
 http://79.98.108.170:8004/autodj
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+",
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+",
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+",
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+",
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+",
-#EXTINF:-1 group-title="MUSIC/RADIO🎸ROCK+", 
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+",
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+",
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+",
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+",
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+",
+#EXTINF:-1 group-title="MUSIC🎵📻/RADIO🎸ROCK+", 
 
 
 
@@ -3664,93 +3664,93 @@ http://79.98.108.170:8004/autodj
 
 
 
-ht#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/10990.jpg" group-title="Music/Radio-Mix", FUN Radio 80-90 - 128 kbit/s
+ht#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/10990.jpg" group-title="Music🎵📻/Radio-Mix", FUN Radio 80-90 - 128 kbit/s
 http://stream.funradio.sk:8000/80-90-128.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550033403.jpg" group-title="Music/Radio-Mix", The Big 80s Station - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550033403.jpg" group-title="Music🎵📻/Radio-Mix", The Big 80s Station - 128 kbit/s
 http://158.69.114.190:8065/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1537500573.jpg" group-title="Music/Radio-Mix", Radio 80 FM - Hits anos 80 - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1537500573.jpg" group-title="Music🎵📻/Radio-Mix", Radio 80 FM - Hits anos 80 - 128 kbit/s
 https://centova.euroti.com.br:20001/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1537502301.jpg" group-title="Music/Radio-Mix", CENTER 80s - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1537502301.jpg" group-title="Music🎵📻/Radio-Mix", CENTER 80s - 128 kbit/s
 http://stream.rockradio.si:8064/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1587052798.jpg" group-title="Music/Radio-Mix", Classic Hits 109 - 70s,80s,90s - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1587052798.jpg" group-title="Music🎵📻/Radio-Mix", Classic Hits 109 - 70s,80s,90s - 128 kbit/s
 http://jenny.torontocast.com:8142/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550031043.jpg" group-title="Music/Radio-Mix", Box UK Radio danceradiouk - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550031043.jpg" group-title="Music🎵📻/Radio-Mix", Box UK Radio danceradiouk - 128 kbit/s
 http://51.75.170.46:6191/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/12108.jpg" group-title="Music/Radio-Mix", Radio 60 70 80 - Italy - Italia - www.607080.it - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/12108.jpg" group-title="Music🎵📻/Radio-Mix", Radio 60 70 80 - Italy - Italia - www.607080.it - 128 kbit/s
 http://www.studiopiu.net:8005
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="Music/Radio-Mix", Just 80s Maximal - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="Music🎵📻/Radio-Mix", Just 80s Maximal - 128 kbit/s
 http://stream.laut.fm/just80s_maximal
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1553137085.jpg" group-title="Music/Radio-Mix", RPR1.70er - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1553137085.jpg" group-title="Music🎵📻/Radio-Mix", RPR1.70er - 128 kbit/s
 http://streams.rpr1.de/rpr-70er-128-mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1553137085.jpg" group-title="Music/Radio-Mix", RPR1.Best of 80s - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1553137085.jpg" group-title="Music🎵📻/Radio-Mix", RPR1.Best of 80s - 128 kbit/s
 http://streams.rpr1.de/rpr-80er-128-mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1553137085.jpg" group-title="Music/Radio-Mix", RPR1.90er - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1553137085.jpg" group-title="Music🎵📻/Radio-Mix", RPR1.90er - 128 kbit/s
 http://streams.rpr1.de/rpr-90er-128-mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1551591593.jpg" group-title="Music/Radio-Mix", A-0 Big 80s - 160 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1551591593.jpg" group-title="Music🎵📻/Radio-Mix", A-0 Big 80s - 160 kbit/s
 http://ares5.radiochoice.net/1025_a0big80s64k
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537543609.jpg" group-title="Music/Radio-Mix", wunschradio.fm 80er - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537543609.jpg" group-title="Music🎵📻/Radio-Mix", wunschradio.fm 80er - 128 kbit/s
 http://server14.radiostreamserver.de:80/wunschradio-80er.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1556692200.jpg" group-title="Music/Radio-Mix", RADIO POPIZZ  (Pop-Hits) - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1556692200.jpg" group-title="Music🎵📻/Radio-Mix", RADIO POPIZZ  (Pop-Hits) - 128 kbit/s
 http://nr11.newradio.it:8116/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1552799841.jpg" group-title="Music/Radio-Mix", Radio One Live 80s & 90s - Italo Disco, 80s, 90s - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1552799841.jpg" group-title="Music🎵📻/Radio-Mix", Radio One Live 80s & 90s - Italo Disco, 80s, 90s - 128 kbit/s
 http://91.232.4.33:8198/stream
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550322426.jpg" group-title="Music/Radio-Mix", Disco Classic Radio - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550322426.jpg" group-title="Music🎵📻/Radio-Mix", Disco Classic Radio - 192 kbit/s
 http://54.36.89.71:8742/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1623137686.jpg" group-title="Music/Radio-Mix", TOP FM oldies &gt;&gt; 50s, 60s, 70s, 80s - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1623137686.jpg" group-title="Music🎵📻/Radio-Mix", TOP FM oldies &gt;&gt; 50s, 60s, 70s, 80s - 128 kbit/s
 http://live.topfm.hu:8000/oldies.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1555143952.jpg" group-title="Music/Radio-Mix", Cafe 80s FM - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1555143952.jpg" group-title="Music🎵📻/Radio-Mix", Cafe 80s FM - 128 kbit/s
 http://cafe80s.eu:8000/stream.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550724332.jpg" group-title="Music/Radio-Mix", XS80s - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550724332.jpg" group-title="Music🎵📻/Radio-Mix", XS80s - 128 kbit/s
 http://176.31.98.109:12508/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550239793.jpg" group-title="Music/Radio-Mix", 80s Hitradio Amsterdam - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550239793.jpg" group-title="Music🎵📻/Radio-Mix", 80s Hitradio Amsterdam - 192 kbit/s
 http://s22.myradiostream.com:7728/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537528414.jpg" group-title="Music/Radio-Mix", RMF 60S - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537528414.jpg" group-title="Music🎵📻/Radio-Mix", RMF 60S - 128 kbit/s
 http://rs9-krk2.rmfstream.pl/rmf_60s
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537528414.jpg" group-title="Music/Radio-Mix", RMF 70S - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537528414.jpg" group-title="Music🎵📻/Radio-Mix", RMF 70S - 128 kbit/s
 http://rs9-krk2.rmfstream.pl/rmf_70s
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537528414.jpg" group-title="Music/Radio-Mix", RMF 80S - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537528414.jpg" group-title="Music🎵📻/Radio-Mix", RMF 80S - 128 kbit/s
 http://rs8-krk2-cyfronet.rmfstream.pl/80S
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/105815.jpg" group-title="Music/Radio-Mix", Radio Mela - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/105815.jpg" group-title="Music🎵📻/Radio-Mix", Radio Mela - 128 kbit/s
 http://91.121.38.216:8016/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1550330651.jpg" group-title="Music/Radio-Mix", Hitradio Polska - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1550330651.jpg" group-title="Music🎵📻/Radio-Mix", Hitradio Polska - 128 kbit/s
 http://51.255.8.139:9090/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1494171997.jpg" group-title="Music/Radio-Mix", Callisto Radio® - 256 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1494171997.jpg" group-title="Music🎵📻/Radio-Mix", Callisto Radio® - 256 kbit/s
 http://188.165.11.30:4500/live.mp3?=2
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1537442683.jpg" group-title="Music/Radio-Mix", Russkie Pesni - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1537442683.jpg" group-title="Music🎵📻/Radio-Mix", Russkie Pesni - 128 kbit/s
 http://listen.rusongs.ru/ru-mp3-128
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="Music/Radio-Mix", DiscoParty.pl - Disco Polo - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="Music🎵📻/Radio-Mix", DiscoParty.pl - Disco Polo - 128 kbit/s
 https://s1.slotex.pl:7432/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550031043.jpg" group-title="Music/Radio-Mix", SKIF - 256 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550031043.jpg" group-title="Music🎵📻/Radio-Mix", SKIF - 256 kbit/s
 http://178.172.150.248:2530/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1553416790.jpg" group-title="Music/Radio-Mix", 90erFM - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1553416790.jpg" group-title="Music🎵📻/Radio-Mix", 90erFM - 128 kbit/s
 http://tuner.m1.fm/90er.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="Music/Radio-Mix", 011.FM - The 60s - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="Music🎵📻/Radio-Mix", 011.FM - The 60s - 192 kbit/s
 http://listen.011fm.com:80/stream03
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="Music/Radio-Mix", 011.FM - The 70s - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="Music🎵📻/Radio-Mix", 011.FM - The 70s - 192 kbit/s
 http://listen.011fm.com:80/stream04
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="Music/Radio-Mix", 011.FM - Big 80s - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="Music🎵📻/Radio-Mix", 011.FM - Big 80s - 192 kbit/s
 http://listen.011fm.com:80/stream05
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="Music/Radio-Mix", .011FM - Totally 90s - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="Music🎵📻/Radio-Mix", .011FM - Totally 90s - 192 kbit/s
 http://listen.011fm.com:80/stream06
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403594195.png" group-title="Music/Radio-Mix", That 70s Station - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403594195.png" group-title="Music🎵📻/Radio-Mix", That 70s Station - 128 kbit/s
 http://149.56.185.82:8137
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403539711.png" group-title="Music/Radio-Mix", Melodie FM - 160 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403539711.png" group-title="Music🎵📻/Radio-Mix", Melodie FM - 160 kbit/s
 http://188.165.35.60:8008/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1450560916.jpg" group-title="Music/Radio-Mix", RadioSuperoldie MEDIUM - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1450560916.jpg" group-title="Music🎵📻/Radio-Mix", RadioSuperoldie MEDIUM - 128 kbit/s
 http://87.118.86.46:8877/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403655781.png" group-title="Music/Radio-Mix", RBI Radio - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403655781.png" group-title="Music🎵📻/Radio-Mix", RBI Radio - 192 kbit/s
 http://streamplus18.leonex.de:18576/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="Music/Radio-Mix", Just 70s - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="Music🎵📻/Radio-Mix", Just 70s - 128 kbit/s
 http://stream.laut.fm/just70s
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1446324335.jpg" group-title="Music/Radio-Mix", Best 70s - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1446324335.jpg" group-title="Music🎵📻/Radio-Mix", Best 70s - 128 kbit/s
 http://213.32.121.35:8040/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1551591593.jpg" group-title="Music/Radio-Mix", A-0 70s Hits - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1551591593.jpg" group-title="Music🎵📻/Radio-Mix", A-0 70s Hits - 128 kbit/s
 http://ares5.radiochoice.net/1023_a070shits64k
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1434935213.jpg" group-title="Music/Radio-Mix", Best 60s - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1434935213.jpg" group-title="Music🎵📻/Radio-Mix", Best 60s - 128 kbit/s
 http://213.32.121.35:8020/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/22140.jpg" group-title="Music/Radio-Mix", The Time Machine - Classic Hits - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/22140.jpg" group-title="Music🎵📻/Radio-Mix", The Time Machine - Classic Hits - 192 kbit/s
 http://192.211.51.158:5426/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="Music/Radio-Mix", primetime - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="Music🎵📻/Radio-Mix", primetime - 128 kbit/s
 http://stream.laut.fm/primetime
 
 
@@ -3759,41 +3759,41 @@ http://stream.laut.fm/primetime
 
 
 
-#EXTINF:-1 group-title="Music/Radio-Mix+", Exclusive Radio - Madonna
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+", Exclusive Radio - Madonna
 https://streaming.exclusive.radio/er/madonna/icecast.audio 
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/296e04f171392830df1ac1c183ea817f.png", Золотая Коллекция - ABBA
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/296e04f171392830df1ac1c183ea817f.png", Золотая Коллекция - ABBA
 https://pub0202.101.ru:8443/stream/pro/aac/64/104
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/d2ac41989c42ac96d5b88acb6fecd1ba.png", Золотая Коллекция - Adriano Celentano
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/d2ac41989c42ac96d5b88acb6fecd1ba.png", Золотая Коллекция - Adriano Celentano
 https://pub0202.101.ru:8443/stream/pro/aac/64/277
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/95da8eeffe07636996748d23fd8f887b.png", Золотая Коллекция - Boney M.
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/95da8eeffe07636996748d23fd8f887b.png", Золотая Коллекция - Boney M.
 https://pub0202.101.ru:8443/stream/pro/aac/64/114
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/7eeb2f4860de4a03bdcf6dc195088df2.png", Золотая Коллекция - Depeche Mode
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/7eeb2f4860de4a03bdcf6dc195088df2.png", Золотая Коллекция - Depeche Mode
 https://pub0202.101.ru:8443/stream/pro/aac/64/105
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/e05642a6de556469eeba77c950216d63.png", Золотая Коллекция - Elton John
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/e05642a6de556469eeba77c950216d63.png", Золотая Коллекция - Elton John
 https://pub0202.101.ru:8443/stream/pro/aac/64/142
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/b1bc4d369dd5b1b5d42e577e2b0097fd.png", Золотая Коллекция - Enigma
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/b1bc4d369dd5b1b5d42e577e2b0097fd.png", Золотая Коллекция - Enigma
 https://pub0202.101.ru:8443/stream/pro/aac/64/175
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/28f7a3234bc9644f51456bb4e6a9cee1.jpg", Золотая Коллекция - Ennio Morricone
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/28f7a3234bc9644f51456bb4e6a9cee1.jpg", Золотая Коллекция - Ennio Morricone
 https://pub0202.101.ru:8443/stream/pro/aac/64/395
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/04253cd8538a11f3c3edb1220e491023.png", Золотая Коллекция - Madonna
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/04253cd8538a11f3c3edb1220e491023.png", Золотая Коллекция - Madonna
 https://pub0202.101.ru:8443/stream/pro/aac/64/128
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/93306a074917ec60accd66162266477b.png", Золотая Коллекция - Michael Jackson
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/93306a074917ec60accd66162266477b.png", Золотая Коллекция - Michael Jackson
 https://pub0202.101.ru:8443/stream/pro/aac/64/52
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d48662c7b190a9462bbc2737b863e07c.png", Золотая Коллекция - Modern Talking
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d48662c7b190a9462bbc2737b863e07c.png", Золотая Коллекция - Modern Talking
 https://pub0202.101.ru:8443/stream/pro/aac/64/115
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/4f585601cc148ee8918922ed54b57a02.png", Золотая Коллекция - Mylene Farmer
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/4f585601cc148ee8918922ed54b57a02.png", Золотая Коллекция - Mylene Farmer
 https://pub0202.101.ru:8443/stream/pro/aac/64/166
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/998ff6a12f567aa0f99e5029fdecebb9.png", Золотая Коллекция - Prince
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/998ff6a12f567aa0f99e5029fdecebb9.png", Золотая Коллекция - Prince
 https://pub0202.101.ru:8443/stream/pro/aac/64/282
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d7d84c94ad02c2f6b4479677ade8eee3.png", Золотая Коллекция - Robbie Williams
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d7d84c94ad02c2f6b4479677ade8eee3.png", Золотая Коллекция - Robbie Williams
 https://pub0202.101.ru:8443/stream/pro/aac/64/138
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/7c1ba516f86d0595c452495ab6c59367.png", Золотая Коллекция - Sandra
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/7c1ba516f86d0595c452495ab6c59367.png", Золотая Коллекция - Sandra
 https://pub0202.101.ru:8443/stream/pro/aac/64/179
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/f2a6ffa61cf05674f399f7d0efd42929.png", Золотая Коллекция - The Prodigy
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/f2a6ffa61cf05674f399f7d0efd42929.png", Золотая Коллекция - The Prodigy
 https://pub0202.101.ru:8443/stream/pro/aac/64/306
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/81363bb7a6be3735833eba0be7f697b0.png", Золотая Коллекция - Алла Пугачёва
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/81363bb7a6be3735833eba0be7f697b0.png", Золотая Коллекция - Алла Пугачёва
 https://pub0202.101.ru:8443/stream/pro/aac/64/56
-#EXTINF:-1 group-title="Music/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/791c050c21ee2cb5f33797d88fad66a9.png", Золотая Коллекция - Филипп Киркоров
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/791c050c21ee2cb5f33797d88fad66a9.png", Золотая Коллекция - Филипп Киркоров
 https://pub0202.101.ru:8443/stream/pro/aac/64/116
 
 
@@ -4009,7 +4009,7 @@ https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/ts-us-e2-n1/playl
 https://amg16902-amg16902c1-lightcast-worldwide-2931.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg16902-americancountrynetworkfast-acnota-lightcastworldwide/cb573d17796c628f84c83878d2f54782847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b458118d3aa5b20148967c40fa83439fd501e984d60d8340d720a411c8c1f4898142828cbc599506e6274759326da68e789ecc2fdbb0f1481ab2310b490b5bf2b18aa42156ee46474fb6f8cfaf778d70a4e875db2d5ddc019c5cca259867d84bcda146b4b9abcc180e76a5c7556228b5ebb498e27b30b26bb4a3ead33e7090e011371db907b1232f2bdefec40494c267f5dc42d5ee3e775fc19556d599bb879dfce700c97d9890a5c06d1a192e5356df5ffbcc358a79d828aecb4077084e15f5ce57c7de8b5d616419d5850880496fd3b28a87cc403ccf6e095f9a07b33e2879df3d6f2697479f9b387fc72f09f75d579d7114a213b1ee1ee5cdab8d96a6c4a4a56bd32d899c19c0f707a51f53336092c15c94c1d11faa8a471e3978b92b8c265e90056134e9fb8ddfd65a2e454b7fa698fa908544baf4a81d181a81723069625a77c441befdbc7191cf4d4ef2bb8c290d0b3c03736ea61e7d1002b7dbb880c8fccf56a06cd2c3f83415f63809b21e0a3c67dfba8c16a8761b3e326a8901604caa141a6cded598b5d7d0358eab6da46e364f23dda6430849736373069ea76dd575eb8752ecc89d129fb9cd5a6ead088e2d5cdedcd567fdada6c24c049fe3173a6f85dc2ac03c7c93439a7bc6823e88f066071a3d52418ddb07a811ea89e8b241f01ba4410771fd6bfbcdb3c1b14862a7c01a7d6373167d197579230bb4dfaf142373feb32ae31dabab62a04c503c28549ce5245b95e363138c3f1d31f0f62bea5c1af9bcac869bd525a53ea17c86b17fb17bfd8576/156/640x360_954628/index.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD3300011UT" tvg-name="XITE Classic Country" tvg-id="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="MUSIC/TV COUNTRY",XITE Classic Country
 https://d2xm7fwgbakh1x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ltmgkaa20sgt9/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABD1200023UJ
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300006O3" tvg-name="XITE Country Today" tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="MUSIC/TV COUNTRY",tvg-chno="4328",XITE Country Today
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300006O3" tvg-name="XITE Country Today" tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="MUSIC/TV COUNTRY" tvg-chno="4328",XITE Country Today
 https://d1m3fs719k0oep.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tno3apyunf3ts/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABD120001993
 #EXTINF:-1 tvg-id="" tvg-name="The Country Network" tvg-logo="https://i.ibb.co/9kJKZG6t/image-35.png" group-title="MUSIC/TV COUNTRY", The Country Network
 https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
@@ -5194,7 +5194,7 @@ https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8
 http://glorystartv.live/Impact/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBN Russia" tvg-logo="" group-title="RU🇷🇺/TV",TBN Russia
 https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
-#EXTINF:-1 gtvg-id="" tvg-name="" tvg-logo="" roup-title="RU🇷🇺/TV",TV Blagaya Vest
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RU🇷🇺/TV",TV Blagaya Vest
 https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV MANA" tvg-logo="" group-title="RU🇷🇺/TV",TV MANA (RUS)
 https://w1.manasat.com/tvmana-leste/tvmana-leste/chunklist.m3u8
