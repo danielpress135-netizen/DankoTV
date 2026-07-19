@@ -3763,6 +3763,9 @@ http://stream.laut.fm/primetime
 https://streaming.exclusive.radio/er/madonna/icecast.audio
 #EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d48662c7b190a9462bbc2737b863e07c.png", Золотая Коллекция - Modern Talking
 https://pub0202.101.ru:8443/stream/pro/aac/64/115
+#EXTINF:-1 group-title="Music🎵📻/Radio-Mix+"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/7c1ba516f86d0595c452495ab6c59367.png", Золотая Коллекция - Sandra
+https://pub0202.101.ru:8443/stream/pro/aac/64/179
+
  
 
 
