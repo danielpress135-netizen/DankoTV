@@ -1512,7 +1512,7 @@ http://143.244.63.87:80/hayatmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="Hayat.Music.Box.rs" tvg-name="HAYAT MUSIC BOX" tvg-logo="https://i.ibb.co/NdW7VQJQ/image-26.png" group-title="Ex-Yu/Music tv",HAYAT MUSIC BOX
 http://cm1.portaltv.info:777/5R0Tqhz7bC/8biAnmNHif/2866
 #EXTINF:-1 tvg-id="Hayat.Folk.Box.rs" tvg-name="Hayat Folk Box" tvg-logo="" group-title="Ex-Yu/Music tv",Hayat Folk Box
-
+http://45.82.88.87:15153/udp/237.40.1.15:5000
 #EXTINF:-1 tvg-id="" tvg-name="Merak tv" tvg-logo="" group-title="Ex-Yu/Music tv",Merak tv
 https://streaming.ataxmedia.com/hls/MerakTV/main_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play M" tvg-logo="" group-title="Ex-Yu/Music tv",Play M
@@ -2870,7 +2870,7 @@ https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleOne16.it@SD" tvg-name="Tele One 16" tvg-logo="" group-title="IT🇮🇹/TV",Tele One 16
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:-1 tvg-id="Telepavia.it@SD" tvg-name="Tele Pavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png" group-title="IT🇮🇹/TV",Tele Pavia (720p)
-
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleQuattro.it@SD" tvg-name="Tele Quattro" tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png" group-title="IT🇮🇹/TV",Tele Quattro (720p)
 https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefriuli.it@SD" tvg-name="Telefriuli" tvg-logo="https://i.imgur.com/He3uCs6.png" group-title="IT🇮🇹/TV",Telefriuli (1080p)
