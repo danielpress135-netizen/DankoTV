@@ -317,6 +317,8 @@ https://edge8.pink.rs/redtv/index.m3u8
 https://edge8.pink.rs/redtv/chunklist_w1213385221.m3u8
 #EXTINF:-1 tvg-id="RED.TV.(Pink.2.HD).rs" tvg-name="Red TV" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="Ex-Yu/TV",red tv
 https://edge8.pink.rs/redtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Narodna.TV.(RS).rs" tvg-name="narodna tv" tvg-logo="" group-title="Ex-Yu/TV",narodna tv
+https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV.1.(RS).rs" tvg-name="RTV 1" tvg-logo="https://i.imgur.com/CG44YT3.png" group-title="Ex-Yu/TV",RTV 1
 http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV.1.(RS).rs" tvg-name="RTV 1" tvg-logo="https://i.imgur.com/CG44YT3.png" group-title="Ex-Yu/TV",RTV 1
