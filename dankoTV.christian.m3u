@@ -75,6 +75,8 @@ https://www.youtube.com/watch?v=4xDB1K1zvPw
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Altar TV" tvg-logo="https://i.ibb.co/PzPbS52M/image-11.png" group-title="christian music tv",Altar TV
 http://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Altar TV" tvg-logo="https://i.ibb.co/PzPbS52M/image-11.png" group-title="christian music tv",Altar TV
+https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Music TV" tvg-logo="" group-title="christian music tv",Gospel Music TV
 http://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Sublime Gracia" tvg-logo="https://i.ibb.co/q3tDtrby/image-64.png" group-title="christian music tv",Radio Sublime Gracia
@@ -796,7 +798,7 @@ https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunkl
 https://video03.logicahost.com.br/gospeltv/gospeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino",Apocalipsis Network TV (ispan)
 https://livetv.305streamhd.com:3394/live/tvapocalipsisnetworklive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red ADvenir" tv-logo="Latino" group-title="",Red ADvenir
+#EXTINF:-1 tvg-id="" tvg-name="Red ADvenir" tv-logo="Latino" group-title="Latino",Red ADvenir
 https://streamer1.streamhost.org/salive/GMIredadvenirm/playlist.m3u8
 
 
