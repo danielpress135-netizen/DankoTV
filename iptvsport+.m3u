@@ -17,17 +17,17 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="Sport+",MAX Sport 1 HD
 http://62.176.112.19:8008/play/a0be
 #EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-name="MAX SPORT 1" tvg-logo="" group-title="Sport+",MAX SPORT 1
-http://77.46.130.252:99/maxsport1
+http://213.91.179.28:8000/play/a0as
 #EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-name="MAX SPORT 2" tvg-logo="" group-title="Sport+",MAX SPORT 2
-http://77.46.130.252:99/maxsport2
+http://213.91.179.28:8000/play/a0at
 #EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="MAX Sport 2 HD" tvg-logo="" group-title="Sport+",MAX Sport 2 HD
 http://62.176.112.19:8008/play/a0bf
 #EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="Sport+",MAX Sport 3 HD
 http://62.176.112.19:8008/play/a0bg
 #EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-name="MAX SPORT 3" tvg-logo="" group-title="Sport+",MAX SPORT 3
-http://77.46.130.252:99/maxsport3
+http://213.91.179.28:8000/play/a0ar
 #EXTINF:-1 tvg-id="MAX.Sport.4.bg" tvg-name="MAX SPORT 4" tvg-logo="" group-title="Sport+",MAX SPORT 4
-http://77.46.130.252:99/maxsport4
+http://213.91.179.28:8000/play/a05n
 #EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="Sport+",Max Sport 4
 http://62.176.112.19:8008/play/a0d6
 #EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="Sport+",Diema Sport HD
@@ -74,26 +74,26 @@ http://178.253.194.79:10017
 http://178.253.194.79:10019
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI Sport 1 HD" tvg-logo="" group-title="Sport+",DIGI Sport 1 HD
 #EXTVLCOPT:network-caching=1000
-http://82.78.243.219:45739/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports",Digi Sport 1 HD
+
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sport+",Digi Sport 1 HD
 http://91.201.172.14:35005
-#EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports",Digi Sport 2 HD
+#EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sport+",Digi Sport 2 HD
 http://91.201.172.14:35006
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI Sport 2 HD" tvg-logo="" group-title="Sport+",DIGI Sport 2 HD
 #EXTVLCOPT:network-caching=1000
-http://82.78.243.219:45739/play/a00r/index.m3u8
+
 #EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="DIGI Sport 3 HD" tvg-logo="" group-title="Sport+",DIGI Sport 3 HD
 #EXTVLCOPT:network-caching=1000
-http://82.78.243.219:45739/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport3.ro@HD" tvg-logo="https://i.imgur.com/T1ci5UK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 3 HD
+
+#EXTINF:-1 tvg-id="DigiSport3.ro@HD" tvg-logo="https://i.imgur.com/T1ci5UK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sport+",Digi Sport 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://82.78.243.219:45739/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 4
+
+#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sport+",Digi Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://82.78.243.219:45739/play/a00v/index.m3u8
+
 #EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="DIGI Sport 4 HD" tvg-logo="" group-title="Sport+",DIGI Sport 4 HD
 #EXTVLCOPT:network-caching=1000
-http://82.78.243.219:45739/play/a00v/index.m3u8
+
 
 
 
