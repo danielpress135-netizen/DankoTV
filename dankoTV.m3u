@@ -3942,7 +3942,7 @@ https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SensacionCosta.cl@SD" tvg-name="Sensacion Costa" tvg-logo="https://i.imgur.com/oYQoWAB.png" group-title="MUSIC🎶📺/TV CLASSIC"",Sensacion Costa
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retro Musica Radio Cile" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="MUSIC🎶📺/TV CLASSIC",Retro Musica Radio Cile
+#EXTINF:-1 tvg-id="" tvg-name="Retro Musica Television Cile" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="MUSIC🎶📺/TV CLASSIC",Retro Musica Television Cile
 https://vdochile.com:3864/live/retrolive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retromusica Cile" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="MUSIC🎶📺/TV CLASSIC",Retromusica Cile
 https://vdochile.com:3864/stream/play.m3u8
