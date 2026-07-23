@@ -2904,6 +2904,18 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ENT Channel" tvg-logo="" group-title="LatinoES🇪🇸/TV",ENT Channel (UK)
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENT Family" tvg-logo="" group-title="LatinoES🇪🇸/TV",ENT Family (UK)
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-name="Alterna TV" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="MIX",Alterna TV (720p) [Not 24/7]
@@ -3567,6 +3579,8 @@ https://deltaradio.streamabc.net/regc-deltahardheavy-mp3-192-1449782?sABC=6n3588
 http://hearme.fm:8564/stream
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="MUSIC🎵📻/RADIO🎸ROCK", Kombinat jest Metal - 128 kbit/s
 http://s1.slotex.pl:7836/stream/1/
+#EXTINF:-1 TotalRock - The True Voice of Rock & Metal Radio
+https://s3.citrus3.com:8056/stream
 
 
 
