@@ -2969,8 +2969,6 @@ https://v2.tustreaming.cl/utv/index.m3u8
 #EXTINF:-1 tvg-id="TVU.cl@SD" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="LatinoES🇪🇸/TV",TVU Concepción (Chile)
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TUTV.cl" tvg-name="TUTV" tvg-logo="" group-title="LatinoES🇪🇸/TV",TUTV (chile)
-https://vdochile.com:3775/live/tutvlive.m3u8
-#EXTINF:-1 tvg-id="TUTV.cl" tvg-name="TUTV" tvg-logo="" group-title="LatinoES🇪🇸/TV",TUTV (chile)
 https://vdochile.com:3775/stream/play.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-name="Alterna TV" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="LatinoES🇪🇸/TV",Alterna TV (Argentina)
 https://tv.alterna.ar/stream/hls/live.m3u8
