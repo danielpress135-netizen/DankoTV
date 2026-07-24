@@ -2968,6 +2968,10 @@ https://v2.tustreaming.cl/tevex/index.m3u8
 https://v2.tustreaming.cl/utv/index.m3u8
 #EXTINF:-1 tvg-id="TVU.cl@SD" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="LatinoES🇪🇸/TV",TVU Concepción (Chile)
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TUTV.cl" tvg-name="TUTV" tvg-logo="" group-tiyle="LatinoES🇪🇸/TV",TUTV (chile)
+https://vdochile.com:3775/live/tutvlive.m3u8
+#EXTINF:-1 tvg-id="TUTV.cl" tvg-name="TUTV" tvg-logo="" group-tiyle="LatinoES🇪🇸/TV",TUTV (chile)
+https://vdochile.com:3775/stream/play.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-name="Alterna TV" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="LatinoES🇪🇸/TV",Alterna TV (Argentina)
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar@SD" tvg-logo="https://i.imgur.com/hgj3CaR.jpeg" group-title="LatinoES🇪🇸/TV",Canal 2 NexTV Rafaela (Argentina)
@@ -4189,9 +4193,6 @@ https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 https://vdochile.com:3864/live/retrolive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retromusica Cile" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="MUSIC🎶📺/TV CLASSIC",Retromusica Cile
 https://vdochile.com:3864/stream/play.m3u8
-
-
-
 
 
 
