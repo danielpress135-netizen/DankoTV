@@ -512,6 +512,32 @@ https://www.youtube.com/watch?v=V_I168MM-ik
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",1 tv krime
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Алмазный край
+https://river-3-353.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/Z0IIfQPtLUXpMoUjKTKaUw/1785701445/ed40abd9d832e9f91ea0e0b0fde36e44/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",10 kanal.ru
+https://river-6-605.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/wYEjX8bqFfo9G14R34oDFw/1785701731/c9e26bf5c003fd8d477200065ca1a05f/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",arhiz
+https://arhiz24.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",arhiz hd
+https://arhiz24.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",astrahan 24
+https://yo6yql3j4vr.a.trbcdn.net/livemaster/1n8fu_08yw815p2o.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",bst tv hd
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",bst tv
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Salyam
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Salyam
+https://bsttv.bonus-tv.ru/cdn/salyam/tracks-v3a1/mono.ts.m3u8?filter.tracks=v2v3v4a1
+
+
+
+
+
+
 
 
  
