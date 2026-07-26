@@ -44,6 +44,8 @@ http://62.176.112.19:8008/play/a0cj
 http://213.91.179.28:8000/play/a08f
 #EXTINF:-1 tvg-id="RING.BG.bg" tvg-name="RING HD" tvg-logo="" group-title="Sport+",RING HD
 http://62.176.112.19:8008/play/a0bo
+#EXTINF:-1 tvg-id="Нова.Спорт.bg" tvg-name="NOVA SPORT HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPj3YDORNFF8yotFjs1NzJ-w.png" group-title="Sport+",NOVA SPORT HD
+http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_ZHioiK4aovz7UkpkVPp9U/ts
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="Sport+",Arena Sport 1 HD
 http://178.253.194.79:10006
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="Sport+",Arena Sport 2 HD
@@ -72,6 +74,8 @@ http://178.253.194.79:10016
 http://178.253.194.79:10017
 #EXTINF:-1 tvg-id="Arena.Tenis.rs" tvg-name="Arena Tennis HD" tvg-logo="" group-title="Sport+",Arena Tennis HD
 http://178.253.194.79:10019
+#EXTINF:-1 tvg-id="Arena.Adrenalin.rs" tvg-name="Arena Adrenalin HD" tvg-logo="" group-title="Sport+",Arena Adrenalin HD
+http://178.253.194.79:10018
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI Sport 1 HD" tvg-logo="" group-title="Sport+",DIGI Sport 1 HD
 #EXTVLCOPT:network-caching=1000
 
