@@ -6309,38 +6309,38 @@ http://23.237.104.106:8080/DAZN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="SPORT/TEST",DAZN 4 HD
 http://46.151.196.223:14423
-#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="Digi Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 1 HD
+#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="Digi Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 1 HD (ro)
 http://91.201.172.14:35005
-#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="Digi Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 2 HD
+#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="Digi Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 2 HD (ro)
 http://91.201.172.14:35006
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="sport tv 1" tvg-logo="" group-title="SPORT/TEST",sport tv 1
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="sport tv 1" tvg-logo="" group-title="SPORT/TEST",sport tv 1 (pt)
 http://94.130.32.19:8080/sporttv1/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="sport tv 2" tvg-logo="" group-title="SPORT/TEST",sport tv 2
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="sport tv 2" tvg-logo="" group-title="SPORT/TEST",sport tv 2 (pt)
 http://94.130.32.19:8080/sporttv2/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="sport tv 3" tvg-logo="" group-title="SPORT/TEST",sport tv 3
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="sport tv 3" tvg-logo="" group-title="SPORT/TEST",sport tv 3 (pt)
 http://94.130.32.19:8080/sporttv3/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="sport tv 4" tvg-logo="" group-title="SPORT/TEST",sport tv 4
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="sport tv 4" tvg-logo="" group-title="SPORT/TEST",sport tv 4 (pt)
 http://94.130.32.19:8080/sporttv4/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="sport tv 5" tvg-logo="" group-title="SPORT/TEST",sport tv 5
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="sport tv 5" tvg-logo="" group-title="SPORT/TEST",sport tv 5 (pt)
 http://94.130.32.19:8080/sporttv5/index.m3u8
-#EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-name="sport tv 6" tvg-logo="" group-title="SPORT/TEST",sport tv 6
+#EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-name="sport tv 6" tvg-logo="" group-title="SPORT/TEST",sport tv 6 (pt)
 http://94.130.32.19:8080/sporttv6/index.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://i.imgur.com/YWic36u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV1
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://i.imgur.com/YWic36u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV1 (pt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/stv1.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://i.imgur.com/0jSR6yG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV2
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://i.imgur.com/0jSR6yG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV2 (pt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/stv2.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://i.imgur.com/4w4vuad.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV5
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://i.imgur.com/4w4vuad.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV5 (pt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/stv5.m3u8
-#EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-logo="https://i.imgur.com/qmlQkyI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV6
+#EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-logo="https://i.imgur.com/qmlQkyI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV6 (pt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://zntx.dyndns.org:8085/hls/stv6.m3u8
-#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-logo="https://i.imgur.com/2HmCAm5.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV7
+#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-logo="https://i.imgur.com/2HmCAm5.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV7 (pt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://zntx.dyndns.org:8085/hls/stv7.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="https://i.imgur.com/R5FZEW6.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV+
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="https://i.imgur.com/R5FZEW6.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV+ (pt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 2 HD (br)
@@ -6357,15 +6357,15 @@ http://216.106.179.7:8080/ESPN5HD/index.m3u8
 http://216.106.179.7:8080/ESPN6HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 7 HD (co)
 http://216.106.179.7:8080/ESPN7HD/index.m3u8
-#EXTINF:-1 tvg-id="CytavisionSports1.cy@SD" tvg-logo="https://i.imgur.com/zMNSlyA.png" group-title="SPORT/TEST",Cytavision Sports 1 (1080p) (gr)
+#EXTINF:-1 tvg-id="Cytavision.Sports.1HD.cy" tvg-logo="https://i.imgur.com/zMNSlyA.png" group-title="SPORT/TEST",Cytavision Sports 1 (1080p) (cy)
 http://185.102.171.218/Cytavisionsports1/index.m3u8
-#EXTINF:-1 tvg-id="CytavisionSports2.cy@SD" tvg-logo="https://i.imgur.com/YAJdd5x.png" group-title="SPORT/TEST",Cytavision Sports 2 (1080p) (gr)
+#EXTINF:-1 tvg-id="Cytavision.Sports.2HD.cy" tvg-logo="https://i.imgur.com/YAJdd5x.png" group-title="SPORT/TEST",Cytavision Sports 2 (1080p) (cy)
 http://185.102.171.218/Cytavisionsports2/index.m3u8
-#EXTINF:-1 tvg-id="CytavisionSports3.cy@SD" tvg-logo="https://i.imgur.com/k7apW1o.png" group-title="SPORT/TEST",Cytavision Sports 3 (1080p) (gr)
+#EXTINF:-1 tvg-id="Cytavision.Sports.3HD.cy" tvg-logo="https://i.imgur.com/k7apW1o.png" group-title="SPORT/TEST",Cytavision Sports 3 (1080p) (cy)
 http://185.102.171.218/Cytavisionsports3/index.m3u8
-#EXTINF:-1 tvg-id="CytavisionSports4.cy@SD" tvg-logo="https://i.imgur.com/HWVe5hT.png" group-title="SPORT/TEST",Cytavision Sports 4 (720p) (gr)
+#EXTINF:-1 tvg-id="Cytavision.Sports.4HD.cy" tvg-logo="https://i.imgur.com/HWVe5hT.png" group-title="SPORT/TEST",Cytavision Sports 4 (720p) (cy)
 http://185.102.171.218/Cytavisionsports4/index.m3u8
-#EXTINF:-1 tvg-id="CytavisionSports5.cy@SD" tvg-logo="https://i.imgur.com/Hb4kYZy.png" group-title="SPORT/TEST",Cytavision Sports 5 (720p) (GR)
+#EXTINF:-1 tvg-id="Cytavision.Sports.5HD.cy" tvg-logo="https://i.imgur.com/Hb4kYZy.png" group-title="SPORT/TEST",Cytavision Sports 5 (720p) (cy)
 http://185.102.171.218/Cytavisionsports5/index.m3u8
 #EXTINF:-1 tvg-id="Sport1.ua@SD" tvg-logo="https://i.imgur.com/Zjb8awW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport 1 (576p) (UA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
