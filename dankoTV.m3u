@@ -6303,59 +6303,20 @@ http://178.253.194.79:10017
 http://178.253.194.79:10019
 #EXTINF:-1 tvg-id="Arena.Adrenalin.rs" tvg-name="Arena Adrenalin HD" tvg-logo="" group-title="SPORT/TEST",Arena Adrenalin HD
 http://178.253.194.79:10018
-#EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-name="MAX SPORT 1" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 1
-http://77.46.130.252:99/maxsport1
-#EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-name="MAX SPORT 2" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 2
-http://77.46.130.252:99/maxsport2
-#EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-name="MAX SPORT 3" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 3
-http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-id="MAX.Sport.4.bg" tvg-name="MAX SPORT 4" tvg-logo="" group-title="SPORT/TEST",MAX SPORT 4
-http://77.46.130.252:99/maxsport4
 #EXTINF:-1 tvg-id="" tvg-name="DAZN_2" tvg-logo="" group-title="SPORT/TEST",DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN_3" tvg-logo="" group-title="SPORT/TEST",DAZN 3
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="SPORT/TEST",DAZN 4 HD
 http://46.151.196.223:14423
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 1 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 1 HD
-http://46.151.196.223:14435
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 2 HD
 http://46.151.196.223:14438
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 4 HD
 http://46.151.196.223:14453
-#EXTINF:-1 tvg-id="Match.4.hu" tvg-name="MATCH4 HD" tvg-logo="" group-title="SPORT/TEST",MATCH4 HD
-http://46.149.191.217:9010/play/a019
-#EXTINF:-1 tvg-id="M4.Sport.cz" tvg-name="M4 Sport" tvg-logo="" group-title="SPORT/TEST",M4 Sport
-http://46.149.191.217:9010/play/a017
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="Digi Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 1 HD
 http://91.201.172.14:35005
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="Digi Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 2 HD
 http://91.201.172.14:35006
-#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 1 HD
-#EXTVLCOPT:network-caching=1000
-http://82.78.243.219:45739/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 2 HD
-#EXTVLCOPT:network-caching=1000
-http://82.78.243.219:45739/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="DIGI Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 3 HD
-#EXTVLCOPT:network-caching=1000
-http://82.78.243.219:45739/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="DIGI Sport 4 HD" tvg-logo="" group-title="SPORT/TEST",DIGI Sport 4 HD
-#EXTVLCOPT:network-caching=1000
-http://82.78.243.219:45739/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="Diema.Sport.HD.bg" tvg-name="Diemma Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Diemma Sport 1 HD
-http://85.11.144.9:3341/1
-#EXTINF:-1 tvg-id="Diema.Sport.2.HD.bg" tvg-name="Diemma Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Diemma Sport 2 HD
-http://85.11.144.9:3341/2
-#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diemma Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",Diemma Sport 3 HD
-http://85.11.144.9:3341/3
-#EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 1 HD
-http://85.11.144.9:3341/6
-#EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-name="MAX Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 2 HD
-http://85.11.144.9:3341/7
-#EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 3 HD
-http://85.11.144.9:3341/8
-#EXTINF:-1 tvg-id="MAX.Sport.4.bg" tvg-name="MAX Sport 4 HD" tvg-logo="" group-title="SPORT/TEST",MAX Sport 4 HD
-http://85.11.144.9:3341/9
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="sport tv 1" tvg-logo="" group-title="SPORT/TEST",sport tv 1
 http://94.130.32.19:8080/sporttv1/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="sport tv 2" tvg-logo="" group-title="SPORT/TEST",sport tv 2
@@ -6368,20 +6329,12 @@ http://94.130.32.19:8080/sporttv4/index.m3u8
 http://94.130.32.19:8080/sporttv5/index.m3u8
 #EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-name="sport tv 6" tvg-logo="" group-title="SPORT/TEST",sport tv 6
 http://94.130.32.19:8080/sporttv6/index.m3u8
-#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="sport tv 7" tvg-logo="" group-title="SPORT/TEST",sport tv 7
-http://94.130.32.19:8080/sporttv7/index.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://i.imgur.com/YWic36u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/stv1.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://i.imgur.com/0jSR6yG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/stv2.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://i.imgur.com/6Dw3GUx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://znty.dyndns.org:5010/hls/stv3.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://i.imgur.com/mJlbVfW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://znty.dyndns.org:5010/hls/stv4.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://i.imgur.com/4w4vuad.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport TV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/stv5.m3u8
