@@ -712,29 +712,29 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ТРК СЕВЕР (480)
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺", ТВ ГУБЕРНИЯ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺", ТВ ГУБЕРНИЯ (1080)
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ТЮМЕНСКОЕ ВРЕМЯ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ТЮМЕНСКОЕ ВРЕМЯ (1080)
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=1bfd12b93a2cdb28c4c2c38959890540
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ВИТРИНА ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ВИТРИНА ТВ (1080)
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ВИТРИНА ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ВИТРИНА ТВ (1080)
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/tracks-v1a1/rewind-3600.ts.m3u8?DVR&hls_proxy_host=19a8eea6df4c155292307c7060ae0012
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",WFC RU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",WFC RU (1080)
 https://cdn.wfc.tv/cdn/stream-rus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",WFC RU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",WFC RU (720)
 https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",WFC RU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",WFC RU (1080)
 https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",WFC ENG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",WFC ENG (1080)
 https://cdn.wfc.tv/cdn/stream-eng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",WFC ENG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",WFC ENG (720)
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",WFC ENG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",WFC ENG (1080)
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
 
@@ -816,6 +816,8 @@ https://stream.luci.xyz/hls/LTV.m3u8
 https://stream.libertas.tv/memfs/6767a62d-34ce-4756-8df5-0722b0475870.m3u8
 #EXTINF:-1 tvg-id="TV.Jadran.hr" tvg-name="TV Jadran" tvg-logo="" group-title="Ex-Yu/TV",TV Jadran (720p) 
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="ITH.Zelina" tvg-name="ITH Zelina" tvg-logo="" group-title="Ex-Yu/TV",ITH Zelina
+https://zelina.tv/hls/zelina_tv.m3u8
 #EXTINF:-1 tvg-id="SBTV.hr" tvg-name="SBTV" tvg-logo="" group-title="Ex-Yu/TV",SBTV (1080p) 
 https://live.leveex.hr/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Skolska Tv" tvg-logo="" group-title="Ex-Yu/TV",Skolska Tv
