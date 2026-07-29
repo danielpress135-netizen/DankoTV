@@ -726,173 +726,444 @@ https://cdn.wfc.tv/cdn/stream-rus.m3u8
 https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",WFC RU (1080)
 https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",RUTUBE TV
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",RUTUBE TV
 https://river-6-601.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/8tq3hRP16aoBEnSb4u4YGA/1785922823/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",RUTUBE TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",RUTUBE TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=vJyhOSO6HxwovPvku5oIFw&e=2085318022&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",СУББОТА! ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",СУББОТА! ТВ
 https://river-6-604.rtbcdn.ru/stream/genetta-412.ntv.rutube.ru/8NP2hA9cKpLuEGfX3tgDjA/1785923241/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",СУББОТА! ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",СУББОТА! ТВ
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=jffLBBo4NbHibLb8jKT8PQ&e=2085318440&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Телеканал ОТС
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал ОТС
 https://river-3-399.rtbcdn.ru/stream/genetta-305.m9.rutube.ru/ZyfvlOuxtSImfu8kZSuNkQ/1785923479/39c5bfe012402990e6402eded8bdc761/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Телеканал ОТС
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал ОТС
 https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=CikGzXoIDUjFIDNsTCELiw&e=2085318678&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",телеканала "ЯПервый"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",телеканала "ЯПервый"
 https://river-3-369.rtbcdn.ru/stream/genetta-403.ntv.rutube.ru/_kyBK17BmcuNJGuV4NdpsA/1785923704/b7d879feefadde4e04e516dde89012cd/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",телеканала "ЯПервый"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",телеканала "ЯПервый"
 https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=UcvWgrxPWVLCGab-PfHxig&e=2085318903&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Нижний Новгород 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Нижний Новгород 24
 https://river-3-367.rtbcdn.ru/stream/genetta-411.ntv.rutube.ru/DDdC-Q-YXLuISNSTfAqkXg/1785923837/3c86a67da5919dde328f95c7da0f6a31/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Нижний Новгород 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Нижний Новгород 24
 https://bl.rutube.ru/livestream/3c86a67da5919dde328f95c7da0f6a31/index.m3u8?s=yUn8leYoKYo0fCZAvDz58g&e=2085319036&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ННТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ННТВ
 https://river-3-366.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/VKQhW4AUyB3yIx5YeEQwkQ/1785924005/333f94ef9af118c0ac51006243053e07/720p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ННТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ННТВ
 https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=MvqoWb4h76lHno8qG4BSHg&e=2085319204&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Первый канал
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Первый канал
 https://river-6-603.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/UtOa-mFdYPO6wQRzvnb8XA/1785924276/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Первый канал
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=iaAnMqyVLYBei2m503-p9A&e=2085319475&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",НТВ
 https://river-6-604.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/5ghGq_PWMDx1O-e4UzpZmA/1785925295/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОТР
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ОТР
 https://river-6-604.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/ShbMtoLqMDP9-9poUobSCA/1785925429/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОТР
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ОТР
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=fdLs3UhiJi3IojvWdIPJYg&e=2085320629&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",СПАС ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",СПАС ТВ
 https://river-6-602.rtbcdn.ru/stream/genetta-407.ntv.rutube.ru/6vDy9S7vAGhc5EZQDUpcGw/1785925597/2bbfa9ebf9d79ade480d7281fcef1008/576p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",СПАС ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",СПАС ТВ
 https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=INZve9rFTwowkl59GdSwTQ&e=2085320796&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ЗВЕЗДА
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ЗВЕЗДА
 https://river-6-604.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/0Xneb_J3Vo0PMLsCOfl6_g/1785925690/5ab908fccfac5bb43ef2b1e4182256b0/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ЗВЕЗДА
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ЗВЕЗДА
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=zQmesFNTQKkoi6-hi9sKQA&e=2085320889&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Соловьёв LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Соловьёв LIVE
 https://river-6-601.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/j2B-KjWLxLjNdwBVS4sBQg/1785925924/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Соловьёв LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Соловьёв LIVE
 https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=JMyInnblPgzkr9S45kPP2Q&e=2085321010&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",БСТ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",БСТ
 https://river-3-399.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/A5Oge_EqLB4LUolkVeWnSQ/1785926308/92aa15b4975d9f63c4e0b82e3b7af463/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",БСТ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",БСТ
 https://bl.rutube.ru/livestream/92aa15b4975d9f63c4e0b82e3b7af463/index.m3u8?s=u3Ck1TywDcBmGwQb1PBl7A&e=2085321507&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Абакан 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Абакан 24
 https://river-3-368.rtbcdn.ru/stream/genetta-312.m9.rutube.ru/VE1H54ATybZyWfqsYoAlpg/1785926440/7c5ae60686a94e04691f6917e1dec066/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Абакан 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Абакан 24
 https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=khFNDn-30St_Rcbq-D_MBg&e=2085321640&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Телеканал Енисей
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал Енисей
 https://river-3-399.rtbcdn.ru/stream/genetta-404.ntv.rutube.ru/lrwZCW506MC7t3I4E5_sYQ/1785926618/5835cd10c04311e400f2ed19b1b2fe8b/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Телеканал Енисей
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал Енисей
 https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=JpjafUCs1dlGKvXUFWmhCA&e=2085321817&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",360 Новости
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",360 Новости
 https://river-3-369.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/HuTg28QbGP-etxTty0bHrw/1785926708/d14fcf59cb7d07a26c48ebc8c6565f44/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",360 Новости
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",360 Новости
 https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=CnFZ3pfJhp_ZnMlzcDtYBA&e=2085321908&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РБК-Уфа
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",РБК-Уфа
 https://river-3-368.rtbcdn.ru/stream/genetta-326.m9.rutube.ru/cIiTGhYRRm0SXRQDjYrF4A/1785926982/75957f55ed1e9b4e0ec00f8dd9594fcc/360p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РБК-Уфа
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",РБК-Уфа
 https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=hdvDjPwzR8pXPku9qsO1bg&e=2085322182&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",СОЮЗНЫЙ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",СОЮЗНЫЙ
 https://river-3-367.rtbcdn.ru/stream/genetta-304.m9.rutube.ru/EGyytxmq_4Tu1h1OyBm_EQ/1785927124/46c03b7f1a7255326900f4a60a9b44e0/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",СОЮЗНЫЙ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",СОЮЗНЫЙ
 https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=R54jyU7KYnpg2Ur5FRHx2A&e=2085322323&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Магас
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Магас
 https://river-3-354.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/mVq909N1kQ1ElTqqmo50Qg/1785927222/15bb032337c7425983757d211713eb7d/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Магас
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Магас
 https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=U1xRP3aYOhcBauw1gq-HBg&e=2085322421&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ЛенТВ24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ЛенТВ24
 https://river-6-603.rtbcdn.ru/stream/genetta-305.m9.rutube.ru/kMTKO0jOUUO_RCOb6cF8Fg/1785928749/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ЛенТВ24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ЛенТВ24
 https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=0rtZBzdpOvtGlzqdJquJ4A&e=2085323948&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Рифей-ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Рифей-ТВ
 https://river-3-399.rtbcdn.ru/stream/genetta-408.ntv.rutube.ru/SgwLrhE_4rrhfH0FajegTg/1785928863/57486bf8e1c01d16a5a939c463867fab/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Рифей-ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Рифей-ТВ
 https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=oBq5e3iFrlxj7w1WOqlqsw&e=2085324062&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",41 РЕГИОН
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",41 РЕГИОН
 https://river-3-371.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/oQQ51SmNz2IFkQFIR5agPQ/1785928980/aff0a2b356d2e1eef55bdb868be4dcc3/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",41 РЕГИОН
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",41 РЕГИОН
 https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=Uy4yT4IYc7iZB-5kbJQDrg&e=2085324179&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Канал 12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Канал 12
 https://river-3-317.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/ZIq0ZT3U01UmdwVna4hO8w/1785929160/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Канал 12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Канал 12
 https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=miSmuvit38P03JXa651VHw&e=2085324359&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Первый крымский
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Первый крымский
 https://river-3-367.rtbcdn.ru/stream/genetta-407.ntv.rutube.ru/CHJapqvgHRfdJf3DacuxLw/1785929280/3bbbfe178e58ca0830a701e0624f20d8/576p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Первый крымский
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Первый крымский
 https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=LwCH6TP4Xr4CkdR7dzA6ag&e=2085324479&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Юрган
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Юрган
 https://river-3-367.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/HHIStaQzd5JOYJRwMKVrrA/1785929369/601ca3d760de90391c18772e43d5190e/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Юрган
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Юрган
 https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=m8QQOaFAWUr3DSVFYGdtgw&e=2085324569&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Югра
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Югра
 https://river-3-369.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/HHwncsz5jzmgtRcM4fu4eA/1785929466/360eabf2bf139f0a97b971c4b92d09b6/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Югра
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Югра
 https://bl.rutube.ru/livestream/360eabf2bf139f0a97b971c4b92d09b6/index.m3u8?s=FgeL2mT1PnTVrSf0xs_qZg&e=2085324666&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Ариг Ус 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Ариг Ус 24
 https://river-3-369.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/R7ctqk0J9v-H3jVmhsN5zg/1785929851/5d9273a93631b87a3bbdc883bb3a58cb/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Ариг Ус 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Ариг Ус 24
 https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=g15a77gkBEueiJC-tbMxGQ&e=2085325050&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Ариг Ус 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Ариг Ус 24
 https://river-3-369.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/R7ctqk0J9v-H3jVmhsN5zg/1785929851/5d9273a93631b87a3bbdc883bb3a58cb/720p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Буряад ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Буряад ТВ
 https://river-3-368.rtbcdn.ru/stream/genetta-404.ntv.rutube.ru/ivCqrrgBhwtLm6Dtco8Fpw/1785930030/55fec7f2c11f4decc66568fca39f26b2/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Буряад ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Буряад ТВ
 https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=lnOdcoXcC7Jbmc3Z4ys2Sg&e=2085325229&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Липецкое время
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Липецкое время
 https://river-3-354.rtbcdn.ru/stream/genetta-401.ntv.rutube.ru/aBJyx3BRCueJUZR1O7Wukg/1785930152/23afd7debed1cfc7a8efa0827c24d836/720p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Липецкое время
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Липецкое время
 https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=dX2euDdHRjlQoJWAex0WdA&e=2085325351&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Волга 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Волга 24
 https://river-3-367.rtbcdn.ru/stream/genetta-305.m9.rutube.ru/d60pux35XxbyrOpNQiTzHg/1785930296/e30732c0045af997cb7312822534522f/720p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Волга 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Волга 24
 https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=LvLkki8xYPaueDApejXiPw&e=2085325495&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТС Иркутск
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",НТС Иркутск
 https://river-3-317.rtbcdn.ru/stream/genetta-403.ntv.rutube.ru/Utn44QpWOJU-mmc6YJE0hg/1785930447/b4c501ea4129408a3c195f9ae4359c0e/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТС Иркутск
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",НТС Иркутск
 https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=6Ca_qFVHmc3jowAlbSRPnw&e=2085325642&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Своё ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Своё ТВ
 https://river-3-367.rtbcdn.ru/stream/genetta-326.m9.rutube.ru/05UyFGQOktDj8rOq-WOlFQ/1785930554/1932f750f00f3a742a1d90c62d0076ad/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Своё ТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Своё ТВ
 https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=5z1G_0py3CRherixrvC8Jg&e=2085325753&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",7 канал Красноярск
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",7 канал Красноярск
 https://river-3-368.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/zYAggVZYrTgdRQA3vB0Dvw/1785930752/a0e83fe5c23fc219886f7d7f084a8cb4/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",7 канал Красноярск
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",7 канал Красноярск
 https://bl.rutube.ru/livestream/a0e83fe5c23fc219886f7d7f084a8cb4/index.m3u8?s=RPePFjOMxe_SY4NBwyN5Vg&e=2085325951&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Телеканал БАРС
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал БАРС
 https://river-3-367.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/jkvdXf4-QvJGdDpUI_XeLg/1785930933/f79ff24ad16cf5f5eb52994647596d13/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Телеканал БАРС
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал БАРС
 https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=BeBo3OAYrpEThr96-Go89Q&e=2085326132&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Истоки
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Истоки
 https://river-3-354.rtbcdn.ru/stream/genetta-302.m9.rutube.ru/RkvSkD1iBDhDiJUowRdgGw/1785931060/503a8ac5ca6d738f05a147764f70215b/576p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Истоки
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Истоки
 https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=Bt-g-MUacd-sADXimbaMEg&e=2085326259&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ИНФО 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ИНФО 24
 https://river-3-3112.rtbcdn.ru/stream/genetta-405.ntv.rutube.ru/o1xH9zAyExQM87zTRkSAPw/1785931207/b8079a6e1e184643d9a17c42469a1f30/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ИНФО 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ИНФО 24
 https://bl.rutube.ru/livestream/b8079a6e1e184643d9a17c42469a1f30/index.m3u8?s=gDgMz04vcdoaFSDlmBbchA&e=2085326407&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Ямал-Медиа
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Ямал-Медиа
 https://river-3-399.rtbcdn.ru/stream/genetta-418.ntv.rutube.ru/LH7ZPzQwrNllPKbyqwXe-w/1785932641/c0de1d61969a7fbdf6c68ca0b8a67769/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Ямал-Медиа
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Ямал-Медиа
 https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=1AodgWDa6Xqh7S9i4jSweg&e=2085327840&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОмскТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ОмскТВ
 https://river-3-354.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/yFqtxYMozXau9hwaWxugOA/1785932749/9927a61345cbec5aac6558f6c5454d61/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОмскТВ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ОмскТВ
 https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=wR6eIBDafO0NhexZiEwxqQ&e=2085327948&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ТОЛК (Барнаул)
+https://river-3-368.rtbcdn.ru/stream/genetta-408.ntv.rutube.ru/Pncl0lcWdEMgrdVsQiSVow/1785933314/0115cdc35fb5234242a89de98137dca9/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ТОЛК (Барнаул)
+https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=ch5h58BhYydY4UtQuZWBZg&e=2085328514&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Бийское Телевидение (БТВ)
+https://river-3-367.rtbcdn.ru/stream/genetta-304.m9.rutube.ru/e8bzb10HzWnJOmamigi4Ng/1785933460/671239d68ada3000a154a68efa0c7813/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Бийское Телевидение (БТВ)
+https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=bIpEjO6cDq97toEuRMukgw&e=2085328659&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",86 Сургут
+https://river-3-367.rtbcdn.ru/stream/genetta-305.m9.rutube.ru/XRgVRk7b555d8VzzKDUjNw/1785933594/813dc0c5a944559e7e52b840d09a84f6/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",86 Сургут
+https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=YfRV_Y8ecI2tuDEXegPkjQ&e=2085328793&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",С1 Сургут
+https://river-3-3112.rtbcdn.ru/stream/genetta-404.ntv.rutube.ru/gNTCUX1je_-mV8x3VF81nA/1785933744/7a35d5186515db85144d86900ebe1daf/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",С1 Сургут
+https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=F0Iwmdq58isKyvh95Kn_XQ&e=2085328943&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",МТВ Волгоград
+https://river-3-354.rtbcdn.ru/stream/genetta-312.m9.rutube.ru/AFx-bDF3x5g-4T3UI6QPVQ/1785933845/1839496ed8242ed47f5c540e25d4ba3f/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",МТВ Волгоград
+https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=nWCSHJ8xcRXfaCaGdymhew&e=2085329044&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Продвижение
+https://river-3-399.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/tswA3h2nAUNXrJvw4MmpBg/1785933924/ff5c11c9a51750f5d33427762abc315c/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Продвижение
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=NCvueIZ5pbshsOvigbyxsg&e=2085329123&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",АРИС 24
+https://river-3-399.rtbcdn.ru/stream/genetta-412.ntv.rutube.ru/obEyt2hN3JPvTLAEVdXTkQ/1785934006/9b482361d6c845f7d70eafc98356d8bf/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",АРИС 24
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=KKWju6F-Bv9Ml9LWgb9GHQ&e=2085329205&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Четвертый канал
+https://river-3-368.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/W6phaG_N2TWqZE2zRtFnqQ/1785934204/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Четвертый канал
+https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=3V08__0j9Ocu1H1u5ufsKA&e=2085329403&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",РГВК "Дагестан"
+https://river-3-368.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/USQj31gJARDh0SUKta0rgA/1785934391/fcafa0d358df671e4f7c61ca54c79bea/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",РГВК "Дагестан"
+https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=A_VaTLGQHOXvZ9D2YSKfgA&e=2085329589&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ЮУрГУ-ТВ (Челябинск)
+https://river-3-399.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/7GRO6TcnGx1Co3ILsd9Zxw/1785934507/f6160b4e48cb32b4d5438c66c83b69dc/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ЮУрГУ-ТВ (Челябинск)
+https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=ZFFGrcV0aHrv2vWhh6tMsA&e=2085329707&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Ника ТВ (Калужская область)
+https://river-3-367.rtbcdn.ru/stream/genetta-403.ntv.rutube.ru/mRSiSf3OxlITXnTP4gIsBA/1785934655/37d722b7752cd193a3f94d71cc9d60f5/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Ника ТВ (Калужская область)
+https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=JKoZ5ynBk8sYPGQhtTjD0A&e=2085329854&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Вся Уфа
+https://river-3-368.rtbcdn.ru/stream/genetta-312.m9.rutube.ru/Q38NGfdVNjtkpnirZniEqA/1785934889/5a88a8d75565c5cdebeb11d87bfc61e9/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Вся Уфа
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=N5UUOgDWTKOD96_w-jqDLA&e=2085330089&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ИЛЛИ ТВ
+https://river-3-369.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/8EScZvqvXuFzY5njDhuejw/1785935007/eda2da42eea89951e4135141a30915f7/576p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ИЛЛИ ТВ
+https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=BO_0YxUmJlX5ukVCTz1h4A&e=2085330206&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Мир Белогорья
+https://river-3-369.rtbcdn.ru/stream/genetta-401.ntv.rutube.ru/mDzvPrCp_EXWuwB3dJ9UnQ/1785935097/31bd9a668e5dfe5feddb988c96c0998c/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Мир Белогорья
+https://bl.rutube.ru/livestream/31bd9a668e5dfe5feddb988c96c0998c/index.m3u8?s=ApveuCdGDo8hjFhGRIa9IA&e=2085330296&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",UTV
+https://river-3-354.rtbcdn.ru/stream/genetta-412.ntv.rutube.ru/RdZh4KD-Hezb-kaOUnrcSA/1785935213/673b559e08f8b99d65a4e8fbbceb911b/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",UTV
+https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=Jf8TflHaVKg0eN3QNxB2gQ&e=2085330411&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",НВК САХА HD
+https://river-3-354.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/r4wUUI4B12s4FsePMXfAWQ/1785936286/ca9d955460e0ba17a5a4b3a9b99bb8d2/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",НВК САХА HD
+https://bl.rutube.ru/livestream/ca9d955460e0ba17a5a4b3a9b99bb8d2/index.m3u8?s=1jWfqTW-Jy_4fqEHni1a7Q&e=2085331485&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Якутия 24
+https://river-3-366.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/iQ5XbEVpU26oDPe8D0o-Ew/1785936381/2d65c260e4b73ef162aca5df132e5147/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Якутия 24
+https://bl.rutube.ru/livestream/2d65c260e4b73ef162aca5df132e5147/index.m3u8?s=ZMFJDG1Gyh3eWz1X83_e6g&e=2085331581&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Сургут 24
+https://river-3-399.rtbcdn.ru/stream/genetta-420.ntv.rutube.ru/kYdCojuSk8WQKXsRF01Sqg/1785936472/f520a781e91c3aa90fec5790cebd3fdb/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Сургут 24
+https://bl.rutube.ru/livestream/f520a781e91c3aa90fec5790cebd3fdb/index.m3u8?s=yAm6QOa3iFHpbZWlzhKr2A&e=2085331671&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Беларусь 1
+https://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/Od-JuZ4HgQB4omuyV6OTZg/1785936573/da760ca73396be9f7bc1589dba81036b/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Беларусь 1
+https://river-3-372.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/Od-JuZ4HgQB4omuyV6OTZg/1785936573/da760ca73396be9f7bc1589dba81036b/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Беларусь 1
+https://bl.rutube.ru/livestream/da760ca73396be9f7bc1589dba81036b/index.m3u8?s=VPC8NBex7vMfXDW3zAfHlw&e=2085331772&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Первый информационный
+https://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/t-MaaUNNX-VSooqIXc8l1g/1785937186/b68e4526d60f0945b36853edee93aca8/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Первый информационный
+https://river-3-369.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/t-MaaUNNX-VSooqIXc8l1g/1785937186/b68e4526d60f0945b36853edee93aca8/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Первый информационный
+https://bl.rutube.ru/livestream/b68e4526d60f0945b36853edee93aca8/index.m3u8?s=CV4eCIfhDcVJkqcT7QSc8w&e=2085332385&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Международный канал Первого
+https://river-3-317.rtbcdn.ru/stream/genetta-312.m9.rutube.ru/sZY_LPw4brPjSMsDx8Kdgg/1785937354/d0df7ad80fdc9909f9630efbdd2653f5/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Международный канал Первого
+https://bl.rutube.ru/livestream/d0df7ad80fdc9909f9630efbdd2653f5/index.m3u8?s=43RWdfEM_Cq7uoaO79V-8Q&e=2085332553&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал «Новый век» (Тамбовская область)
+https://river-3-317.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/LFUROKMupkjPPmeJ1Shvjg/1785938263/7748a2530116682fa185a156ce1d09a3/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал «Новый век» (Тамбовская область)
+https://bl.rutube.ru/livestream/7748a2530116682fa185a156ce1d09a3/index.m3u8?s=Te2M3FisEBoi42w-4qDNBw&e=2085333462&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Алмазный край
+https://river-3-3112.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/Pb0qilu0CCy6WSAfdVHooQ/1785938442/ed40abd9d832e9f91ea0e0b0fde36e44/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Алмазный край
+https://bl.rutube.ru/livestream/ed40abd9d832e9f91ea0e0b0fde36e44/index.m3u8?s=YvbQdNb15zu8BC7Be3EWFw&e=2085333641&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ТИВИСИ Восточная Сибирь
+https://river-3-317.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/UR9mGmyIvvgJ9cXLA0BG8w/1785938527/047d8b76295c88df33da226a057f2492/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ТИВИСИ Восточная Сибирь
+https://bl.rutube.ru/livestream/047d8b76295c88df33da226a057f2492/index.m3u8?s=dPasoJfuQPM04098FB34hQ&e=2085333725&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Среда
+https://river-3-371.rtbcdn.ru/stream/genetta-317.m9.rutube.ru/bYVlHZtbmqvdTo59o_JsOw/1785938646/5fa486bf465c8735fff9f41b372610cc/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Среда
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=70II7ED5ezbi6mG85WHOCQ&e=2085333845&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Таврия
+https://river-1.rutube.ru/stream/genetta-418.ntv.rutube.ru/ZcRtWqXrgL5ZIlxFL-y0gA/1785938736/c5a272dc23ad505667bc2b54f98a3241/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Таврия
+https://river-3-3112.rtbcdn.ru/stream/genetta-418.ntv.rutube.ru/ZcRtWqXrgL5ZIlxFL-y0gA/1785938736/c5a272dc23ad505667bc2b54f98a3241/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Таврия
+https://bl.rutube.ru/livestream/c5a272dc23ad505667bc2b54f98a3241/index.m3u8?s=O6JtzEGS8rWgdnD7hC11KA&e=2085333936&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Первоуральск ТВ
+https://river-3-317.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/ED8xuE4mZiwUVsJTSZMIBw/1785938910/59e0373a9aa587e06aeaf9009f86ded1/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Первоуральск ТВ
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=egVe_9BF89gW3j5RwVDeaA&e=2085334109&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Губерния 33
+https://river-3-366.rtbcdn.ru/stream/genetta-302.m9.rutube.ru/1eBcKtbbRga4aoXbwMQwHg/1785938997/52a1592710d8803b0570bfef9d2fbeff/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Губерния 33
+https://bl.rutube.ru/livestream/52a1592710d8803b0570bfef9d2fbeff/index.m3u8?s=azk_Rh7MO1RVklRW5FkHbA&e=2085334196&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",FON MUSIC
+https://river-6-601.rtbcdn.ru/stream/genetta-407.ntv.rutube.ru/Mgx0CgocytFecwzFqXqv1A/1785939375/5a294ae1ed12c44c7053301fb5fa9ba0/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",FON MUSIC
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=xbnJpjmyDkmhvfNHyNxtfQ&e=2085334574&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Охотник и рыболов
+https://river-6-601.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/nN52_wp521uNr_NKiKWUgQ/1785939485/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Ka6dX0VgFa4cIYChHDD-7g&e=2085334678&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",VIVA Russia HD
+https://river-6-601.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/t-wi2gr_JvuWUxGdqGkYLw/1785939590/f712ae5ff3db23ec09b3674133d44daa/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",VIVA Russia HD
+https://river-6-601.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/t-wi2gr_JvuWUxGdqGkYLw/1785939590/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",VIVA Russia HD
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=J0Mi7vm5gFk8pcYdqRt8BA&e=2085334788&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Загородный
+https://river-3-399.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/PMADwgnTzJG29Eg8mWLJQg/1785939760/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Загородный
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=L_peFvtEHGYvmwW7awWaZw&e=2085334959&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",РАТНИК
+https://river-3-317.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/OBZqC7NCEi_zkWxZnmFSXQ/1785939982/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",РАТНИК
+https://bl.rutube.ru/livestream/13b0320238d7938a2deffb4065068986/index.m3u8?s=yBCoxg52FCmrTqn99ZBfog&e=2085335181&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",КИНО и ЖИЗНЬ
+https://river-6-605.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/lRKu3OdsMGaDZJZ3u1dXAg/1785940123/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",КИНО и ЖИЗНЬ
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=B7Jj_31nNaKTrI-sIN0_uw&e=2085335322&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Тайна ТВ 
+https://river-6-602.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/fqlBFAeJcmLjMv8AY3_TMA/1785940251/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Тайна ТВ
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=VociPiW4QLZa0_i9_WDXOA&e=2085335450&scheme=https 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Кинолаффка
+https://river-6-604.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/2CMee16hcPSZh-2UWYUbgQ/1785940440/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Кинолаффка
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=CbCIO87wNRa6rP-b7sKC2Q&e=2085335640&scheme=https 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Киножелезо
+https://river-6-604.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/gOsVIIk5VsVotEI5VxfthQ/1785940547/4965b7b928c4a143d708ab424be01d37/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=qhGyXsehp_VSNgfs7rui5w&e=2085335747&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ПРО БИЗНЕС
+ЗНЕСhttps://river-3-317.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/1be6HuAcwumbX6PXvc_Xjw/1785940716/6cf7ef6babbb4bb2e9b97961f831034c/576p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ПРО БИЗНЕС
+https://bl.rutube.ru/livestream/6cf7ef6babbb4bb2e9b97961f831034c/index.m3u8?s=wN04hfMxhyH0LsxOeN89pg&e=2085335915&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Плюс минус 16
+https://river-3-369.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/yDd4ArRA9BkEzRhVHHVRKg/1785940947/99d4597cea881a27cf7dd6e65a74dade/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Плюс минус 16
+https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=JAKN8mI6I5IR4ZxBO1MjrA&e=2085336145&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Москва 24
+https://river-6-603.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/aJg_2wNMU5-BxCl60KC_tA/1785941026/ca70d39eba2e8771358bbcb4bfbad860/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Москва 24
+https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=AssWdU5t-e5Zi9Gfik1iUQ&e=2085336225&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ИЛЛИ ТВ
+https://river-3-369.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/cszqx_ALaGVFPpMnRhOO7g/1785941103/eda2da42eea89951e4135141a30915f7/576p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ИЛЛИ ТВ
+https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=HIYU26l0eA2hahpKHEafHA&e=2085336302&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Мир Белогорья
+https://river-3-368.rtbcdn.ru/stream/genetta-401.ntv.rutube.ru/WE-rSnDhR-slpD-WERbjlg/1785941273/31bd9a668e5dfe5feddb988c96c0998c/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Мир Белогорья
+https://bl.rutube.ru/livestream/31bd9a668e5dfe5feddb988c96c0998c/index.m3u8?s=9gyCip8G8shT-ImF1yfjow&e=2085336472&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",MIXM TV
+https://river-3-368.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/5PHcoDZqEGoYHvOtIray3A/1785941513/88eba514854a55d87a4b66b66b1977e7/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",MIXM TV
+https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=p2Y_YThYA72Q0AvgahX89g&e=2085336713&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Городской телеканал UTV
+https://river-3-366.rtbcdn.ru/stream/genetta-412.ntv.rutube.ru/d5qgEqfS5CPCtmPiincbZQ/1785941617/673b559e08f8b99d65a4e8fbbceb911b/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Городской телеканал UTV
+https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=04GE2wvvUseznDrmnFJrQQ&e=2085336816&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ЛТВ (Люберецкое телевидение)
+https://river-3-366.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/DFnUDsy3s-O850taE_crvw/1785942224/067561b5754d0b7844762fa92939716b/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ЛТВ (Люберецкое телевидение)
+https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=aI2RZ9IPX7JQhivxB8UIbQ&e=2085337423&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Ключайка
+https://river-6-601.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/jdEVlWFbNVHKENvKgxpsUQ/1785942421/ed497bdb28846536f3928849f8f7e469/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Ключайка
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=zNNkkp70kS2iNdQ6ALVgOg&e=2085337621&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Мой мир
+https://river-3-3112.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/Gw8_sDaMNokA1YzAVyVJgg/1785942506/0064bd09060c8b8469fef19f269e8a8a/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Мой мир
+https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=-2Ybr08uwIj5KaydL7EeEQ&e=2085337705&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Shopping at Home
+https://river-4-435.rtbcdn.ru/stream/genetta-408.ntv.rutube.ru/I1HGBvPb73zrzvZBb1o_-g/1785942953/75d440a39a0aa9b71f55a71341bebe1e/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Shopping at Home
+https://bl.rutube.ru/livestream/75d440a39a0aa9b71f55a71341bebe1e/index.m3u8?s=pAt-siOh0BshimCtVqObtw&e=2085338153&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал МЫ
+https://river-3-367.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/23mB8ieWKdRklMduonMQUA/1785943215/ee431650738a594119c3516ceda72775/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал МЫ
+https://bl.rutube.ru/livestream/ee431650738a594119c3516ceda72775/index.m3u8?s=-MK9lWUx6XF5cON17JrMlA&e=2085338415&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ВДОХ
+https://river-3-354.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/GQgSzgKk_3CEHUrxs_7Pyw/1785943609/988ec7330fa38c8a1e5980ba7d02dbbe/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ВДОХ
+https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=XFq93f-9EmtZ9HsDV0iUpQ&e=2085338807&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ЦТВ
+https://river-3-368.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/Lgn9TSjwZzYboj3e_zmUKg/1785943744/d751dcb6c61658ec76461bc166d6e529/576p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ЦТВ
+https://bl.rutube.ru/livestream/d751dcb6c61658ec76461bc166d6e529/index.m3u8?s=eWVT2OyXFVgi4ChhfcUVqA&e=2085338943&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",EPIC MEDIA
+https://river-6-601.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/DzTBwnmU8NZPJhZgrX19rQ/1785945395/0ed0696149c131d3a7349372d730d4e6/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",EPIC MEDIA
+https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=4VrfBxhoOoXv7uz3aJm-Vg&e=2085340594&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",EPIC MEDIA Love
+https://river-6-602.rtbcdn.ru/stream/genetta-408.ntv.rutube.ru/YzKsktoxh104klhhf738OQ/1785944018/21f3993ed8291b70208aa06c982c731f/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",EPIC MEDIA Love
+https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=_AKD2yCTPrnPRQZkqhz3BA&e=2085339217&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ТБВ
+https://river-3-367.rtbcdn.ru/stream/genetta-305.m9.rutube.ru/lrfFGRCr2KAzQnqgMT7zUw/1785944181/68b2533a29f7de163842baf1b9dfc17e/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ТБВ
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=Q4Hj6lA2QJyF5vlmwn2XUQ&e=2085339381&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Luxury
+https://river-4-448.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/vD9faNlsXtAZ_mfuLn-1hA/1785944273/5e5c002f266cbb781058c145b0522b5c/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Luxury
+https://bl.rutube.ru/livestream/5e5c002f266cbb781058c145b0522b5c/index.m3u8?s=M07cHFvqzf3V_KB-9Gzppw&e=2085339472&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Cоюз
+https://river-3-3112.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/7YMQtAjiq12O65cvcaJbwA/1785944395/80b308e455f2aceb498e5dccd58ca050/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Cоюз
+https://bl.rutube.ru/livestream/80b308e455f2aceb498e5dccd58ca050/index.m3u8?s=Lq7h6sC7Rg5CGp3hFDALcQ&e=2085339594&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ТБН
+https://river-3-367.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/RBd9Qo00DUNTgQ_CCPewJA/1785944949/f0c302d2736a4066564b9b929b69507c/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ТБН
+https://bl.rutube.ru/livestream/f0c302d2736a4066564b9b929b69507c/index.m3u8?s=QpI_VB9oJO_P_nMK6GakDA&e=2085340147&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Смайлик ТВ
+https://river-1.rutube.ru/stream/genetta-403.ntv.rutube.ru/-FGDvAf7uluTuyxfZPi-OQ/1785945624/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Смайлик ТВ
+https://river-6-605.rtbcdn.ru/stream/genetta-403.ntv.rutube.ru/-FGDvAf7uluTuyxfZPi-OQ/1785945624/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Смайлик ТВ
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=_-tHPyDOysBDWBZvRLpKkw&e=2085340823&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Радость Моя
+https://river-3-354.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/gsDQRzXseNHbziaXVqeH0w/1785945767/9ad2099eed71b4a0e577292c3bfd0708/576p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Радость Моя
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=TqceMwuzjSNv88MCUTCkOQ&e=2085340966&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Музыка Мода ТВ
+https://river-3-366.rtbcdn.ru/stream/genetta-421.ntv.rutube.ru/jlWdyIrja8FIICPUC7O8fg/1785945984/965a025e4ebbaf0957415f80c6de8534/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Музыка Мода ТВ
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=55L8xIsMiCtJ3AZ5_3Ut7g&e=2085341183&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Жар Птица
+https://river-3-354.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/TZBxL_XTvQuhVtILUZSo7Q/1785946089/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Жар Птица
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=LnXty6-6We6nF-LCDeERKA&e=2085341288&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Музсоюз
+https://river-3-368.rtbcdn.ru/stream/genetta-411.ntv.rutube.ru/KcJ1egQIaSE-mA2t1mE-cQ/1785946209/d1dff14680d4c84e27908983375f7e89/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Музсоюз
+https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=4rEcJaON7S8r8BKrfzdJeA&e=2085341407&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",СПАС
+https://river-6-602.rtbcdn.ru/stream/genetta-407.ntv.rutube.ru/WE_fEqrah-1W1oo5_U3q1Q/1785946431/2bbfa9ebf9d79ade480d7281fcef1008/576p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",СПАС
+https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=z1wfW9-TABE7shp18ygP6g&e=2085341629&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал 360
+https://river-3-354.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/LlbO_TktyUy3QLL0LbV9jQ/1785946976/07beff61e617797db550cc3a5f6ad92b/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал 360
+https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=wYW5h3kTzoYoBtW_BLrP0A&e=2085342175&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺", ВМЕСТЕ-РФ
+https://river-3-369.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/obDDDR0fdTkLXytaeqgiQA/1785947169/f6a6d5c955180d0d0f80c66d0b6150d3/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺", ВМЕСТЕ-РФ
+https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=Q5D_ENJyi6aR2YUDNCuZVQ&e=2085342368&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал HHQ – Исследуем мир вместе
+https://river-3-399.rtbcdn.ru/stream/genetta-326.m9.rutube.ru/a-kG43-wIXKBFtgskoXjdA/1785947314/2d7fa51716500fba52586d594201777f/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал HHQ – Исследуем мир вместе
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=d2EYesv-3TVuNsfqvwREiQ&e=2085342514&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",
+
+
+
+
+
+
 
 
 
