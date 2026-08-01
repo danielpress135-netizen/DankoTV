@@ -5,11 +5,12 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/strea
 #EXTINF:-1 tvg-id="" tvg-name="Euronews Русский" tvg-logo="" group-title="Mix",Euronews Русский
 https://s70378.cdn.ngenix.net/euronews/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Русский" tvg-logo="" group-title="Mix",CGTN Русский
-https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f785d738a845cc80658e887843a18ed9/index.m3u8?s=K212XsY5aUMb4n3O0lG5Gw&e=2085483066&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Первый канал HD" tvg-logo="" group-title="Mix",Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Рен ТВ" tvg-logo="" group-title="Mix", Рен ТВ
-http://46.32.176.50/rentv/index.m3u8
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-name="360° " tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Mix",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1 tvg-id="360News.ru@SD" tvg-name="360° Новости" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Mix",360° Новости (1080p)
@@ -25,7 +26,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-name="Мир 24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="Mix",Мир 24 (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-name="Москва 24" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="Mix",Москва 24
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=A77nNXWzhKawguHWxdeigA&e=2085483063&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="RTN (USA)" tvg-logo="" group-title="Mix",RTN (USA)
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 tvg-id="" tvg-name="Честный детектив" tvg-logo="" group-title="Mix" ,Честный детектив
@@ -52,7 +54,8 @@ https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-name="РБК" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Mix",РБК (576p)
 https://uiptv.do.am/1ufc/701293058/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ТНТ 4" tvg-logo="" group-title="Mix", ТНТ 4
-http://46.32.176.50/tnt/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=6bnrzXL2j8mLXZCy9LlV7Q&e=2085483063&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Твоё ТВ HD" tvg-logo="" group-title="Mix",Твоё ТВ HD 
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Твоё ТВ HD Юмор" tvg-logo="" group-title="Mix",Твоё ТВ HD Юмор
@@ -60,7 +63,7 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rutube TV" tvg-logo="" group-title="Mix",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=oHj2XcteAcYKta2217JTpA&e=2069285048&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="CBC" tvg-logo="" group-title="Mix", CBC
-http://46.32.176.50/cbc/index.m3u8
+
 
 
 
@@ -156,11 +159,11 @@ https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=iW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=WJJMM7ej-bywiLGs9JXUuQ&e=2083666554&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Bridge TV" tvg-logo="" group-title="music", Bridge TV
-http://46.32.176.50/bridgetv/index.m3u8
+https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="" group-title="music", Bridge Classic
-http://46.32.176.50/rusong/index.m3u8
+http://hls127.freeott.top:8080/Bridge_Classic/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bridge Deluxe" tvg-logo="" group-title="music", Bridge Deluxe
-http://46.32.176.50/BridgeTVHD/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="15 Plus Music" tvg-logo="" group-title="music",15 Plus Music
 http://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ММТВ" tvg-logo="https://i.ibb.co/VKSnQpd/image-97.png" group-title="music", ММТВ
@@ -178,69 +181,78 @@ http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="" group-title="Kino", Hollywood HD
-http://46.32.176.50/HollywoodHD/index.m3u8
+
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-name="Bollywood HD Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Kino",Bollywood HD Russia (576p)
 http://158.101.222.193:88/georgia_play.php?id=bollywoodhd
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 HD" tvg-logo="" group-title="Kino",TV1000 HD
+https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 Action HD" tvg-logo="" group-title="Kino",TV1000 Action HD
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju TV1000 Romantica HD" tvg-logo="" group-title="Kino",Viju TV1000 Romantica HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=mSLA7ufRhDMFi2Tt0z_iLA&e=1786291475&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 русское кино" tvg-logo="" group-title="Kino",TV1000 русское кино
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Megahit HD" tvg-logo="" group-title="Kino", Viju Megahit HD
-http://46.32.176.50/VIPMegahitHD/index.m3u8
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Premiere HD" tvg-logo="" group-title="Kino", Viju Premiere HD
-http://46.32.176.50/VIPPremiereHD/index.m3u8
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Comedy HD" tvg-logo="" group-title="Kino", Viju Comedy HD
-http://46.32.176.50/VIPComedyHD/index.m3u8
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Serial HD" tvg-logo="" group-title="Kino", Viju Serial HD
-http://46.32.176.50/ViasatSportHD/index.m3u8
+
 #EXTINF:-1 tvg-id="alphaMoretime.ru@HD" tvg-name="alpha Moretime" tvg-logo="https://i.imgur.com/ibQfUr7.png" group-title="Kino",alpha Moretime (1080p)
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="alphaCinema.ru@HD" tvg-name="alpha Cinema" tvg-logo="https://i.imgur.com/146OgfU.png" group-title="Kino",alpha Cinema (1080p)
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Кинохит" tvg-logo="" group-title="Kino", Кинохит
-http://46.32.176.50/kinoxit/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 tvg-id="" tvg-name="Наше Новое Кино" tvg-logo="" group-title="Kino",Наше Новое Кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 tvg-id="" tvg-name="Родное Кино" tvg-logo="" group-title="Kino",Родное Кино
-http://37.186.70.39:40/play/72/index.m3u8
+http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Кинопремьера HD" tvg-logo="" group-title="Kino",Кинопремьера HD
-http://37.186.70.39:40/play/69/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
 #EXTINF:-1 tvg-id="" tvg-name="Киносерия HD" tvg-logo="" group-title="Kino", Киносерия HD
-http://46.32.176.50/kinoseria/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 tvg-id="" tvg-name="Киномикс HD" tvg-logo="" group-title="Kino", Киномикс HD
-http://46.32.176.50/kinomiks/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 tvg-id="" tvg-name="Киносемья HD" tvg-logo="" group-title="Kino", Киносемья HD
-http://46.32.176.50/kinosemya/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 tvg-id="" tvg-name="Кинокомедия" tvg-logo="" group-title="Kino", Кинокомедия
-http://46.32.176.50/kinokomedia/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 tvg-id="" tvg-name="Индийское Кино" tvg-logo="" group-title="Kino", Индийское Кино
-http://46.32.176.50/indiskoekino/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
 #EXTINF:-1 tvg-id="" tvg-name="Киносвидание" tvg-logo="" group-title="Kino", Киносвидание
-http://46.32.176.50/kinosvidanie/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 tvg-id="" tvg-name="Мужское кино HD" tvg-logo="" group-title="Kino", Мужское кино HD
-http://46.32.176.50/MujskoeKinoHD/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 tvg-id="" tvg-name="Еврокино" tvg-logo="" group-title="Kino", Еврокино
-http://46.32.176.50/eurokino/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=eurokino
 #EXTINF:-1 tvg-id="" tvg-name="Дом кино" tvg-logo="" group-title="Kino", Дом кино
-http://46.32.176.50/domkino/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="Kino", Дом Кино Премиум HD
-http://46.32.176.50/DomKinoPremiumHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi" tvg-logo="" group-title="Kino", .Sci-Fi
-http://46.32.176.50/sonyscifi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Plan B" tvg-logo="" group-title="Kino", Plan B
-http://46.32.176.50/paramountchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi" tvg-logo="" group-title="Kino",Sci-Fi
+http://158.101.222.193:88/georgia_play.php?id=scifi
+#EXTINF:-1 tvg-id="" tvg-name="Plan B" tvg-logo="" group-title="Kino",Plan B
+
 #EXTINF:-1 tvg-id="" tvg-name="Русский Бестселлер" tvg-logo="" group-title="Kino",Русский Бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Русский Детектив" tvg-logo="" group-title="Kino", Русский Детектив
-http://46.32.176.50/russkiydetektiv/index.m3u8
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Русский Роман" tvg-logo="" group-title="Kino", Русский Роман
-http://46.32.176.50/russkiyroman/index.m3u8
+https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="РОМАН" tvg-logo="" group-title="Kino",РОМАН
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Мы из 90-х" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140" group-title="Kino",Мы из 90-х
 http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 tvg-id="" tvg-name="Любимое Кино" tvg-logo="" group-title="Kino", Любимое Кино
-http://46.32.176.50/lubimoekino/index.m3u8
+http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kино TV" tvg-logo="" group-title="Kino",Kино TV
 http://vod.tuva.ru/kinotv/index.m3u8
 EXTINF:-1 tvg-id="" tvg-name="ТВ3" tvg-logo="" group-title="Kino", ТВ3
-http://46.32.176.50/tv3/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=iXXAiPsaf41WKVMCbjmYtw&e=2085483064&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Кино 1 International" tvg-logo="" group-title="Kino",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="" group-title="Kino",Мосфильм. Золотая коллекция
@@ -284,13 +296,13 @@ https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Docu",NAT GEO WILD
-http://46.32.176.50/NatGeoWildHD/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Docu",National Geographic
-http://46.32.176.50/nationalgeographic/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Insight TV HD" tvg-logo="" group-title="Docu",Insight TV HD
-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Docu", Animal Planet HD
-http://46.32.176.50/AnimalPlanetHD/index.m3u8 
+
 #EXTINF:-1 tvg-id="BigAsia.ru@SD" tvg-name="Большая Азия" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Docu",Большая Азия (720p)
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Большая Азия" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Docu" ,Большая Азия
@@ -298,62 +310,65 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-name="RT Documentary Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Docu",RT Documentary Russian (1080p)
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru@SD" tvg-name="Неизвестная Россия" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="Docu",Неизвестная Россия (1080p)
-https://cdn.ntv.ru/unknown_russia/playlist.m3u8
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Охота и Рыбалка" tvg-logo="" group-title="Docu", Охота и Рыбалка
-http://46.32.176.50/oxotoiribalka/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Дикий" tvg-logo="" group-title="Docu", Дикий
-http://46.32.176.50/dikiy/index.m3u8
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ocean TV" tvg-logo="" group-title="Docu",Ocean TV
 http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
 #EXTINF:-1 tvg-id="Russian.Travel.Guide.cz" tvg-name="RTG TV" tvg-logo="" group-title="Docu",RTG TV
 http://hls127.freeott.top:8080/RTG_TV/video.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Моя планета" tvg-logo="" group-title="Docu", Моя планета
-http://46.32.176.50/moyaplaneta/index.m3u8
+https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Planet" tvg-logo="" group-title="Docu", Big Planet 
-http://46.32.176.50/bigplanet/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Домашние Животные" tvg-logo="" group-title="Docu", Домашние Животные
-http://46.32.176.50/domashniejivotnie/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Живая Планета" tvg-logo="" group-title="Docu", Живая Планета
-http://46.32.176.50/jivayaplaneta/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Авто24" tvg-logo="" group-title="Docu", Авто24
-http://46.32.176.50/avto24/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 tvg-id="" tvg-name="Авто Плюс" tvg-logo="" group-title="Docu", Авто Плюс
-http://46.32.176.50/avtoplyus/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 tvg-id="" tvg-name="Драйв" tvg-logo="" group-title="Docu",Драйв
 http://193.25.8.59:8000/drive
 #EXTINF:-1 tvg-id="" tvg-name="Первый Космический" tvg-logo="" group-title="Docu",Первый Космический
-https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy TV" tvg-logo="" group-title="Docu",Galaxy TV
 http://193.25.8.59:8000/galaxy
 #EXTINF:-1 tvg-id="" tvg-name="В Мире Животных" tvg-logo="" group-title="Docu",В Мире Животных
-https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Усадьба" tvg-logo="" group-title="Docu",Усадьба
 http://193.25.8.59:8000/usadba
 #EXTINF:-1 tvg-id="" tvg-name="Viju Nature" tvg-logo="" group-title="Docu",Viju Nature
-http://46.32.176.50/viasatexplorer/index.m3u8
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju History" tvg-logo="" group-title="Docu",Viju History
-http://46.32.176.50/viasathistory/index.m3u8
+https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Explore" tvg-logo="" group-title="Docu",Viju Explore
-http://46.32.176.50/viasatexplorer/index.m3u8
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 tvg-id="Vremya.cz" tvg-name="Время" tvg-logo="" group-title="Docu", Время
-http://46.32.176.50/Vremya/index.m3u8
+http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="История" tvg-logo="" group-title="Docu", История
-http://46.32.176.50/istoriya/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Top Secret" tvg-logo="" group-title="Docu",Top Secret
 #EXTVLCOPT:http-referrer=https://sovsekretno.tv/
 https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
 #EXTINF:-1 tvg-id="" tvg-name="Звезда" tvg-logo="" group-title="Docu", Звезда
-http://46.32.176.50/zvezda/index.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Звезда Плюс" tvg-logo="" group-title="Docu",Звезда Плюс
 https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ТВЦ" tvg-logo="" group-title="Docu", ТВЦ
-http://46.32.176.50/tvc/index.m3u8
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Домашний" tvg-logo="" group-title="Docu", Домашний
-http://46.32.176.50/domashniy/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=domashni
 #EXTINF:-1 tvg-id="" tvg-name="Ностальгия" tvg-logo="" group-title="Docu", Ностальгия
-http://46.32.176.50/nostalgiya/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=nostalgy
 #EXTINF:-1 tvg-id="" tvg-name="Пятница" tvg-logo="" group-title="Docu",Пятница
 http://31.131.141.195:8000/play/2060/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Оружие" tvg-logo="" group-title="Docu",Оружие
+http://45.11.139.43:8555/orujie/index.m3u8
+
 
 
 
@@ -376,11 +391,11 @@ http://hls127.freeott.top:8080/STS_Kids/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Карусель" tvg-logo="" group-title="Kids",Карусель
 http://31.131.141.195:8000/play/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Детский Мир HD" tvg-logo="" group-title="Kids", Детский Мир HD
-http://46.32.176.50/detskiymir/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Мульт" tvg-logo="" group-title="Kids", Мульт
-http://46.32.176.50/mult/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Мама" tvg-logo="" group-title="Kids", Мама
-http://46.32.176.50/mama/index.m3u8
+
 
 
 
@@ -388,37 +403,31 @@ http://46.32.176.50/mama/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Доктор" tvg-logo="" group-title="Zdrave",Доктор
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 tvg-id="" tvg-name="Здоровое ТВ" tvg-logo="" group-title="Zdrave",Здоровое ТВ
-https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Живи Активно HD" tvg-logo="" group-title="Zdrave",Живи Активно HD
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Живи Активно HD" tvg-logo="" group-title="Zdrave",Живи
-http://46.32.176.50/jivi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Живи" tvg-logo="" group-title="Zdrave",Живи 
+
 #EXTINF:-1 tvg-id="" tvg-name="Кухня ТВ" tvg-logo="" group-title="Zdrave",Кухня ТВ
-http://46.32.176.50/kuxnyatv/index.m3u8
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="Sport", Матч HD
-http://46.32.176.50/MatchTVHD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=iORm8kodbyqVhBILvTpvCA&e=2085483124&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Матч! Игра" tvg-logo="" group-title="Sport", Матч! Игра
-http://46.32.176.50/matchiqra/index.m3u8
+https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Матч! Арена HD" tvg-logo="" group-title="Sport", Матч! Арена HD
-http://46.32.176.50/MatchArenaHD/index.m3u8
+https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Матч! Боец" tvg-logo="" group-title="Sport", Матч! Боец
-http://46.32.176.50/boets/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV1000 HD" tvg-logo="" group-title="RU/TV",TV1000 HD
-
-#EXTINF:-1 tvg-id="" tvg-name="TV1000 Action HD" tvg-logo="" group-title="RU/TV",TV1000 Action HD
-
-#EXTINF:-1 tvg-id="" tvg-name="Viju TV1000 Romantica HD" tvg-logo="" group-title="RU/TV",Viju TV1000 Romantica HD
-
-#EXTINF:-1 tvg-id="" tvg-name="TV1000 русское кино" tvg-logo="" group-title="RU/TV",TV1000 русское кино
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Боец" tvg-logo="" group-title="Sport", Матч! Страна
+https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Laym Gold TV" tvg-logo="" group-title="RU/TV",Laym Gold TV
-
-#EXTINF:-1 tvg-id="" tvg-name="Оружие" tvg-logo="" group-title="RU/TV",Оружие
 
 
