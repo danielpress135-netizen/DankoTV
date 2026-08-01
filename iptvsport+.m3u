@@ -15,7 +15,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Sport+",Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="Sport+", Матч HD
-http://46.32.176.50/MatchTVHD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=iORm8kodbyqVhBILvTpvCA&e=2085483124&scheme=https
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="Sport+",MAX Sport 1 HD
 http://62.176.112.19:8008/play/a0be
 #EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-name="MAX SPORT 1" tvg-logo="" group-title="Sport+",MAX SPORT 1
