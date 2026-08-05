@@ -39,6 +39,8 @@ https://restr2.bgtv.bg/agro/hls/agro.m3u8
 https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Code Health TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/code-health-bg.png?raw=true" group-title="TV/BULGARIA",Code Health TV
 https://cdn2.invivo.bg/codehealth_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Code Market TV" tvg-logo="" group-title="TV/BULGARIA",Code Market TV 
+https://cdn2.invivo.bg/CODE_LIFE_5500/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-name="DSTV" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="TV/BULGARIA",DSTV 
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="TiankovFolk.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/VKY4q64.png" group-title="TV/BULGARIA",Tiankov Folk 
