@@ -1442,7 +1442,7 @@ http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 #EXTINF:-1 tvg-id="zona.m1.mk" tvg-name="ЗОНА М1 ТВ" tvg-logo="https://i.imgur.com/yTR7A0d.png" group-title="Ex-Yu/Music tv",ЗОНА М1 ТВ
 https://zonam1.ddns.net/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="IDJTV.HD.rs" tvg-name="IDJ TV" tvg-logo="" group-title="Ex-Yu/Music tv",IDJ TV
-https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
+https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8
 #EXTINF:-1 tvg-id="IDJKids.HD.(RS).rs" tvg-name="IDJ Kids" tvg-logo="" group-title="Ex-Yu/Music tv",IDJ Kids
 
 #EXTINF:-1 tvg-id="CMC.hr" tvg-name="CMC TV" tvg-logo="" group-title="Ex-Yu/Music tv",CMC TV (1080p)
@@ -1528,9 +1528,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/rtvpanda/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jupok Radio" tvg-logo="" group-title="Ex-Yu/Music tv",Jupok Radio
 https://lbgo.bozztv.com/ssh101/ssh101/jupokradio/playlist.m3u8
 #EXTINF:-1 tvg-id="ADRIA.MUSIC.TELEVISION.ch" tvg-name="Adria" tvg-logo="" group-title="Ex-Yu/Music tv",Adria
-https://cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8
+https://adriaapp.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="One.music.cz" tvg-name="ONE 1 Adria" tvg-logo="" group-title="Ex-Yu/Music tv",ONE 1 Adria
-https://cdne.folxplay.tv/fxt/streams/ch-6/master.m3u8
+https://oneadriaapp.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gornji Milanovac" tvg-logo="" group-title="Ex-Yu/Music tv",Gornji Milanovac
 https://6069699a9e3f3.streamlock.net/gmpluscable/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Pink.n.roll.(RS).rs" tvg-name="Pink&Roll" tvg-logo="" group-title="Ex-Yu/Music tv",Pink&Roll
