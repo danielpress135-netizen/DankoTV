@@ -55,6 +55,54 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 
 
 
+#EXTINF:-1 tvg-id="radiovidin.cam." tvg-name="radiovidin.cam." tvg-logo="" group-title="VideoCam/World",Radio Vidin camera
+https://streamer103.neterra.tv/radiovidin/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",BURGAS - КРЪГОВО
+https://pics.smartburgas.eu/m3u8/burgas_live_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",BURGAS - Мостик(Мостът)
+https://pics.smartburgas.eu/m3u8/burgas_live3_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",BURGAS - Ц.Плаж(р.Нептун)
+https://pics.smartburgas.eu/m3u8/burgas_live2_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",BURGAS - Крайбрежна
+https://pics.smartburgas.eu/m3u8/burgas_live4_4k.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",BURGAS - Център
+https://pics.smartburgas.eu/m3u8/burgas_town_Center.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",BURGAS - Бул.Я.Якимов
+https://pics.smartburgas.eu/m3u8/burgas_live_5_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",PRIMORSKO - Северен Плаж
+https://s29.ipcamlive.com/streams/1duj65iqr8mbfa1mw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",PRIMORSKO - Северен Плаж 2
+https://s153.ipcamlive.com/streams/99bs8wv3waqzcxjt2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",PRIMORSKO - Център
+https://s25.ipcamlive.com/streams/19kkrldbth96ch3od/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",PRIMORSKO - Амфитеатър
+https://s168.ipcamlive.com/streams/a8q65ysubhrvmvaj3/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",PRIMORSKO - Пристанище
+https://s160.ipcamlive.com/streams/a0za4jboimve3fyw2/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",KITEN - Плаж Атлиман
+https://s58.ipcamlive.com/streams/3a1snbcgvlelp894j/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",KITEN - Южен Плаж
+https://s150.ipcamlive.com/streams/961kxbjpnedlcm2j9/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",KITEN - Пристанище
+https://s123.ipcamlive.com/streams/7bcjybm2xpnzqpx90/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",HASKOVO - ЦЕНТЪР
+https://haskovo.net/tvs/cam1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",RUSE - ГКПП
+http://s19.r145.nbis.net:8081/or-bul-cam4/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",ВИТОША - Хижа Алеко
+https://vod132.witmind.com/hls/cam1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",vvv.bg Live
 https://www.youtube.com/watch?v=Vk5bSUDUwco
