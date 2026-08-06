@@ -564,39 +564,25 @@ https://www.youtube.com/watch?v=V_I168MM-ik
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",1 tv krime (540)
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Алмазный край (1080)
-https://river-3-353.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/Z0IIfQPtLUXpMoUjKTKaUw/1785701445/ed40abd9d832e9f91ea0e0b0fde36e44/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/ed40abd9d832e9f91ea0e0b0fde36e44/index.m3u8?s=YvbQdNb15zu8BC7Be3EWFw&e=2085333641&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",10 kanal.ru (1080)
-https://river-6-605.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/wYEjX8bqFfo9G14R34oDFw/1785701731/c9e26bf5c003fd8d477200065ca1a05f/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=bOtVf4bf28EgxqLYOwIbLg&e=2086042632&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",arhiz (1080)
 https://arhiz24.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",arhiz (1080)
-https://arhiz24.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",astrahan 24 (1080)
 https://yo6yql3j4vr.a.trbcdn.net/livemaster/1n8fu_08yw815p2o.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",bst tv (576)
-https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",bst tv (576)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Salyam (576)
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Salyam (576)
-https://bsttv.bonus-tv.ru/cdn/salyam/tracks-v2a1/mono.ts.m3u8?filter.tracks=v2v3v4a1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТВ (360)
-https://cdn.ntv.ru/ntv0_foreign/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТВ (720)
 https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТВ (720)
 https://cdn.ntv.ru/ntv0_foreign/index.m3u8?filter.tracks=v2v1a1l1t1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТВ СТИЛЬ (576)
-https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТВ СТИЛЬ (576)
 https://cdn.ntv.ru/th_style/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТВ СЕРИАЛ (576)
-https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТВ СЕРИАЛ (576)
 https://cdn.ntv.ru/th_serial/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТВ ПРАВО (576)
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",НТВ ПРАВО (576)
 https://cdn.ntv.ru/th_pravo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",GNC (1080)
@@ -605,12 +591,8 @@ https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8?DVR
 https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/tracks-v1a1/mono.ts.m3u8?DVR=&hls_proxy_host=99420c7437b26c1acdf5e19b0b5a11b5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Fashion RU (1080)
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Fashion RU (1080)
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Izvestija (1080)
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Izvestija (720)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Красная Линия (480)
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Красная Линия (480)
@@ -621,8 +603,6 @@ https://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 https://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",КУРАЙ (576)
 https://bstonline.mediacdn.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",КУРАЙ (576)
-https://bstonline.mediacdn.ru/cdn/kurai/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",МИЛЛЕТ (720)
 https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",МИР 24 (1080)
@@ -637,8 +617,6 @@ https://tvbelgorod.ru:90/mirbelogorya/index.m3u8
 https://tvbelgorod.ru:90/mirbelogorya/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",NANO TV (576)
 https://s2.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",NANO TV (576)
-https://s2.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",NIKA TV (720)
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",NIKA TV (720)
@@ -649,16 +627,9 @@ https://live-saha.cdnvideo.ru/saha2/saha_live.smil/playlist.m3u8
 https://live-saha.cdnvideo.ru/saha2/saha_live.smil/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=99420c7437b26c1acdf5e19b0b5a11b5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОТВ (ОБЛАСТНОЕ ТВ) (720)
 https://vd.obltv.ru/watch/air.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОТВ (ОБЛАСТНОЕ ТВ) (576)
-https://vd.obltv.ru/watch/air_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОРТ (1080)
-https://river-3-375.rtbcdn.ru/stream/genetta-302.m9.rutube.ru/6OGwUSN2Gqdsjx0V-2s98g/1785751800/02fb6df9e349e16a606530b25905a1f5/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОРТ (720)
-https://river-3-375.rtbcdn.ru/stream/genetta-302.m9.rutube.ru/6OGwUSN2Gqdsjx0V-2s98g/1785751800/02fb6df9e349e16a606530b25905a1f5/720p_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОРТ (1080)
 https://bl.rutube.ru/livestream/02fb6df9e349e16a606530b25905a1f5/index.m3u8?s=lAXH2AHIV6bu_7OosVMyHg&e=2085146999&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОТВ САХАЛИН (480)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://sakh.online/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",1 hd (720)
 https://cdn11.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1785148903
@@ -682,20 +653,12 @@ https://ddvr.mediacdn.ru/dvr/dagestan/tracks-v3a1/rewind-43200.ts.m3u8?filter.tr
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РОССИЯ 1 (720)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РОССИЯ 1 (576)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/2081200_576p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РОССИЯ 1 (576)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/792000_576p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РОССИЯ 24 (1080)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РОССИЯ 24(576)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/792000_576p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РОССИЯ 24 (720)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РОССИЯ КУЛТУРА (1080)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РОССИЯ КУЛТУРА (576)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_101_319a299f/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",РОССИЯ КУЛТУРА (720)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_104_319a299f/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",СМОТРИМ 100% ЛЮБОВЬ(480)
@@ -729,9 +692,9 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Соловьёв Live (720)
 https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",RTR PLANETA 
-https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_5.m3u8
+https://streaming.thestream.cyou/live/211.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",RTR PLANETA (720)
-https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Щёлковского ТВ (1080)
 https://stream1.tv41.ru/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ШАНСОН ТВ (404)
@@ -742,20 +705,10 @@ https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
 https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=65727894416b24f5ebc095fd5879b8d1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",спас тв (576)
 https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",спас тв (720)
-https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ЗВЕЗДА ТВ (1080)
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ЗВЕЗДА ТВ (720)
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ЗВЕЗДА ТВ (1080)
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ТНВ - ТАТАРСТАН  (720)
 https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ТНВ - ТАТАРСТАН  (480)
-https://user91229.clients-cdnnow.ru/hls/user91229_1_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ТНВ ПЛАНЕТА (576)
-https://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ТНВ ПЛАНЕТА (576)
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",МАЙДАН ТВ (720)
@@ -774,10 +727,6 @@ https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8?DVR
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/tracks-v1a1/rewind-3600.ts.m3u8?DVR&hls_proxy_host=19a8eea6df4c155292307c7060ae0012
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",WFC RU (1080)
 https://cdn.wfc.tv/cdn/stream-rus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",WFC RU (720)
-https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",WFC RU (1080)
-https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Сити Эдем - Христианский
 https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Сити Эдем Play
@@ -790,8 +739,21 @@ https://cityeden.catcast.tv/content/47400/index.m3u8
 https://cityeden.catcast.tv/content/47410/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Бирма Play
 https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Океан ТВ
+https://mhd.iptv2022.com/x/VyxYdghmn5yWm5qpLAFXJQ,1786135788/streaming/oceantv/324/5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",PERPETUUM MOBILE
+https://stitch.teletarget.ru/limehd/perpetuummobile/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",АКВА ТВ
+https://stitch.teletarget.ru/limehd/aquatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",FLIGHT TV
+https://stitch.teletarget.ru/limehd/flighttv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",UNKNOWN PLANET
+https://stitch.teletarget.ru/limehd/neplaneta/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
+
 
 
 
