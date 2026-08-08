@@ -72,20 +72,28 @@ https://pics.smartburgas.eu/m3u8/burgas_town_Center.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",BURGAS - Бул.Я.Якимов
 https://pics.smartburgas.eu/m3u8/burgas_live_5_4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",PRIMORSKO - Северен Плаж
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s29.ipcamlive.com/streams/1duj65iqr8mbfa1mw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",PRIMORSKO - Северен Плаж 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s153.ipcamlive.com/streams/99bs8wv3waqzcxjt2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",PRIMORSKO - Център
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s25.ipcamlive.com/streams/19kkrldbth96ch3od/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",PRIMORSKO - Амфитеатър
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s168.ipcamlive.com/streams/a8q65ysubhrvmvaj3/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",PRIMORSKO - Пристанище
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s160.ipcamlive.com/streams/a0za4jboimve3fyw2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",KITEN - Плаж Атлиман
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s58.ipcamlive.com/streams/3a1snbcgvlelp894j/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",KITEN - Южен Плаж
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s150.ipcamlive.com/streams/961kxbjpnedlcm2j9/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",KITEN - Пристанище
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s123.ipcamlive.com/streams/7bcjybm2xpnzqpx90/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",HASKOVO - ЦЕНТЪР
 https://haskovo.net/tvs/cam1.m3u8
