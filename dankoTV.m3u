@@ -1205,6 +1205,8 @@ https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.LOVE.cz" tvg-name="Prima Love" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png" group-title="CZECH🇨🇿/TV",Prima Love (1080p) [Geo-blocked]
 http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima.Cool.cz" tvg-name="Prima cool" tvg-logo="" group-title="CZECH🇨🇿/TV",Prima cool
+http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8 
 #EXTINF:-1 tvg-id="Kuryr.TV.cz" tvg-name="Kuryr TV" tvg-logo="" group-title="CZECH🇨🇿/TV",Kuryr TV
 http://stream-18.mazana.tv/kuryrtv.m3u8s
 #EXTINF:-1 tvg-id="TV.Brno.1.cz" tvg-name="TV Brno 1" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="CZECH🇨🇿/TV",TV Brno 1 (1080p)
@@ -1233,6 +1235,10 @@ https://dash3.antik.sk/live/test_relax/playlist.m3u8
 https://n106.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel.Channel.cz" tvg-name="Travel Channel CZ" tvg-logo="" group-title="CZECH🇨🇿/TV",Travel Channel CZ
 http://88.212.7.11/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Travel.XP.4K.cz" tvg-name="Travel XP 4K CZ" tvg-logo="" group-title="CZECH🇨🇿/TV",Travel XP 4K CZ
+http://88.212.15.19/live/travel_xp_4k/index.m3u8
+#EXTINF:-1 tvg-id="Travel.XP.cz" tvg-name="Travel XP CZ" tvg-logo="" group-title="CZECH🇨🇿/TV",Travel XP CZ
+http://88.212.15.19/live/travel_xp/index.m3u8
 #EXTINF:-1 tvg-id="ÚTV.cz" tvg-name="" tvg-logo="UTV" group-title="CZECH🇨🇿/TV",UTV 
 http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-id="A11.cz" tvg-name="A11 TV" tvg-logo="" tvg-group-title="CZECH🇨🇿/TV",A11 TV
@@ -1253,6 +1259,18 @@ https://stream-13.mazana.tv/slagroriginal.m3u8s
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
 #EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-name="Slager Premium" tvg-logo="https://i.postimg.cc/Zq0Pgw0V/image-2025-07-10-T175018-580.png" group-title="CZECH🇨🇿/TV", Slager Premium
 https://stream-17.mazana.tv/slagrpremium.m3u8s
+#EXTINF:-1 tvg-id="BBC.Eartch.cz" tvg-name="bbc eartch" tvg-logo="" tvg-group-title="CZECH🇨🇿/TV",bbc eartch (test)
+http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Viasat.Nature.cz" tvg-name="viasat nature" tvg-logo="" tvg-group-title="CZECH🇨🇿/TV",viasat nature (test)
+http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Viasat.Explore.cz" tvg-name="viasat explore" tvg-logo="" tvg-group-title="CZECH🇨🇿/TV",viasat explore (test)
+http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Viasat.History.cz" tvg-name="viasat history" tvg-logo="" tvg-group-title="CZECH🇨🇿/TV",viasat history (test)
+http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Epic.Drama.cz" tvg-name="epic drama" tvg-logo="" tvg-group-title="CZECH🇨🇿/TV",epic drama (test)
+http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
+
+
 
 
 
@@ -1410,6 +1428,8 @@ https://jmp2.uk/rok-8346cc0f3d415e39875fca80b67fd951.m3u8
 https://jmp2.uk/rok-34b686f999ecaacfbcd91bb5195c3124.m3u8
 #EXTINF:-1 channel-id="3580b15015379c4256440b0e119d46ed" tvg-id="3580b15015379c4256440b0e119d46ed" tvg-chno="629" tvg-name="America's Got Talent" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3580b15015379c4256440b0e119d46ed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775265472400_AGT_HUD_260x147_CenterAligned.png" group-title="Eng🇬🇧/TV",America's Got Talent
 https://jmp2.uk/rok-3580b15015379c4256440b0e119d46ed.m3u8
+#EXTINF:-1 tvg-id="BBC.First.cz" tvg-name"BBC First" tvg-logo="" group-title="Eng🇬🇧/TV",BBC First
+http://88.212.15.29/live/bbc_first/index.m3u8
 
 
 
@@ -2391,6 +2411,177 @@ http://99.27.51.147/CineClassic/index.m3u8
 http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="Ciné+.Family.fr" tvg-name="Cine Family" tvg-logo="" group-title="FRA🇫🇷/TV",Cine Family
 http://99.27.51.147:8080/CineFamiz/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/TF1.png" group-title="FR/TV TEST",TF1
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1811
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/fr2.png" group-title="FR/TV TEST",France 2
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/925
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 UHD" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/FR2_4K.png" group-title="FR/TV TEST",France 2 UHD
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/25977
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/fr3.png" group-title="FR/TV TEST",France 3
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/926
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/fr4.png" group-title="FR/TV TEST",France 4
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/928
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/fr5.png" group-title="FR/TV TEST",France 5
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/927
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/M6.png" group-title="FR/TV TEST",M6
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/475
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/arte.png" group-title="FR/TV TEST",Arte
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/920
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="LCP - Assemblée nationale" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/LCP.png" group-title="FR/TV TEST",LCP - Assemblée nationale
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14716
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/W9.png" group-title="FR/TV TEST",W9
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/914
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/tmc.png" group-title="FR/TV TEST",TMC
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/913
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/tfx.png" group-title="FR/TV TEST",TFX
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1812
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/tf1seriesfilms.png" group-title="FR/TV TEST",TF1 Séries Films
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1814
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/bfmtv.png" group-title="FR/TV TEST",BFM TV
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1866
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/LCI.png" group-title="FR/TV TEST",LCI
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4342
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="Cnews" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/CNEWS.png" group-title="FR/TV TEST",Cnews
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4737
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info" tvg-logo="https://www.abilitis.fr/wp-content/uploads/2024/11/franceinfo-en-journee-speciale-A-quoi-ressemblera-votre-ete-_-vendredi-1er-juillet.jpg" group-title="FR/TV TEST",France Info
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14056
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/6ter.png" group-title="FR/TV TEST",6ter
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/7310
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/RTL9.png" group-title="FR/TV TEST",RTL9
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/8682
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="Novo19" tvg-logo="https://wbo.s.woopic.com/magtv-bucket-wbo/media/mag-tv_MagTv-Novo19.jpg" group-title="FR/TV TEST",Novo19
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/18203
+#EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" tvg-logo="https://fr.themedialeader.com/wp-content/uploads/2025/02/T18.jpg" group-title="FR/TV TEST",T18
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14058
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="Teva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7s9PIP9RbTGJLEV0zk-mnsDfESBrHwwIFCA&s" group-title="FR/TV TEST",Teva
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/8687
+#EXTINF:-1 tvg-id="VarAzur.fr" tvg-name="BFM TOULON VAR" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/BFM_Var.png" group-title="FR/TV TEST",BFM TOULON VAR
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14064
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/BFM_Business.png" group-title="FR/TV TEST",BFM BUSINESS
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23888
+#EXTINF:-1 tvg-id="ProvenceAzur.fr" tvg-name="BFM MARSEILLE" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/BFM_Marseille_Provence.png" group-title="FR/TV TEST",BFM MARSEILLE
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23889
+#EXTINF:-1 tvg-id="AzurTV.fr" tvg-name="BFM NICE" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/BFM_Nice.png" group-title="FR/TV TEST",BFM NICE
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23890
+#EXTINF:-1 tvg-id="TeleLyonMetropole.fr" tvg-name="BFM LYON" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/BFM_Lyon.png" group-title="FR/TV TEST",BFM LYON
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23891
+#EXTINF:-1 tvg-id="LaChaineNormande.fr" tvg-name="BFM NORMANDIE" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/BFM_Normandie.png" group-title="FR/TV TEST",BFM NORMANDIE
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23895
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM GRAND LILLE" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/BFM_Grand_Lille.png" group-title="FR/TV TEST",BFM GRAND LILLE
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23896
+#EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="BFM ALSACE" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/BFM_Alsace.png" group-title="FR/TV TEST",BFM ALSACE
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23897
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="BFM GRAND LITTORAL" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/TV/BFM_Grand_Littoral.png" group-title="FR/TV TEST",BFM GRAND LITTORAL
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23898
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/CANAL.png" group-title="FR/TV TEST",Canal+
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4140
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="CANAL + CINEMA" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/CANAL_CINEMA.png" group-title="FR/TV TEST",CANAL + CINEMA
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4142
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/CANAL_GRAND_ECRAN.png" group-title="FR/TV TEST",CANAL+ GRAND ECRAN
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4143
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="CINE CLASSIC" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/CINE_CLASSIC.png" group-title="FR/TV TEST",CINE CLASSIC
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4147
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE FAMIZ" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/CINE_FAMIZ.png" group-title="FR/TV TEST",CINE FAMIZ
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4148
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE FRISSON" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/CINE_FRISSON.png" group-title="FR/TV TEST",CINE FRISSON
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4149
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE EMOTION" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/CINE_EMOTION.png" group-title="FR/TV TEST",CINE EMOTION
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4151
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="CINE CLUB" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/CINE_CLUB.png" group-title="FR/TV TEST",CINE CLUB
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/25999
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/Syfy.png" group-title="FR/TV TEST",Syfy
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/13309
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/Syfy.png" group-title="FR/TV TEST",Syfy
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/13309
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="Bein Sports 1" tvg-logo="https://streamboxtv.cc/logos-chaines/BEIN/bein1.png" group-title="FR/TV TEST",Bein Sports 1
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4194
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="Bein Sports 2" tvg-logo="https://streamboxtv.cc/logos-chaines/BEIN/bein2.png" group-title="FR/TV TEST",Bein Sports 2
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/910
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="Bein Sports 3" tvg-logo="https://streamboxtv.cc/logos-chaines/BEIN/bein3.png" group-title="FR/TV TEST",Bein Sports 3
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1810
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/C+Sports/canalplussport.png" group-title="FR/TV TEST",Canal+ Sport
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/459
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/C+Sports/canalplusfoot.png" group-title="FR/TV TEST",Canal+ Foot
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/466
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/C+Sports/canalplussport360.png" group-title="FR/TV TEST",Canal+ Sport 360
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/472
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Canal+ Infosport" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/C+Sports/Infosport.png" group-title="FR/TV TEST",Canal+ Infosport
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/2624
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="Canal+ Golf" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/C+Sports/canalplus-golf.png" group-title="FR/TV TEST",Canal+ Golf
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4158
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC.png" group-title="FR/TV TEST",RMC Sport 1
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/905
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC Sport 2" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC2.png" group-title="FR/TV TEST",RMC Sport 2
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4195
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="RMC Sport 3" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC3.png" group-title="FR/TV TEST",RMC Sport 3
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/473
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="RMC Life" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC_Life.png" group-title="FR/TV TEST",RMC Life
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/907
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Découverte" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC_Decouverte.png" group-title="FR/TV TEST",RMC Découverte
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/7303
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Découverte" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC_Decouverte.png" group-title="FR/TV TEST",RMC Découverte
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/7303
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="RMC Story" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC_Story.png" group-title="FR/TV TEST",RMC Story
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/7327
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="RMC Story" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC_Story.png" group-title="FR/TV TEST",RMC Story
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/7327
+#EXTINF:-1 tvg-id="" tvg-name="RMC Mystère" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC_Mystere.png" group-title="FR/TV TEST",RMC Mystère
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23855
+#EXTINF:-1 tvg-id="RMCMecanic.fr" tvg-name="RMC Mecanic" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC_Mecanic.png" group-title="FR/TV TEST",RMC Mecanic
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23899
+#EXTINF:-1 tvg-id="RMCWOW.fr" tvg-name="RMC Wow" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/RMC/RMC_Wow.png" group-title="FR/TV TEST",RMC Wow
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/23900
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/SPORTS-DIVERS/eurosport.png" group-title="FR/TV TEST",EUROSPORT 1
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/6934
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/SPORTS-DIVERS/eurosport2.png" group-title="FR/TV TEST",EUROSPORT 2
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4115
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="L'équipe" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/SPORTS-DIVERS/lequipe21.png" group-title="FR/TV TEST",L'équipe
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1839
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia Live" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/SPORTS-DIVERS/equidialive.png" group-title="FR/TV TEST",Equidia Live
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/7202
+#EXTINF:-1 tvg-id="ABMoteurs.fr" tvg-name="Automoto" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/SPORTS-DIVERS/automoto.png" group-title="FR/TV TEST",Automoto
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1835
+#EXTINF:-1 tvg-id="ChasseEtPeche.fr" tvg-name="Chasse & Pêche" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/DECOUVERTE/chasseetpeche.png" group-title="FR/TV TEST",Chasse & Pêche
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/9042
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="Toute l'Histoire" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/DECOUVERTE/Toute_Histoire.png" group-title="FR/TV TEST",Toute l'Histoire
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/18611
+#EXTINF:-1 tvg-id="" tvg-name="Auto Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/Auto-plus.svg/1920px-Auto-plus.svg.png" group-title="FR/TV TEST",Auto Plus
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26001
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="Ushuaia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/1280px-Ushua%C3%AFa_TV_logo_2019.svg.png" group-title="FR/TV TEST",Ushuaia TV
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26002
+#EXTINF:-1 tvg-id="France3Auvergne.fr" tvg-name="France 3 - Auvergne" tvg-logo="" group-title="FR/TV TEST",France 3 - Auvergne
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26415
+#EXTINF:-1 tvg-id="France3ParisIdF.fr" tvg-name="France 3 - Paris Ile-de-France" tvg-logo="" group-title="FR/TV TEST",France 3 - Paris Ile-de-France
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26417
+#EXTINF:-1 tvg-id="France3Alpes.fr" tvg-name="France 3 - Alpes" tvg-logo="" group-title="FR/TV TEST",France 3 - Alpes
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26416
+#EXTINF:-1 tvg-id="France3Bretagne.fr" tvg-name="France 3 - Bretagne" tvg-logo="" group-title="FR/TV TEST",France 3 - Bretagne
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26419
+#EXTINF:-1 tvg-id="France3Bourgogne.fr" tvg-name="France 3 - Bourgogne" tvg-logo="" group-title="FR/TV TEST",France 3 - Bourgogne
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26420
+#EXTINF:-1 tvg-id="France3FrancheComte.fr" tvg-name="France 3 - Franche-Compté" tvg-logo="" group-title="FR/TV TEST",France 3 - Franche-Compté
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26421
+#EXTINF:-1 tvg-id="France3Centre.fr" tvg-name="France 3 - Centre Val de Loire" tvg-logo="" group-title="FR/TV TEST",France 3 - Centre Val de Loire
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26422
+#EXTINF:-1 tvg-id="France3CorseViaStella.fr" tvg-name="France 3 - Corse" tvg-logo="" group-title="FR/TV TEST",France 3 - Corse
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26423
+#EXTINF:-1 tvg-id="France3Alsace.fr" tvg-name="France 3 - Alsace" tvg-logo="" group-title="FR/TV TEST",France 3 - Alsace
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26424
+#EXTINF:-1 tvg-id="France3Lorraine.fr" tvg-name="France 3 - Loraine" tvg-logo="" group-title="FR/TV TEST",France 3 - Loraine
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26425
+#EXTINF:-1 tvg-id="France3ChampagneArdenne.fr" tvg-name="France 3 - Champagne-Ardenne" tvg-logo="" group-title="FR/TV TEST",France 3 - Champagne-Ardenne
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26426
+#EXTINF:-1 tvg-id="France3ProvenceAlpes.fr" tvg-name="France 3 - Provence-Alpes" tvg-logo="" group-title="FR/TV TEST",France 3 - Provence-Alpes
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26427
+#EXTINF:-1 tvg-id="France3CotedAzur.fr" tvg-name="France 3 - Côte D'azur" tvg-logo="" group-title="FR/TV TEST",France 3 - Côte D'azur
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/26428
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="Paris Premiere" tvg-logo="" group-title="FR/TV TEST",Paris Premiere
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/24479
 
 
 
