@@ -101,12 +101,6 @@ https://haskovo.net/tvs/cam1.m3u8
 http://s19.r145.nbis.net:8081/or-bul-cam4/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",ВИТОША - Хижа Алеко
 https://vod132.witmind.com/hls/cam1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",
 
 
 
@@ -172,8 +166,6 @@ https://www.youtube.com/watch?v=JbFRzyqW22g
 https://www.youtube.com/watch?v=xRzaFgSsgH4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Radiohead TV
 https://www.youtube.com/watch?v=d6gatp9XyGc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",AOR & Hard Rock Project 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",GTV (Gorillaz)
 https://www.youtube.com/watch?v=ieqiC7Pog_8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",One Vision TV - The Queen Station
@@ -210,8 +202,6 @@ https://www.youtube.com/watch?v=XJRVTOlVuHo
 https://www.youtube.com/watch?v=tpg90scoOME
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",indie Folk Live Sessions
 https://www.youtube.com/watch?v=hXCiE_BSDuQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Discover Our Best Indie Rock Sessions Now
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Country, Americana, Alt-Country, and Country Rock
 https://www.youtube.com/watch?v=p6rZI6JFTHQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Alan Walker Stations
@@ -800,10 +790,6 @@ https://stitch.teletarget.ru/limehd/flighttv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",UNKNOWN PLANET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stitch.teletarget.ru/limehd/neplaneta/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",
 
 
 

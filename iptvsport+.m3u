@@ -10,8 +10,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Sport+",Россия К (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="Sport+",Матч Премьер HD
-
 #EXTINF:-1 group-title="Sport+",Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="Sport+", Матч HD
@@ -79,42 +77,10 @@ http://178.253.194.79:10017
 http://178.253.194.79:10019
 #EXTINF:-1 tvg-id="Arena.Adrenalin.rs" tvg-name="Arena Adrenalin HD" tvg-logo="" group-title="Sport+",Arena Adrenalin HD
 http://178.253.194.79:10018
-#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI Sport 1 HD" tvg-logo="" group-title="Sport+",DIGI Sport 1 HD
-#EXTVLCOPT:network-caching=1000
-
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sport+",Digi Sport 1 HD
 http://91.201.172.14:35005
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sport+",Digi Sport 2 HD
 http://91.201.172.14:35006
-#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI Sport 2 HD" tvg-logo="" group-title="Sport+",DIGI Sport 2 HD
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="DIGI Sport 3 HD" tvg-logo="" group-title="Sport+",DIGI Sport 3 HD
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-logo="https://i.imgur.com/T1ci5UK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sport+",Digi Sport 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-
-#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-logo="https://i.imgur.com/Knj9I6f.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sport+",Digi Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-
-#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="DIGI Sport 4 HD" tvg-logo="" group-title="Sport+",DIGI Sport 4 HD
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sport+",Digi Sport 1 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-logo="https://i.imgur.com/KWDUi3v.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sport+",Digi Sport 2 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-logo="https://i.imgur.com/T1ci5UK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sport+",Digi Sport 3 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-logo="https://i.imgur.com/Knj9I6f.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sport+",Digi Sport 4 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-
-
-
 
 
 
