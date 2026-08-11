@@ -4072,7 +4072,14 @@ https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 https://vdochile.com:3864/live/retrolive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retromusica Cile" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="MUSIC🎶📺/TV CLASSIC",Retromusica Cile
 https://vdochile.com:3864/stream/play.m3u8
-
+#EXTINF:-1 tvg-id="Stars.TV.pl" tvg-name="StarsTV" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",StarsTV 
+http://193.24.244.60:1001/udp/239.254.5.38:6060
+#EXTINF:-1 tvg-id="Stars.TV.HD.pl" tvg-name="StarsTV HD" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",StarsTV HD
+http://193.24.244.60:1001/udp/239.254.5.39:6060
+#EXTINF:-1 tvg-id="Nuta.TV.HD.pl" tvg-name="Nuta TV HD" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",Nuta.TV HD
+http://193.24.244.60:1001/udp/239.254.3.106:6060
+#EXTINF:-1 tvg-id="NUTA.GOLD.pl" tvg-name="NUTA GOLD" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",NUTA GOLD
+http://193.24.244.60:1001/udp/239.254.3.111:6060
 
 
 
@@ -4657,6 +4664,8 @@ http://88.212.15.19/live/mb_dance/index.m3u8
 http://88.212.15.19/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-id="Music.Box.Sexy.cz" tvg-name="Music Box Sexy" tvg-logo="https://musicboxsexy.com/music_box_sexy_logo.png" group-title="MUSIC🎶📺/TV PACK",Music Box Sexy
 http://88.212.15.19/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-id="Music.Box.Polska.HD.cz" tvg-name="Music Box Polska HD" tvg-logo="" group-title="MUSIC🎶📺/TV PACK",Music Box Polska HD
+http://193.24.244.60:1001/udp/239.254.4.237:6060
 #EXTINF:-1 tvg-id="BarazaTV.gr@SD" tvg-name="Baraza TV" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSIC🎶📺/TV PACK",Baraza TV (1080p)
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr@SD" tvg-name="Baraza TV Deep House" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSIC🎶📺/TV PACK",Baraza TV Deep House (720p)
@@ -4896,9 +4905,10 @@ https://tinyurl.com/28z23esa
 https://tinyurl.com/27o9j5a9
 #EXTINF:-1  tvg-id="" tvg-name="VF Metal" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK" , VF Metal (RU)
 https://tinyurl.com/2cykcka8
-#EXTINF:-1  tvg-id="" tvg-name="Z! Rock HD" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK" , Z! Rock HD (RU)
+#EXTINF:-1  tvg-id="" tvg-name="Z! Rock HD" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK", Z! Rock HD (RU)
 https://tinyurl.com/268ktjp8
-
+#EXTINF:-1 tvg-id="" tvg-name="Eska Rock TV HD" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Eska Rock TV HD
+http://193.24.244.60:1001/udp/239.254.5.27:6060
 
 
 
@@ -5970,17 +5980,36 @@ https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 
 
 
-
+#EXTINF:-1 tvg-id="Sport.klub.1.rs" tvg-name="Sportklub 1" tvg-logo="",Sportklub 1
+https://kinowatch.com/demo/stream/c38ebb81644287f6ba5c2b.m3u8
+#EXTINF:-1 tvg-id="Sport.klub.2.rs" tvg-name="Sportklub 2" tvg-logo="",Sportklub 2
+https://kinowatch.com/demo/stream/f7f50978f5c1994c3a446e.m3u8
+#EXTINF:-1 tvg-id="Sport.klub.3.rs" tvg-name="Sportklub 3" tvg-logo="",Sportklub 3
+https://kinowatch.com/demo/stream/0ca7c27e0dbe176a8fd711.m3u8
+#EXTINF:-1 tvg-id="Sport.klub.4.rs" tvg-name="Sportklub 4" tvg-logo="",Sportklub 4
+https://kinowatch.com/demo/stream/267132993c98f6beaf74fc.m3u8
+#EXTINF:-1 tvg-id="Sport.klub.5.rs" tvg-name="Sportklub 5" tvg-logo="",Sportklub 5
+https://kinowatch.com/demo/stream/064549a2fade63e06f9dcf.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1 HD
 http://178.253.194.79:10006
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1 HD
+
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 2 HD
 http://178.253.194.79:10007
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 2 HD
+
 #EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-name="Arena Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 3 HD
 http://178.253.194.79:10008
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-name="Arena Sport 3 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 3 HD
+
 #EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 4 HD
 http://178.253.194.79:10009
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 4 HD
+
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 HD
 http://178.253.194.79:10010
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 HD
+
 #EXTINF:-1 tvg-id="Arena.Sport.6.HD.(RS).rs" tvg-name="Arena Sport 6 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 6 HD
 http://178.253.194.79:10011
 #EXTINF:-1 tvg-id="Arena.Sport.7.HD.(RS).rs" tvg-name="Arena Sport 7 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 7 HD
@@ -5989,14 +6018,24 @@ http://178.253.194.79:10012
 http://178.253.194.79:10013
 #EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-name="Arena Sport 1 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1 Premium HD
 http://178.253.194.79:10001
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-name="Arena Sport 1 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1 Premium HD
+https://kinowatch.com/demo/stream/54c52ef75c1733a279975f.m3u8
 #EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-name="Arena Sport 2 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 2 Premium HD
 http://178.253.194.79:10004
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-name="Arena Sport 2 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 2 Premium HD
+https://kinowatch.com/demo/stream/5398c69eea3b04d9bd615a.m3u8
 #EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-name="Arena Sport 3 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 3 Premium HD
 http://178.253.194.79:10005
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-name="Arena Sport 3 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 3 Premium HD
+https://kinowatch.com/demo/stream/bdd33a754200f483639d80.m3u8
 #EXTINF:-1 tvg-id="Arena.Premium.4.HD.(RS).rs" tvg-name="Arena Sport 4 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 4 Premium HD
 http://178.253.194.79:10016
+#EXTINF:-1 tvg-id="Arena.Premium.4.HD.(RS).rs" tvg-name="Arena Sport 4 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 4 Premium HD
+https://kinowatch.com/demo/stream/b8dda4f2b7c8a6790c9327.m3u8
 #EXTINF:-1 tvg-id="Arena.Premium.5.HD.(RS).rs" tvg-name="Arena Sport 5 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 Premium HD
 http://178.253.194.79:10017
+#EXTINF:-1 tvg-id="Arena.Premium.5.HD.(RS).rs" tvg-name="Arena Sport 5 Premium HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 Premium HD
+https://kinowatch.com/demo/stream/014ab93b71957a06d8c9a8.m3u8
 #EXTINF:-1 tvg-id="Arena.Tenis.rs" tvg-name="Arena Tennis HD" tvg-logo="" group-title="SPORT/TEST",Arena Tennis HD
 http://178.253.194.79:10019
 #EXTINF:-1 tvg-id="Arena.Adrenalin.rs" tvg-name="Arena Adrenalin HD" tvg-logo="" group-title="SPORT/TEST",Arena Adrenalin HD
