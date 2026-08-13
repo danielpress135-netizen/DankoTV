@@ -1814,10 +1814,6 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="N1.HD.(RS).rs" tvg-name="N1 Srbija" tvg-logo="" group-title="Ex-Yu/TV",N1 Srbija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-id="Diadora.TV.hr" tvg-name="Diadora TV" tvg-logo="" group-title="Ex-Yu/TV",Diadora TV
-https://diadoratv.stream/live/diadora/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITH Zelina" tvg-logo="" group-title="Ex-Yu/TV", ITH Zelina
-https://ith.zelina.tv/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="HRT.1.cz" tvg-name="HRT 1 HD" tvg-logo="" group-title="Ex-Yu/TV",HRT 1 HD (1080p) [Geo-blocked]
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:-1 tvg-id="HRT.2.cz" tvg-name="HRT 2 HD" tvg-logo="" group-title="Ex-Yu/TV",HRT 2 HD (1080p) 
