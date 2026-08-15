@@ -3836,11 +3836,11 @@ http://stream.laut.fm/just70s
 http://213.32.121.35:8040/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1551591593.jpg" group-title="Music-Mix🎵📻/Radio", A-0 70s Hits - 128 kbit/s
 http://ares5.radiochoice.net/1023_a070shits64k
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1434935213.jpg" group-title="Music-Mix🎵📻/Radio", Best 60s - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1434935213.jpg" group-title="World-Mix/Radio", Best 60s - 128 kbit/s
 http://213.32.121.35:8020/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/22140.jpg" group-title="Music-Mix🎵📻/Radio", The Time Machine - Classic Hits - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/22140.jpg" group-title="World-Mix🎵📻/Radio", The Time Machine - Classic Hits - 192 kbit/s
 http://192.211.51.158:5426/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="Music-Mix🎵📻/Radio", primetime - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="Music-Mix/Radio", primetime - 128 kbit/s
 http://stream.laut.fm/primetime
 
 
