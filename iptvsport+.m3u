@@ -22,7 +22,7 @@ http://213.91.179.28:8000/play/a0as
 #EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-name="MAX SPORT 2" tvg-logo="" group-title="Sport+",MAX SPORT 2
 http://213.91.179.28:8000/play/a0at
 #EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="MAX Sport 2 HD" tvg-logo="" group-title="Sport+",MAX Sport 2 HD
-https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
+http://213.91.179.28:8000/play/a0ag
 #EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="Sport+",MAX Sport 3 HD
 http://62.176.112.19:8008/play/a0bg
 #EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-name="MAX SPORT 3" tvg-logo="" group-title="Sport+",MAX SPORT 3
@@ -36,7 +36,7 @@ https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
 #EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="Sport+",Diema Sport HD
 http://213.91.179.28:8000/play/a06q
 #EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="Sport+",Diema Sport 2 HD
-http://213.91.179.28:8000/play/a08e
+https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="Sport+",Diema Sport 2 HD
 http://62.176.112.19:8008/play/a0bd
 #EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="Sport+",Diema Sport 3 HD
