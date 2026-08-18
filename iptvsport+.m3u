@@ -31,6 +31,29 @@ http://213.91.179.28:8000/play/a0ar
 http://213.91.179.28:8000/play/a05n
 #EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="Sport+",Max Sport 4
 http://62.176.112.19:8008/play/a0d6
+#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="Max Sport 1" tvg-logo="https://i.imgur.com/0ohnpql.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sport+",Max Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="Max Sport 2" tvg-logo="https://i.imgur.com/33m1wPN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sport+",Max Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="Max Sport 3" tvg-logo="https://i.imgur.com/eGiGgZ2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sport+",Max Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX SPORT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVNnTlwkx5ZmljqQ5FzA4QjdlTb-oHHUiSIV_vjasG0g.png" group-title="BG🇧🇬/TV test",MAX SPORT 1 HD
+http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxQeCnehiQJWP4VWNyOO2xY/ts
+#EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="MAX SPORT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfa7vzjAUagty8bfoEhGl99A.png" group-title="BG🇧🇬/TV test",MAX SPORT 2 HD
+http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0KOPJ_ePhs6K5pVyB9KxL4/ts
+#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX SPORT 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzszrybKpPWLt191ZydixvCwkxrngfTD7xPDXcunXOE_bdw5k7WBFblnVl25wph5B6A.png" group-title="BG🇧🇬/TV test",MAX SPORT 3 HD
+http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_iFuNsjJz3Gojb0Tbc5tg0/ts
+#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="MAX SPORT 4 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVTq2C5zcFfM1O9p2qivvsg.png" group-title="BG🇧🇬/TV test",MAX SPORT 4 HD
+http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_0BlAWhxUhKeutSjF7G-uA/ts
+#EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="DIEMA SPORT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG🇧🇬/TV test",DIEMA SPORT 1 HD
+http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4v2f7TauKwtXNu_OyRRTqw/ts
+#EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="DIEMA SPORT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG🇧🇬/TV test",DIEMA SPORT 2 HD
+http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4oPNAemNrSGtRcHv3NGuv4/ts
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="DIEMA SPORT 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG🇧🇬/TV test",DIEMA SPORT 3 HD
+http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4JlHt9QidRKRGxIZa6W5W0/ts
 #EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="Sport+",Diema Sport HD
 https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
 #EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="Sport+",Diema Sport HD
