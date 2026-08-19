@@ -6,52 +6,52 @@
 https://cdn2.invivo.bg/k3artfrwbsitfrnglpvlv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Евроком.НКТВ.bg" tvg-name="Evrokom " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/evrokom-bg.png?raw=true" group-title="TV/BULGARIA",Eurocom 
 https://ektzarevets.invivo.bg/EVROKOM_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV1.bg" tvg-name="TV 1" tvg-logo="" group-title="TV/BULGARIA",TV 1
+#EXTINF:-1 tvg-id="TV1.bg" tvg-name="TV 1" tvg-logo="https://i.imgur.com/YLDp5u3.png" group-title="TV/BULGARIA",TV 1
 https://tv1.cloudcdn.bg/temp/livestream-720p.m3u8
-#EXTINF:-1 tvg-id="RMTV.bg@SD" tvg-name="RMTV" tvg-logo="https://rmtv.bg/img/logo.png" group-title="TV/BULGARIA",RMTV (288p)
+#EXTINF:-1 tvg-id="RMTV.bg" tvg-name="RMTV" tvg-logo="https://rmtv.bg/img/logo.png" group-title="TV/BULGARIA",RMTV (288p)
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
-#EXTINF:-1 tvg-id="Kanal0.bg@SD" tvg-name="Kanal 0" tvg-logo="" group-title="TV/BULGARIA",Kanal 0
+#EXTINF:-1 tvg-id="Kanal0.bg@SD" tvg-name="Kanal 0" tvg-logo="https://i.imgur.com/mycxET5.jpg" group-title="TV/BULGARIA",Kanal 0
 #EXTVLCOPT:http-referrer=rn-tv.com
 https://old.rn-tv.com/k0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Тв Справедлива България" tvg-logo="" group-title="TV/BULGARIA", Тв Справедлива България
+#EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg" tvg-name="Тв Справедлива България" tvg-logo="https://tvsb.bg/theme/images/logo.png" group-title="TV/BULGARIA", Тв Справедлива България
 https://tv.tvsb.bg/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Тв Шумен" tvg-logo="" group-title="TV/BULGARIA", Тв Шумен
+#EXTINF:-1 tvg-id="TVShumen.bg" tvg-name="Тв Шумен" tvg-logo="" group-title="TV/BULGARIA", Тв Шумен
 https://tvshumen.tv/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="KISS.13.bg" tvg-name="KISS 13" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="TV/BULGARIA",KISS 13 (1080p)
 http://live.kiss13.net:1935/Kiss13_HD/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="TV/BULGARIA",Plovdivska Pravoslavna TV (1080p)
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="TV/BULGARIA",Plovdivska Pravoslavna TV (1080p)
 http://78.130.149.196:1935/live/pptv.stream/chunklist_w1590876551.m3u8
-#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="TV/BULGARIA",Plovdivska Pravoslavna TV (1080p)
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="TV/BULGARIA",Plovdivska Pravoslavna TV (1080p)
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg@SD" tvg-name="Hope Channel Bulgaria" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="TV/BULGARIA",Hope Channel Bulgaria
+#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg" tvg-name="Hope Channel Bulgaria" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="TV/BULGARIA",Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hope Channel Bulgaria" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="TV/BULGARIA",Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv/playlist.m3u8
-#EXTINF:-1 tvg-id="LightChannel.bg@SD" tvg-name="Light Channel (BG)" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="TV/BULGARIA",Light Channel (BG) 
+#EXTINF:-1 tvg-id="LightChannel.bg" tvg-name="Light Channel (BG)" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="TV/BULGARIA",Light Channel (BG) 
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-name="This is Bulgaria HD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="TV/BULGARIA",This is Bulgaria HD (1080p)
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-name="This is Bulgaria HD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="TV/BULGARIA",This is Bulgaria HD (1080p)
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="Travel.TV.bg" tvg-name="Travel TV BG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/travel-tv-bg.png?raw=true" group-title="TV/BULGARIA",Travel TV BG
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
-#EXTINF:-1 tvg-id="AgroTV.bg@SD" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="TV/BULGARIA",Agro TV 
+#EXTINF:-1 tvg-id="AgroTV.bg" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="TV/BULGARIA",Agro TV 
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Code Fashion TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/code-fashion-bg.png?raw=true" group-title="TV/BULGARIA",Code Fashion TV
+#EXTINF:-1 tvg-id="CodeFashionTV.bg" tvg-name="Code Fashion TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/code-fashion-bg.png?raw=true" group-title="TV/BULGARIA",Code Fashion TV
 https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Code Health TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/code-health-bg.png?raw=true" group-title="TV/BULGARIA",Code Health TV
+#EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-name="Code Health TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/code-health-bg.png?raw=true" group-title="TV/BULGARIA",Code Health TV
 https://cdn2.invivo.bg/codehealth_test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Code Market TV" tvg-logo="" group-title="TV/BULGARIA",Code Market TV 
+#EXTINF:-1 tvg-id="CodeMarketTV.bg" tvg-name="Code Market TV" tvg-logo="" group-title="TV/BULGARIA",Code Market TV 
 https://cdn2.invivo.bg/CODE_LIFE_5500/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-name="DSTV" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="TV/BULGARIA",DSTV 
+#EXTINF:-1 tvg-id="DSTV.bg" tvg-name="DSTV" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="TV/BULGARIA",DSTV 
 http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1 tvg-id="TiankovFolk.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/VKY4q64.png" group-title="TV/BULGARIA",Tiankov Folk 
+#EXTINF:-1 tvg-id="TiankovFolk.bg" tvg-name="" tvg-logo="https://i.imgur.com/VKY4q64.png" group-title="TV/BULGARIA",Tiankov Folk 
 https://streamer103.neterra.tv/tiankov-folk/live.m3u8
-#EXTINF:-1 tvg-id="TiankovOrientFolk.bg@SD" tvg-name="Tiankov Orient Folk" tvg-logo="" group-title="TV/BULGARIA",Tiankov Orient Folk
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg" tvg-name="Tiankov Orient Folk" tvg-logo="https://i.imgur.com/33LexyP.png" group-title="TV/BULGARIA",Tiankov Orient Folk
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
-#EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-name="" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="TV/BULGARIA",City TV 
+#EXTINF:-1 tvg-id="CityTV.bg" tvg-name="" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="TV/BULGARIA",City TV 
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-id="The.Voice.bg" tvg-name="The Voice HD" tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="TV/BULGARIA",The Voice HD
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:-1 tvg-id="MagicTV.bg@SD" tvg-name="Magic TV" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="TV/BULGARIA",Magic TV (720p)
+#EXTINF:-1 tvg-id="MagicTV.bg" tvg-name="Magic TV" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="TV/BULGARIA",Magic TV (720p)
 https://bss1.neterra.tv/magictv/magictv.m3u8
 
 
@@ -1597,6 +1597,309 @@ https://dash2.antik.sk/live/rik_atk/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV.ro" tvg-logo="https://i.imgur.com/S7X1PiC.pnG" group-title="Romania-TV",agro tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-id="AlephBusiness.ro" tvg-name="Aleph Business.ro" tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="Romania-TV",aleph business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlephNews.ro" tvg-name="Aleph News.ro" tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="Romania-TV",aleph news
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streamw.m.ro/Aleph/Alephnewsmain.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlephNews.ro" tvg-name="Aleph News.ro" tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="Romania-TV",aleph news
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlephNews.ro" tvg-name="Aleph News.ro" tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="Romania-TV",aleph news
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512" group-title="Romania-TV",alpha and omega
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849_adaptive.m3u8
+#EXTINF:-1 tvg-id="AngelusTV.ro" tvg-name="Angelus TV.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Angelus_TV.svg/revision/latest/scale-to-width-down/512" group-title="Romania-TV",angelus tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://video.angelustv.ro/hls/angelustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Romania-TV",as tv bistrita
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://netstreaming.eu/astv.m3u8
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV.ro" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Romania-TV",atomic academy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-name="Atomic TV.ro" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Romania-TV",atomic tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV.ro" tvg-logo="https://i.imgur.com/yVsocid.png" group-title="Romania-TV",banat tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 tvg-id="BollywoodFilm.ro" tvg-name="Bollywood Film.ro" tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="Romania-TV",bolliwood film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Romania-TV",bolliwood classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
+#EXTINF:-1 tvg-id="cine.wow.ro" tvg-name="cine wow.ro" tvg-logo="" group-title="Romania-TV",cine wow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/cinewow/cinewow.m3u8
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Romania-TV",mooz dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits.ro" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Romania-TV",mooz hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-id="Mooz Ro.ro" tvg-name="Mooz Ro.ro" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Romania-TV",mooz ro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="mooz.love.ro" tvg-name="mooz love" tvg-logo="" group-title="Romania-TV",mooz love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
+#EXTINF:-1 tvg-id="mooz.retro.ro" tvg-name="mooz retro" tvg-logo="" group-title="Romania-TV",mooz retro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
+#EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-name="Bucovina TV" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="Romania-TV",tv bucovina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="Romania-TV",columna tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" tvg-logo="https://i.imgur.com/RD4TgcM.png" group-title="Romania-TV",credo tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" tvg-logo="https://i.imgur.com/RD4TgcM.png" group-title="Romania-TV",credo tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/chunklist_w841245785.m3u8
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" tvg-logo="https://i.imgur.com/RD4TgcM.png" group-title="Romania-TV",credo tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/chunklist_w2009025215.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="Romania-TV",digi 24 tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dai.google.com/linear/dash/event/0zJOVqk1S1azvAB6zbx2oQ/manifest.mpd
+#EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="Romania-TV",emi tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="Romania-TV",hd 365
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://s2.netstreaming.eu/hd365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="Romania-TV",hd 365
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://netstreaming.eu/hd365.m3u8
+#EXTINF:-1 tvg-id="Hunedoara1.ro" tvg-name="Hunedoara 1" tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="Romania-TV",huneduara 1 deva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://netstreaming.eu/hd1.m3u8
+#EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="IasiTV Life.ro" tvg-logo="https://i.imgur.com/HY7EL5e.png" group-title="Romania-TV",iasi tv life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:-1 tvg-id="ImpactTV.ro" tvg-name="Impact TV" tvg-logo="https://tvimpact.ro/impact-logo.png" group-title="Romania-TV",impact tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.tvimpact.ro:8088/live/impact.m3u8
+#EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-name="Impact TV Manele" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Romania-TV",impact tv manele
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-id="impactTV2.ro" tvg-name="impact tv 2" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Romania-TV",impact tv 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://online.tvimpact.live/hls/impact_tv2.m3u8
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="Impact TV Dance" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Romania-TV",impact tv dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-id="InfoTVRomania.ro" tvg-name="Info TV Romania" tvg-logo="https://i.imgur.com/rLzapB3.png" group-title="Romania-TV",info tv Romania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://rumble.com/live-hls-dvr/HSsZ5KWYwF0/playlist.m3u8?level=1
+#EXTINF:-1 tvg-id="InfoTVRomania.ro" tvg-name="Info TV Romania" tvg-logo="https://i.imgur.com/rLzapB3.png" group-title="Romania-TV",info tv Romania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://1a-1791.com/live/k1ub38pe/live-hls/e5bk-dddn/chunklist_360p_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="InfoTVRomania.ro" tvg-name="Info TV Romania" tvg-logo="https://i.imgur.com/rLzapB3.png" group-title="Romania-TV",info tv Romania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://1a-1791.com/live/k1ub38pe/live-hls/e5bk-dddn/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" tvg-logo="https://i.imgur.com/P1ZbVRg.png" group-title="Romania-TV",informatia tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="IntermediaTV.ro" tvg-logo="https://i.imgur.com/cNXM4Mu.png" group-title="Romania-TV",intermedia tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.intermediatv.ro/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="Info.HD.TV.ro" tvg-name="info hd tv" tvg-logo="" group-title="Romania-TV",info hd tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://netstreaming.eu/InfoHd.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="Romania-TV",job tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KanalD2.ro" tvg-name="Kanal D2" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Romania-TV",kanal d 2 romania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+#EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" tvg-logo="https://i.imgur.com/Q1PYwkZ.png" group-title="Romania-TV",kapital tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" tvg-logo="https://i.imgur.com/Q1PYwkZ.png" group-title="Romania-TV",kapital tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://rumble.com/live-hls-dvr/TZJxcEAm7p4/playlist.m3u8?level=1
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Romania-TV",kiss tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Romania-TV",kiss tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Romania-TV",magic tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Romania-TV",magic tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
+#EXTINF:-1 tvg-id="M9TVRomania.ro" tvg-name="M9 TV Romania" tvg-logo="https://i.imgur.com/hRBNoVD.png" group-title="Romania-TV",m9 tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://netstreaming.eu/m9tv.m3u8
+#EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-name="Metropola TV" tvg-logo="https://i.imgur.com/Gzq05v8.png" group-title="Romania-TV",metropola tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36   
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+#EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="Romania-TV",nasul tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.nasul.tv/live/stream.m3u8
+#EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-name="PROFI 24 TV" tvg-logo="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" group-title="Romania-TV",ro 24 tv (profi24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.ro24tv.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-name="PROFI 24 TV" tvg-logo="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" group-title="Romania-TV",ro 24 tv (profi24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.ro24tv.ro/hls/stream.m3u8?cachebust=f9dbfe
+#EXTINF:-1 tvg-id="QubTV.ro" tvg-name="Qub TV" tvg-logo="https://i.imgur.com/GvyF2Wh.png" group-title="Romania-TV",qub tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
+#EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-name="Radio Fx Net TV" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Romania-TV",radio fxnet tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8          
+#EXTINF:-1 tvg-id="TV1.Satu.Mare.ro" tvg-name="TV1 SATU MARE" tvg-logo="" group-title="Romania-TV",tv1 satu mare
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://netstreaming.eu/tv1.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Romania-TV",rock tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Romania-TV",rock tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="Romania-TV",romania tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="Romania-TV",romania tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="Speranta TV" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Romania-TV",speranta tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="Speranta TV" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Romania-TV",speranta tV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/ULPuZ/1080p/main.m3u8
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="Speranta TV" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Romania-TV",spertanta tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/master.m3u8
+#EXTINF:-1 tvg-id="SuprTV.ro" tvg-name="Super TV" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Romania-TV",super tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.streamnet.pro/live/supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Romania-TV",super tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.streamnet.pro/live/supertv/chunklist_w1357534622.m3u8
+#EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-name="Tele7ABC HD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="Romania-TV",tele7abc tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="Tele7music.ro" tvg-name="Tele7music" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Romania-TV",tele7Music tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TeleMBotosani.ro" tvg-name="TeleM Botosani" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Romania-TV",teleM botosani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMoldovaPlus.ro" tvg-name="TeleMoldova+" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="Romania-TV",tele moldova+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+#EXTINF:-1 tvg-id="TVArad.ro" tvg-name="TV Arad" tvg-logo="https://i.imgur.com/4yZV72X.png" group-title="Romania-TV",tv arad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
+#EXTINF:-1 tvg-id="TVBozau.ro" tvg-name="TV Bozau" tvg-logo="https://i.imgur.com/GhFmUVO.png" group-title="Romania-TV",tv buzau
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://78.96.33.89:8080/
+#EXTINF:-1 tvg-id="TVSUD.ro" tvg-name="TV SUD" tvg-logo="https://i.imgur.com/m3Slmbe.png" group-title="Romania-TV",tv sud
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+#EXTINF:-1 tvg-id="TVSUD.ro" tvg-name="TV SUD" tvg-logo="https://i.imgur.com/m3Slmbe.png" group-title="Romania-TV",tv sud
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831_adaptive.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="Romania-TV",tvr 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="Romania-TV",tvr 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b1096000.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-name="TVR 2" tvg-logo="https://i.imgur.com/mKouHIZ.png" group-title="Romania-TV",tvr 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-name="TVR 2" tvg-logo="https://i.imgur.com/mKouHIZ.png" group-title="Romania-TV",tvr 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="TVR 3" tvg-logo="https://i.imgur.com/yHCuTap.png" group-title="Romania-TV",tvr 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="TVR 3" tvg-logo="https://i.imgur.com/yHCuTap.png" group-title="Romania-TV",tvr 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRInfo.ro" tvg-name="TVR Info" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="Romania-TV",tvr info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRInfo.ro" tvg-name="TVR Info" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="Romania-TV",tvr info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="Romania-TV",tvr cultural
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="Romania-TV",tvr cultural
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRMoldova.md" tvg-name="TVR Moldova" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="Romania-TV",tvr moldova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRMoldova.md" tvg-name="TVR Moldova" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="Romania-TV",tvr moldova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Romania-TV",tvri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Romania-TV",tvri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="Romania-TV",tvr sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="Romania-TV",tvr sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRFolclor.ro" tvg-name="TVR Folclor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png" group-title="Romania-TV",tvr folclor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRFolclor.ro" tvg-name="TVR Folclor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png" group-title="Romania-TV",tvr folclor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRCluj.ro" tvg-name="TVR Cluj" tvg-logo="https://i.imgur.com/RkDra93.png" group-title="Romania-TV",tvr cluj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCluj.ro" tvg-name="TVR Cluj" tvg-logo="https://i.imgur.com/RkDra93.png" group-title="Romania-TV",tvr cluj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="Romania-TV",tvr iasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="Romania-TV",tvr iasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRCraiova.ro" tvg-name="TVR Craiova" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="Romania-TV",tvr Craiova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCraiova.ro" tvg-name="TVR Craiova" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="Romania-TV",tvr Craiova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-name="TVR Timisoara" tvg-logo="https://i.imgur.com/0x6Edei.png" group-title="Romania-TV",tvr timisoara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-name="TVR Timisoara" tvg-logo="https://i.imgur.com/0x6Edei.png" group-title="Romania-TV",tvr timisoara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-name="TVR Targu-Mures" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="Romania-TV",tvr tg. mures
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-name="TVR Targu-Mures" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="Romania-TV",tvr tg. mures
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/chunklist_b1396000.m3u8
 
 
 
