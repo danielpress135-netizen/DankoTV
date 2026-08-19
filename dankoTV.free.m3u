@@ -1763,11 +1763,11 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="Romania-TV",romania tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8 [http-user-mozilla/5.0&http-referrer=https://www.romaniatv.net/]
+#EXTVLCOPT:http-user-mozilla/5.0&http-referrer=https://www.romaniatv.net/
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8 
 #EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="Romania-TV",romania tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8 [http-user-mozilla/5.0&http-referrer=https://www.romaniatv.net/]
+#EXTVLCOPT:http-user-mozilla/5.0&http-referrer=https://www.romaniatv.net/
+https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8 
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="Speranta TV" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Romania-TV",speranta tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
@@ -1799,11 +1799,11 @@ https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://78.96.33.89:8080/
 #EXTINF:-1 tvg-id="TVSUD.ro" tvg-name="TV SUD" tvg-logo="https://i.imgur.com/m3Slmbe.png" group-title="Romania-TV",tv sud
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8 [http-user-mozilla/5.0&http-referrer=https://www.tvsud.ro/] 
+#EXTVLCOPT:http-user-mozilla/5.0&http-referrer=https://www.tvsud.ro/
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8  
 #EXTINF:-1 tvg-id="TVSUD.ro" tvg-name="TV SUD" tvg-logo="https://i.imgur.com/m3Slmbe.png" group-title="Romania-TV",tv sud
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831_adaptive.m3u8 [http-user-mozilla/5.0&http-referrer=https://www.tvsud.ro/]
+#EXTVLCOPT:http-user-mozilla/5.0&http-referrer=https://www.tvsud.ro/
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831_adaptive.m3u8 
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="Romania-TV",tvr 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
