@@ -1933,14 +1933,235 @@ https://tezaurtv.md/stream/stream_0.m3u8
 #EXTINF:-1 tvg-id="TSV.md" tvg-name="TSV" tvg-logo="https://i.imgur.com/6p4weSK.png" group-title="Romania-TV",TSV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tsv.md/stream/hls/tsv-online/index.m3u8
-#EXTINF:-1 tvg-id="ZonaM.md" tvg-name="Zona M" tvg-logo="https://i.imgur.com/a6Dy3ao.png" group-title="Romania-TV",ZONA M md
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn.plyr.io/static/blank.mp4
 
 
 
 
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Poland-TV",4FUN
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Poland-TV",4FUN
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Poland-TV",4FUN
+https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
+#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="Poland-TV",4FUN KIDS
+https://stream.4fun.tv:8889/hls/4fk.m3u8
+#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="Poland-TV",4FUN KIDS
+https://stream.4fun.tv:8889/hls/4fk_med/index.m3u8
+#EXTINF:-1 tvg-id="BTB.pl" tvg-name="BTB 1" tvg-logo="https://i.imgur.com/U8mcRal.png" group-title="Poland-TV",BTB 1
+https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
+#EXTINF:-1 tvg-id="BTB2.pl" tvg-name="BTB 2" tvg-logo="https://i.imgur.com/C5g0ejM.png" group-title="Poland-TV",BTB 2
+https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="Poland-TV",BTB INFO
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-id="RemontyTV.pl" tvg-name="Remonty TV" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="Poland-TV",remonty tv
+https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
+#EXTINF:-1 tvg-id="SferaTV.pl" tvg-name="SferaTV" tvg-logo="https://i.imgur.com/aK7xfKi.png" group-title="Poland-TV",sfera tv
+https://stream.sferatv.pl/sferatvlive/live.m3u8
+#EXTINF:-1 tvg-id="TBNPolska.pl" tvg-name="TBN Polska" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww" group-title="Poland-TV",tbn polska
+https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8
+#EXTINF:-1 tvg-id="TBNPolska.pl" tvg-name="TBN Polska" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww" group-title="Poland-TV",tbn polska
+https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-name="Telewizja Biznesowa" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Poland-TV",telewizija biznesowa
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-name="Telewizja Imperium" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="Poland-TV",telewizija imperium
+https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-name="Telewizja Imperium" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="Poland-TV",telewizija imperium
+https://str10.imperiummedia.pl/TVIMPERIUM/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-name="Telewizja Imperium" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="Poland-TV",telewizija imperium
+https://str10.imperiummedia.pl/TVIMPERIUM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TelewizjaImperiumkronika.pl" tvg-name="telewizija imperium kronika" tvg-logo="" group-title="Poland-TV",telewizija imperium kronika
+https://str12.imperiummedia.pl/ImperiumArchiwum/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaImperiumkronika.pl" tvg-name="telewizija imperium kronika" tvg-logo="" group-title="Poland-TV",telewizija imperium kronika
+https://str12.imperiummedia.pl/ImperiumArchiwum/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="TelewizjaImperiumkronika.pl" tvg-name="telewizija imperium kronika" tvg-logo="" group-title="Poland-TV",telewizija imperium kronika
+https://str12.imperiummedia.pl/ImperiumArchiwum/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RadioImperium.pl" tvg-name="radio imperium" tvg-logo="" group-title="Poland-TV",radio imperium 
+https://str12.imperiummedia.pl/mixRadioTVimperiumInfoHTTP/index.m3u8
+#EXTINF:-1 tvg-id="RadioImperium.pl" tvg-name="radio imperium" tvg-logo="" group-title="Poland-TV",radio imperium
+https://str12.imperiummedia.pl/mixRadioTVimperiumInfoHTTP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVASTA.pl" tvg-name="TV ASTA" tvg-logo="https://i.imgur.com/5g7lq9N.png" group-title="Poland-TV",tv asta
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVKujawy.pl" tvg-name="TV Kujawy" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="Poland-TV",tv kujawy
+https://stream.tvkujawy.pl:8090/live/broadcast.m3u8
+#EXTINF:-1 tvg-id="TVMazowsze.pl" tvg-name="TV Mazowsze" tvg-logo="https://zapodaj.net/thumbs/821c90c93eee6.jpg" group-title="Poland-TV",tv mazowsze (no work)
+https://stream2.tvmazowsze.pl/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-name="TV Regionalna Lubin" tvg-logo="https://i.imgur.com/2WVNt3f.png" group-title="Poland-TV",tv regionalna Lubin
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
+#EXTINF:-1 tvg-id="TVTorun.pl" tvg-name="TV Torun" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" group-title="Poland-TV",tv torun
+https://mediaserwer.tvk.torun.pl/001919c90462988c094c358a0561b13c/smil:tvk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVToya.pl" tvg-name="TV Toya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/960px-TV_TOYA_Nowe_Logo_od_2014.svg.png" group-title="Poland-TV",tv toya
+https://cdn-1-go.toya.net.pl/live/383OT_jFkKs8mU-AmkNHow/1787014503/001_toyahd_hls/index.m3u8
+#EXTINF:-1 tvg-id="TVToya.pl" tvg-name="TV Toya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/960px-TV_TOYA_Nowe_Logo_od_2014.svg.png" group-title="Poland-TV",tv toya
+https://cdn-1-go.toya.net.pl/live/383OT_jFkKs8mU-AmkNHow/1787014503/001_toyahd_hls/01.m3u8
+#EXTINF:-1 tvg-id="TVToya.pl" tvg-name="TV Toya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/960px-TV_TOYA_Nowe_Logo_od_2014.svg.png" group-title="Poland-TV",tv toya
+https://cdn-1-go.toya.net.pl/live/383OT_jFkKs8mU-AmkNHow/1787014503/001_toyahd_hls/03.m3u8
+#EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja TV" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" group-title="Poland-TV",twoja tv
+https://stream.twoja.tv/ttv_hls/live.m3u8
+#EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja TV" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" group-title="Poland-TV",twoja tv
+https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8
+#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="W Polsce PL" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="Poland-TV",tv wpolsce
+https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
+#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="W Polsce PL" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="Poland-TV",tv wpolsce
+https://str.onnetwork.tv/hls/onnet-358726.m3u8
 
+
+
+#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-name="Elektrika TV" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="czesh-sk-tv",elektrika tv  czesh
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-name="Elektrika TV" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="czesh-sk-tv",elektrika tv  czesh
+https://rtmp.elektrika.cz/live/myStream.sdp/chunklist_w895329032.m3u8
+#EXTINF:-1 tvg-id="JC1.cz" tvg-name="JC1" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="czesh-sk-tv",jc1  czesh
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 tvg-id="KrusnaTV.cz" tvg-name="Krusna TV" tvg-logo="https://i.imgur.com/BNdn8C4.png" group-title="czesh-sk-tv",krusna tv  czesh
+https://kamery2.wolfnet.cz/krusna.m3u8
+#EXTINF:-1 tvg-id="KuryrTV.cz" tvg-name="Kuryr TV" tvg-logo="https://i.imgur.com/Ox2gujv.png" group-title="czesh-sk-tv",kuryr tv  czesh
+https://stream-18.mazana.tv/kuryrtv.m3u8s
+#EXTINF:-1 tvg-id="OIKTV.cz" tvg-name="OIK TV" tvg-logo="https://i.imgur.com/1mXxQ02.png" group-title="czesh-sk-tv",OIK TV
+https://1802425525.rsc.cdn77.org/1802425525/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-name="Polar TV" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="czesh-sk-tv",polar tv  czesh
+https://stream.polar.cz:443/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-name="Polar TV" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="czesh-sk-tv",polar tv  czesh
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="PrahaTV.cz" tvg-name="Praha TV" tvg-logo="https://i.imgur.com/L5ju77d.png" group-title="czesh-sk-tv",praha tv  czesh
+https://1977134029.rsc.cdn77.org/1977134029/index.m3u8
+#EXTINF:-1 tvg-id="PrahaTV.cz" tvg-name="Praha TV" tvg-logo="https://i.imgur.com/L5ju77d.png" group-title="czesh-sk-tv",praha tv  czesh
+https://1977134029.rsc.cdn77.org/1977134029/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PrahaTV.cz" tvg-name="Praha TV" tvg-logo="https://i.imgur.com/L5ju77d.png" group-title="czesh-sk-tv",praha tv  czesh
+https://1977134029.rsc.cdn77.org/1977134029/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="czesh-sk-tv",retro music tv  czesh
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SlagerOriginal.cz" tvg-name="Slager Original" tvg-logo="https://i.imgur.com/0YjeWcq.png" group-title="czesh-sk-tv",slager original 1  czesh
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 tvg-id="SlagerMuzika.cz" tvg-name="Slager Muzika" tvg-logo="https://i.imgur.com/hKdXwrW.png" group-title="czesh-sk-tv",salger muzika 2  czesh
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1 tvg-id="SlagerPremium.cz" tvg-name="Slager Premium" tvg-logo="https://i.imgur.com/A7u2KeM.png" group-title="czesh-sk-tv",slager premium  czesh
+https://stream-17.mazana.tv/slagrpremium.m3u8s
+#EXTINF:-1 tvg-id="SportyTV.cz" tvg-name="Sporty TV" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="czesh-sk-tv",sporty  czesh
+https://n7.cho2.livebox.cz/sportytv/amlst:sporty1/playlist.m3u8?auth=b64:c3BvcnR5MTpuNy5jaG8yLmxpdmVib3guY3o6ZGYzNWJkZDQtNjkyMy00NjZjLWE2MGYtNzRhNDQ0NmE3OGNiOjIwNTU0NjcwNToxNzg2OTgzOTk2NTIxOjE3ODY5OTExOTY6OmIxNWJjZWI5N2MxMDExZGU0MjIwZmZmODIyOTI4MzVk&DVR
+#EXTINF:-1 tvg-id="SportyTV.cz" tvg-name="Sporty TV" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="czesh-sk-tv",sporty  czesh
+https://n7.cho2.livebox.cz/sportytv/3b48353faaba92fadb61eaf9daa0e2aa/amlst:sporty1/chunklist_b3256000_DVR.m3u8
+#EXTINF:-1 tvg-id="SportyTV.cz" tvg-name="Sporty TV" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="czesh-sk-tv",sporty  czesh
+https://n7.cho2.livebox.cz/sportytv/3b48353faaba92fadb61eaf9daa0e2aa/amlst:sporty1/chunklist_b6256000_DVR.m3u8
+#EXTINF:-1 tvg-id="TVBeskyd.cz" tvg-name="TV Beskyd" tvg-logo="https://i.imgur.com/yVF6cUa.png" group-title="czesh-sk-tv",beskyd tv  czesh
+https://1034839213.rsc.cdn77.org/1034839213/index.m3u8
+#EXTINF:-1 tvg-id="TVBeskyd.cz" tvg-name="TV Beskyd" tvg-logo="https://i.imgur.com/yVF6cUa.png" group-title="czesh-sk-tv",beskyrd tv  czesh
+https://1034839213.rsc.cdn77.org/1034839213/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TVBeskyd.cz" tvg-name="TV Beskyd" tvg-logo="https://i.imgur.com/yVF6cUa.png" group-title="czesh-sk-tv",beskyrd tv  czesh
+https://1034839213.rsc.cdn77.org/1034839213/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TVNoe.cz" tvg-name="TV Noe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/500px-Noe-logo-2016.png" group-title="czesh-sk-tv",tv noe  czesh
+https://n105.quickmedia.tv/noetv/live/playlist_dvr_timeshift-0-7200.m3u8
+#EXTINF:-1 tvg-id="TVNoePlus.cz" tvg-name="TV Noe+" tvg-logo="https://i.imgur.com/p4FtFUl.png" group-title="czesh-sk-tv",tv noe+  czesh
+https://n105.quickmedia.tv/noetvplus/live/playlist_dvr_timeshift-0-7200.m3u8
+#EXTINF:-1 tvg-id="V1.cz" tvg-name="V1" tvg-logo="https://i.imgur.com/jVdiIag.png" group-title="czesh-sk-tv",V1 (VZPRAVY) czesh
+https://stream.polar.cz/vctv/vctvlive-2/manifest.mpd
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png" group-title="czesh-sk-tv",ocko  czesh
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/manifest.mpd
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-name="Ocko Expres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png" group-title="czesh-sk-tv",ocko expres  czesh
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/manifest.mpd
+#EXTINF:-1 tvg-id="OckoStar.cz" tvg-name="Ocko Star" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png" group-title="czesh-sk-tv",Ocko Star  czesh
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.mpd
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-name="TV Brno 1" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="czesh-sk-tv",tv brno1  czesh
+https://stream.polar.cz/tvbrno1/tvbrno1live-2/manifest.mpd
+#EXTINF:-1 tvg-id="24.sk" tvg-name=":24" tvg-logo="https://i.imgur.com/tTCuczU.png" group-title="czesh-sk-tv",:24  sk
+https://n13.stv.livebox.sk/stv-tv/4d97da9b0edd1abc3f7b9a7e33e09384/stv3.smil/chunklist_b2691072.m3u8
+#EXTINF:-1 tvg-id="BTV.sk" tvg-name="BTV" tvg-logo="https://i.imgur.com/5CZ6HHn.png" group-title="czesh-sk-tv",btv (bardejovska)  sk
+https://fs3.kabelko.sk/9011/index.m3u8?token=btv
+#EXTINF:-1 tvg-id="BTV.sk" tvg-name="BTV" tvg-logo="https://i.imgur.com/5CZ6HHn.png" group-title="czesh-sk-tv",btv (bardejovska)  sk
+https://fs3.kabelko.sk/9011/tracks-v1a1/mono.m3u8?token=btv
+#EXTINF:-1 tvg-id="LifeTv.sk" tvg-name="LifeTv" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="czesh-sk-tv",life tv  sk
+https://lifetv.mpks.sk/s.m3u8
+#EXTINF:-1 tvg-id="LubovnianskaTV.sk" tvg-name="LubovnianskaTV" tvg-logo="https://i.imgur.com/ZgHIdGn.jpg" group-title="czesh-sk-tv",LubovnianskaTV.sk  (testov regim)  sk
+https://live.kukni.sk:8181/memfs/e65c8f8a-2eed-4219-99d7-46a6bc915e3c.m3u8
+#EXTINF:-1 tvg-id="MTR.sk" tvg-name="MTR" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="czesh-sk-tv",mtr 	Mestská Televízia Ružomberok  sk
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 tvg-id="MTR.sk" tvg-name="MTR" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="czesh-sk-tv",mtr 	Mestská Televízia Ružomberok  sk
+https://cdnsk003.panaccess.com/local/Ruzomberok/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-name="NZTV" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="czesh-sk-tv",nztv  TV Nové Zámky  sk
+https://livestream.lznet.work/hls/nztv-playout/index.m3u8
+#EXTINF:-1 tvg-id="Senzi.sk" tvg-name="Senzi" tvg-logo="https://i.imgur.com/1qJMmBu.png" group-title="czesh-sk-tv",senzi  sk
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Senzi.sk" tvg-name="Senzi" tvg-logo="https://i.imgur.com/1qJMmBu.png" group-title="czesh-sk-tv",senzi  sk
+http://lb.streaming.sk/senzi/stream/chunklist_w1165644364.m3u8
+#EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://i.imgur.com/DFeWp93.png" group-title="czesh-sk-tv",ta3  sk
+https://n13.stv.livebox.sk/ta3/1.smil/playlist.m3u8?auth=_any_|1789554698|5ba68ad4e84e7183a6dc32a596f785f63cc57f5c
+#EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://i.imgur.com/DFeWp93.png" group-title="czesh-sk-tv",ta3  sk
+https://n13.stv.livebox.sk/ta3/9426d6b6091b829ca5e979bf8a192802/1.smil/chunklist_b2691072.m3u8
+#EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://i.imgur.com/DFeWp93.png" group-title="czesh-sk-tv",ta3  sk
+https://n13.stv.livebox.sk/ta3/9426d6b6091b829ca5e979bf8a192802/1.smil/chunklist_b1667072.m3u8
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-name="Televizia Mocenok" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="czesh-sk-tv",televizia mocenok  sk
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleviziaTuriec.sk" tvg-name="Televizia Turiec" tvg-logo="https://i.imgur.com/ZqyL2kE.png" group-title="czesh-sk-tv",televizia turiec  sk
+https://cdnsk003.panaccess.com/local/Turiec/index.m3u8
+#EXTINF:-1 tvg-id="TeleviziaTuriec.sk" tvg-name="Televizia Turiec" tvg-logo="https://i.imgur.com/ZqyL2kE.png" group-title="czesh-sk-tv",televizia turiec  sk
+https://cdnsk003.panaccess.com/local/Turiec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="czesh-sk-tv",tv8  sk
+https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="czesh-sk-tv",tv8  sk
+https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/chunklist_w1795355521.m3u8
+#EXTINF:-1 tvg-id="TVBratislava.sk" tvg-name="TV Bratislava" tvg-logo="https://i.imgur.com/sQvMpo6.png" group-title="czesh-sk-tv",tv bratislava  sk
+https://cdnsk003.panaccess.com/local/Bratislava/index.m3u8
+#EXTINF:-1 tvg-id="TVBratislava.sk" tvg-name="TV Bratislava" tvg-logo="https://i.imgur.com/sQvMpo6.png" group-title="czesh-sk-tv",tv bratislava  sk
+https://cdnsk003.panaccess.com/local/Bratislava/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVBrezova.sk" tvg-name="TV Brezova" tvg-logo="https://i.imgur.com/59LpYoF.png" group-title="czesh-sk-tv",tv brezova pod bradlom dc  sk
+https://cdnsk003.panaccess.com/local/TV_BREZOVA_POD_BRADLOM_DC/index.m3u8
+#EXTINF:-1 tvg-id="TVBrezova.sk" tvg-name="TV Brezova" tvg-logo="https://i.imgur.com/59LpYoF.png" group-title="czesh-sk-tv",tv brezova pod bradlom dc  sk
+https://cdnsk003.panaccess.com/local/TV_BREZOVA_POD_BRADLOM_DC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVSen.sk" tvg-name="TV Sen" tvg-logo="https://i.imgur.com/ckm2oLD.png" group-title="czesh-sk-tv",TV SEN - Senica  sk
+https://cdnsk003.panaccess.com/local/TV_SEN_DC/index.m3u8
+#EXTINF:-1 tvg-id="TVSen.sk" tvg-name="TV Sen" tvg-logo="https://i.imgur.com/ckm2oLD.png" group-title="czesh-sk-tv",TV SEN - Senica  sk
+https://cdnsk003.panaccess.com/local/TV_SEN_DC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVDK.sk" tvg-name="TV DK" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="czesh-sk-tv",TV DK (DOLNY KUBIN)  sk
+http://5ca49f2417d90.streamlock.net/live/dolnykubin2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDK.sk" tvg-name="TV DK" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="czesh-sk-tv",TV DK (DOLNY KUBIN)  sk
+http://5ca49f2417d90.streamlock.net/live/dolnykubin2/chunklist_w709477648.m3u8
+#EXTINF:-1 tvg-id="TVDoktor.sk" tvg-name="TV Doktor" tvg-logo="https://i.imgur.com/2FZkGHx.jpeg" group-title="czesh-sk-tv",TV DOKTOR  sk
+https://live.tvdoktor.sk/high/index.m3u8
+#EXTINF:-1 tvg-id="TVHronka.sk" tvg-name="TV Hronka" tvg-logo="https://i.imgur.com/L9ODaLp.png" group-title="czesh-sk-tv",TV HRONKA  sk
+https://public.live.rebit.tv/live/a2ae9668-d37e-442d-ae98-070cb5d607a7/main.m3u8
+#EXTINF:-1 tvg-id="TVLiptov.sk" tvg-name="TV Liptov" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="czesh-sk-tv",tv liptov  sk
+https://stream.csweb.sk/tvturiec/tvliptov.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLiptov.sk" tvg-name="TV Liptov" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="czesh-sk-tv",tv liptov  sk
+https://stream.csweb.sk/tvturiec/tvliptov.stream/chunklist_w207652134.m3u8
+#EXTINF:-1 tvg-id="TVLux.sk" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/mAMyTkq.png" group-title="czesh-sk-tv",lux tv  sk
+https://stream.tvlux.sk/luxtv/luxtv-livestream/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="TVLux.sk" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/mAMyTkq.png" group-title="czesh-sk-tv",lux tv  sk
+https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w1344546140_DVR.m3u8
+#EXTINF:-1 tvg-id="TVMyjava.sk" tvg-name="TV Myjava" tvg-logo="https://i.imgur.com/9f9VmvF.png" group-title="czesh-sk-tv",tv myjava  sk
+https://cdnsk003.panaccess.com/local/TV_MYJAVA_DC/index.m3u8
+#EXTINF:-1 tvg-id="TVMyjava.sk" tvg-name="TV Myjava" tvg-logo="https://i.imgur.com/9f9VmvF.png" group-title="czesh-sk-tv",tv myjava  sk
+https://cdnsk003.panaccess.com/local/TV_MYJAVA_DC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVPanorama.sk" tvg-name="TV Panorama" tvg-logo="https://i.imgur.com/0YtCG4Y.png" group-title="czesh-sk-tv",tv panorama  sk
+https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
+#EXTINF:-1 tvg-id="TVPanorama.sk" tvg-name="TV Panorama" tvg-logo="https://i.imgur.com/0YtCG4Y.png" group-title="czesh-sk-tv",tv panorama  sk
+https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/avc,1080p,aac,128k.m3u8
+#EXTINF:-1 tvg-id="TVPoprad.sk" tvg-name="TV Poprad" tvg-logo="https://i.imgur.com/x6ZvOp6.png" group-title="czesh-sk-tv",tv poprad  sk
+https://cdnsk003.panaccess.com/local/Poprad/index.m3u8
+#EXTINF:-1 tvg-id="TVPoprad.sk" tvg-name="TV Poprad" tvg-logo="https://i.imgur.com/x6ZvOp6.png" group-title="czesh-sk-tv",tv poprad  sk
+https://cdnsk003.panaccess.com/local/Poprad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVRaj.sk" tvg-name="TV Raj" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="czesh-sk-tv",tv raj  (no works)  sk
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1 tvg-id="TVReduta.sk" tvg-name="TV Reduta" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="czesh-sk-tv",tv reduta  sk
+https://cdnsk003.panaccess.com/local/TV_SNV_REDUTA/index.m3u8
+#EXTINF:-1 tvg-id="TVReduta.sk" tvg-name="TV Reduta" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="czesh-sk-tv",tv reduta  sk
+https://cdnsk003.panaccess.com/local/TV_SNV_REDUTA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVRuzinov.sk" tvg-name="TV Ruzinov" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="czesh-sk-tv",tv ruzinov  sk
+https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRuzinov.sk" tvg-name="TV Ruzinov" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="czesh-sk-tv",tv ruzinov  sk
+https://lb.streaming.sk/tvruzinov/stream/chunklist_w2141435092.m3u8
+#EXTINF:-1 tvg-id="TVSkalica.sk" tvg-name="TV Skalica" tvg-logo="https://i.imgur.com/GB8fMoJ.png" group-title="czesh-sk-tv",tv skalica  sk
+https://videostudioris.sk/hls/tvs.m3u8
+#EXTINF:-1 tvg-id="TVStaraTura.sk" tvg-name="TV Stara Tura" tvg-logo="https://i.imgur.com/kerkvRX.png" group-title="czesh-sk-tv",tv stara tura  sk
+https://cdnsk003.panaccess.com/local/TV_STARA_TURA_DC/index.m3u8
+#EXTINF:-1 tvg-id="TVStaraTura.sk" tvg-name="TV Stara Tura" tvg-logo="https://i.imgur.com/kerkvRX.png" group-title="czesh-sk-tv",tv stara tura sk
+https://cdnsk003.panaccess.com/local/TV_STARA_TURA_DC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVT.sk" tvg-name="TVT" tvg-logo="https://i.imgur.com/QG0iZlG.png" group-title="czesh-sk-tv",tvt turzovka  sk
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+#EXTINF:-1 tvg-id="TVT.sk" tvg-name="TVT" tvg-logo="https://i.imgur.com/QG0iZlG.png" group-title="czesh-sk-tv",tvt turzovka  sk
+https://5ca49f2417d90.streamlock.net/live/turzovka/chunklist_w1344564832.m3u8
+#EXTINF:-1 tvg-id="VIOTV.sk" tvg-name="VIO TV" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="czesh-sk-tv",vio tv  sk
+https://cdnsk003.panaccess.com/local/VIO_TV/index.m3u8
+#EXTINF:-1 tvg-id="VIOTV.sk" tvg-name="VIO TV" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="czesh-sk-tv",vio tv  sk
+https://cdnsk003.panaccess.com/local/VIO_TV/tracks-v1a1/mono.m3u8
 
 
 
