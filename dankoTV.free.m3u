@@ -1197,12 +1197,6 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Russia.Today.TV.hr" tvg-name="RT Balkan" tvg-logo="" group-title="Ex-Yu/TV",RT Balkan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Euronews Serbia" tvg-logo="EuronewsSerbia.rs" group-title="Ex-Yu/TV",EURONEWS SERBIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/chunks.m3u8 
-#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Euronews Serbia" tvg-logo="EuronewsSerbia.rs" group-title="Ex-Yu/TV",EURONEWS SERBIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Osjecka tv" tvg-logo="" group-title="Ex-Yu/TV",Osjecka tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://live.osjecka.com/live/index.m3u8
@@ -1359,22 +1353,12 @@ http://178.253.201.11:8081/live/tvnis/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 8 mak" tvg-logo="" group-title="Ex-Yu/TV",Kanal 8 mak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://tv.kanal8.mk/live/kanal8.m3u8#EXTINF:-1 tvg-id="" tvg-name="Kanal 8 mak" tvg-logo="" group-title="Ex-Yu/TV",Kanal 8 mak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="Informer TV" tvg-logo="https://i.imgur.com/9wdEHRf.png" group-title="Ex-Yu/TV",Informer TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8
-#EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="Informer TV" tvg-logo="https://i.imgur.com/9wdEHRf.png" group-title="Ex-Yu/TV",Informer TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://edge-rs-01.maksnet.tv/informertv-secure/web/chunklist_w926671159.m3u8
 #EXTINF:-1 tvg-id="KICTV.si" tvg-name="KIC TV" tvg-logo="https://i.imgur.com/HeRz6kQ.png" group-title="Ex-Yu/TV",KIC TV  slo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://3986405b0595593b.servers.dvcloud.tv/hls/kic_tv_live_stream/61fao2o9oufr2dpb52hos5fo1p5peh0s.m3u8 
 #EXTINF:-1 tvg-id="TelevizijaUrslja.si" tvg-name="Televizija Urslja" tvg-logo="https://i.imgur.com/PZwdXlN.png" group-title="Ex-Yu/TV",Televizija Urslja  slo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ott.sgn.net/urslja/576p/index.m3u8 
-#EXTINF:-1 tvg-id="TelevizijaE.me" tvg-name="Televizija E" tvg-logo="https://i.imgur.com/3bGB7rm.png" group-title="Ex-Yu/TV",Televizija E  mne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream.castr.com/6a3a3a410f762ccfb40dc161/live_c0ce8eb06ee311f18917df30f5414322/index.fmp4.m3u8
 
 
 
@@ -1723,12 +1707,9 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="Romania-TV",hd 365
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s2.netstreaming.eu/hd365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="Romania-TV",hd 365
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-id="Hunedoara1.ro" tvg-name="Hunedoara 1" tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="Romania-TV",huneduara 1 deva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://netstreaming.eu/hd1.m3u8
+https://s2.netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="IasiTV Life.ro" tvg-logo="https://i.imgur.com/HY7EL5e.png" group-title="Romania-TV",iasi tv life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tv.streambox.ro/hls/itv/index.m3u8
@@ -1753,15 +1734,12 @@ https://1a-1791.com/live/k1ub38pe/live-hls/e5bk-dddn/chunklist_360p_i1_DVR.m3u8
 #EXTINF:-1 tvg-id="InfoTVRomania.ro" tvg-name="Info TV Romania" tvg-logo="https://i.imgur.com/rLzapB3.png" group-title="Romania-TV",info tv Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://1a-1791.com/live/k1ub38pe/live-hls/e5bk-dddn/chunklist_i1_DVR.m3u8
-#EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" tvg-logo="https://i.imgur.com/P1ZbVRg.png" group-title="Romania-TV",informatia tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="IntermediaTV.ro" tvg-logo="https://i.imgur.com/cNXM4Mu.png" group-title="Romania-TV",intermedia tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.intermediatv.ro/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="Info.HD.TV.ro" tvg-name="info hd tv" tvg-logo="" group-title="Romania-TV",info hd tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://netstreaming.eu/InfoHd.m3u8
+https://s2.netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="Romania-TV",job tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jobtvserver.eu/hls/stream.m3u8
@@ -1788,7 +1766,7 @@ https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
 #EXTINF:-1 tvg-id="M9TVRomania.ro" tvg-name="M9 TV Romania" tvg-logo="https://i.imgur.com/hRBNoVD.png" group-title="Romania-TV",m9 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://netstreaming.eu/m9tv.m3u8
+https://s2.netstreaming.eu/m9tv.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="Romania-TV",nasul tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.nasul.tv/live/stream.m3u8
@@ -1806,7 +1784,7 @@ https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8          
 #EXTINF:-1 tvg-id="TV1.Satu.Mare.ro" tvg-name="TV1 SATU MARE" tvg-logo="" group-title="Romania-TV",tv1 satu mare
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://netstreaming.eu/tv1.m3u8
+https://s2.netstreaming.eu/tv1.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Romania-TV",rock tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
@@ -1849,12 +1827,6 @@ https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 #EXTINF:-1 tvg-id="TVBozau.ro" tvg-name="TV Bozau" tvg-logo="https://i.imgur.com/GhFmUVO.png" group-title="Romania-TV",tv buzau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://78.96.33.89:8080/
-#EXTINF:-1 tvg-id="TVSUD.ro" tvg-name="TV SUD" tvg-logo="https://i.imgur.com/m3Slmbe.png" group-title="Romania-TV",tv sud
-#EXTVLCOPT:http-user-mozilla/5.0&http-referrer=https://www.tvsud.ro/
-https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8  
-#EXTINF:-1 tvg-id="TVSUD.ro" tvg-name="TV SUD" tvg-logo="https://i.imgur.com/m3Slmbe.png" group-title="Romania-TV",tv sud
-#EXTVLCOPT:http-user-mozilla/5.0&http-referrer=https://www.tvsud.ro/
-https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831_adaptive.m3u8 
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="Romania-TV",tvr 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
@@ -1969,12 +1941,6 @@ https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="Romania-TV",Privesc.Eu TV md
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 tvg-id="RealitateaTV.md" tvg-name="Realitatea TV" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="Romania-TV",Realitatea TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 tvg-id="RealitateaTV.md" tvg-name="Realitatea TV" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="Romania-TV",Realitatea TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://6065d3147e895.streamlock.net:4444/real/video5_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TezaurTV.md" tvg-name="Tezaur TV" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="Romania-TV",Tezaur TV md
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tezaurtv.md/stream/index.m3u8
@@ -2003,15 +1969,6 @@ https://stream.4fun.tv:8889/hls/4fk.m3u8
 #EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="Poland-TV",4FUN KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.4fun.tv:8889/hls/4fk_med/index.m3u8
-#EXTINF:-1 tvg-id="BTB.pl" tvg-name="BTB 1" tvg-logo="https://i.imgur.com/U8mcRal.png" group-title="Poland-TV",BTB 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
-#EXTINF:-1 tvg-id="BTB2.pl" tvg-name="BTB 2" tvg-logo="https://i.imgur.com/C5g0ejM.png" group-title="Poland-TV",BTB 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
-#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="Poland-TV",BTB INFO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
 #EXTINF:-1 tvg-id="RemontyTV.pl" tvg-name="Remonty TV" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="Poland-TV",remonty tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
@@ -2057,24 +2014,12 @@ https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u
 #EXTINF:-1 tvg-id="TVKujawy.pl" tvg-name="TV Kujawy" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="Poland-TV",tv kujawy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.tvkujawy.pl:8090/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="TVMazowsze.pl" tvg-name="TV Mazowsze" tvg-logo="https://zapodaj.net/thumbs/821c90c93eee6.jpg" group-title="Poland-TV",tv mazowsze (no work)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream2.tvmazowsze.pl/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-name="TV Regionalna Lubin" tvg-logo="https://i.imgur.com/2WVNt3f.png" group-title="Poland-TV",tv regionalna Lubin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
 #EXTINF:-1 tvg-id="TVTorun.pl" tvg-name="TV Torun" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" group-title="Poland-TV",tv torun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mediaserwer.tvk.torun.pl/001919c90462988c094c358a0561b13c/smil:tvk.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVToya.pl" tvg-name="TV Toya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/960px-TV_TOYA_Nowe_Logo_od_2014.svg.png" group-title="Poland-TV",tv toya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn-1-go.toya.net.pl/live/383OT_jFkKs8mU-AmkNHow/1787014503/001_toyahd_hls/index.m3u8
-#EXTINF:-1 tvg-id="TVToya.pl" tvg-name="TV Toya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/960px-TV_TOYA_Nowe_Logo_od_2014.svg.png" group-title="Poland-TV",tv toya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn-1-go.toya.net.pl/live/383OT_jFkKs8mU-AmkNHow/1787014503/001_toyahd_hls/01.m3u8
-#EXTINF:-1 tvg-id="TVToya.pl" tvg-name="TV Toya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/960px-TV_TOYA_Nowe_Logo_od_2014.svg.png" group-title="Poland-TV",tv toya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn-1-go.toya.net.pl/live/383OT_jFkKs8mU-AmkNHow/1787014503/001_toyahd_hls/03.m3u8
 #EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja TV" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" group-title="Poland-TV",twoja tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.twoja.tv/ttv_hls/live.m3u8
@@ -2135,15 +2080,6 @@ https://stream-23.mazana.tv/slagrmuzika.m3u8s
 #EXTINF:-1 tvg-id="SlagerPremium.cz" tvg-name="Slager Premium" tvg-logo="https://i.imgur.com/A7u2KeM.png" group-title="czesh-sk-tv",slager premium  czesh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream-17.mazana.tv/slagrpremium.m3u8s
-#EXTINF:-1 tvg-id="SportyTV.cz" tvg-name="Sporty TV" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="czesh-sk-tv",sporty  czesh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n7.cho2.livebox.cz/sportytv/amlst:sporty1/playlist.m3u8?auth=b64:c3BvcnR5MTpuNy5jaG8yLmxpdmVib3guY3o6ZGYzNWJkZDQtNjkyMy00NjZjLWE2MGYtNzRhNDQ0NmE3OGNiOjIwNTU0NjcwNToxNzg2OTgzOTk2NTIxOjE3ODY5OTExOTY6OmIxNWJjZWI5N2MxMDExZGU0MjIwZmZmODIyOTI4MzVk&DVR
-#EXTINF:-1 tvg-id="SportyTV.cz" tvg-name="Sporty TV" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="czesh-sk-tv",sporty  czesh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n7.cho2.livebox.cz/sportytv/3b48353faaba92fadb61eaf9daa0e2aa/amlst:sporty1/chunklist_b3256000_DVR.m3u8
-#EXTINF:-1 tvg-id="SportyTV.cz" tvg-name="Sporty TV" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="czesh-sk-tv",sporty  czesh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n7.cho2.livebox.cz/sportytv/3b48353faaba92fadb61eaf9daa0e2aa/amlst:sporty1/chunklist_b6256000_DVR.m3u8
 #EXTINF:-1 tvg-id="TVBeskyd.cz" tvg-name="TV Beskyd" tvg-logo="https://i.imgur.com/yVF6cUa.png" group-title="czesh-sk-tv",beskyd tv  czesh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://1034839213.rsc.cdn77.org/1034839213/index.m3u8
@@ -2174,9 +2110,6 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 #EXTINF:-1 tvg-id="TVBrno1.cz" tvg-name="TV Brno 1" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="czesh-sk-tv",tv brno1  czesh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.polar.cz/tvbrno1/tvbrno1live-2/manifest.mpd
-#EXTINF:-1 tvg-id="24.sk" tvg-name=":24" tvg-logo="https://i.imgur.com/tTCuczU.png" group-title="czesh-sk-tv",:24  sk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n13.stv.livebox.sk/stv-tv/4d97da9b0edd1abc3f7b9a7e33e09384/stv3.smil/chunklist_b2691072.m3u8
 #EXTINF:-1 tvg-id="BTV.sk" tvg-name="BTV" tvg-logo="https://i.imgur.com/5CZ6HHn.png" group-title="czesh-sk-tv",btv (bardejovska)  sk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://fs3.kabelko.sk/9011/index.m3u8?token=btv
@@ -2204,15 +2137,6 @@ http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Senzi.sk" tvg-name="Senzi" tvg-logo="https://i.imgur.com/1qJMmBu.png" group-title="czesh-sk-tv",senzi  sk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://lb.streaming.sk/senzi/stream/chunklist_w1165644364.m3u8
-#EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://i.imgur.com/DFeWp93.png" group-title="czesh-sk-tv",ta3  sk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n13.stv.livebox.sk/ta3/1.smil/playlist.m3u8?auth=_any_|1789554698|5ba68ad4e84e7183a6dc32a596f785f63cc57f5c
-#EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://i.imgur.com/DFeWp93.png" group-title="czesh-sk-tv",ta3  sk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n13.stv.livebox.sk/ta3/9426d6b6091b829ca5e979bf8a192802/1.smil/chunklist_b2691072.m3u8
-#EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://i.imgur.com/DFeWp93.png" group-title="czesh-sk-tv",ta3  sk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n13.stv.livebox.sk/ta3/9426d6b6091b829ca5e979bf8a192802/1.smil/chunklist_b1667072.m3u8
 #EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-name="Televizia Mocenok" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="czesh-sk-tv",televizia mocenok  sk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
@@ -2222,12 +2146,6 @@ https://cdnsk003.panaccess.com/local/Turiec/index.m3u8
 #EXTINF:-1 tvg-id="TeleviziaTuriec.sk" tvg-name="Televizia Turiec" tvg-logo="https://i.imgur.com/ZqyL2kE.png" group-title="czesh-sk-tv",televizia turiec  sk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdnsk003.panaccess.com/local/Turiec/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="czesh-sk-tv",tv8  sk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="czesh-sk-tv",tv8  sk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/chunklist_w1795355521.m3u8
 #EXTINF:-1 tvg-id="TVBratislava.sk" tvg-name="TV Bratislava" tvg-logo="https://i.imgur.com/sQvMpo6.png" group-title="czesh-sk-tv",tv bratislava  sk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdnsk003.panaccess.com/local/Bratislava/index.m3u8
