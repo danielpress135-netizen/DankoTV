@@ -1152,7 +1152,6 @@ https://1a-1791.com/live/v13wgnv6/live-hls/xp9c-guaf/chunklist_i1_DVR.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Shift.TV.HD.(BIH).ba" tvg-name="Shift TV" tvg-logo="https://i.imgur.com/mudXVT8.png" group-title="Ex-Yu/TV",Shift TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNOVA12.mk" tvg-name="TV NOVA 12" tvg-logo="" group-title="Ex-Yu/TV",TV NOVA 12 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36  
@@ -1189,9 +1188,6 @@ https://elara.netcomm.rs/toktv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tok tv" tvg-logo="" group-title="Ex-Yu/TV",tok tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV ZE" tvg-logo="" group-title="Ex-Yu/TV",RTV ZE(ZENICA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-id="NewsMax.Balkans.(RS).rs" tvg-name="Newsmax Balkan" tvg-logo="" group-title="Ex-Yu/TV",Newsmax Balkan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v3a1/mono.m3u8
@@ -1213,9 +1209,6 @@ https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720
 #EXTINF:-1 tvg-id="TVMNE.(RTCG.Sat.(RS)).rs" tvg-name="TVCG MNE" tvg-logo="" group-title="Ex-Yu/TV",TVCG MNE (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMNE.(RTCG.Sat.(RS)).rs" tvg-name="TVCG MNE" tvg-logo="" group-title="Ex-Yu/TV",TVCG MNE (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://rtcg-live-open.morescreens.com/RTCG_1_004/media_3.m3u8
 #EXTINF:-1 tvg-id="RTV.Novi.Pazar.(RS).rs" tvg-name="RTV NP" tvg-logo="" group-title="Ex-Yu/TV",RTV NP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://tv.rtvnp.rs/stream.m3u8
@@ -1246,9 +1239,6 @@ https://rtvmir.info/MIR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV.Nova.hr" tvg-name="TV Nova" tvg-logo="" group-title="Ex-Yu/TV",TV Nova (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nasha TV" tvg-logo="" group-title="Ex-Yu/TV",Nasha TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="gm plus cable" tvg-logo="" group-title="Ex-Yu/TV",gm plus cable
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://539745e629986.streamlock.net/gmpluscable/stream/chunklist_w639476776.m3u8
@@ -1354,9 +1344,6 @@ https://edge-rs-01.maksnet.tv/rtvkg/uzivo/chunklist_w39685983.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="rtv city ub" tvg-logo="" group-title="Ex-Yu/TV",rtv city ub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://109.72.57.12/hls/tvcityub.m3u8
-#EXTINF:-1 tvg-id="KanalRi.hr" tvg-name="KANAL RI" tvg-logo="" group-title="Ex-Yu/TV",KANAL RI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NISH TV" tvg-logo="" group-title="Ex-Yu/TV",NISH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://178.253.201.11:8081/live/tvnis/playlist.m3u8
@@ -1422,28 +1409,19 @@ https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://pool.alter-media.hr:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio.Karolina.rs" tvg-name="Radio Karolina TV" tvg-logo="" group-title="Ex-Yu/TV",Radio Karolina TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
 #EXTINF:-1 tvg-id="Radio.Lola.HD.(Radiovizijski)..rs" tvg-name="Radio Lola" tvg-logo="" group-title="Ex-Yu/TV",Radio Lola (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/master.m3u8
 #EXTINF:-1 tvg-id="Radio.Lola.HD.(Radiovizijski)..rs" tvg-name="Radio Lola" tvg-logo="" group-title="Ex-Yu/TV",Radio Lola (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 #EXTINF:-1 tvg-id="TDI.radio.rs" tvg-name="TDI Radio TV" tvg-logo="" group-title="Ex-Yu/TV",TDI Radio TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 #EXTINF:-1 tvg-id="Hit.FM.radio.rs" tvg-name="Radio Hit FM TV" tvg-logo="" group-title="Ex-Yu/TV",Radio Hit FM TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 #EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si" tvg-name="TV Veseljak Golica HD" tvg-logo="" group-title="Ex-Yu/TV",TV Veseljak Golica HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Наша ТВ cOOL" tvg-logo="" group-title="Ex-Yu/TV",Наша ТВ cOOL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
 #EXTINF:-1 tvg-id="FolkKlubTV.au@SD" tvg-name="Folk Klub" tvg-logo="" group-title="Ex-Yu/TV",Folk Klub (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 tvg-id="INTVAustralia.au@SD" tvg-name="INTV Australia" tvg-logo="" group-title="Ex-Yu/TV",INTV Australia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
@@ -1457,7 +1435,6 @@ http://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="TV.Duga+.ch" tvg-name="TV Duga+" tvg-logo="" group-title="Ex-Yu/TV",TV Duga+
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308_output_0.m3u8
 #EXTINF:-1 tvg-id="Hugo2.mk" tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" group-title="Ex-Yu/TV",Хуго 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 #EXTINF:-1 tvg-id="IDJTV.HD.rs" tvg-name="IDJ TV" tvg-logo="" group-title="Ex-Yu/TV",IDJ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
