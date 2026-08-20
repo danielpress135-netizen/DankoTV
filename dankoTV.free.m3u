@@ -1197,9 +1197,18 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Russia.Today.TV.hr" tvg-name="RT Balkan" tvg-logo="" group-title="Ex-Yu/TV",RT Balkan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Euronews Serbia" tvg-logo="EuronewsSerbia.rs" group-title="Ex-Yu/TV",EURONEWS SERBIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/chunks.m3u8 
+#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Euronews Serbia" tvg-logo="EuronewsSerbia.rs" group-title="Ex-Yu/TV",EURONEWS SERBIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Osjecka tv" tvg-logo="" group-title="Ex-Yu/TV",Osjecka tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://live.osjecka.com/live/index.m3u8
+#EXTINF:-1 tvg-id="SuperTVSmederevo.rs" tvg-name="Super TV Smederevo" tvg-logo="https://i.imgur.com/IPe4ZdL.png" group-title="Ex-Yu/TV",Super TV Smederevo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+https://lbgo.bozztv.com/ssh101/ssh101/televizijasuper/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 tvg-id="" tvg-name="rtv puls brcko" tvg-logo="" group-title="Ex-Yu/TV",rtv puls brcko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
@@ -1349,7 +1358,25 @@ http://109.72.57.12/hls/tvcityub.m3u8
 http://178.253.201.11:8081/live/tvnis/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 8 mak" tvg-logo="" group-title="Ex-Yu/TV",Kanal 8 mak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://tv.kanal8.mk/live/kanal8.m3u8
+https://tv.kanal8.mk/live/kanal8.m3u8#EXTINF:-1 tvg-id="" tvg-name="Kanal 8 mak" tvg-logo="" group-title="Ex-Yu/TV",Kanal 8 mak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="Informer TV" tvg-logo="https://i.imgur.com/9wdEHRf.png" group-title="Ex-Yu/TV",Informer TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8
+#EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="Informer TV" tvg-logo="https://i.imgur.com/9wdEHRf.png" group-title="Ex-Yu/TV",Informer TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+https://edge-rs-01.maksnet.tv/informertv-secure/web/chunklist_w926671159.m3u8
+#EXTINF:-1 tvg-id="KICTV.si" tvg-name="KIC TV" tvg-logo="https://i.imgur.com/HeRz6kQ.png" group-title="Ex-Yu/TV",KIC TV  slo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://3986405b0595593b.servers.dvcloud.tv/hls/kic_tv_live_stream/61fao2o9oufr2dpb52hos5fo1p5peh0s.m3u8 
+#EXTINF:-1 tvg-id="TelevizijaUrslja.si" tvg-name="Televizija Urslja" tvg-logo="https://i.imgur.com/PZwdXlN.png" group-title="Ex-Yu/TV",Televizija Urslja  slo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ott.sgn.net/urslja/576p/index.m3u8 
+#EXTINF:-1 tvg-id="TelevizijaE.me" tvg-name="Televizija E" tvg-logo="https://i.imgur.com/3bGB7rm.png" group-title="Ex-Yu/TV",Televizija E  mne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.castr.com/6a3a3a410f762ccfb40dc161/live_c0ce8eb06ee311f18917df30f5414322/index.fmp4.m3u8
+
+
 
 
 
