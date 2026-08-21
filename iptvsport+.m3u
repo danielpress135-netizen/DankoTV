@@ -15,22 +15,6 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="Sport+", Матч HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=iORm8kodbyqVhBILvTpvCA&e=2085483124&scheme=https
-#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="Sport+",MAX Sport 1 HD
-http://62.176.112.19:8008/play/a0be
-#EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-name="MAX SPORT 1" tvg-logo="" group-title="Sport+",MAX SPORT 1
-http://213.91.179.28:8000/play/a0as
-#EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-name="MAX SPORT 2" tvg-logo="" group-title="Sport+",MAX SPORT 2
-http://213.91.179.28:8000/play/a0at
-#EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="MAX Sport 2 HD" tvg-logo="" group-title="Sport+",MAX Sport 2 HD
-http://213.91.179.28:8000/play/a0ag
-#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="Sport+",MAX Sport 3 HD
-http://62.176.112.19:8008/play/a0bg
-#EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-name="MAX SPORT 3" tvg-logo="" group-title="Sport+",MAX SPORT 3
-http://213.91.179.28:8000/play/a0ar
-#EXTINF:-1 tvg-id="MAX.Sport.4.bg" tvg-name="MAX SPORT 4" tvg-logo="" group-title="Sport+",MAX SPORT 4
-http://213.91.179.28:8000/play/a05n
-#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="Sport+",Max Sport 4
-http://62.176.112.19:8008/play/a0d6
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="Max Sport 1" tvg-logo="https://i.imgur.com/0ohnpql.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sport+",Max Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport1
@@ -40,35 +24,10 @@ http://77.46.130.252:99/maxsport2
 #EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="Max Sport 3" tvg-logo="https://i.imgur.com/eGiGgZ2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sport+",Max Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX SPORT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVNnTlwkx5ZmljqQ5FzA4QjdlTb-oHHUiSIV_vjasG0g.png" group-title="BG🇧🇬/TV test",MAX SPORT 1 HD
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxQeCnehiQJWP4VWNyOO2xY/ts
-#EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="MAX SPORT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfa7vzjAUagty8bfoEhGl99A.png" group-title="BG🇧🇬/TV test",MAX SPORT 2 HD
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0KOPJ_ePhs6K5pVyB9KxL4/ts
-#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX SPORT 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzszrybKpPWLt191ZydixvCwkxrngfTD7xPDXcunXOE_bdw5k7WBFblnVl25wph5B6A.png" group-title="BG🇧🇬/TV test",MAX SPORT 3 HD
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_iFuNsjJz3Gojb0Tbc5tg0/ts
-#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="MAX SPORT 4 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzv6LX0pl-JxspPJ2KtWzoNfVTq2C5zcFfM1O9p2qivvsg.png" group-title="BG🇧🇬/TV test",MAX SPORT 4 HD
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_0BlAWhxUhKeutSjF7G-uA/ts
-#EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="DIEMA SPORT 1 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG🇧🇬/TV test",DIEMA SPORT 1 HD
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4v2f7TauKwtXNu_OyRRTqw/ts
-#EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="DIEMA SPORT 2 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG🇧🇬/TV test",DIEMA SPORT 2 HD
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4oPNAemNrSGtRcHv3NGuv4/ts
-#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="DIEMA SPORT 3 HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsXkcj6O1qIBX1paBr88hcX6UxQhuyuCiALAw7r_c2MyuPoIsm8tf0m753jhIMX80A.png" group-title="BG🇧🇬/TV test",DIEMA SPORT 3 HD
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4JlHt9QidRKRGxIZa6W5W0/ts
 #EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="Sport+",Diema Sport HD
 https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
-#EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="Sport+",Diema Sport HD
-http://213.91.179.28:8000/play/a06q
 #EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="Sport+",Diema Sport 2 HD
 https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="Sport+",Diema Sport 2 HD
-http://62.176.112.19:8008/play/a0bd
-#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="Sport+",Diema Sport 3 HD
-http://62.176.112.19:8008/play/a0cj
-#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="Sport+",Diema Sport 3 HD
-http://213.91.179.28:8000/play/a08f
-#EXTINF:-1 tvg-id="RING.BG.bg" tvg-name="RING HD" tvg-logo="" group-title="Sport+",RING HD
-http://62.176.112.19:8008/play/a0bo
-#EXTINF:-1 tvg-id="Нова.Спорт.bg" tvg-name="NOVA SPORT HD" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzvxxTrCY9o8n5HtlDA-TKaPj3YDORNFF8yotFjs1NzJ-w.png" group-title="Sport+",NOVA SPORT HD
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_ZHioiK4aovz7UkpkVPp9U/ts
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="Sport+",Arena Sport 1 HD
 https://shift03.isp.bg/Arena_Sport_1/index.m3u8
@@ -80,30 +39,11 @@ https://shift03.isp.bg/Arena_Sport_3/index.m3u8
 https://shift03.isp.bg/Arena_Sport_4/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="Sport+",Arena Sport 5 HD
 https://shift03.isp.bg/Arena_Sport_5/index.m3u8
-#EXTINF:-1 tvg-id="Arena.Sport.6.HD.(RS).rs" tvg-name="Arena Sport 6 HD" tvg-logo="" group-title="Sport+",Arena Sport 6 HD
-http://178.253.194.79:10011
-#EXTINF:-1 tvg-id="Arena.Sport.7.HD.(RS).rs" tvg-name="Arena Sport 7 HD" tvg-logo="" group-title="Sport+",Arena Sport 7 HD
-http://178.253.194.79:10012
-#EXTINF:-1 tvg-id="Arena.Sport.8.HD.(RS).rs" tvg-name="Arena Sport 8 HD" tvg-logo="" group-title="Sport+",Arena Sport 8 HD
-http://178.253.194.79:10013
-#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-name="Arena Sport 1 Premium HD" tvg-logo="" group-title="Sport+",Arena Sport 1 Premium HD
-http://178.253.194.79:10001
-#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-name="Arena Sport 2 Premium HD" tvg-logo="" group-title="Sport+",Arena Sport 2 Premium HD
-http://178.253.194.79:10004
-#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-name="Arena Sport 3 Premium HD" tvg-logo="" group-title="Sport+",Arena Sport 3 Premium HD
-http://178.253.194.79:10005
-#EXTINF:-1 tvg-id="Arena.Premium.4.HD.(RS).rs" tvg-name="Arena Sport 4 Premium HD" tvg-logo="" group-title="Sport+",Arena Sport 4 Premium HD
-http://178.253.194.79:10016
-#EXTINF:-1 tvg-id="Arena.Premium.5.HD.(RS).rs" tvg-name="Arena Sport 5 Premium HD" tvg-logo="" group-title="Sport+",Arena Sport 5 Premium HD
-http://178.253.194.79:10017
-#EXTINF:-1 tvg-id="Arena.Tenis.rs" tvg-name="Arena Tennis HD" tvg-logo="" group-title="Sport+",Arena Tennis HD
-http://178.253.194.79:10019
-#EXTINF:-1 tvg-id="Arena.Adrenalin.rs" tvg-name="Arena Adrenalin HD" tvg-logo="" group-title="Sport+",Arena Adrenalin HD
-http://178.253.194.79:10018
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sport+",Digi Sport 1 HD
 http://91.201.172.14:35005
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sport+",Digi Sport 2 HD
 http://91.201.172.14:35006
+
 
 
 
