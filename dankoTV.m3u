@@ -1407,7 +1407,7 @@ https://media2.streambrothers.com:1936/8168/8168/chunklist_w869830387.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/106851.jpg" group-title="Ex-Yu/Radio", COOL radio | Serbia - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/106851.jpg" group-title="Ex-Yu/Radio", COOL radio - Serbia - 128 kbit/s
 http://live.coolradio.rs/cool128
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1537444540.jpg" group-title="Ex-Yu/Radio", Ok Radio 256 Kbit HD sound server - 128 kbit/s
 http://live3.okradio.net:8054/stream/1/
@@ -1429,9 +1429,9 @@ http://94.130.11.28:8000/stream/1/
 http://radio105.makbots.com:21010/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1554860311.jpg" group-title="Ex-Yu/Radio", Club Music Radio - FOLK - 320 kbit/s
 http://cmr-hosting.com:8010/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1537503983.jpg" group-title="Ex-Yu/Radio", Radio Morava :: Jagodina :: www.radiomorava.rs :: MP3 128k stereo - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1537503983.jpg" group-title="Ex-Yu/Radio", Radio Morava Jagodina - 128 kbit/s
 http://78.129.199.49:12100/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1556550956.jpg" group-title="Ex-Yu/Radio", ..:: Visper-Radio.com ::.. - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1556550956.jpg" group-title="Ex-Yu/Radio",Visper-Radio.com - 128 kbit/s
 http://radiostream.optiklink.com:8100/live.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1572768561.jpg" group-title="Ex-Yu/Radio", Radio Gbg folk - 128 kbit/s
 http://62.210.188.38:8050/stream/2/
@@ -4039,8 +4039,6 @@ https://scl.edge.grupoz.cl/retroplustvdos/live/playlist.m3u8
 https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mola Hits" tvg-logo="https://i.ibb.co/L24NXKg/image-2025-07-10-T143246-895.png" group-title="MUSIC🎶📺/TV CLASSIC",Mola Hits
 https://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-id="Nuta.Gold.HD.pl" tvg-name="Nuta Gold" tvg-logo="https://i.ibb.co/zWw1rJth/image-66.png" group-title="MUSIC🎶📺/TV CLASSIC",Nuta Gold
-http://78.130.250.2:8023/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VANTAGE DANCE" tvg-logo="https://i.ibb.co/cc3v2v7Z/image-11.png" group-title="MUSIC🎶📺/TV CLASSIC",VANTAGE DANCE
 https://hls.lulzy.eu/vdance_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VANTAGE DANCE" tvg-logo="https://i.ibb.co/cc3v2v7Z/image-11.png" group-title="MUSIC🎶📺/TV CLASSIC",VANTAGE DANCE
@@ -4126,14 +4124,6 @@ https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 https://vdochile.com:3864/live/retrolive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retromusica Cile" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="MUSIC🎶📺/TV CLASSIC",Retromusica Cile
 https://vdochile.com:3864/stream/play.m3u8
-#EXTINF:-1 tvg-id="Stars.TV.pl" tvg-name="StarsTV" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",StarsTV 
-http://193.24.244.60:1001/udp/239.254.5.38:6060
-#EXTINF:-1 tvg-id="Stars.TV.HD.pl" tvg-name="StarsTV HD" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",StarsTV HD
-http://193.24.244.60:1001/udp/239.254.5.39:6060
-#EXTINF:-1 tvg-id="Nuta.TV.HD.pl" tvg-name="Nuta TV HD" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",Nuta.TV HD
-http://193.24.244.60:1001/udp/239.254.3.106:6060
-#EXTINF:-1 tvg-id="NUTA.GOLD.pl" tvg-name="NUTA GOLD" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",NUTA GOLD
-http://193.24.244.60:1001/udp/239.254.3.111:6060
 
 
 
@@ -4746,6 +4736,22 @@ https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" tvg-name="Power Türk Taptaze" tvg-logo="https://i.imgur.com/a5nW3HU.png" group-title="MUSIC🎶📺/TV PACK",Power Türk Taptaze (1080p)
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="MUSIC🎶📺/TV PACK",mooz dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits.ro" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="MUSIC🎶📺/TV PACK",mooz hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-id="Mooz Ro.ro" tvg-name="Mooz Ro.ro" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="MUSIC🎶📺/TV PACK",mooz ro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="mooz.love.ro" tvg-name="mooz love" tvg-logo="" group-title="MUSIC🎶📺/TV PACK",mooz love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
+#EXTINF:-1 tvg-id="mooz.retro.ro" tvg-name="mooz retro" tvg-logo="" group-title="MUSIC🎶📺/TV PACK",mooz retro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
+
 
 
 
@@ -4961,8 +4967,10 @@ https://tinyurl.com/27o9j5a9
 https://tinyurl.com/2cykcka8
 #EXTINF:-1  tvg-id="" tvg-name="Z! Rock HD" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK", Z! Rock HD (RU)
 https://tinyurl.com/268ktjp8
-#EXTINF:-1 tvg-id="" tvg-name="Eska Rock TV HD" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Eska Rock TV HD
-http://193.24.244.60:1001/udp/239.254.5.27:6060
+#EXTINF:-1 tvg-id="mooz.retro.ro" tvg-name="mooz retro" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",mooz retro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
+
 
 
 
