@@ -3283,10 +3283,65 @@ https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
 #EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Albania - TV",AlbKanale Music TV
 https://secured.albportal.net:2083/AlbKanaleMusicTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MCNTV.al" tvg-name="MCN TV" tvg-logo="https://i.imgur.com/bcAMVVk.png" group-title="Albania - TV",MCN TV
+https://mcntv.al/hls/mcntv.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" tvg-logo="https://i.imgur.com/eG33jue.png" group-title="Albania - TV",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri" tvg-logo="https://i.imgur.com/EEHyKdL.jpeg" group-title="Albania - TV",Syri
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja Televizion" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Albania - TV",Tropoja Televizion
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/tL1n9mh.png" group-title="Albania - TV",TV 7 Albania
+https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
+#EXTINF:-1 tvg-id="21News.xk" tvg-name="21 News" tvg-logo="" group-title="Albania - TV",21 News kosovo
+https://rtv21.tv/api/live/hls/ch_tfu726d/info.m3u8
+#EXTINF:-1 tvg-id="ATV.xk" tvg-name="ATV" tvg-logo="https://i.imgur.com/lX6sekx.png" group-title="Albania - TV",ATV  Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
+#EXTINF:-1 tvg-id="ATV.xk" tvg-name="ATV" tvg-logo="https://i.imgur.com/lX6sekx.png" group-title="Albania - TV",ATV  Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="RTK1Sat.xk" tvg-name="RTK 1 Sat" tvg-logo="https://i.imgur.com/LtorccS.png" group-title="Albania - TV",RTK 1 Sat
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:-1 tvg-id="RTK1Sat.xk" tvg-name="RTK 1 Sat" tvg-logo="https://i.imgur.com/LtorccS.png" group-title="Albania - TV",RTK 1 Sat
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="RTK1.xk" tvg-name="RTK 1" tvg-logo="https://i.imgur.com/KTcWcO6.png" group-title="Albania - TV",RTK 1
+https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/index.m3u8
+#EXTINF:-1 tvg-id="RTK2.xk" tvg-name="RTK 2" tvg-logo="https://i.imgur.com/g6k6xyO.png" group-title="Albania - TV",RTK 2
+https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk" tvg-name="RTK 3" tvg-logo="https://i.imgur.com/Ut9VcT3.png" group-title="Albania - TV",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk" tvg-name="RTK 3" tvg-logo="https://i.imgur.com/Ut9VcT3.png" group-title="Albania - TV",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="RTK4.xk" tvg-name="RTK 4" tvg-logo="https://i.imgur.com/Urm4XDR.png" group-title="Albania - TV",RTK 4
+https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/rtk4/index.m3u8
+#EXTINF:-1 tvg-id="RTVBesa.xk" tvg-name="RTV Besa" tvg-logo="https://i.imgur.com/Qi3mz4Q.png" group-title="Albania - TV",RTV Besa  Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8
+#EXTINF:-1 tvg-id="RTVBesa.xk" tvg-name="RTV Besa" tvg-logo="https://i.imgur.com/Qi3mz4Q.png" group-title="Albania - TV",RTV Besa  Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="SyriVision.xk" tvg-name="Syri Vision" tvg-logo="https://www.syri-vision.tv/wp-content/uploads/2021/01/TVSYRI_WEB_MAIN.png" group-title="Albania - TV",Syri Vision  Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="T7.xk" tvg-name="T7" tvg-logo="https://i.imgur.com/b7FvSJj.png" group-title="Albania - TV",T7  Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk" tvg-name="TV Arta" tvg-logo="https://i.imgur.com/MAhJkK9.png" group-title="Albania - TV",TV Arta  Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk" tvg-name="TV Arta" tvg-logo="https://i.imgur.com/MAhJkK9.png" group-title="Albania - TV",TV Arta  Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TVDielli.xk" tvg-name="TV Dielli" tvg-logo="https://i.imgur.com/kLl3ar5.png" group-title="Albania - TV",TV Dielli  Kosovo
+https://stream.tvdielli.com/hls/dielli/index.m3u8
+#EXTINF:-1 tvg-id="TVPrizreni.xk" tvg-name="TV Prizreni" tvg-logo="https://i.imgur.com/hvtJwOO.png" group-title="Albania - TV",TV Prizreni  Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
+#EXTINF:-1 tvg-id="TVPrizreni.xk" tvg-name="TV Prizreni" tvg-logo="https://i.imgur.com/hvtJwOO.png" group-title="Albania - TV",TV Prizreni  Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TV2Gostivar.mk" tvg-name="TV2 Gostivar" tvg-logo="https://i.imgur.com/VIJ4WpT.png" group-title="Albania - TV",TV2 Gostivar
+https://live20.bozztv.com/giatv/giatv-tv2gostivar/tv2gostivar/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2Gostivar.mk" tvg-name="TV2 Gostivar" tvg-logo="https://i.imgur.com/VIJ4WpT.png" group-title="Albania - TV",TV2 Gostivar
+https://live20.bozztv.com/giatv/giatv-tv2gostivar/tv2gostivar/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Albania - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Albania - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Albania - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Albania - TV",
+
+
+
+
+
 
 
 
