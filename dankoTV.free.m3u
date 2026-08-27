@@ -3529,7 +3529,7 @@ https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AksuTV.tr" tvg-name="Aksu TV" tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="Turkiye - TV",Aksu TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-#EXTINF:-1 tvg-id="ArtWorld.tr" tvg-name="Art World" tvg-logo="" group-title="Turkiye - TV"Art World
+#EXTINF:-1 tvg-id="ArtWorld.tr" tvg-name="Art World" tvg-logo="" group-title="Turkiye - TV",Art World
 https://live.artidijitalmedya.com/artidijital_artworld/artworld/playlist.m3u8
 #EXTINF:-1 tvg-id="CanTempoTV.tr" tvg-name="Can Tempo TV" tvg-logo="" group-title="Turkiye - TV",Can Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
@@ -3628,6 +3628,12 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",TuTuRuTkA
+https://www.youtube.com/playlist?list=PLu4dxepsuXwQbD4phiBbBEQs9omFOadhC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Paradise Lost Live
+https://www.youtube.com/watch?v=7WJmiRqFdHc&list=RD7WJmiRqFdHc&start_radio=1
 
 
 
