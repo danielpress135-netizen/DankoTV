@@ -3632,19 +3632,75 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",TuTuRuTkA
 https://www.youtube.com/playlist?list=PLu4dxepsuXwQbD4phiBbBEQs9omFOadhC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Paradise Lost Live
-https://www.youtube.com/watch?v=7WJmiRqFdHc&list=RD7WJmiRqFdHc&start_radio=1
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Catalog - Symphonic metal ",Symphonic metal - clipomania (Playlist YouTube)
-youtube://playlist?list=PLIhZmfRxmaxH3q8Nf4T_jx4UUUIhcAE04
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Symphonic Metal - Clipomania (Playlist YouTube)
 https://www.youtube.com/playlist?list=PLIhZmfRxmaxH3q8Nf4T_jx4UUUIhcAE04
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Hard Rock - Clipomania
+https://www.youtube.com/playlist?list=PLIhZmfRxmaxH-NYqJ4swfAjjBgiNtQ_6R
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Rock Ballads - Clipomania
+https://www.youtube.com/playlist?list=PLIhZmfRxmaxF-xmzGLPeM_s2pPnZhFu8S
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Heavy Metal - Clipomania
+https://www.youtube.com/playlist?list=PLIhZmfRxmaxHzjNr5gPFBqB6uz758kEru
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Power-Speed Metal - Clipomania
+https://www.youtube.com/playlist?list=PLIhZmfRxmaxEHnyrq-CsR7Ak83R8gbFk9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Rock-Metal Concerts - Livemania
+https://www.youtube.com/playlist?list=PLIhZmfRxmaxGm6ybrBXFPlfC96eIeUneq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Metal ballds - Clipomania
+https://www.youtube.com/playlist?list=PLIhZmfRxmaxFt0b_LgJdggZFF7qQlfKL8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Balkan Rock Mix - Clipomania
+https://www.youtube.com/playlist?list=PLIhZmfRxmaxFYdGOQHFT1MZSN5ouxRHOk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Nightwish official music videos
+https://www.youtube.com/playlist?list=PLihZ3gi5YvzeqXzoa_sYk08yKXogWkt69
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Shakra official music videos
+https://www.youtube.com/playlist?list=PLMEmICw1ilfgebRSr1xUbLgLqFTrSkUVY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",WITHIN TEMPTATION official music videos
+https://www.youtube.com/playlist?list=PLA93FBFFB92366058
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",БТР official music videos
+https://www.youtube.com/playlist?list=PLvxbq0pIrwPb08jodPDZTRRHkYq1BGUrv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Tankcsapda official music videos
+https://www.youtube.com/playlist?list=PL7zU0Qgqwc_MSyqnLb6HmoW47NynJlmfp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Whitesnake official music videos
+https://www.youtube.com/playlist?list=PLuzW6rT9oFxrMtJ6ZMw6edrocrJ0rB3iD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Firewind official music videos
+https://www.youtube.com/playlist?list=PLioMvPz8XdmR8BzK1XYxENCYFb_32CXcc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Megadeth official music videos
+https://www.youtube.com/playlist?list=PLFJaod-oManE5gpqkzyhbspshu6mL7drM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Scorpions official music videos
+https://www.youtube.com/playlist?list=PL1UpxsN6ggwAI4az2-ana3xqwQXWTFJvd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Scarlet Records official music videos
+https://www.youtube.com/playlist?list=PLZfunqTjepuyugakRky7yYKARhhqWhZyZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Best Power Metal
+https://www.youtube.com/playlist?list=PLlIXsXPSwnwkGGLTcot2_HU1lOz_2GFOZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Dream Theatre official music video
+https://www.youtube.com/playlist?list=PLToa5JuFMsXTNkrLJbRlB--76IAOjRM9b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",DragonForce official music videos
+https://www.youtube.com/playlist?list=PL5S7HW46qwWLe3KutLG0gikQfJfSgqoor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Epica official music video
+https://www.youtube.com/playlist?list=PLGC_zhmBV1bdvG4eE9BW3jRPEVQQebNkC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",HammerFall official music videos
+https://www.youtube.com/playlist?list=PLA6B74CE1FCE3762D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Sabaton official music videos
+https://www.youtube.com/playlist?list=PLA_zjX3swAf5ZN8mPY8pTQld9Oz3KEeK8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",H.e.a.t. official music videos
+https://www.youtube.com/playlist?list=PLQeCk38LzcNikvSdsndQpVLff3vM0EZpE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Iron Maiden official music videos
+https://www.youtube.com/playlist?list=PL171A6536C5FDFD95
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Judas Priest top videos
+https://www.youtube.com/playlist?list=PLVOHQtvxLqQO-K_rNkmTbeHIyZmqiXhiX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Helloween official music videos 
+https://www.youtube.com/playlist?list=PLjSI8RIYQ1T4WbKfrusZmG4WKBWKTvX10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Helloween remaster music videos FHD
+https://www.youtube.com/playlist?list=PLjSI8RIYQ1T6uM6hJSrBw7m1_os-AZcnZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Bon Jovi in HD music videos
+https://www.youtube.com/playlist?list=PLFaewo-QNq7MPj8uYHlUnr_pGm_PB4zyN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YOUTUBE - TEST",Bon Jovi official music videos
+https://www.youtube.com/playlist?list=PLFaewo-QNq7McBMtUCLUYQAePZ5eb6fjH
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://youtube.com" group-title="Catalog - Symphonic metal ",Symphonic metal - clipomania (Playlist YouTube)
-plugin://youtube://playlist?list=PLIhZmfRxmaxH3q8Nf4T_jx4UUUIhcAE04
+
+
+
+
 
 
 
