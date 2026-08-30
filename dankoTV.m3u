@@ -4174,6 +4174,9 @@ https://d1m3fs719k0oep.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Country.Music.Television.(CMT).ca2" tvg-name="CMT Equal Play" tvg-logo="https://i.imgur.com/9ysjkkL.png" group-title="MUSIC🎶📺/TV COUNTRY",CMT Equal Play (720p)
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
+#EXTINF:-1 tvg-id="SmashCountryTV.mt" tvg-name="Smash Country TV" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="MUSIC🎶📺/TV COUNTRY",Smash Country TV (Malta)
+https://stream.smashmalta.com/live/webplayermt/livestream/11.m3u8
+
 
 
 
@@ -4751,6 +4754,16 @@ https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
 #EXTINF:-1 tvg-id="mooz.retro.ro" tvg-name="mooz retro" tvg-logo="" group-title="MUSIC🎶📺/TV PACK",mooz retro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
+#EXTINF:-1 tvg-id="SmashMusicTV.mt" tvg-name="Smash Music TV" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="MUSIC🎶📺/TV PACK",Smash Music TV (Malta)
+https://stream.smashmalta.com/live/webplayermt/livestream/10.m3u8
+#EXTINF:-1 tvg-id="SmashHouseofRockTV.mt" tvg-name="Smash House of Rock TV" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="MUSIC🎶📺/TV PACK",Smash House of Rock TV (Malta)
+https://stream.smashmalta.com/live/webplayermt/livestream/12.m3u8
+#EXTINF:-1 tvg-id="SmashCountryTV.mt" tvg-name="Smash Country TV" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="MUSIC🎶📺/TV PACK",Smash Country TV (Malta)
+https://stream.smashmalta.com/live/webplayermt/livestream/11.m3u8
+#EXTINF:-1 tvg-id="Smash.mt" tvg-name="Smash Radio 104.6FM" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="MUSIC🎶📺/TV PACK",Smash Radio 104.6FM (Malta)
+https://stream.smashmalta.com/live/webplayer/livestream/3.m3u8
+
+
 
 
 
@@ -4970,6 +4983,10 @@ https://tinyurl.com/268ktjp8
 #EXTINF:-1 tvg-id="mooz.retro.ro" tvg-name="mooz retro" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",mooz retro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
+#EXTINF:-1 tvg-id="SmashHouseofRockTV.mt" tvg-name="Smash House of Rock TV" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="MUSIC🎶📺/TV🎸ROCK",Smash House of Rock TV (Malta)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.smashmalta.com/live/webplayermt/livestream/12.m3u8
+
 
 
 
