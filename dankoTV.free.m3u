@@ -1141,6 +1141,8 @@ https://stream.smashmalta.com/live/webplayermt/livestream/17.m3u8
 https://stream.smashmalta.com/live/webplayer/livestream/51.m3u8
 #EXTINF:-1 tvg-id="Smash7NewsTV.mt" tvg-name="Smash7 News TV" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="TV📺/EN🇬🇧",Smash7 News TV (Malta)
 https://stream.smashmalta.com/live/webplayer/livestream/16.m3u8
+#EXTINF:-1 tvg-id="Africa24English.fr" tvg-name="Africa 24 English" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="TV📺/EN🇬🇧",Africa 24 English (FRANCE)
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/master.m3u8
 
 
 
@@ -3620,7 +3622,53 @@ https://hls.4utv.live/hls/stream.m3u8
 https://familyhls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GrandCinema.tr" tvg-name="Grand Cinema" tvg-logo="" group-title="Persian - TV",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Serties
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Reality	
+https://realhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Periana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana SetMix
+https://setmixhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Podcast
+https://podhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Voyage
+https://voyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana China
+https://chinahls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Araby
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",
+
+
+
+
+
+
 
 
 
@@ -3734,8 +3782,6 @@ https://www.youtube.com/playlist?list=PLFaewo-QNq7McBMtUCLUYQAePZ5eb6fjH
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — ЭТО РОК  (4K-17-18.10.2024-Sankt Peterburg)
 https://river-4-481.rtbcdn.ru/hls-vod/qsnqhHTNV0hryjoHGeOJ1Q/1788480938/2504/0x5000039ce8706915/159e23b51bd54aca8a48b35e567700ec.mp4.m3u8?i=3840x1920_16973
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — ЭТО РОК  (ALL-17-18.10.2024-Sankt Peterburg)
-https://bl.rutube.ru/route/ee228cddb3e244ff0ebe108f9f684bfc.m3u8?guids=159e23b5-1bd5-4aca-8a48-b35e567700ec_3840x1920_16973939_D6524459_B16773691A192000_F25A44100_avc1.640033_mp4a.40.2,86ecfac6-31bf-4f7a-af7c-03ccda461ee3_2560x1280_7307407_D6524459_B7107132A192000_F25A44100_avc1.640033_mp4a.40.2,79b5c7c1-3381-4fd5-826e-e6a640bc50df_1920x960_5202807_D6524459_B5004125A192000_F25A44100_avc1.640029_mp4a.40.2,ed5e21d2-7d90-49e0-8aab-53fc3aefd869_1280x640_2780844_D6524459_B2582155A192000_F25A44100_avc1.640029_mp4a.40.2,1e8981a5-4d8a-4849-9672-d3314188e197_848x424_1655021_D6524459_B1520329A128000_F25A44100_avc1.4d401f_mp4a.40.2,51bf9371-3ee8-46a3-814c-8e2a939ee11e_640x320_1628253_D6524459_B1559129A64000_F25A44100_avc1.42c01f_mp4a.40.2,59561022-db77-40b3-8276-557d78f32ed6_424x216_941197_D6524459_B872071A64000_F25A44100_avc1.42c01f_mp4a.40.2,c626c134-266b-4aaa-986e-63f245bade4a_256x128_452462_D6524459_B383335A64000_F25A44100_avc1.42c01f_mp4a.40.2&sign=13EgA4ODt9sCa9AneTpPCA&expire=1787995950&guarantee=6&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — ГОСТЬ ИЗ ЦАРСТВА ТЕНЕЙ. НАСЛЕДИЕ  (FHD-21.10.2023.Moskva)
 https://river-4-419.rtbcdn.ru/hls-vod/2H1e5-1rhhPJTR9Uj3Ur9Q/1788512799/2646/0x5000039ce83a14d5/241a4128426a4ce5930adf859f6b6c58.mp4.m3u8?i=1920x1080_7444
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — Кровь за Кровь 25  (FHD-АРИЯ ФЕСТ  Лето 2016)
@@ -3778,7 +3824,8 @@ https://river-4-422.rtbcdn.ru/hls-vod/OA7ZlRQ-DAJpCjlcV9CblQ/1788521336/3262/0x5
 https://river-4-456.rtbcdn.ru/hls-vod/IAiS1DTDj6JNrMI5-v-DYw/1788521473/2201/0x5000c500e8146001/82f8d6c8ebf24932bfe301e4ab0124d6.mp4.m3u8?i=1920x1080_4005
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ЧЕРЕЗ ВСЕ ВРЕМЕНА (7.2 серия)
 https://river-4-484.rtbcdn.ru/hls-vod/dnO2oUYv0xNpx_-ayXr0-g/1788521575/2235/0x5000c5007446e21a/c2c7da14257747238feb66de76b82370.mp4.m3u8?i=1920x1080_2872
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",Playlist Kipelov Videos
+https://rutube.ru/plst/227092/
 
 
 
@@ -4130,26 +4177,46 @@ https://edge14.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM 3" tvg-logo="https://i.imgur.com/zNJlFMg.png" group-title="France - TV",TVM 3 (Switzerland)
 https://edge11.vedge.infomaniak.com/livecast/ik:tvm3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="Africa24.fr" tvg-name="Africa 24" tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="France - TV",Africa 24
+https://edge18.vedge.infomaniak.com/livecast/ik:africa24/master.m3u8
+#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-name="Africa 24 Sport" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="France - TV",Africa 24 Sport
+https://edge18.vedge.infomaniak.com/livecast/ik:africa24sport/master.m3u8
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-name="Alpe d'Huez TV" tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="France - TV",Alpe d'Huez TV
+https://edge12.vedge.infomaniak.com/livecast/ik:adhtv/master.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="France - TV",BFM TV
+https://live-cdn-stream-euw3.bfmtv.bct.nextradiotv.com/master.m3u8?
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM 2" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" group-title="France - TV",BFM 2
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="https://i.imgur.com/psqIHn4.png" group-title="France - TV",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-name="BFM Tech & Co" tvg-logo="https://i.imgur.com/FQ0FpXV.png" group-title="France - TV",BFM Tech & Co
+https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-name="BFM Alsace" tvg-logo="https://i.imgur.com/iRsbEpg.png" group-title="France - TV",BFM Alsace
+https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="BFM Lyon" tvg-logo="https://i.imgur.com/0uiiZRo.png" group-title="France - TV",BFM Lyon
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr" tvg-name="BFM DICI Alpes du Sud" tvg-logo="https://i.imgur.com/bV77l68.png" group-title="France - TV",BFM DICI Alpes du Sud
+https://live-cdn-bfmtvalp-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMDICIHauteProvence.fr" tvg-name="BFM DICI Haute-Provence" tvg-logo="https://i.imgur.com/bV77l68.png" group-title="France - TV",BFM DICI Haute-Provence
+https://live-cdn-bfmtvpro-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-name="BFM Marseille" tvg-logo="https://i.imgur.com/h7t0l6q.png" group-title="France - TV",BFM Marseille
+https://live-cdn-bfmtvmar-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-name="BFM Cote d'Azur" tvg-logo="https://i.imgur.com/iiVFvIw.png" group-title="France - TV",BFM Cote d'Azur
+https://live-cdn-bfmtvcda-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMVar.fr" tvg-name="BFM Var" tvg-logo="https://i.imgur.com/vp1oVj3.png" group-title="France - TV",BFM Var
+https://live-cdn-bfmtvvar-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM Grand Lille" tvg-logo="https://i.imgur.com/HE5xP0r.png" group-title="France - TV",BFM Grand Lille
+https://live-cdn-bfmtvlil-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="BFM Grand Littoral" tvg-logo="https://i.imgur.com/j7F9MwH.png" group-title="France - TV",BFM Grand Littoral
+https://live-cdn-bfmtvgdl-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-name="BFM Normandie" tvg-logo="https://i.imgur.com/WWWQ44G.png" group-title="France - TV",BFM Normandie
+https://live-cdn-bfmtvnor-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BIPTV.fr" tvg-name="BIP TV" tvg-logo="https://i.imgur.com/YQjm4U5.png" group-title="France - TV",BIP TV
+https://hls-biptv.archistream.live/hls/master.m3u8
+#EXTINF:-1 tvg-id="BIPTV.fr" tvg-name="BIP TV" tvg-logo="https://i.imgur.com/YQjm4U5.png" group-title="France - TV",BIP TV
+https://hls-biptv.archistream.live/hls/720p/index.m3u8
+#EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-name="Brionnais TV" tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="France - TV",Brionnais TV
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
 
 
