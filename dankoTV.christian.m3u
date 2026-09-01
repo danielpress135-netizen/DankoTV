@@ -218,6 +218,12 @@ https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Famille" tv-logo="https://i.imgur.com/Kbfihk5.png" group-title="French",TV Famille
 http://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-name="Evandis Gospel TV" tvg-logo="https://i.imgur.com/v8TiqhH.png" group-title="French",Evandis Gospel TV
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="EvangileTV.fr" tvg-name="Evangile TV" tvg-logo="" group-title="French",Evangile TV
+https://evangiletv-live1-p28-cdn.hexaglobe.net/d558fba8bc277aa8aa10fb3b6a014c97/6a95a9c5/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/playlist.m3u8
+
+
 
 
 

@@ -320,6 +320,8 @@ https://www.youtube.com/watch?v=gCNeDWCI0vo
 https://www.youtube.com/watch?v=OxQQsIvJTTU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",YTN DMB
 https://www.youtube.com/watch?v=2C2WCLhDsR4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Maurienne TV
+https://www.youtube.com/watch?v=5ARTNKq49WY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",franceinfo
 https://www.youtube.com/watch?v=NG7ZX42nZKc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FRANCE 24
@@ -4157,6 +4159,8 @@ https://stream.smashmalta.com/live/webplayermt/livestream/10.m3u8
 https://stream.smashmalta.com/live/webplayermt/livestream/12.m3u8
 #EXTINF:-1 tvg-id="SmashCountryTV.mt" tvg-name="Smash Country TV" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="MIX - TV",Smash Country TV (Malta)
 https://stream.smashmalta.com/live/webplayermt/livestream/11.m3u8
+#EXTINF:-1 tvg-id="Kanaldude.fr" tvg-name="Kanaldude" tvg-logo="https://i.imgur.com/PyI5ALP.png" group-title="MIX - TV",Kanaldude (Basque)
+https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.mpd
 
 
 
@@ -4219,7 +4223,62 @@ https://hls-biptv.archistream.live/hls/master.m3u8
 https://hls-biptv.archistream.live/hls/720p/index.m3u8
 #EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-name="Brionnais TV" tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="France - TV",Brionnais TV
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChretiensTV.fr" tvg-name="Chretiens TV" tvg-logo="https://i.imgur.com/o8oOAPR.png" group-title="France - TV",Chretiens TV
+https://stream.castr.com/66c38b97cdd6e85372ed388a/live_426910905e6e11ef95ed0b423a15287e/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-name="Evandis Gospel TV" tvg-logo="https://i.imgur.com/v8TiqhH.png" group-title="France - TV",Evandis Gospel TV
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVHD.fr" tvg-name="Fashion TV HD" tvg-logo="https://i.imgur.com/GFXsreR.png" group-title="France - TV",Fashion TV HD
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-name="HANDICAP TV" tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="France - TV",HANDICAP TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id="EvangileTV.fr" tvg-name="Evangile TV" tvg-logo="" group-title="France - TV",Evangile TV
+https://evangiletv-live1-p28-cdn.hexaglobe.net/d558fba8bc277aa8aa10fb3b6a014c97/6a95a9c5/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Francophonie24.fr" tvg-name="Francophonie24" tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="France - TV",Francophonie24
+https://5421175365ea3.streamlock.net:443/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Francophonie24.fr" tvg-name="Francophonie24" tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="France - TV",Francophonie24
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr" tvg-name="IL TV" tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="France - TV",IL TV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LintelligentTV.fr" tvg-name="L'intelligent TV" tvg-logo="https://i.imgur.com/BPStxYQ.png" group-title="France - TV",L'intelligent TV
+https://video1.getstreamhosting.com:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-id="LeFigaroLive.fr" tvg-name="Le Figaro Live" tvg-logo="https://i.imgur.com/bBDKShn.jpg" group-title="France - TV",Le Figaro Live
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-name="Littoral FM TV" tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="France - TV",Littoral FM TV
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MDL.fr" tvg-name="MDL" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="France - TV",MDL
+https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NATV.fr" tvg-name="NA TV" tvg-logo="https://i.imgur.com/j7xixKu.png" group-title="France - TV",NA TV
+https://naradio.vedge.infomaniak.com/livecast/ik:naradio/playlist.m3u8
+#EXTINF:-1 tvg-id="NATV.fr" tvg-name="NA TV" tvg-logo="https://i.imgur.com/j7xixKu.png" group-title="France - TV",NA TV
+https://edge19.vedge.infomaniak.com/livecast/ik:naradio/playlist.m3u8
+#EXTINF:-1 tvg-id="Novocomedy.fr" tvg-name="Novocomedy" tvg-logo="https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png" group-title="France - TV",Novocomedy
+https://livecdn.premiumfree.tv/afxpstr/NovoPranks/index.m3u8
+#EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-name="Puissance TV" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="France - TV",Puissance TV
+https://edge12.vedge.infomaniak.com/livecast/ik:puissancetelevision/master.m3u8
+#EXTINF:-1 tvg-id="P2MTV.fr" tvg-name="P2M TV" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="France - TV",P2M TV
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 tvg-id="RadioMontBlanc.fr" tvg-name="Radio Mont Blanc" tvg-logo="https://i.imgur.com/dQhwRXT.png" group-title="France - TV",Radio Mont Blanc
+https://live.creacast.com/radiomontblanc-ch1/smil:radiomontblanc-ch1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TebeoTV.fr" tvg-name="Tebeo TV" tvg-logo="https://i.imgur.com/WdZWBEd.png" group-title="France - TV",Tebeo TV
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="TV78.fr" tvg-name="TV78" tvg-logo="https://i.imgur.com/stzE1Ij.png" group-title="France - TV",TV78
+https://strhls.streamakaci.tv/tv78/tv78-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTours.fr" tvg-name="TV Tours" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Logo_tvt_2016_RVB.png/960px-Logo_tvt_2016_RVB.png" group-title="France - TV",TV Tours
+https://assets.digiteka.com/encoded/4c069e0897fb1e13ba052a1e387055af5f9952ee/hls/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+
 
 
 
