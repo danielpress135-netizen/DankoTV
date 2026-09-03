@@ -83,7 +83,7 @@ https://vod132.witmind.com/hls/cam1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",vvv.bg Live
-https://www.youtube.com/watch?v=GDA1XYloqHg
+https://www.youtube.com/watch?v=M5HP6fTaAWY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",pptv
 https://www.youtube.com/watch?v=zhJ4LHPt7dk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv", България 24 Live
@@ -116,7 +116,7 @@ https://www.youtube.com/watch?v=yzKTO-6KWHU
 https://www.youtube.com/watch?v=rSa5g8z_YdA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Frontiers Music 24-7 
 https://www.youtube.com/watch?v=UiCK7SCpSIA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",NUCLEAR BLAST RECORDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",NUCLEAR BLAST RECORDS TV
 https://www.youtube.com/watch?v=3LWMFjRZQ6k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",NUCLEAR BLAST RECORDS THRASH, SPEED METAL 
 https://www.youtube.com/watch?v=EZP9z9CMdYg
@@ -130,6 +130,8 @@ https://www.youtube.com/watch?v=O_ZO3hzSdAs
 https://www.youtube.com/watch?v=xf9Ejt4OmWQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Hopeless Records: Classic Pop Punk Station
 https://www.youtube.com/watch?v=QEzc8Q8ey6Y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Suburban Noize Records
+https://www.youtube.com/watch?v=_sbQAtP4o0k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Metallica TV
 https://www.youtube.com/watch?v=1fz60gNnSdU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",SABATON
@@ -160,6 +162,12 @@ https://www.youtube.com/watch?v=Xu90G4oFq2o
 https://www.youtube.com/watch?v=ImO_gcbEupo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Tragically Hip Station
 https://www.youtube.com/watch?v=XNaCOhE7Itw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Rock Icons on The Ed Sullivan Show
+https://www.youtube.com/watch?v=VD8wLAWqQ6w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",John Farnham Station
+https://www.youtube.com/watch?v=I0ueetvT1gM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Dangerbird Records Radio
+https://www.youtube.com/watch?v=jsquRF-yGug
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Stax Records tv
 https://www.youtube.com/watch?v=sa9-uN-uc74
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Beaches - Shower Beer Radio Station
@@ -182,6 +190,16 @@ https://www.youtube.com/watch?v=HEdys32wpls
 https://www.youtube.com/watch?v=NYsqH2FD3-o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Bob Marley Uprising TV
 https://www.youtube.com/watch?v=XJRVTOlVuHo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Sarah McLachlan - Complete Collection
+https://www.youtube.com/watch?v=Q41zqZwtkLg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",JAŸ-Z30 Station
+https://www.youtube.com/watch?v=s4OzgJinqwU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",PROTOJE TV
+https://www.youtube.com/watch?v=064S1UeYN7Q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Broken Complex Records Station
+https://www.youtube.com/watch?v=4O2iM3E7YBk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Syllart Records - African Sounds Station
+https://www.youtube.com/watch?v=P_A-jtGqNFc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Music TV: Indie Pop
 https://www.youtube.com/watch?v=tpg90scoOME
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",indie Folk Live Sessions
@@ -206,6 +224,8 @@ https://www.youtube.com/watch?v=UOmzsHWIHYA
 https://www.youtube.com/watch?v=3uH9kWKPdZ4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Gaither Music TV
 https://www.youtube.com/watch?v=cm43uXjfvZY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Ultra Records Radio
+https://www.youtube.com/watch?v=Io-R0cNSJyA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Tomorrowland - One World Radio
 https://www.youtube.com/watch?v=WpaGUf21KRo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Hikaru Utada’s Station 
@@ -216,8 +236,14 @@ https://www.youtube.com/watch?v=H7fg4Io5ZUk
 https://www.youtube.com/watch?v=JVocS7Yftw8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",K-POP
 https://www.youtube.com/watch?v=GaccTXdeRRI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",KING RECORDS HOT30 - STATION
+https://www.youtube.com/watch?v=3yQ11ncY5EU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",King Gnu
 https://www.youtube.com/watch?v=kXoE-5t8tzg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Ikimonogakari (無限いきものがかり)
+https://www.youtube.com/watch?v=KsjC5hqLVNs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",MGA STATION (Mrs. GREEN APPLE )
+https://www.youtube.com/watch?v=zYt0mCL3AfY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",QUIERO MÚSICA
 https://www.youtube.com/watch?v=vGNglKWqwcQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Viva Records OPM Essentials
