@@ -871,6 +871,61 @@ https://live-gtrk.smotrim.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Сочи 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Арктика 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/track_105_12b117d7/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Телеканал Краснодар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=A77nNXWzhKawguHWxdeigA&e=2085483063&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Самара 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",ОТВ Приморье
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Толк HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Нижний Новгород 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live-gtrk.smotrim.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Санкт-Петербург
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Сибир 24 Таймьiр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live-gtrk.smotrim.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Сургут Инфор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Югра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ecd2cbbe64df3539686d3c7210dc33a1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Лен ТВ 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.smotrim.ru/hls/lentv24/playlist.m3u8?entity=channel&id=275&sign=2b38bf6446fb73e2168144c12a7a3d13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Радио Маяк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://podcast.smotrim.ru/radio/hls/RadioMayak/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Радио России
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://podcast.smotrim.ru/radio/hls/RadioRFM/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Радио Культура
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://podcast.smotrim.ru/radio/hls/RadioKultura/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Радио Юность
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://podcast.smotrim.ru/radio/hls/RadioUnost/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Радио Песни от Всей Души
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hls-01-povd.hostingradio.ru/povd/playlist.m3u8
+
+
+
+
 
 
 
@@ -4351,17 +4406,61 @@ https://assets.digiteka.com/encoded/4c069e0897fb1e13ba052a1e387055af5f9952ee/hls
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="VosgesTV.fr" tvg-name="Vosges TV" tvg-logo="https://i.imgur.com/7y7ancc.png" group-title="France - TV",Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/manifest.mpd
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-name="Bel RTL" tvg-logo="https://i.imgur.com/0DUprIW.png" group-title="France - TV",Bel RTL (Belgium)
+https://live-belrtl.digiteka.com/1371521234/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="BX1.be" tvg-name="BX1" tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="France - TV",BX1 (Belgium)
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalZ.be" tvg-name="Canal Z" tvg-logo="https://i.imgur.com/qtiGLzZ.png" group-title="France - TV",Canal Z -trends z (Belgium)
+https://s-c86a1ede.b.cdn.bluebillywig.com/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+#EXTINF:-1 tvg-id="FunVision.be" tvg-name="Fun Vision" tvg-logo="https://i.imgur.com/AhkKr7Y.png" group-title="France - TV",Fun Vision (Belgium)
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 tvg-id="FunVision.be" tvg-name="Fun Vision" tvg-logo="https://i.imgur.com/AhkKr7Y.png" group-title="France - TV",Fun Vision (Belgium)
+https://edge13.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 tvg-id="Matele.be" tvg-name="Matele" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="France - TV",Matele (Belgium)
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-id="Notele.be" tvg-name="Notele" tvg-logo="https://i.imgur.com/fGS55nR.png" group-title="France - TV",Notele (Belgium)
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioContact.be" tvg-name="Radio Contact" tvg-logo="https://i.imgur.com/32mmGvB.png" group-title="France - TV",Radio Contact  (Belgium)
+https://live-radiocontact.digiteka.com/1564284079/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ATV.be" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png" group-title="Holands - TV",ATV (BELGIUM)
+https://live.zendzend.com/mpegts/29375_107244/master_mpegts.m3u8
+#EXTINF:-1 tvg-id="AVS.be" tvg-name="AVS" tvg-logo="https://avs.be/public/transforms/import/_1200x630_crop_center-center_82_none_ns/AVS-logo.jpg" group-title="Holands - TV",AVS (BELGIUM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hls-origin01-avs.cdn01.rambla.be/main/adliveorigin-avs/_definst_/2bzwD9.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="FocusTV.be" tvg-name="Focus TV" tvg-logo="https://i.imgur.com/dvZS1Ns.png" group-title="Holands - TV",Focus TV (Belgium)
+https://focuslive.b-cdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="WTV.be" tvg-name="WTV" tvg-logo="https://i.imgur.com/wvKe8mi.png" group-title="Holands - TV",WTV  (Belgium)
+https://wtvlive.b-cdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="KanaalZ.be" tvg-name="Kanaal Z" tvg-logo="https://i.imgur.com/YzgYJxM.png" group-title="Holands - TV",Kanaal Z (Belgium)
+https://s-c86a1ede.b.cdn.bluebillywig.com/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+#EXTINF:-1 tvg-id="ROBTV.be" tvg-name="ROBTV" tvg-logo="https://i.imgur.com/HHDUnow.png" group-title="Holands - TV",ROBTV  (Belgium)
+https://live.robtv.cdn.zndznd.com/cmaf/29375_395477/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+
 
 
 
