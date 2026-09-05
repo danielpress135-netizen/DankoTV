@@ -11,8 +11,6 @@ https://hc1.hopetv.bg/live/hopetv/playlist.m3u8
 https://jstre.am/live/jsl:Poax3H3O8oh.m3u8
 #EXTINF:-1 tvg-id="LightChannel.bg" tvg-name="Light Channel (BG)" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="BULGARIA",Light Channel (BG) 
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="vvv.bg" tvg-logo="" group-title="BULGARIA",vvv.bg Live(youtube tv)
-https://www.youtube.com/watch?v=M5HP6fTaAWY
 
 
 
@@ -862,6 +860,8 @@ https://playout6multirtmp.tulix.tv/live6/Stream1/chunklist.m3u8
 https://playout7multirtmp.tulix.tv/live21/Stream1/chunklist.m3u8
 #EXTINF:-1 tvg-id="GraceNetwork.pk@SD" tvg-name="" tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="Asia",Grace Network (720p)
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="Be The Light Television" tv-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-" group-title="Asia",Be The Light Television  (English,  Urdu,  Panjabi)
+https://livecdn.live247stream.com/btl/tv/playlist.m3u8
 
 
 
