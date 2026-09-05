@@ -1282,6 +1282,26 @@ https://stream.smashmalta.com/live/webplayer/livestream/51.m3u8
 https://stream.smashmalta.com/live/webplayer/livestream/16.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr" tvg-name="Africa 24 English" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="TV📺/EN🇬🇧",Africa 24 English (FRANCE)
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/master.m3u8
+#EXTINF:-1 tvg-id="BestofDanceTV.ee" tvg-name="Best of Dance TV" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="TV📺/EN🇬🇧",Best of Dance TV  (hl., ee.)
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee" tvg-name="DanceTV Deep House District" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" group-title="TV📺/EN🇬🇧",DanceTV Deep House District  (hl., ee.)
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="DanceTVTechnoWarehouse.ee" tvg-name="DanceTV Techno Warehouse" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png" group-title="TV📺/EN🇬🇧",DanceTV Techno Warehouse  (hl., ee.)
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" tvg-name="DanceTV Algorhythm" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV Algorhythm  (hl., ee.)
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee" tvg-name="DanceTV House Floor" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png" group-title="TV📺/EN🇬🇧",DanceTV House Floor (hl., ee.)
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="DanceTVMinimalTech.ee" tvg-name="DanceTV Minimal Tech" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV Minimal Tech  (hl., ee.)
+https://mbit1.worldcast.tv:9443/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 tvg-id="DanceTVEDMMainstage.ee" tvg-name="DanceTV EDM Mainstage" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV EDM Mainstage  (hl., ee.)
+https://mbit1.worldcast.tv:9443/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 tvg-id="DanceTVChillAF.ee" tvg-name="DanceTV Chill AF" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV Chill AF  (hl., ee.)
+https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
+#EXTINF:-1 tvg-id="DanceTVMelodicTech.ee" tvg-name="DanceTV Melodic Tech" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/melodictech-logo-4qEP8ja1IadeN5Hr5F7a5o1wVB3txU.jpg" group-title="TV📺/EN🇬🇧",DanceTV Melodic Tech  (hl., ee.)
+https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+
 
 
 
@@ -4326,33 +4346,33 @@ https://edge18.vedge.infomaniak.com/livecast/ik:africa24/master.m3u8
 https://edge18.vedge.infomaniak.com/livecast/ik:africa24sport/master.m3u8
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-name="Alpe d'Huez TV" tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="France - TV",Alpe d'Huez TV
 https://edge12.vedge.infomaniak.com/livecast/ik:adhtv/master.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="France - TV",BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://i.imgur.com/YJCcczD.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM TV
 https://live-cdn-stream-euw3.bfmtv.bct.nextradiotv.com/master.m3u8?
-#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM 2" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" group-title="France - TV",BFM 2
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM 2" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM 2
 https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="https://i.imgur.com/psqIHn4.png" group-title="France - TV",BFM Business
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="https://i.imgur.com/psqIHn4.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM Business
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-name="BFM Tech & Co" tvg-logo="https://i.imgur.com/FQ0FpXV.png" group-title="France - TV",BFM Tech & Co
+#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-name="BFM Tech & Co" tvg-logo="https://i.imgur.com/FQ0FpXV.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM Tech & Co
 https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-name="BFM Alsace" tvg-logo="https://i.imgur.com/iRsbEpg.png" group-title="France - TV",BFM Alsace
+#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-name="BFM Alsace" tvg-logo="https://i.imgur.com/iRsbEpg.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM Alsace
 https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="BFM Lyon" tvg-logo="https://i.imgur.com/0uiiZRo.png" group-title="France - TV",BFM Lyon
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="BFM Lyon" tvg-logo="https://i.imgur.com/0uiiZRo.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM Lyon
 https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr" tvg-name="BFM DICI Alpes du Sud" tvg-logo="https://i.imgur.com/bV77l68.png" group-title="France - TV",BFM DICI Alpes du Sud
+#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr" tvg-name="BFM DICI Alpes du Sud" tvg-logo="https://i.imgur.com/bV77l68.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM DICI Alpes du Sud
 https://live-cdn-bfmtvalp-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMDICIHauteProvence.fr" tvg-name="BFM DICI Haute-Provence" tvg-logo="https://i.imgur.com/bV77l68.png" group-title="France - TV",BFM DICI Haute-Provence
+#EXTINF:-1 tvg-id="BFMDICIHauteProvence.fr" tvg-name="BFM DICI Haute-Provence" tvg-logo="https://i.imgur.com/bV77l68.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"group-title="France - TV",BFM DICI Haute-Provence
 https://live-cdn-bfmtvpro-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-name="BFM Marseille" tvg-logo="https://i.imgur.com/h7t0l6q.png" group-title="France - TV",BFM Marseille
+#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-name="BFM Marseille" tvg-logo="https://i.imgur.com/h7t0l6q.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM Marseille
 https://live-cdn-bfmtvmar-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-name="BFM Cote d'Azur" tvg-logo="https://i.imgur.com/iiVFvIw.png" group-title="France - TV",BFM Cote d'Azur
+#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-name="BFM Cote d'Azur" tvg-logo="https://i.imgur.com/iiVFvIw.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM Cote d'Azur
 https://live-cdn-bfmtvcda-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMVar.fr" tvg-name="BFM Var" tvg-logo="https://i.imgur.com/vp1oVj3.png" group-title="France - TV",BFM Var
+#EXTINF:-1 tvg-id="BFMVar.fr" tvg-name="BFM Var" tvg-logo="https://i.imgur.com/vp1oVj3.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM Var
 https://live-cdn-bfmtvvar-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM Grand Lille" tvg-logo="https://i.imgur.com/HE5xP0r.png" group-title="France - TV",BFM Grand Lille
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM Grand Lille" tvg-logo="https://i.imgur.com/HE5xP0r.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM Grand Lille
 https://live-cdn-bfmtvlil-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="BFM Grand Littoral" tvg-logo="https://i.imgur.com/j7F9MwH.png" group-title="France - TV",BFM Grand Littoral
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="BFM Grand Littoral" tvg-logo="https://i.imgur.com/j7F9MwH.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM Grand Littoral
 https://live-cdn-bfmtvgdl-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-name="BFM Normandie" tvg-logo="https://i.imgur.com/WWWQ44G.png" group-title="France - TV",BFM Normandie
+#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-name="BFM Normandie" tvg-logo="https://i.imgur.com/WWWQ44G.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France - TV",BFM Normandie
 https://live-cdn-bfmtvnor-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="BIPTV.fr" tvg-name="BIP TV" tvg-logo="https://i.imgur.com/YQjm4U5.png" group-title="France - TV",BIP TV
 https://hls-biptv.archistream.live/hls/master.m3u8
@@ -4601,22 +4621,60 @@ https://tv.beatfm.nl/live.m3u8
 https://highvolume02.streampartner.nl/slob/slob/playlist.m3u8
 #EXTINF:-1 tvg-id="BredaNuTV.nl" tvg-name="BredaNu TV" tvg-logo="https://i.imgur.com/Eg3sgNb.png" group-title="Holands - TV",BredaNu TV
 https://tv.streaming.bredanu.nl/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Holands - TV",
+#EXTINF:-1 tvg-id="DenHaagTV.nl" tvg-name="Den Haag TV" tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="Holands - TV",Den Haag TV
+https://mistserv3.videostreams.nl/hls/denhaag/index.m3u8
+#EXTINF:-1 tvg-id="DitisHelmond.nl" tvg-name="Dit is Helmond" tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="Holands - TV",Dit is Helmond
+https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.stream/manifest.mpd
+#EXTINF:-1 tvg-id="Eemland1.nl" tvg-name="Eemland 1" tvg-logo="https://i.imgur.com/q3fd7GC.png" group-title="Holands - TV",Eemland 1
+https://streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive/playlist.m3u8
+#EXTINF:-1 tvg-id="FeelGoodTV.nl" tvg-name="Feel Good TV" tvg-logo="https://i.imgur.com/qvs1BKr.png" group-title="Holands - TV",Feel Good TV
+https://highvolume02.streampartner.nl/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+#EXTINF:-1 tvg-id="FomixTV.nl" tvg-name="FomixTV" tvg-logo="https://i.imgur.com/7SLYEMG.png" group-title="Holands - TV",FomixTV
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
+#EXTINF:-1 tvg-id="GigantFM.nl" tvg-name="Gigant FM" tvg-logo="https://i.imgur.com/LwEHfjD.png" group-title="Holands - TV",Gigant FM
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+#EXTINF:-1 tvg-id="GORTV.nl" tvg-name="GO-RTV" tvg-logo="" group-title="Holands - TV",GO-RTV
+https://stream.rtvgemeente-oldambt.nl/hls/rtvgo/index.m3u8
+#EXTINF:-1 tvg-id="GouwestadTV.nl" tvg-name="Gouwestad TV" tvg-logo="https://i.imgur.com/MVgspnM.png" group-title="Holands - TV",Gouwestad TV
+https://stream.gouwestad.nl:1672/hls/stream3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gouwestad Text TV" tvg-logo="https://i.imgur.com/MVgspnM.png" group-title="Holands - TV",Gouwestad Text TV
+https://stream.gouwestad.nl:1672/hls/stream1/index.m3u8
+#EXTINF:-1 tvg-id="HK13TV.nl" tvg-name="HK13 TV" tvg-logo="https://i.imgur.com/dahWGm1.png" group-title="Holands - TV",HK13 TV
+https://highvolume02.streampartner.nl/harderwijktv/harderwijktv/playlist.m3u8
+#EXTINF:-1 tvg-id="HOiTV.nl" tvg-name="HOi TV" tvg-logo="https://i.imgur.com/W3munFf.png" group-title="Holands - TV",HOi TV
+https://n2.cdn.jetstre.am/session/d72e2ffb62a2559829be1f8206bbc677/sz/Hellendoorn/webdav/live/Hoi/720p.m3u8
+#EXTINF:-1 tvg-id="HypeVisualRadio.nl" tvg-name="Hype Visual Radio" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" group-title="Holands - TV",Hype Visual Radio
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IdeaalTV.nl" tvg-name="Ideaal TV" tvg-logo="https://i.imgur.com/JLYQFoX.png" group-title="Holands - TV",Ideaal TV
+https://ms2.mx-cd.net/tv/236-2051366/Ideaal_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KempenTV.nl" tvg-name="KempenTV" tvg-logo="https://i.imgur.com/ZiPL9ar.png" group-title="Holands - TV",KempenTV
+https://ms7.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.stream/manifest.mpd
+#EXTINF:-1 tvg-id="L1TV.nl" tvg-name="L1 TV" tvg-logo="https://i.imgur.com/SDD5KS5.png" group-title="Holands - TV",L1 TV
+https://s-6a2bde4a.b.cdn.bluebillywig.com/live/l1/tv/index.m3u8
+#EXTINF:-1 tvg-id="LangstraatTV.nl" tvg-name="Langstraat TV" tvg-logo="https://i.imgur.com/xchUfks.png" group-title="Holands - TV",Langstraat TV
+https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.mpd
+#EXTINF:-1 tvg-id="LEOMiddelseTV.nl" tvg-name="Omroep Leeuwarden" tvg-logo="" group-title="Holands - TV",Omroep Leeuwarden
+https://ms2.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LINQTV.nl" tvg-name="LINQ TV" tvg-logo="https://i.imgur.com/0DgP3vu.png" group-title="Holands - TV",LINQ TV
+https://ms7.mx-cd.net/dtv-11/246-2090022/Linq_Media_TV.smil/manifest.mpd
+#EXTINF:-1 tvg-id="LokaleOmroepZeewolde.nl" tvg-name="Lokale Omroep Zeewolde" tvg-logo="https://i.imgur.com/Dw4u9wT.png" group-title="Holands - TV",Lokale Omroep Zeewolde
+https://stream.lokaleomroepzeewolde.nl:9443/lozlive/smil:lozlive/playlist.m3u8
+#EXTINF:-1 tvg-id="LONTV.nl" tvg-name="LON TV" tvg-logo="https://i.imgur.com/bH4XSGw.png" group-title="Holands - TV",LON TV
+https://streamingserver02.omroepnuenen.nl/lon/lonweb/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicPowerRadio.nl" tvg-name="Magic PowerRadio" tvg-logo="https://i.imgur.com/sWcwIte.png" group-title="Holands - TV",Magic PowerRadio
+https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
+#EXTINF:-1 tvg-id="MerweTV.nl" tvg-name="MerweTV" tvg-logo="https://i.imgur.com/JjB7U1q.png" group-title="Holands - TV",MerweTV
+https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.mpd
+#EXTINF:-1 tvg-id="ML5TV.nl" tvg-name="ML5 TV" tvg-logo="https://i.imgur.com/knjHdei.png" group-title="Holands - TV",ML5 TV
+https://mistserv3.videostreams.nl/hls/ml5/index.m3u8
+#EXTINF:-1 tvg-id="MLATV.nl" tvg-name="WeertFM TV" tvg-logo="https://i.imgur.com/MYZhJoW.png" group-title="Holands - TV",WeertFM TV
+https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NH.nl" tvg-name="NH" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="Holands - TV",NH
+https://n2.cdn.jetstre.am/session/8eb653de960d38796e4b403a4881e8db/sz/nhnieuws/wowza4/live/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="NOOSTV.nl" tvg-name="NOOS TV" tvg-logo="https://i.imgur.com/X8xLcpT.png" group-title="Holands - TV",NOOS TV
+https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+
+
 
 
 
