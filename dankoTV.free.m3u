@@ -1401,14 +1401,25 @@ https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="TV📺/EN🇬🇧",3ABN Praise Him Music Network  (USA)  
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-name="Amazing Discoveries TV" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="TV📺/EN🇬🇧",Amazing Discoveries TV(CANADA)
+#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-name="Amazing Discoveries TV" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="TV📺/EN🇬🇧",Amazing Discoveries TV  (CANADA)
 https://rpn3.bozztv.com/amazingd/amazingdtv-srt/index.m3u8
+#EXTINF:-1 tvg-id="Cable14Hamilton.ca" tvg-name="Cable 14 Hamilton" tvg-logo="https://i.imgur.com/bJ7ygTq.png" group-title="TV📺/EN🇬🇧",Cable 14 Hamilton  (Canada)
+https://cdn3.wowza.com/1/NElBTExQU2pzTjRC/S1JOQ3Bv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CHCOTV.ca" tvg-name="CHCO-TV" tvg-logo="https://i.imgur.com/EpMawIy.png" group-title="TV📺/EN🇬🇧",CHCO-TV  (Canada)
+https://lin11.isilive.ca/live/CHCOTV/live/index.m3u8
+#EXTINF:-1 tvg-id="CityNewsCalgary.ca" tvg-name="CityNews Calgary" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="TV📺/EN🇬🇧",CityNews Calgary  (Canada)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-id="CityNewsEdmonton.ca" tvg-name="CityNews Edmonton" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="TV📺/EN🇬🇧",CityNews Edmonton  (Canada)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-id="CityNewsToronto.ca" tvg-name="CityNews Toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="TV📺/EN🇬🇧",CityNews Toronto  (Canada)
+https://citynewsregional.akamaized.net/hls/live/1017963/Regional_Live_6/master.m3u8
+#EXTINF:-1 tvg-id="CityNewsVancouver.ca" tvg-name="CityNews Vancouver" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="TV📺/EN🇬🇧",CityNews Vancouver  (Canada)
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 tvg-id="CPACEnglish.ca" tvg-name="CPAC English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png" group-title="TV📺/EN🇬🇧",CPAC English (Canada)
+https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+
 
 
 
@@ -4562,9 +4573,10 @@ https://live-radiocontact.digiteka.com/1564284079/tracks-v1a1/mono.ts.m3u8
 https://webtv.monacoinfo.com/live/master.m3u8
 #EXTINF:-1 tvg-id="MonacoInfo.mc" tvg-name="Monaco Info" tvg-logo="https://i.imgur.com/dIrKYH7.png" group-title="France - TV",Monaco Info
 https://webtv.monacoinfo.com/live/prod_720/index.m3u8
-#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="France - TV",3ABN French
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="France - TV",3ABN French  (USA)
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="CPACFrench.ca" tvg-name="CPAC French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png" group-title="France - TV",CPAC French  (Canada)
+https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
@@ -4870,6 +4882,17 @@ https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Azerbaijani - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Azerbaijani - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Azerbaijani - TV",
+
+
+
+
+
+#EXTINF:-1 tvg-id="CB24TV.ca" tvg-name="CB24TV" tvg-logo="https://cb24tv.com/wp-content/uploads/2025/05/cropped-WhatsApp-Image-2025-05-21-at-02.32.15_90f01245.jpg?w=512" group-title="Bengali - TV",CB24TV  (Canada)
+https://global.ncare.live/cb24/cb24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bengali - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bengali - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bengali - TV",
+
 
 
 
