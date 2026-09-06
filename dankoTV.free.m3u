@@ -1385,7 +1385,31 @@ https://mbit1.worldcast.tv:9443/dancetelevisionseven/multibit.m3u8
 https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
 #EXTINF:-1 tvg-id="DanceTVMelodicTech.ee" tvg-name="DanceTV Melodic Tech" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/melodictech-logo-4qEP8ja1IadeN5Hr5F7a5o1wVB3txU.jpg" group-title="TV📺/EN🇬🇧",DanceTV Melodic Tech  (nl., ee.)
 https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
+#EXTINF:-1 tvg-id="SuperyachtTV.mc" tvg-name="Superyacht TV" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="TV📺/EN🇬🇧",Superyacht TV (MONAKO)
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="3ABNCanada.ca" tvg-name="3ABN Canada" tvg-logo="https://i.imgur.com/U99CsEc.png" group-title="TV📺/EN🇬🇧",3ABN Canada
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us" tvg-name="3ABN Proclaim! Network" tvg-logo="https://i.imgur.com/zUMUNhe.png" group-title="TV📺/EN🇬🇧",3ABN Proclaim! Network (USA)
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-name="3ABN International" tvg-logo="https://i.imgur.com/IecOZHR.png" group-title="TV📺/EN🇬🇧",3ABN International  (USA)
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="TV📺/EN🇬🇧",3ABN Kids (USA)
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="3ABN English" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="TV📺/EN🇬🇧",3ABN English (USA)
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-name="3ABN Dare To Dream Network" tvg-logo="https://i.imgur.com/oNUpXA9.png" group-title="TV📺/EN🇬🇧",3ABN Dare To Dream Network  (USA)
+https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="TV📺/EN🇬🇧",3ABN Praise Him Music Network  (USA)  
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-name="Amazing Discoveries TV" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="TV📺/EN🇬🇧",Amazing Discoveries TV(CANADA)
+https://rpn3.bozztv.com/amazingd/amazingdtv-srt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+
 
 
 
@@ -3906,7 +3930,10 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AvaTV.ca" tvg-name="Ava TV" tvg-logo="https://i.imgur.com/iQAeBxA.png" group-title="Persian - TV",Ava TV  (Canada)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Persian - TV",
+
 
 
 
@@ -4080,8 +4107,10 @@ https://river-4-445.rtbcdn.ru/hls-vod/e-Jxg1hRUqWBh5N9iv0sgA/1788780691/2642/0x5
 #EXTINF:-1 tvg-id="DorfTV.at" tvg-name="Dorf TV" tvg-logo="https://i.imgur.com/L0q19NR.png" group-title="Deutch - TV",Dorf TV  at
 https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8
 #EXTINF:-1 tvg-id="K19.at" tvg-name="k19 tv" tvg-logo="https://i.imgur.com/l4atkvs.png" group-title="Deutch - TV",k19 tv  at
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn2.k19.at/K19/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="K19.at" tvg-name="k19 tv" tvg-logo="https://i.imgur.com/l4atkvs.png" group-title="Deutch - TV",k19 tv  at
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn2.k19.at/K19/tv/K19/tv_480/chunks.m3u8
 #EXTINF:-1 tvg-id="KTV.at" tvg-name="KTV" tvg-logo="https://i.imgur.com/RYbR4Sf.png" group-title="Deutch - TV",KTV  at
 https://a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
@@ -4094,9 +4123,11 @@ https://everest.pa-hosting.de:3591/live/joseflive.m3u8
 #EXTINF:-1 tvg-id="KT1.at" tvg-name="KT1 TV" tvg-logo="https://i.imgur.com/SyEqyOI.png" group-title="Deutch - TV",KT1 TV  at
 https://stream-lb-eu-r9.rtccdn.com/r9_live_abr/r9_kt1_abr/r9_live/r9_kt1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="KurierTV.at" tvg-name="Kurier TV" tvg-logo="https://i.imgur.com/c53h8cz.png" group-title="Deutch - TV",Kurier TV  at
-https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-mp4a_128000_deu=20000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101
 #EXTINF:-1 tvg-id="KurierTV.at" tvg-name="Kurier TV" tvg-logo="https://i.imgur.com/c53h8cz.png" group-title="Deutch - TV",Kurier TV  at
-https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-avc1_3400000=10003.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8
 #EXTINF:-1 tvg-id="LandleTV.at" tvg-name="Landle TV" tvg-logo="https://i.imgur.com/omLVQ4r.png" group-title="Deutch - TV",Landle TV  at
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 #EXTINF:-1 tvg-id="MelodieTV.at" tvg-name="Melodie TV" tvg-logo="https://i.imgur.com/UzsmVhI.png" group-title="Deutch - TV",Melodie TV  at
@@ -4527,9 +4558,25 @@ https://live.matele.be/hls/live.m3u8
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioContact.be" tvg-name="Radio Contact" tvg-logo="https://i.imgur.com/32mmGvB.png" group-title="France - TV",Radio Contact  (Belgium)
 https://live-radiocontact.digiteka.com/1564284079/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MonacoInfo.mc" tvg-name="Monaco Info" tvg-logo="https://i.imgur.com/dIrKYH7.png" group-title="France - TV",Monaco Info
+https://webtv.monacoinfo.com/live/master.m3u8
+#EXTINF:-1 tvg-id="MonacoInfo.mc" tvg-name="Monaco Info" tvg-logo="https://i.imgur.com/dIrKYH7.png" group-title="France - TV",Monaco Info
+https://webtv.monacoinfo.com/live/prod_720/index.m3u8
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="France - TV",3ABN French
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+
 
 
 
@@ -4788,6 +4835,41 @@ https://zindi.sterk.tv/live/sterk.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="ApnaPunjabTV.ca" tvg-name="Apna Punjab TV" tvg-logo="https://i.imgur.com/IM4D8Wz.png" group-title="Hindi - TV",Apna Punjab TV
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi - TV",
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-logo="https://i.imgur.com/ONsAt3Z.png" group-title="Latino Spain - TV",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino Spain - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino Spain - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino Spain - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino Spain - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino Spain - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino Spain - TV",
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="Azerbaijani - TV",Az Star TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Azerbaijani - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Azerbaijani - TV",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Azerbaijani - TV",
 
 
 
