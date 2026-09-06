@@ -4,8 +4,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="Первый канал HD" tvg-logo="" group-title="Sport+",Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
-#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Sport+",Россия 24 (Хабаровск) (1080p)
-https://live.smotrim.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Sport+",Россия 24 (1080p)
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="Sport+",Россия 1 (1080p)
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Sport+",Россия К (1080p)
@@ -39,17 +39,58 @@ https://shift03.isp.bg/Arena_Sport_3/index.m3u8
 https://shift03.isp.bg/Arena_Sport_4/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="Sport+",Arena Sport 5 HD
 https://shift03.isp.bg/Arena_Sport_5/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium1BH.ba@HD" tvg-logo="https://imgur.com/csv6YsL" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sport+",Arena Sport Premium 1 BH (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium2BH.ba@HD" tvg-logo="https://imgur.com/ztOmQ7P" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sport+",Arena Sport Premium 2 BH (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 1 FHD RS
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/2550/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 1 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7263/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 2 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7264/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 3 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7265/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 4 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7266/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 5 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7267/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 6 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7268/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 1 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7269/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 2 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7270/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 3 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7271/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 4 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7272/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 5 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7273/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 6 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7274/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 7 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7275/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 8 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7276/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub Fight HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7278/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 1 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7329/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 2 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7330/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 3 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7331/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 4 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7332/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 5 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7333/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 6 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7334/index.m3u8
 
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sport+",Digi Sport 1 HD
 http://91.201.172.14:35005
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sport+",Digi Sport 2 HD
 http://91.201.172.14:35006
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport+",M4 SPORT
+http://88.212.15.19/live/uatlmvixrr/index.m3u8
 
 
 
