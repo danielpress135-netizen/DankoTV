@@ -403,7 +403,7 @@ https://www.youtube.com/watch?v=4J41KdZ3JR8
 https://www.youtube.com/watch?v=1A2_W2hIXe0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Dua Lipa
 https://www.youtube.com/watch?v=Gt43Zqf3s0U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Celine Dion: The Station
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Celine Dion - The Station
 https://www.youtube.com/watch?v=YfY8yIYILoc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",WHITNEY HOUSTON
 https://www.youtube.com/watch?v=HEdys32wpls
@@ -419,7 +419,7 @@ https://www.youtube.com/watch?v=s4OzgJinqwU
 https://www.youtube.com/watch?v=hKkb_9vacds
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",KANE BROWN STATION
 https://www.youtube.com/watch?v=RWaIpHOttFY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Lafey-A Matter of Time, All The Time
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Lafey-A Matter of Time - All The Time
 https://www.youtube.com/watch?v=fWzc7SAh7Wo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",PROTOJE TV
 https://www.youtube.com/watch?v=064S1UeYN7Q
@@ -1371,21 +1371,21 @@ https://stream.smashmalta.com/live/webplayer/livestream/51.m3u8
 https://stream.smashmalta.com/live/webplayer/livestream/16.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr" tvg-name="Africa 24 English" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="TV📺/EN🇬🇧",Africa 24 English (FRANCE)
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/master.m3u8
-#EXTINF:-1 tvg-id="BestofDanceTV.ee" tvg-name="Best of Dance TV" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="TV📺/EN🇬🇧",Best of Dance TV  (nl., ee.)
+#EXTINF:-1 tvg-id="BestofDanceTV.ee" tvg-name="Best of Dance TV" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="TV📺/EN🇬🇧",Best of Dance TV  (nl. - ee.)
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee" tvg-name="DanceTV Deep House District" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" group-title="TV📺/EN🇬🇧",DanceTV Deep House District  (nl., ee.)
+#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee" tvg-name="DanceTV Deep House District" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" group-title="TV📺/EN🇬🇧",DanceTV Deep House District  (nl. - ee.)
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="DanceTVTechnoWarehouse.ee" tvg-name="DanceTV Techno Warehouse" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png" group-title="TV📺/EN🇬🇧",DanceTV Techno Warehouse  (nl., ee.)
+#EXTINF:-1 tvg-id="DanceTVTechnoWarehouse.ee" tvg-name="DanceTV Techno Warehouse" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png" group-title="TV📺/EN🇬🇧",DanceTV Techno Warehouse  (nl. - ee.)
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" tvg-name="DanceTV Algorhythm" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV Algorhythm  (nl., ee.)
+#EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" tvg-name="DanceTV Algorhythm" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV Algorhythm  (nl. - ee.)
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee" tvg-name="DanceTV House Floor" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png" group-title="TV📺/EN🇬🇧",DanceTV House Floor (nl., ee.)
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee" tvg-name="DanceTV House Floor" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png" group-title="TV📺/EN🇬🇧",DanceTV House Floor (nl. - ee.)
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:-1 tvg-id="DanceTVMinimalTech.ee" tvg-name="DanceTV Minimal Tech" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV Minimal Tech  (nl., ee.)
+#EXTINF:-1 tvg-id="DanceTVMinimalTech.ee" tvg-name="DanceTV Minimal Tech" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV Minimal Tech  (nl. - ee.)
 https://mbit1.worldcast.tv:9443/dancetelevisionsix/multibit.m3u8
-#EXTINF:-1 tvg-id="DanceTVEDMMainstage.ee" tvg-name="DanceTV EDM Mainstage" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV EDM Mainstage  (nl., ee.)
+#EXTINF:-1 tvg-id="DanceTVEDMMainstage.ee" tvg-name="DanceTV EDM Mainstage" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV EDM Mainstage  (nl. - ee.)
 https://mbit1.worldcast.tv:9443/dancetelevisionseven/multibit.m3u8
-#EXTINF:-1 tvg-id="DanceTVChillAF.ee" tvg-name="DanceTV Chill AF" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV Chill AF  (nl., ee.)
+#EXTINF:-1 tvg-id="DanceTVChillAF.ee" tvg-name="DanceTV Chill AF" tvg-logo="" group-title="TV📺/EN🇬🇧",DanceTV Chill AF  (nl. ee.)
 https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
 #EXTINF:-1 tvg-id="DanceTVMelodicTech.ee" tvg-name="DanceTV Melodic Tech" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/melodictech-logo-4qEP8ja1IadeN5Hr5F7a5o1wVB3txU.jpg" group-title="TV📺/EN🇬🇧",DanceTV Melodic Tech  (nl., ee.)
 https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
@@ -1441,19 +1441,52 @@ https://tv.pointville.ag/hls/mystream.m3u8
 https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
 #EXTINF:-1 tvg-id="TheScenicCity.ca" tvg-name="The Scenic City" tvg-logo="https://i.imgur.com/Oc59RhP.png" group-title="TV📺/EN🇬🇧",The Scenic City  (Canada)
 https://cdn3.wowza.com/1/NElBTExQU2pzTjRC/S1JOQ3Bv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="tviHD.ca" tvg-name="tvi HD" tvg-logo="https://i.imgur.com/wJeELGj.png" group-title="TV📺/EN🇬🇧",tvi HD  (Canada - Tamil - English)
+https://www.tamilvision.tv/stream/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="CoolFM989.aw" tvg-name="Cool FM 98.9" tvg-logo="https://i.imgur.com/uGE6lZ2.png" group-title="TV📺/EN🇬🇧",Cool FM 98.9 (Aruba)
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1 tvg-id="HeartRadioAruba.aw" tvg-name="Heart Radio Aruba" tvg-logo="https://i.imgur.com/MKZCskA.png" group-title="TV📺/EN🇬🇧",Heart Radio Aruba  (Aruba)
+https://live2.tensila.com/heart-v-1.heartar/hls/master.m3u8
+#EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV" tvg-logo="https://i.imgur.com/6N0qITv.png" group-title="TV📺/EN🇬🇧",VIP TV (Aruba)
+https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
+#EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" tvg-logo="https://i.imgur.com/28b810Y.png" group-title="TV📺/EN🇬🇧",X 102.7 FM  (Aruba)
+https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-name="ABC TV" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="TV📺/EN🇬🇧",ABC TV  (Australia)
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/1ead6af29a8c4434a70db196b8628580/index.mpd
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="TV📺/EN🇬🇧",ABC News  (Australia)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
+#EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" group-title="TV📺/EN🇬🇧",ABC Entertains  (Australia)
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4e08e6a57a334d0bb1cb2fc80532861c/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ABC Family" tvg-logo="" group-title="TV📺/EN🇬🇧",ABC Family  (Australia)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0dc673d3a34af11/index.mpd
+#EXTINF:-1 tvg-id="C31Melbourne.au" tvg-name="C31 Melbourne" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="TV📺/EN🇬🇧",C31 Melbourne  (Australia)
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-id="News24World.au" tvg-name="News24 World" tvg-logo="https://i.imgur.com/KagpoPN.png" group-title="TV📺/EN🇬🇧",News24 World  (Australia)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_360p.m3u8
+#EXTINF:-1 tvg-id="News24Weather.au" tvg-name="News24 Weather" tvg-logo="https://i.imgur.com/KagpoPN.png" group-title="TV📺/EN🇬🇧",News24 Weather  (Australia)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_360p.m3u8
+#EXTINF:-1 tvg-id="News24Sport.au" tvg-name="News24 Sport" tvg-logo="https://i.imgur.com/KagpoPN.png" group-title="TV📺/EN🇬🇧",News24 Sport  (Australia)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_360p.m3u8
+#EXTINF:-1 tvg-id="TVSN.au" tvg-name="TVSN" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="TV📺/EN🇬🇧",TVSN  (Australia)
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.bg" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="TV📺/EN🇬🇧",Red Bull TV (BG)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" tvg-logo="https://i.imgur.com/Lwgdbuu.png" group-title="TV📺/EN🇬🇧",AnewZ TV  (Azerbaijan)
+https://edge-de-04.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC TV 8" tvg-logo="" group-title="TV📺/EN🇬🇧",CBC TV 8  (Barbados)
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+#EXTINF:-1 tvg-id="GreaterBelizeMedia.bz" tvg-name="Greater Belize Media" tvg-logo="https://i.imgur.com/Ka4BMy9.png" group-title="TV📺/EN🇬🇧",Greater Belize Media  (Belize)
+https://stream.castr.com/69c30c02fd9eedfce7e3a0f8/live_7477390027cf11f196763b830db54f2d/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="GuadalupeMedia.bz" tvg-name="Guadalupe Media" tvg-logo="https://i.imgur.com/EfaOwRE.png" group-title="TV📺/EN🇬🇧",Guadalupe Media  (Belize)
+https://guadalupemedia.com/nextgen/GUADALUPE_MEDIA/index.m3u8
+#EXTINF:-1 tvg-id="CBNGospel.vg" tvg-name="CBN Gospel" tvg-logo="https://i.imgur.com/SHBAblV.png" group-title="TV📺/EN🇬🇧",CBN Gospel  (British Virgin Islands)
+https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+
 
 
 
@@ -3986,6 +4019,8 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="SohailTV.ca" tvg-name="Sohail TV" tvg-logo="https://i.ibb.co/dtzjKfT/Sohail-TV.png" group-title="Persian - TV",Sohail TV  (Canada)
 https://iptv.sohailtv.com/sohailtv/playlist.m3u8
+#EXTINF:-1 tvg-id="WataneMaaTV.ca" tvg-name="Watan-e-Maa TV" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="Persian - TV",Watan-e-Maa TV  (Canada)
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 
 
