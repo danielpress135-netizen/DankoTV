@@ -1450,15 +1450,19 @@ https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
 #EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" tvg-logo="https://i.imgur.com/28b810Y.png" group-title="TV📺/EN🇬🇧",X 102.7 FM  (Aruba)
 https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
 #EXTINF:-1 tvg-id="ABCTV.au" tvg-name="ABC TV" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="TV📺/EN🇬🇧",ABC TV  (Australia)
+#EXTVLCOPT:http-referrer=https://iview.abc.net.au/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/1ead6af29a8c4434a70db196b8628580/index.mpd
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="TV📺/EN🇬🇧",ABC News  (Australia)
+#EXTVLCOPT:http-referrer=https://iview.abc.net.au/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
 #EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" group-title="TV📺/EN🇬🇧",ABC Entertains  (Australia)
+#EXTVLCOPT:http-referrer=https://iview.abc.net.au/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4e08e6a57a334d0bb1cb2fc80532861c/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="ABC Family" tvg-logo="" group-title="TV📺/EN🇬🇧",ABC Family  (Australia)
+#EXTVLCOPT:http-referrer=https://iview.abc.net.au/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0dc673d3a34af11/index.mpd
 #EXTINF:-1 tvg-id="C31Melbourne.au" tvg-name="C31 Melbourne" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="TV📺/EN🇬🇧",C31 Melbourne  DVR (Australia)
@@ -1474,13 +1478,11 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.bg" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="TV📺/EN🇬🇧",Red Bull TV (BG)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" tvg-logo="https://i.imgur.com/Lwgdbuu.png" group-title="TV📺/EN🇬🇧",AnewZ TV  (Azerbaijan)
+#EXTVLCOPT:http-referrer=https://anewz.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://edge-de-04.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC TV 8" tvg-logo="" group-title="TV📺/EN🇬🇧",CBC TV 8  (Barbados)
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
-#EXTINF:-1 tvg-id="GreaterBelizeMedia.bz" tvg-name="Greater Belize Media" tvg-logo="https://i.imgur.com/Ka4BMy9.png" group-title="TV📺/EN🇬🇧",Greater Belize Media  (Belize)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream.castr.com/69c30c02fd9eedfce7e3a0f8/live_7477390027cf11f196763b830db54f2d/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="GuadalupeMedia.bz" tvg-name="Guadalupe Media" tvg-logo="https://i.imgur.com/EfaOwRE.png" group-title="TV📺/EN🇬🇧",Guadalupe Media  (Belize)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://guadalupemedia.com/nextgen/GUADALUPE_MEDIA/index.m3u8
