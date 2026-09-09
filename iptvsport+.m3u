@@ -15,6 +15,16 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="Sport+", Матч HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=iORm8kodbyqVhBILvTpvCA&e=2085483124&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Max One HD" tvg-logo="" group-title="Sport+",Max One HD 
+http://stream.shbro.org/stream/5DAA46FD1012/HDBGmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1352.png" group-title="Sport+",MAX Sport 1 HD
+http://stream.shbro.org/stream/5DAA46FD1012/1HDmonom3u8_b394.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1256.png" group-title="Sport+",MAX Sport 2 HD
+http://stream.shbro.org/stream/5DAA46FD1012/2HDmonom3u8_5b9c.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1271.png" group-title="Sport+",MAX Sport 3 HD
+http://stream.shbro.org/stream/5DAA46FD1012/3HDmonom3u8_f6e4.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1273.png" group-title="Sport+",MAX Sport 4 HD
+http://stream.shbro.org/stream/5DAA46FD1012/4HDmonom3u8_6fe5.m3u8
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="Max Sport 1" tvg-logo="https://i.imgur.com/0ohnpql.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sport+",Max Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport1
@@ -28,7 +38,19 @@ http://77.46.130.252:99/maxsport3
 https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
 #EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="Sport+",Diema Sport 2 HD
 https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_ZHioiK4aovz7UkpkVPp9U/ts
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1487.png" group-title="Sport+",Diema Sport HD
+http://stream.shbro.org/stream/5DAA46FD1012/RTHDmonom3u8_2a73.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1478.png" group-title="Sport+",Diema Sport 2 HD
+http://stream.shbro.org/stream/5DAA46FD1012/2HDmonom3u8_a868.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1306.png" group-title="Sport+",Diema Sport 3 HD
+http://stream.shbro.org/stream/5DAA46FD1012/3HDmonom3u8_6a59.m3u8
+#EXTINF:-1 group-title="Sport+",Diema Sport 3 UHD
+http://stream.shbro.org/stream/5DAA46FD1012/3UHDmonom3u8.m3u8
+
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1359.png" group-title="Sport+",Nova Sport HD BG
+http://stream.shbro.org/stream/5DAA46FD1012/rtHDmonom3u8_5fbe.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1354.png" group-title="Sport+",RING
+http://stream.shbro.org/stream/5DAA46FD1012/RINGmonom3u8.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="Sport+",Arena Sport 1 HD
 https://shift03.isp.bg/Arena_Sport_1/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="Sport+",Arena Sport 2 HD
@@ -39,55 +61,44 @@ https://shift03.isp.bg/Arena_Sport_3/index.m3u8
 https://shift03.isp.bg/Arena_Sport_4/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="Sport+",Arena Sport 5 HD
 https://shift03.isp.bg/Arena_Sport_5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 1 FHD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/2550/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 1 FHD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7263/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 2 FHD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7264/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 3 FHD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7265/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 4 FHD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7266/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 5 FHD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7267/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 6 FHD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7268/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 1 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7269/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 2 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7270/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 3 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7271/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 4 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7272/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 5 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7273/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 6 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7274/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 7 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7275/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub 8 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7276/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Sport Klub Fight HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7278/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 1 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7329/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 2 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7330/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 3 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7331/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 4 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7332/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 5 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7333/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport+",Arena Sport 6 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WLMTKVG728H5RP/7334/index.m3u8
-
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1771.png" group-title="Sport+",Oneplay Sport 1 HD
+http://stream.shbro.org/stream/5DAA46FD1012/1HDmonom3u8_e564.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1773.png" group-title="Sport+",Oneplay Sport 2 HD
+http://stream.shbro.org/stream/5DAA46FD1012/2HDmonom3u8_8681.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1499.png" group-title="Sport+",Oneplay Sport 3 HD
+http://stream.shbro.org/stream/5DAA46FD1012/3HDmonom3u8_7e45.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2725.png" group-title="Sport+",Oneplay Sport 4 HD
+http://stream.shbro.org/stream/5DAA46FD1012/4HDmonom3u8_25eb.m3u
+#EXTINF:-1 group-title="Sport+",ONEPLAY1-kolo cz
+#EXTVLCOPT:network-caching=1000
+http://45.129.141.180:9981/stream/channelid/177253733?profile=iptv.org.ua
+#EXTINF:-1 group-title="Sport+",ONEPLAY2-kolo cz
+#EXTVLCOPT:network-caching=1000
+http://45.129.141.180:9981/stream/channelid/1716506983?profile=iptv.org.ua
+#EXTINF:-1 group-title="Sport+", ONEPLAY3-kolo cz
+#EXTVLCOPT:network-caching=1000 
+http://45.129.141.180:9981/stream/channelid/1597775099?profile=iptv.org.ua
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sport+",Digi Sport 1 HD
 http://91.201.172.14:35005
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sport+",Digi Sport 2 HD
 http://91.201.172.14:35006
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2130.png" group-title="Sport+",Prima Sport 1 HD
+http://stream.shbro.org/stream/5DAA46FD1012/1HDROmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2131.png" group-title="Sport+",Prima Sport 2 HD
+http://stream.shbro.org/stream/5DAA46FD1012/2HDROmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2132.png" group-title="Sport+",Prima Sport 3 HD
+http://stream.shbro.org/stream/5DAA46FD1012/3HDROmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2133.png" group-title="Sport+",Prima Sport 4 HD
+http://stream.shbro.org/stream/5DAA46FD1012/4HDROmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2134.png" group-title="Sport+",Digi Sport 1 HD
+http://stream.shbro.org/stream/5DAA46FD1012/HDROmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2135.png" group-title="Sport+",Digi Sport 2 HD
+http://stream.shbro.org/stream/5DAA46FD1012/HDROmonom3u8_62ab.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2136.png" group-title="Sport+",Digi Sport 3 HD
+http://stream.shbro.org/stream/5DAA46FD1012/FHDROmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2137.png" group-title="Sport+",Digi Sport 4 HD
+http://stream.shbro.org/stream/5DAA46FD1012/FHDROmonom3u8_617c.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport+",M4 SPORT
 http://88.212.15.19/live/uatlmvixrr/index.m3u8

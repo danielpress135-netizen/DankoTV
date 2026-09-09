@@ -1481,8 +1481,10 @@ https://stream.castr.com/69c30c02fd9eedfce7e3a0f8/live_7477390027cf11f196763b830
 https://guadalupemedia.com/nextgen/GUADALUPE_MEDIA/index.m3u8
 #EXTINF:-1 tvg-id="CBNGospel.vg" tvg-name="CBN Gospel" tvg-logo="https://i.imgur.com/SHBAblV.png" group-title="TV📺/EN🇬🇧",CBN Gospel  (British Virgin Islands)
 https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="Praise 87.9 FM" tvg-logo="" group-title="TV📺/EN🇬🇧",Praise 87.9 FM  (Cayman Islands)
+https://praise.345guide.com/hls/1/stream.m3u8
+#EXTINF:-1 tvg-id="CompassTV.ky" tvg-name="Compass TV" tvg-logo="https://i.imgur.com/njILO8c.png" group-title="TV📺/EN🇬🇧",Compass TV  (Cayman Islands)
+https://livecdn.use1-0007.jwplive.com/live/sites/UcsV9dHw/media/Akq1tGDt/live.isml/.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
