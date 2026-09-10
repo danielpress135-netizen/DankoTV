@@ -3469,6 +3469,9 @@ https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 #EXTINF:-1 tvg-id="SmashCountryTV.mt" tvg-name="Smash Country TV" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="MUSIC🎶📺/TV COUNTRY",Smash Country TV (Malta)
 https://stream.smashmalta.com/live/webplayermt/livestream/11.m3u8
+#EXTINF:-1 tvg-id="BigRigTV.nz " tvg-name="Big Rig TV " tvg-logo="" group-title="MUSIC🎶📺/TV COUNTRY",Big Rig TV (New Zealand)
+https://gizmo2.cloudserver.nz/hls/bigrig.m3u8
+
 
 
 
@@ -4273,12 +4276,16 @@ https://tinyurl.com/27o9j5a9
 https://tinyurl.com/2cykcka8
 #EXTINF:-1  tvg-id="" tvg-name="Z! Rock HD" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK", Z! Rock HD (RU)
 https://tinyurl.com/268ktjp8
-#EXTINF:-1 tvg-id="mooz.retro.ro" tvg-name="mooz retro" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",mooz retro
+#EXTINF:-1 tvg-id="mooz.retro.ro" tvg-name="mooz retro" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",mooz retro  (Romania)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
 #EXTINF:-1 tvg-id="SmashHouseofRockTV.mt" tvg-name="Smash House of Rock TV" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="MUSIC🎶📺/TV🎸ROCK",Smash House of Rock TV (Malta)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.smashmalta.com/live/webplayermt/livestream/12.m3u8
+#EXTINF:-1 tvg-id="TheGroat.nz" tvg-name="The Groat" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",The Groat  (New Zealand)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gizmo2.cloudserver.nz/hls/GROAT.m3u8
+
 
 
 

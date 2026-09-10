@@ -1513,13 +1513,13 @@ https://goliveafrica.media:9998/live/6a96a7eaccd31/index.m3u8
 https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:-1 tvg-id="MNBWorld.mn" tvg-name="MNB World" tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" group-title="TV📺/EN🇬🇧",MNB World  (Mongolia)
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Rig TV" tvg-logo="" group-title="TV📺/EN🇬🇧",Big Rig TV 
+#EXTINF:-1 tvg-id="" tvg-name="Big Rig TV" tvg-logo="" group-title="TV📺/EN🇬🇧",Big Rig TV  (New Zealand)
 https://gizmo2.cloudserver.nz/hls/bigrig.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="" group-title="TV📺/EN🇬🇧",J2 (Juice 2 TV)
+#EXTINF:-1 tvg-id="J2.nz" tvg-name="J2" tvg-logo="" group-title="TV📺/EN🇬🇧",J2 (Juice 2 TV)  (New Zealand)
 https://gizmo2.cloudserver.nz/hls/J2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Melo TV" tvg-logo="" group-title="TV📺/EN🇬🇧",Melo tv
+#EXTINF:-1 tvg-id="" tvg-name="Melo TV" tvg-logo="" group-title="TV📺/EN🇬🇧",Melo tv  (New Zealand)
 https://gizmo2.cloudserver.nz/hls/Melo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Groat" tvg-logo="" group-title="TV📺/EN🇬🇧",The Groat
+#EXTINF:-1 tvg-id="" tvg-name="The Groat" tvg-logo="" group-title="TV📺/EN🇬🇧",The Groat  (New Zealand)
 https://gizmo2.cloudserver.nz/hls/GROAT.m3u8
 #EXTINF:-1 tvg-id="JuiceTV.nz" tvg-name="Juice TV" tvg-logo="https://i.imgur.com/WaaaW0w.png" group-title="TV📺/EN🇬🇧",Juice tv (no works) (New Zealand)
 https://monarch.hopto.me/abr/stream/playlist.m3u8
