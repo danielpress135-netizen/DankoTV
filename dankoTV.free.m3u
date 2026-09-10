@@ -1010,6 +1010,9 @@ https://hls-01-povd.hostingradio.ru/povd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",TMF RUS  (ssh101.com)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://lbgo.bozztv.com/ssh101/ssh101/tmfrus/playlist.m3u8
+#EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" tvg-logo="https://i.imgur.com/SJNDksF.png" group-title="TV📺/RU🇷🇺",Silk Way (Kazakhstan)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
 
 
 
@@ -1472,9 +1475,64 @@ https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 https://praise.345guide.com/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="CompassTV.ky" tvg-name="Compass TV" tvg-logo="https://i.imgur.com/njILO8c.png" group-title="TV📺/EN🇬🇧",Compass TV  (Cayman Islands)
 https://livecdn.use1-0007.jwplive.com/live/sites/UcsV9dHw/media/Akq1tGDt/live.isml/.mpd
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="TV📺/EN🇬🇧",CGTN  (China)
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="TV📺/EN🇬🇧",CGTN Documentary  (China)
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-id="VAMTV.cw" tvg-name="VAM TV" tvg-logo="https://i.imgur.com/CD1PffA.png" group-title="TV📺/EN🇬🇧",VAM TV  (America - Curacao)
+https://nl04.edge.sincerecloud.stream/live_v1/hls/LClmEwFTY7YcG_zRu1pT2w/1788998242/CWVAM_720/index.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="TV📺/EN🇬🇧",Tom And Jerry  (Dominican Republic)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="TV📺/EN🇬🇧",Tom And Jerry  (Dominican Republic)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="BTTV.in" tvg-name="Business Today TV" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png" group-title="TV📺/EN🇬🇧",Business Today TV  (India)
+https://feeds.intoday.in/bttv/itgd.m3u8
+#EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png" group-title="TV📺/EN🇬🇧",GoodNews TV  (India)
+https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-name="WION" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="TV📺/EN🇬🇧",WION  (India)
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="TV📺/EN🇬🇧",Press TV   (Iran)
+https://live.presstv.co.uk/hls/presstv.m3u8
+#EXTINF:-1 tvg-id="DublinCommunityTelevision.ie" tvg-name="Dublin Community Television" tvg-logo="https://i.imgur.com/Jmvq8qA.png" group-title="TV📺/EN🇬🇧",Dublin Community Television (Irland)
+https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/47cfde4b-281f-95a7-09e3-f353130ce3f6/source/index.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishUSA.il" tvg-name="i24NEWS English USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="TV📺/EN🇬🇧",i24NEWS English USA  (Israel)
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="CaribbeanGospelTV.jm" tvg-name="Caribbean Gospel TV" tvg-logo="https://i.imgur.com/lhgrqmA.png" group-title="TV📺/EN🇬🇧",Caribbean Gospel TV  (Jamaica)
+https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
+#EXTINF:-1 tvg-id="CaribbeanBusinessExchange.jm" tvg-name="Caribbean Business Exchange" tvg-logo="https://i.imgur.com/AiGZNgF.png" group-title="TV📺/EN🇬🇧",Caribbean Business Exchange  (Jamaica)
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/13b0497b-1764-95e8-9d87-5885126c40f7/master.m3u8
+#EXTINF:-1 tvg-id="MercyandTruthMinistriesTelevision.jm" tvg-name="Mercy and Truth Ministries Television" tvg-logo="https://i.imgur.com/krcVhrx.png" group-title="TV📺/EN🇬🇧",Mercy and Truth Ministries Television  (Jamaica)
+https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png" group-title="TV📺/EN🇬🇧",NHK World-Japan
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" tvg-logo="https://i.imgur.com/SJNDksF.png" group-title="TV📺/EN🇬🇧",Silk Way  (Kazakhstan)
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
+#EXTINF:-1 tvg-id="ElevateTV.ke" tvg-name="Elevate TV" tvg-logo="https://i.imgur.com/M7xaQ7o.jpg" group-title="TV📺/EN🇬🇧",Elevate TV  (Kenya)
+https://goliveafrica.media:9998/live/6a96a7eaccd31/index.m3u8
+#EXTINF:-1 tvg-id="MaldivesTV.mv" tvg-name="Maldives TV" tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="TV📺/EN🇬🇧",Maldives TV  
+https://lana.psm.mv/live/mtv.m3u8
+#EXTINF:-1 tvg-id="MNBWorld.mn" tvg-name="MNB World" tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" group-title="TV📺/EN🇬🇧",MNB World  (Mongolia)
+https://live.mnb.mn/hls/mnb_world.stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Rig TV" tvg-logo="" group-title="TV📺/EN🇬🇧",Big Rig TV 
+https://gizmo2.cloudserver.nz/hls/bigrig.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="" group-title="TV📺/EN🇬🇧",J2 (Juice 2 TV)
+https://gizmo2.cloudserver.nz/hls/J2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Melo TV" tvg-logo="" group-title="TV📺/EN🇬🇧",Melo tv
+https://gizmo2.cloudserver.nz/hls/Melo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Groat" tvg-logo="" group-title="TV📺/EN🇬🇧",The Groat
+https://gizmo2.cloudserver.nz/hls/GROAT.m3u8
+#EXTINF:-1 tvg-id="JuiceTV.nz" tvg-name="Juice TV" tvg-logo="https://i.imgur.com/WaaaW0w.png" group-title="TV📺/EN🇬🇧",Juice tv (no works) (New Zealand)
+https://monarch.hopto.me/abr/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel200.nz" tvg-name="Channel 200 TV" tvg-logo="https://i.imgur.com/gAebu4q.png" group-title="TV📺/EN🇬🇧",Channel 200 TV (New Zealand)
+https://d122edw1u33zd7.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+
+
 
 
 
@@ -4908,7 +4966,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/liveretroplustv/playlist.m3u8
 https://live2.tensila.com/2-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-id="PowerHD.ar" tvg-name="PowerHD" tvg-logo="https://i.imgur.com/15gMDG0.png" group-title="Latino Spain - TV",PowerHD  (Argentina)
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino Spain - TV",
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-name="Retro Plus" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Latino Spain - TV",Retro Plus  (Chile, Peru)
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino Spain - TV",
 
 
