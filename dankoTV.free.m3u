@@ -82,23 +82,23 @@ https://vod132.witmind.com/hls/cam1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",pptv
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Пловдивска Православна телевизия" tvg-logo="" group-title="youtube.tv",Пловдивска Православна телевизия
 https://www.youtube.com/watch?v=zhJ4LHPt7dk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv", България 24 Live
+#EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-name="Bulgaria 24" tvg-logo="https://i.imgur.com/XMlnMb8.png" group-title="youtube.tv", България 24 Live
 https://www.youtube.com/watch?v=TsPPWPpl_uM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",HRT 4 
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="youtube.tv",HRT 4 
 https://www.youtube.com/watch?v=_n1zk0VMyLA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",DW на русском
+#EXTINF:-1 tvg-id="DW.ru" tvg-name="DW на русском" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="youtube.tv",DW на русском
 https://www.youtube.com/watch?v=gP7872YRFDk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CGTN-Русский
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="youtube.tv",CGTN Russian
 https://www.youtube.com/watch?v=C3BKx6JxCQU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Настоящее Время
+#EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-name="Настоящее Время" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="youtube.tv",Настоящее Время
 https://www.youtube.com/watch?v=t9Ilev-uk4w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ТЕЛЕКАНАЛ МИССИЯ ВОЗРОЖДЕНИЕ МИРА
 https://www.youtube.com/watch?v=U12F2XO6QX0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Имидж тв филми онлайн
 https://www.youtube.com/watch?v=0cuNFg4wE9M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews Russian
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Russian
 https://www.youtube.com/watch?v=lwYzwdBiaho
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Сериал - "Сваты"
 https://www.youtube.com/watch?v=L-Jj68tHV10
@@ -110,89 +110,91 @@ https://www.youtube.com/watch?v=rEKifG2XUZg
 https://www.youtube.com/watch?v=yzKTO-6KWHU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Learning Time with Timmy
 https://www.youtube.com/watch?v=rSa5g8z_YdA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The World Live - EarthTV
+#EXTINF:-1 tvg-id="earthTV.de" tvg-name="EarthTV" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="youtube.tv",The World Live - EarthTV
 https://www.youtube.com/watch?v=HfgIFGbdGJ0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",China Travel
+#EXTINF:-1 tvg-id="" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="youtube.tv",China Travel
 https://www.youtube.com/watch?v=LJgXwC-AKu8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews Travel Channel
+#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews Travel Channel
 https://www.youtube.com/watch?v=08AInuYFKl0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Arcadia TV World (bg)
+#EXTINF:-1 tvg-id="ArcadiaWorldHD.at" tvg-name="Arcadia World HD" tvg-logo="https://i.imgur.com/pGooWxW.png" group-title="youtube.tv",Arcadia World HD (bg)
 https://www.youtube.com/watch?v=VMTp2W0V2iA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Supreme Master TV Live 
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-name="Supreme Master TV" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="youtube.tv",Supreme Master TV  
 https://www.youtube.com/watch?v=ZzWBpGwKoaI
+#EXTINF:-1 tvg-id="Cruise1stTV.uk" tvg-name="Cruise1st TV" tvg-logo="https://i.imgur.com/L1bysJS.png" group-title="youtube.tv",Cruise1st TV
+https://www.youtube.com/watch?v=aTJGSuZPNpM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Dick Van Dyke Show
 https://www.youtube.com/watch?v=Y0vqwbt0A0w
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CGTN 
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="youtube.tv",CGTN 
 https://www.youtube.com/watch?v=0i7n3r01L2U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CGTN Europe
+#EXTINF:-1 tvg-id="CGTNEurope.uk" tvg-name="CGTN Europe" tvg-logo="https://i.imgur.com/oz0FQsE.png" group-title="youtube.tv",CGTN Europe
 https://www.youtube.com/watch?v=fZqr56lztHw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Sky News
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="youtube.tv",Sky News
 https://www.youtube.com/watch?v=xDWQ3LkccY8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ABC News
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="youtube.tv",ABC News
 https://www.youtube.com/watch?v=vOTiJkg1voo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ABC7 Eyewitness News
+#EXTINF:-1 tvg-id="" tvg-name="ABC7 Eyewitness News" tvg-logo="" group-title="youtube.tv",ABC7 Eyewitness News
 https://www.youtube.com/watch?v=s3iVFJoxrYc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",DW News
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="youtube.tv",DW News
 https://www.youtube.com/watch?v=LuKwFajn37U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",DW Español
+#EXTINF:-1 tvg-id="DW.es" tvg-name="DW Español" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="youtube.tv",DW Español
 https://www.youtube.com/watch?v=yZh3xsFqCt8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Bloomberg Originals
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="youtube.tv",Bloomberg Originals
 https://www.youtube.com/watch?v=DxmDPrfinXY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Bloomberg Live
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="youtube.tv",Bloomberg TV
 https://www.youtube.com/watch?v=f39oHo6vFLg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Yahoo Finance
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="youtube.tv",Yahoo Finance
 https://www.youtube.com/watch?v=KQp-e_XQnDE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="youtube.tv",Al Jazeera English
 https://www.youtube.com/watch?v=gCNeDWCI0vo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",KBS KOREA
+#EXTINF:-1 tvg-id="KBSKorea.kr" tvg-name="KBS Korea" tvg-logo="https://i.imgur.com/Dy1xwEd.png" group-title="youtube.tv",KBS KOREA
 https://www.youtube.com/watch?v=OxQQsIvJTTU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",YTN DMB
+#EXTINF:-1 tvg-id="YTNDMB.kr" tvg-name="YTN DMB" tvg-logo="https://i.imgur.com/50VQSBk.png" group-title="youtube.tv",YTN DMB
 https://www.youtube.com/watch?v=2C2WCLhDsR4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Maurienne TV
+#EXTINF:-1 tvg-id="MaurienneTV.fr" tvg-name="Maurienne TV" tvg-logo="https://i.imgur.com/eBfEe61.png" group-title="youtube.tv",Maurienne TV
 https://www.youtube.com/watch?v=5ARTNKq49WY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",franceinfo
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="youtube.tv",franceinfo
 https://www.youtube.com/watch?v=NG7ZX42nZKc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FRANCE 24
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="youtube.tv",FRANCE 24
 https://www.youtube.com/watch?v=a47ckXKZjxI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews English
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png" group-title="youtube.tv",Euronews English
 https://www.youtube.com/watch?v=pykpO5kQJ98
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews deutsch
+#EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-name="Euronews Deutsch" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png" group-title="youtube.tv",Euronews Deutsch
 https://www.youtube.com/watch?v=CQ3KsEbsYHs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews Italiano
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-name="euronews Italiano" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Italiano
 https://www.youtube.com/watch?v=pUcmpyynASM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",euronews español
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="euronews en español" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" group-title="youtube.tv",euronews español
 https://www.youtube.com/watch?v=O9mOtdZ-nSk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews em Português
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews Português" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews em Português
 https://www.youtube.com/watch?v=XuZAl-ZPEcA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews français
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-name="Euronews Français" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews français
 https://www.youtube.com/watch?v=NiRIbKwAejk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews România
+#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="youtube.tv",Euronews România
 https://www.youtube.com/watch?v=XNcx7TFm6zg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews Ελληνικά
+#EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Greek
 https://www.youtube.com/watch?v=uWIhV9gQClg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews magyarul
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-name="Euronews Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Hungarian
 https://www.youtube.com/watch?v=jAn7L2Kt32U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews Kazakh 
+#EXTINF:-1 tvg-id="EuronewsKazakh.kz" tvg-name="Euronews Kazakh" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Kazakh 
 https://www.youtube.com/watch?v=iW7mGG9GXTU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews Polska
+#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews Polski" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="youtube.tv",Euronews Polski
 https://www.youtube.com/watch?v=fG7PjdiKaBY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews Arabic
+#EXTINF:-1 tvg-id="EuronewsArabic.ct" tvg-name="Euronews Arabic" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Arabic
 https://www.youtube.com/watch?v=A8eHIQdTpvQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Televize TVS
+#EXTINF:-1 tvg-id="TVS.cz" tvg-name="Televize TVS" tvg-logo="https://i.imgur.com/BqFeyDv.png" group-title="youtube.tv",Televize TVS  cz
 https://www.youtube.com/watch?v=Wr2lfcqVI9U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Televize FILMpro cz
+#EXTINF:-1 tvg-id="TelevizeFILMpro.cz" tvg-name="Televize FILMpro" tvg-logo="https://i.imgur.com/7OY5EPh.jpg" group-title="youtube.tv",Televize FILMpro cz
 https://www.youtube.com/watch?v=qowVBqGn2jE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Republika Plus
+#EXTINF:-1 tvg-id="TVRepublikaPlus.pl" tvg-name="TV Republika Plus" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="youtube.tv",Republika Plus
 https://www.youtube.com/watch?v=vcQ05GitXUM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Telewizja Republika
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="youtube.tv",Telewizja Republika
 https://www.youtube.com/watch?v=dzntyCTgJMQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",TVP INFO
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="https://i.imgur.com/qXrrNxv.png" group-title="youtube.tv",TVP INFO
 https://www.youtube.com/watch?v=3jKb-uThfrg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",telewizja BIZNES24 
+#EXTINF:-1 tvg-id="Biznes24.pl" tvg-name="Biznes 24" tvg-logo="https://i.imgur.com/0yoFsuq.png" group-title="youtube.tv",telewizja BIZNES24 
 https://www.youtube.com/watch?v=1ocbJcGikfM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Telewizja wPolsce24
+#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="Telewizja wPolsce24" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="youtube.tv",Telewizja wPolsce24
 https://www.youtube.com/watch?v=w6RW6C3oayo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",TV Regionalna Zary
+#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-name="Telewizja Regionalna Zary" tvg-logo="https://i.imgur.com/FB9H8DO.png" group-title="youtube.tv",TV Regionalna Zary
 https://www.youtube.com/watch?v=QvggFNlkjFo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Earthquake monitor
 https://www.youtube.com/watch?v=VGevOp5cNEU
@@ -218,7 +220,7 @@ https://www.youtube.com/watch?v=i7UpPgxfZZ8
 https://www.youtube.com/watch?v=1ph8qQnjXts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",HSN 2
 https://www.youtube.com/watch?v=q-BvtDrTnxc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Ideal World TV Live UK
+#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-name="Ideal World TV" tvg-logo="https://i.imgur.com/su6GH7i.png" group-title="youtube.tv",Ideal World TV UK
 https://www.youtube.com/watch?v=pNVWQQjMNqQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",PEARL TV
 https://www.youtube.com/watch?v=7edPeO-8Rs0
@@ -240,6 +242,8 @@ https://www.youtube.com/watch?v=ufwLk92fA9k
 https://www.youtube.com/watch?v=ott_wC2a06I
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",QVC 3  usa
 https://www.youtube.com/watch?v=xBGuhy6YpbA
+#EXTINF:-1 tvg-id="HighStreetTV1.uk" tvg-name="High Street TV 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3580.png" group-title="youtube.tv",High Street TV 1 (UK)
+https://www.youtube.com/watch?v=z7LFHuBwbpc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",MsMojo
 https://www.youtube.com/watch?v=9gtxyOwIBxs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",MojoPlays
@@ -254,7 +258,7 @@ https://www.youtube.com/watch?v=b4tE5aKhtlg
 https://www.youtube.com/watch?v=XhAYcYpPzTc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",N+ FORO Noticias
 https://www.youtube.com/watch?v=p2AzyIEuFak 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Al jazeera Mubasher
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher" tvg-logo="https://i.imgur.com/X80DQvF.png" group-title="youtube.tv",Al jazeera Mubasher
 https://www.youtube.com/watch?v=8D5QY5gw_Xk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",LRT LITUANICA
 https://www.youtube.com/watch?v=m67gYVnA100
@@ -270,11 +274,11 @@ https://www.youtube.com/watch?v=1d50hM_esPA
 https://www.youtube.com/watch?v=u_vBHLK0Ppc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Canal 6 Guadalajara
 https://www.youtube.com/watch?v=XDo_FvBYvUI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FRANCE 24 Español 
+#EXTINF:-1 tvg-id="France24Español.fr" tvg-name="FRANCE 24 Español" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="youtube.tv",FRANCE 24 Español 
 https://www.youtube.com/watch?v=zTv0hCakAhg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",DW Español
-https://www.youtube.com/watch?v=yZh3xsFqCt8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FRANCE 24 English
+#EXTINF:-1 tvg-id="DW.ar" tvg-name="DW Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="youtube.tv",DW Arabic
+https://www.youtube.com/watch?v=AGkp2AL8e7o
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="FRANCE 24 English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="youtube.tv",FRANCE 24 English
 https://www.youtube.com/watch?v=HvZt-nh9sGg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ABC 7 New York
 https://www.youtube.com/watch?v=VrhYz4CL70I
@@ -423,8 +427,8 @@ https://www.youtube.com/watch?v=RWaIpHOttFY
 https://www.youtube.com/watch?v=fWzc7SAh7Wo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",PROTOJE TV
 https://www.youtube.com/watch?v=064S1UeYN7Q
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Dirty Heads' Greatest Hits
-https://www.youtube.com/watch?v=up5_JOCSWO8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Corey Kent's Greatest Hits
+https://www.youtube.com/watch?v=S2YrQ5u8lwA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Sido's Beste
 https://www.youtube.com/watch?v=bhgBDnd4waA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Broken Complex Records Station
@@ -442,7 +446,9 @@ https://www.youtube.com/watch?v=9l63T77YL2c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Hillsong Worship
 https://www.youtube.com/watch?v=SC1gPTTOXxc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",24/7 Planetshakers Praise
-https://www.youtube.com/watch?v=j6qudrwejKk
+https://www.youtube.com/watch?v=BqqHjZJm1hc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",24/7 Planetshakers Worship 
+https://www.youtube.com/watch?v=zkcl7tBXhio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Bethel Music Worship School - LIVE STATION
 https://www.youtube.com/watch?v=2XnT5I7mHig
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Don Moen tv
@@ -457,6 +463,8 @@ https://www.youtube.com/watch?v=UOmzsHWIHYA
 https://www.youtube.com/watch?v=3uH9kWKPdZ4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Gaither Music TV
 https://www.youtube.com/watch?v=cm43uXjfvZY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Garett & Kate - LIVE STATION 002
+https://www.youtube.com/watch?v=u2iI1X7s8uU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Ultra Records Radio
 https://www.youtube.com/watch?v=Io-R0cNSJyA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Tomorrowland - One World Radio
@@ -507,6 +515,24 @@ https://www.youtube.com/watch?v=9OCDNJI9buU
 https://www.youtube.com/watch?v=O_-NjHABJIg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Sony Music South
 https://www.youtube.com/watch?v=t7G5plbq6oo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",London Records - Hit That Perfect Beat TV - '80s - '90s & '00s Greatest Hits
+https://www.youtube.com/watch?v=j11-tnF6HJw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Sub Pop TV
+https://www.youtube.com/watch?v=SLI9dLHoh8o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Calvin Harris - The Station
+https://www.youtube.com/watch?v=QJXse_NH9Ho
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Helene Fischer - Essentials
+https://www.youtube.com/watch?v=NybWga5jS_w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Kita Alexander Station
+https://www.youtube.com/watch?v=-SdWMPoiB90
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Lil Chief Records TV Station
+https://www.youtube.com/watch?v=5D2zfHjZYqA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Rotana Station
+https://www.youtube.com/watch?v=haRt_29y2iQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Star Music Video Station
+https://www.youtube.com/watch?v=bKV_-InhY88
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",
+
 
 
 
@@ -1535,7 +1561,34 @@ https://cdn.mycloudstream.io/hls/live/broadcast/ctihmssd/mono.m3u8
 https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="TV📺/EN🇬🇧",Telesur  (Venezuela)
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="FaithWorldTV.uk" tvg-name="Faith World TV" tvg-logo="https://i.imgur.com/RLHRjQ3.png" group-title="TV📺/EN🇬🇧",Faith World TV  (UK)
+https://faithworldtv.abs.tv/1826926230/index.m3u8
+#EXTINF:-1 tvg-id="MiracleTV.uk" tvg-name="Miracle TV" tvg-logo="https://i.imgur.com/pTn8Vc3.png" group-title="TV📺/EN🇬🇧",Miracle TV  (UK)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HobbyMaker.uk" tvg-name="Hobby Maker" tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="TV📺/EN🇬🇧",Hobby Maker  (UK)
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AfrobeatsTV.za" tvg-name="Afrobeats TV" tvg-logo="https://i.imgur.com/u0d5j0C.png" group-title="TV📺/EN🇬🇧",Afrobeats TV
+https://load.ecable.tv/afbtv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="HopeChannelUK.uk" tvg-name="Hope Channel UK" tvg-logo="https://i.imgur.com/OYJBVOX.png" group-title="TV📺/EN🇬🇧",Hope Channel UK
+https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/master.m3u8
+#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-name="Ideal World TV" tvg-logo="https://i.imgur.com/su6GH7i.png" group-title="TV📺/EN🇬🇧",Ideal World TV  (UK)
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCBeauty)/master.m3u8
+#EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-name="Jewellery Maker" tvg-logo="https://i.imgur.com/O7SdkBh.png" group-title="TV📺/EN🇬🇧",Jewellery Maker  (UK)
+https://lo3.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LatestTV.uk" tvg-name="Latest TV" tvg-logo="https://i.imgur.com/Cl1iGEb.jpeg" group-title="TV📺/EN🇬🇧",Latest TV  (UK)
+https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="NewMediaTV.uk" tvg-name="New Media TV" tvg-logo="https://i.imgur.com/oKPQX1q.png" group-title="TV📺/EN🇬🇧",New Media TV  (UK)
+https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:nmtvuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇬🇧",
+
 
 
 
@@ -4191,54 +4244,6 @@ https://www.youtube.com/playlist?list=PLFaewo-QNq7McBMtUCLUYQAePZ5eb6fjH
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — ЭТО РОК  (4K-17-18.10.2024-Sankt Peterburg)
-https://river-4-481.rtbcdn.ru/hls-vod/qsnqhHTNV0hryjoHGeOJ1Q/1788480938/2504/0x5000039ce8706915/159e23b51bd54aca8a48b35e567700ec.mp4.m3u8?i=3840x1920_16973
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — ГОСТЬ ИЗ ЦАРСТВА ТЕНЕЙ. НАСЛЕДИЕ  (FHD-21.10.2023.Moskva)
-https://river-4-419.rtbcdn.ru/hls-vod/2H1e5-1rhhPJTR9Uj3Ur9Q/1788512799/2646/0x5000039ce83a14d5/241a4128426a4ce5930adf859f6b6c58.mp4.m3u8?i=1920x1080_7444
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — Кровь за Кровь 25  (FHD-АРИЯ ФЕСТ  Лето 2016)
-https://river-4-430.rtbcdn.ru/hls-vod/yR0uAMG6VhIRFUN9FTKr2w/1788513442/2618/0x5000039ce8686395/3c60ab1b9e6c455aaca64f45d680e222.mp4.m3u8?i=1920x1080_3778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — Котёл Истории  (FHD)
-https://river-4-406.rtbcdn.ru/hls-vod/SwOzOx1KtBcQgz_LlFxkCw/1788513842/3286/0x5000c500fa776343/a739f6cb7e93425fa1ce5ea22c9dae7f.mp4.m3u8?i=1920x1080_3892
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ -  ЖИВОЙ ОГОНЁК-Новогодний концерт 2022 (FHD)
-https://river-4-410.rtbcdn.ru/hls-vod/hGZZgzRieWCih5oonuqZwQ/1788515757/2231/0x5000c5007446e1cc/55323acc46a44226909bfd7a8cc4ebc3.mp4.m3u8?i=1920x1080_3882
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",ARIA - THE RUSSIAN IRON MAIDEN-Metal School  (HD)
-https://river-4-407.rtbcdn.ru/hls-vod/tOgJvMfhFy3ffzQeXe3fbw/1788516356/2233/0x5000c5007446c73e/49fc4b3930c241948167c928efd229ab.mp4.m3u8?i=1280x720_1267
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ОНЛАЙН-КОНЦЕРТ - АРМАГЕДДОН  Перезагрузка  (FHD)
-https://river-4-431.rtbcdn.ru/hls-vod/ws7I9HLv6dWDdnNkV0y-3A/1788516541/2225/0x5000c500e7513a0b/0ce9f06afe434f57ba2499e3afe3678c.mp4.m3u8?i=1920x1080_3763
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ОНЛАЙН-КОНЦЕРТ - КРЕЩЕНИЕ ОГНЁМ  Перезагрузка  (FHD)
-https://river-4-448.rtbcdn.ru/hls-vod/-QROO-y85MjngakCN94fdA/1788516991/3336/0x5000c500e9ebf51b/010c8bd28fcc4a62a964e5372495686b.mp4.m3u8?i=1920x1080_3536
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — XXV ЛЕТ - Екатеринбург (FHD - AriaFest 2010)
-https://river-4-419.rtbcdn.ru/hls-vod/fOoWiALtRTr1TruoPHN2xA/1788517301/2566/0x5000039ce8380355/d35f04ad4f154e0ba228e6becb82be4f.mp4.m3u8?i=1920x1056_4256
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",КЛАССИЧЕСКАЯ АРИЯ — 30 лет HD (FHD Юбилейный концерт 29.11.2015)
-https://river-4-463.rtbcdn.ru/hls-vod/pOInJzyATpopdPkKjhWRAA/1788517843/3260/0x5000c500e9cf742f/7c41d776465046f694d2d045280cb203.mp4.m3u8?i=1920x1080_3958
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — 30 ЛЕТ HD (FHD Юбилейный концерт 28.11.2015)
-https://river-4-438.rtbcdn.ru/hls-vod/SgLFXX3cOBJ96FgX6B5WLw/1788519390/3268/0x5000c500e412fe51/e86ac7e2648b4eaea594765e9736c730.mp4.m3u8?i=1920x1080_3886
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ОНЛАЙН-КОНЦЕРТ (FHD ТОЧКА НЕВОЗВРАТА)
-https://river-4-430.rtbcdn.ru/hls-vod/eJXnDip43MQ2oadIar2kbw/1788519726/3404/0x5000c500f1e5acf4/2e60cf538feb4108bdcc9075057a5165.mp4.m3u8?i=1920x1080_3467
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ — Гость из Царства Теней  (FHD 30-04-2019)
-https://river-4-415.rtbcdn.ru/hls-vod/Qn_rFAO1RaSBS1gQrecfZw/1788519942/3330/0x5000c500e8e8b435/c7fb41de79ca4cd3baa1157837aa1890.mp4.m3u8?i=1920x1080_3716
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ЧЕРЕЗ ВСЕ ВРЕМЕНА (1 серия)
-https://river-4-404.rtbcdn.ru/hls-vod/JsulWu-I_gvz7xssQMtK0Q/1788520628/2169/0x5000c500e75259d0/8f676f4bd439488987816482dea92411.mp4.m3u8?i=1920x1080_2435
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ЧЕРЕЗ ВСЕ ВРЕМЕНА (2 серия)
-https://river-4-466.rtbcdn.ru/hls-vod/DL_oF1lqOjZuOdHHArlaCw/1788520857/3332/0x5000c500e9ebea43/b9b917a8a5c0498495abcf5d252d8c59.mp4.m3u8?i=1920x1080_3178
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ЧЕРЕЗ ВСЕ ВРЕМЕНА (3 серия)
-https://river-4-442.rtbcdn.ru/hls-vod/haLk4_-STSV_HcdQPCWaXw/1788520963/3274/0x5000c500e9cfb0ca/534d2b35b1b84602a67a7d1e8ad6e3fe.mp4.m3u8?i=1920x1080_1917
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ЧЕРЕЗ ВСЕ ВРЕМЕНА (4.1 серия)
-https://river-4-421.rtbcdn.ru/hls-vod/T7fz-slC4ACC1JQdGsgcsw/1788521089/3256/0x5000c500e9ebd5e5/ab3654c3577a45a699df38fdf8345dfc.mp4.m3u8?i=1920x1080_1464
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ЧЕРЕЗ ВСЕ ВРЕМЕНА (4.2 серия)
-https://river-4-438.rtbcdn.ru/hls-vod/Um7fO_dgjjwSpEJuLjkkQA/1788521174/3324/0x5000c500e9cf5600/f02c8678c15844e2b8e8e54c64f1a1c5.mp4.m3u8?i=1920x1080_1475
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ЧЕРЕЗ ВСЕ ВРЕМЕНА (5 серия)
-https://river-4-424.rtbcdn.ru/hls-vod/jlK58UDKV25dkcBC8eAiHg/1788521240/2648/0x5000039ce838b66d/63e0b50e5a674aaf882cc1d58a4fbdd2.mp4.m3u8?i=1920x1080_3017
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ЧЕРЕЗ ВСЕ ВРЕМЕНА (6 серия)
-https://river-4-422.rtbcdn.ru/hls-vod/OA7ZlRQ-DAJpCjlcV9CblQ/1788521336/3262/0x5000c500e9ec2d6b/1d406f1bde7648c6be6a9fe02df22d53.mp4.m3u8?i=1920x1080_3781
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ЧЕРЕЗ ВСЕ ВРЕМЕНА (7.1 серия)
-https://river-4-456.rtbcdn.ru/hls-vod/IAiS1DTDj6JNrMI5-v-DYw/1788521473/2201/0x5000c500e8146001/82f8d6c8ebf24932bfe301e4ab0124d6.mp4.m3u8?i=1920x1080_4005
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",АРИЯ - ЧЕРЕЗ ВСЕ ВРЕМЕНА (7.2 серия)
-https://river-4-484.rtbcdn.ru/hls-vod/dnO2oUYv0xNpx_-ayXr0-g/1788521575/2235/0x5000c5007446e21a/c2c7da14257747238feb66de76b82370.mp4.m3u8?i=1920x1080_2872
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",Кипелов - Концерт с симфоническим оркестром
-https://river-4-477.rtbcdn.ru/hls-vod/-YIvNnMlPupMyFCmAATvQw/1788780508/1778/0x5000c500dba6ebc4/3b27e3e879204451a36c568d5686534f.mp4.m3u8?i=1280x720_858
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RUTUBE - TEST",Кипелов - Концерт в ВТБ АРЕНА 13 июля 2024
-https://river-4-445.rtbcdn.ru/hls-vod/e-Jxg1hRUqWBh5N9iv0sgA/1788780691/2642/0x5000039ce83ba035/142512792b1f4b079ea25c1158296430.mp4.m3u8?i=1920x1080_5489
 
 
 
@@ -4714,7 +4719,8 @@ https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Savoirmedia.ca" tvg-name="Savoir media" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="France - TV",Savoir media  (Canada)
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
+#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="France - TV",Canaf54 TV (uk - french, english)
+https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="France - TV",
