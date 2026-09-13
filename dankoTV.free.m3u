@@ -1607,48 +1607,92 @@ https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="TV📺/EN🇺🇸",3ABN Praise Him Music Network   
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="30ATVClassicMovies.us" tvg-name="30A TV Classic Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A TV Classic Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/30a-tv-classic-movies/
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="30ATelevisionChannel.us" tvg-name="30A Television Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" group-title="TV📺/EN🇺🇸",30A Television Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/30atvchannel/
 https://30a-tv.com/feeds/vidaa/30atv.m3u8
 #EXTINF:-1 tvg-id="30AFloridaTravelTV.us" tvg-name="30A Florida Travel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A Florida Travel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/florida-tv/
 https://30a-tv.com/feeds/vidaa/visitflorida.m3u8
 #EXTINF:-1 tvg-id="30ALuxuryYachtTV.us" tvg-name="30A Luxury Yacht TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A Luxury Yacht TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/nautistyles-yachts/
 https://30a-tv.com/feeds/mwaretv/nautistyles.m3u8
 #EXTINF:-1 tvg-id="30ATheFirstTimersTV.us" tvg-name="30A The First Timers TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A The First Timers TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/the-first-timers/
 https://30a-tv.com/feeds/vidaa/firsttimers.m3u8
 #EXTINF:-1 tvg-id="30ATVSciFi&Spooky.us" tvg-name="30A TV Sci Fi & Spooky" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A TV Sci Fi & Spooky
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/30a-tv-sci-fi-spooky/
 https://30a-tv.com/feeds/vidaa/scifi.m3u8
 #EXTINF:-1 tvg-id="30AAiCreatorMovieChannel.us" tvg-name="30A Ai Creator Movie Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A Ai Creator Movie Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/ai-creator-movie-channel/
 https://30a-tv.com/feeds/vidaa/aicreatortv.m3u8
 #EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-name="30A Ridiculous TV" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="TV📺/EN🇺🇸",30A Ridiculous TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/funny-crazy-videos/
 https://30a-tv.com/feeds/vidaa/funnyvideos.m3u8
 #EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-name="30A Golf Kingdom" tvg-logo="https://i.imgur.com/Lv53nh4.png" group-title="TV📺/EN🇺🇸",30A Golf Kingdom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/golf-kingdom/
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="30ASidewalks.us" tvg-name="30A Sidewalks" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="TV📺/EN🇺🇸",30A Sidewalks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/sidewalks-on-30atv/
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" tvg-name="30A Georgia Hollywood Review" tvg-logo="https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg" group-title="TV📺/EN🇺🇸",30A Georgia Hollywood Review
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/georgia-hollywood-review-tv/
 https://30a-tv.com/gh.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us" tvg-name="30A Music" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="TV📺/EN🇺🇸",30A Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/30a-tv-music-channel/
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" tvg-name="30A Darcizzle Offshore" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="TV📺/EN🇺🇸",30A Darcizzle Offshore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/fishing-outdoor-channel/
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-name="30A The Beach Show" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="TV📺/EN🇺🇸",30A The Beach Show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/the-beach-show/
 https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 tvg-id="30ATVMovieChannel2.us" tvg-name="30A TV Movie Channel 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A TV Movie Channel 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/30a-tv-movie-channel-2/
 https://30a-tv.com/feeds/masters/30atvmovies2.m3u8
 #EXTINF:-1 tvg-id="30ATVPaltrocastPodcast.us" tvg-name="30A TV Paltrocast Podcast" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A TV Paltrocast Podcast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/paltrowitz-podcast/
 https://30a-tv.com/feeds/vidaa/paltrowitz.m3u8
 #EXTINF:-1 tvg-id="30ANothingScripted.us" tvg-name="30A Nothing Scripted" tvg-logo="https://30a-tv.com/wp-content/uploads/2020/03/nothing-slate-300x175.jpg" group-title="TV📺/EN🇺🇸",30A Nothing Scripted
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/nothing-scripted-24-7/
 https://30a-tv.com/NothingScripted.m3u8
 #EXTINF:-1 tvg-id="30ALionelNation.us" tvg-name="30A Lionel Nation" tvg-logo="https://m.media-amazon.com/images/I/71dgsQwVcNL.png" group-title="TV📺/EN🇺🇸",30A Lionel Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/lionel-nation-tv/
 https://30a-tv.com/feeds/mwaretv/lionelmedia.m3u8
 #EXTINF:-1 tvg-id="30AWeLoveCars.us" tvg-name="30A We Love Cars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A We Love Cars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/we-love-cars/
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 tvg-id="30ATVNautistylesLuxuryYachts.us" tvg-name="30A TV Nautistyles Luxury Yachts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A TV Nautistyles Luxury Yachts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/nautistyles-yachts/
 https://30a-tv.com/feeds/mwaretv/nautistyles.m3u8
 #EXTINF:-1 tvg-id="30AXPTV2.us" tvg-name="30A XPTV 2 Classic" tvg-logo="" group-title="TV📺/EN🇺🇸",30A XPTV 2 classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/xptv-ch-2-uk-tv-classics/
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us" tvg-name="30A Luxe Life Discovered" tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" group-title="TV📺/EN🇺🇸",30A Luxe Life Discovered
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/luxe-life-discovered/
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="AbileneTelevisionNetwork.us" tvg-name="Abilene Television Network" tvg-logo="https://i.imgur.com/daTJZmM.png" group-title="TV📺/EN🇺🇸",Abilene Television Network
 https://edge-f.swagit.com/live/abilenetx/live-1-a/playlist.m3u8
