@@ -2103,6 +2103,19 @@ https://3986405b0595593b.servers.dvcloud.tv/hls/kic_tv_live_stream/61fao2o9oufr2
 #EXTINF:-1 tvg-id="TelevizijaUrslja.si" tvg-name="Televizija Urslja" tvg-logo="https://i.imgur.com/PZwdXlN.png" group-title="Ex-Yu/TV",Televizija Urslja  slo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ott.sgn.net/urslja/576p/index.m3u8 
+#EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-name="TV Slon Extra" tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="Ex-Yu/TV",TV Slon Extra
+#EXTVLCOPT:http-referrer=https://www.rtvslon.ba/tv-slon-uzivo/
+https://live.rtvslon.ba/live/tv/index.m3u8
+#EXTINF:-1 tvg-id="TVSlonInfo.ba" tvg-name="TV Slon Info" tvg-logo="https://i.imgur.com/lBJTAFa.jpeg" group-title="Ex-Yu/TV",TV Slon Info
+#EXTVLCOPT:http-referrer=https://www.rtvslon.ba/tv-slon-uzivo/
+https://live.rtvslon.ba/live/sloninfo/index.m3u8 
+#EXTINF:-1 tvg-id="BravoKidsTV.hr" tvg-name="Bravo! Kids TV" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" group-title="Ex-Yu/TV",Bravo Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="Ex-Yu/TV",Nova S
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+#EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 SRB" tvg-logo="https://i.imgur.com/XdEdnLD.png" group-title="Ex-Yu/TV",N1 SRB
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 
 
 
@@ -2224,6 +2237,10 @@ https://media2.streambrothers.com:1936/8168/8168/chunklist_w869830387.m3u8
 #EXTINF:-1 tvg-id="BalkanTVSalzburg.at" tvg-name="Balkan TV Salzburg" tvg-logo="" group-title="Ex-Yu/TV",Balkan TV Salzburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://mcv2.streams.gr/stream/balkanradiosalzburgtv/index.m3u8
+#EXTINF:-1 tvg-id="BravoTV.hr" tvg-name="Bravo! TV" tvg-logo="https://i.imgur.com/FN2J9hv.png" group-title="Ex-Yu/TV",Bravo! TV  HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/2.m3u8
+
 
 
 
