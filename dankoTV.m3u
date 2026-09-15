@@ -12447,6 +12447,8 @@ https://shift03.isp.bg/Arena_Sport_3/index.m3u8
 https://shift03.isp.bg/Arena_Sport_4/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 HD
 https://shift03.isp.bg/Arena_Sport_5/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="4563" tvg-logo="http://epg.one/img2/4563.png" tvg-rec="0",Arena Sport 1 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7329/index.m3u8
 #EXTINF:0 group-title="SPORT/TEST" tvg-id="4564" tvg-logo="http://epg.one/img2/4564.png" tvg-rec="0",Arena Sport 2 HD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7330/index.m3u8
 #EXTINF:0 group-title="SPORT/TEST" tvg-id="4565" tvg-logo="http://epg.one/img2/4565.png" tvg-rec="0",Arena Sport 3 HD HR
