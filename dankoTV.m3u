@@ -12447,12 +12447,30 @@ https://shift03.isp.bg/Arena_Sport_3/index.m3u8
 https://shift03.isp.bg/Arena_Sport_4/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 HD
 https://shift03.isp.bg/Arena_Sport_5/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="4564" tvg-logo="http://epg.one/img2/4564.png" tvg-rec="0",Arena Sport 2 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7330/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="4565" tvg-logo="http://epg.one/img2/4565.png" tvg-rec="0",Arena Sport 3 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7331/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="4566" tvg-logo="http://epg.one/img2/4566.png" tvg-rec="0",Arena Sport 4 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7332/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="4567" tvg-logo="http://epg.one/img2/4567.png" tvg-rec="0",Arena Sport 5 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7333/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="4568" tvg-logo="http://epg.one/img2/4568.png" tvg-rec="0",Arena Sport 6 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7334/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN_2" tvg-logo="" group-title="SPORT/TEST",DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="Digi Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 1 HD (ro)
 http://91.201.172.14:35005
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="Digi Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 2 HD (ro)
 http://91.201.172.14:35006
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="2907" tvg-logo="http://epg.one/img2/2907.png" tvg-rec="3",DIGI Sport 1 HD RO
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2523/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="2906" tvg-logo="http://epg.one/img2/2906.png" tvg-rec="3",DIGI Sport 2 HD RO
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2522/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="2908" tvg-logo="http://epg.one/img2/2908.png" tvg-rec="3",DIGI Sport 3 HD RO
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2524/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="2922" tvg-logo="http://epg.one/img2/2922.png" tvg-rec="3",DIGI Sport 4 HD RO
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2538/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 2 HD (br)
 http://46.151.196.223:14438
 #EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 3 HD (co)
@@ -12486,467 +12504,96 @@ http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-logo="https://i.imgur.com/UxflVoU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport2 (cz)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="ESPN.HD.br" tvg-name="" tvg-logo="ESPN HD" group-title="SPORT/TEST",ESPN HD
+http://195.178.110.110/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.HD.br" tvg-name="" tvg-logo="ESPN 2 HD" group-title="SPORT/TEST",ESPN 2
+http://195.178.110.110/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.HD.br" tvg-name="" tvg-logo="ESPN 3 HD" group-title="SPORT/TEST",ESPN 3
+http://195.178.110.110/espn3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.HD.br" tvg-name="" tvg-logo="ESPN 4 HD" group-title="SPORT/TEST",ESPN 4
+http://195.178.110.110/espn4/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.5.HD.br" tvg-name="" tvg-logo="ESPN 5 HD" group-title="SPORT/TEST",ESPN 5
+http://195.178.110.110/espn5/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.6.HD.br" tvg-name="ESPN 6 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 6
+http://195.178.110.110/espn6/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.7.HD.br" tvg-name="" tvg-logo="ESPN 7 HD" group-title="SPORT/TEST",ESPN 7
+http://195.178.110.110/espn7/index.m3u8
+#EXTINF:-1 tvg-id="FOXSPORTS.br" tvg-name="FOX SPORTS" tvg-logo="" group-title="SPORT/TEST",FOX SPORTS
+http://195.178.110.110/foxsports/index.m3u8
+#EXTINF:-1 tvg-id="FOXSPORTS2.br" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="SPORT/TEST",FOX SPORTS 2
+http://195.178.110.110/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="MOVISTAR.br" tvg-name="MOVISTAR" tvg-logo="" group-title="SPORT/TEST",MOVISTAR
+http://195.178.110.110/movistar/index.m3u8
+#EXTINF:-1 tvg-id="FoxSportsPremium.br" tvg-name="FOX SPORTS PREMIUM" tvg-logo="" group-title="SPORT/TEST",FOX SPORTS PREMIUM
+http://195.178.110.110/foxsportspremium/index.m3u8
+#EXTINF:-1 tvg-id="Univision.br" tvg-name="Univision" tvg-logo="" group-title="SPORT/TEST",Univision
+http://195.178.110.110/univision/index.m3u8
+#EXTINF:-1 tvg-id="SPORTV.br" tvg-name="SPORTV" tvg-logo="" group-title="SPORT/TEST",SPORTV
+http://195.178.110.110/sportv/index.m3u8
+#EXTINF:-1 tvg-id="SPORTV2.br" tvg-name="SPORTV 2" tvg-logo="" group-title="SPORT/TEST",SPORTV 2
+http://195.178.110.110/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="SPORTV3.br" tvg-name="SPORTV 3" tvg-logo="" group-title="SPORT/TEST",SPORTV 3
+http://195.178.110.110/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="tntsports.br" tvg-name="tntsports" tvg-logo="" group-title="SPORT/TEST",tntsports
+http://195.178.110.110/tntsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 1 FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1956
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 2 FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1957
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 3 FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1958
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 4 FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1959
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 5 FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1960
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 6 FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1961
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 7 FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1962
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 8 FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1963
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 9 FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1964
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NEWS FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS NEWS FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1911
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS GLOBAL FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS GLOBAL FHD
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1912
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 1 HD" tvg-logo="" group-title="SPORT/TEST",BEIN SPORT 1 HD FR
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/4661
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 2 HD" tvg-logo="" group-title="SPORT/TEST",BEIN SPORT 2 HD FR
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/4663
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 3 HD" tvg-logo="" group-title="SPORT/TEST",BEIN SPORT 3 HD FR
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/4665
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 1 FHD" tvg-logo="" group-title="SPORT/TEST",DAZN Bar 1 FHD DE
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1759
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 2 FHD" tvg-logo="" group-title="SPORT/TEST",DAZN Bar 2 FHD  DE
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1760
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="SPORT/TEST",DAZN 1 HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1037
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="SPORT/TEST",DAZN 2 HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1039
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="SPORT/TEST",DAZN LA LIGA HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1028
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="SPORT/TEST",DAZN LA LIGA 2 HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1031
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="SPORT/TEST",DAZN F1 HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1034
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LA LIGA HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="SPORT/TEST",M+ LA LIGA HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/799
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="SPORT/TEST",M+ LIGA DE CAMPEONES HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/806
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ LIGA DE CAMPEONES 2 HD 1080p " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="SPORT/TEST",M+ LIGA DE CAMPEONES 2 HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/812
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="SPORT/TEST",M+ DEPORTES HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/839
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 HD 1080p (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="SPORT/TEST",M+ DEPORTES 2 HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/842
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="SPORT/TEST",TELEDEPORTE HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/854
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="SPORT/TEST",EUROSPORT 1 HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/857
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="SPORT/TEST",EUROSPORT 2 HD ES
+http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/860
 
 
 
