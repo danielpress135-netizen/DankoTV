@@ -12082,6 +12082,8 @@ https://stream.tvlux.sk/luxtv/luxtv-livestream/playlist.m3u8?DVR
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="UK:.FUEL.TV.be" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="SPORT/EXTREME+",FUEL TV (1080p)
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-id="10b859e5e8a1e710680c11dfdfb85c11" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/10b859e5e8a1e710680c11dfdfb85c11/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1769180701803_FUEL_TV_HUD__LOGO_260x147_3_pixel_top_and_bottom_border.png" group-title="SPORT/EXTREME+",FUEL TV
+https://jmp2.uk/rok-10b859e5e8a1e710680c11dfdfb85c11.m3u8
 #EXTINF:-1 tvg-id="EN:.Red.Bull.TV.sa" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="SPORT/EXTREME+",Red Bull TV (1080p)
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="SPORT/EXTREME+",Red Bull TV (1080p)
@@ -12122,6 +12124,8 @@ https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playl
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PL:.RACER.International.be" tvg-name="RACER International" tvg-logo="" group-title="SPORT/EXTREME+",RACER International (1080p)
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-61a945156547ba4d6d238dc9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" group-title="SPORT/EXTREME+",Racing America
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-61a945156547ba4d6d238dc9/?X-Plex-Token=nRF-zyuJ2eWe7SA1XxpV
 #EXTINF:-1 tvg-id="plex.tv.RACER.Select.plex" tvg-name="Racer Select" tvg-logo="https://i.imgur.com/CurtYvn.png" group-title="SPORT/EXTREME+",Racer Select (1080p)
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us" tvg-name="Rally TV" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="SPORT/EXTREME+",Rally TV (1080p)
@@ -12203,6 +12207,8 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="UEFA.Champions.League.Dummy.us" tvg-name="UEFA Champions League" tvg-logo="" group-title="SPORT/FOOTBALL+",UEFA Champions League (720p)
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+#EXTINF:-1 tvg-id="400000304" tvg-logo="https://canvas-lb.tubitv.com/opts/vYU_W6gGesX41A==/f137edcb-de3c-4b3c-9e41-ef2cc6f8d156/CHgQeDoFMS4xLjlAAQ==" group-title="SPORT/FOOTBALL+",UEFA.tv
+https://live-manifest.production-public.tubi.io/live/d846008d-b608-4ddf-931c-48e9b60bf6c5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Heldinnen x Pluto TV" tvg-logo="" group-title="SPORT/FOOTBALL+",DAZN Heldinnen x Pluto TV
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-id="DAZN.ch" tvg-name="DAZN TV" tvg-logo="" group-title="SPORT/FOOTBALL+",DAZN TV (720p)
@@ -12211,6 +12217,8 @@ https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us@SD" tvg-name="Women's Sports Network" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="SPORT/FOOTBALL+",Women's Sports Network (1080p)
 https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 tvg-id="683df56f5195c2a60a3f5559" tvg-logo="https://images.pluto.tv/channels/683df56f5195c2a60a3f5559/colorLogoPNG_1775667541424.png" group-title="SPORT/FOOTBALL+",Swerve Women’s Sports
+https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="Real Madrid TV English" tvg-logo="" group-title="SPORT/FOOTBALL+",Real Madrid TV English
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1  tvg-id="Real.Madrid.TV.es" tvg-name="Real Madrid TV Espana" tvg-logo="" group-title="SPORT/FOOTBALL+",Real Madrid TV Espana
@@ -12251,6 +12259,12 @@ https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8?channel_name=Top%20Barca&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=G&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 tvg-id="ES:.TOP.Barça.be" tvg-name="Top Barca en Espanyol" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ba995e95-3461-4ecd-a748-4fcc13b349f5" group-title="SPORT/FOOTBALL+",Top Barca en Espanyol
 https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8?channel_name=Top%20Barca%20Spanish&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=G&language=ES&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png" group-title="SPORT/FOOTBALL+",Golazo Network
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1 tvg-id="35633f08c98857cb9e85c91eae17c0d5" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" group-title="SPORT/FOOTBALL+",ViX Lo Mejor de Liga MX
+https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
+
+
 
 
 
@@ -12265,6 +12279,8 @@ https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-e
 
 #EXTINF:-1 tvg-id="Billiard.TV.us2" tvg-name="Billiards+" tvg-logo="" group-title="SPORT/MIX",Billiards+ (1080p)
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68b9f334fc12601028c5651e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55d069fe-0219-447a-a712-e3ecaed26241/_Plex__WBT_Logo_Dark_Mode.png" group-title="SPORT/MIX",World Billiards TV
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68b9f334fc12601028c5651e/?X-Plex-Token=nRF-zyuJ2eWe7SA1XxpV
 #EXTINF:-1 tvg-id="Africa.24.Sport.fr" tvg-name="Africa 24 Sport" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="SPORT/MIX",Africa 24 Sport (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="Bowling.TV.us2" tvg-name="Bowling TV" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="SPORT/MIX",Bowling TV (1080p)
@@ -12321,6 +12337,8 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 tvg-id="Swerve.Combat.distro" tvg-name="Swerve Combat" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="SPORT/MIX",Swerve Combat (1080p)
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="64d160f53c785e0008df525e" tvg-logo="https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png" group-title="SPORT/MIX",Top Rank Classics
+https://jmp2.uk/plu-64d160f53c785e0008df525e.m3u8
 #EXTINF:-1 tvg-id="TNA.Wrestling.Channel.distro" tvg-name="TNA Wrestling Channel" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404" group-title="SPORT/MIX",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8?channel_name=TNA%20Wrestling%20Channel&content_genre=Martial%20Arts%2CSport%2CWrestling&ic=IAB17%2CIAB17-20&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 tvg-id="plex.tv.Lucha.Plus.plex" tvg-name="Lucha Plus" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90" group-title="SPORT/MIX",Lucha Plus
@@ -12329,10 +12347,18 @@ https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playl
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8?channel_name=Fight%20Network&content_genre=MMA%2CSport&ic=IAB17%2CIAB17-20&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 tvg-id="PersianaFight.fr@HD" tvg-name="" tvg-logo="" group-title="SPORT/MIX",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="99951530" tvg-logo="https://image.xumo.com/v1/channels/channel/99951530/168x168.png?type=color_onBlack" group-title="SPORT/MIX",ONE Championship
+https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=9056a0f3-3b2d-4865-8520-f1870469be35&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
+#EXTINF:-1 tvg-id="8346c21c4b5b032cca68a74933e7642b" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8346c21c4b5b032cca68a74933e7642b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1779304614728_all_elite_wrestling_logo_hud.png" group-title="SPORT/MIX",Watch AEW
+https://jmp2.uk/rok-8346c21c4b5b032cca68a74933e7642b.m3u8
+#EXTINF:-1 tvg-id="US700005ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20260421T142358SQUARE.png" group-title="SPORT/MIX",WWE Superstar Central
+https://jmp2.uk/stvp-US700005ID
 #EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="SPORT/MIX",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 tvg-id="US4600005ST" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600005ST_20260421T141742SQUARE.png" group-title="SPORT/MIX",CG MMA En Español
 https://jmp2.uk/stvp-US4600005ST
+#EXTINF:-1 tvg-id="6334a574605f140007e233c4" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="SPORT/MIX",PFL MMA
+https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63f0ca427b78030ed9990309" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png" group-title="SPORT/MIX",CombaTV
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63f0ca427b78030ed9990309/?X-Plex-Token=nRF-zyuJ2eWe7SA1XxpV
 #EXTINF:-1 tvg-id="" tvg-name="Inside Arm Wrestling" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2f902298-97ad-401b-b076-c3b8405dfa29" group-title="SPORT/MIX",Inside Arm Wrestling
@@ -12373,6 +12399,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstri
 https://amg00585-amg00585c5-sportstribal-emea-2944.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-horsetv-sportstribalemea/playlist.m3u8?channel_name=Horse%20TV&content_genre=Equestrian%2CSport&ic=IAB17%2CIAB17-17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4C6109C1-6E34-4433-96E0-C5CC5C1061E0/3-1x1.png" tvg-id="LN_4C6109C1-6E34-4433-96E0-C5CC5C1061E0" group-title="SPORT/MIX",Cowboy+ Sports
 https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s11host2.localnow.api.cms.amdvids.com&ads.playbackid=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n4=content_name&ads.v4=Cowboy+%20Sports&ads.n21=network_name&ads.v21=the-cowboy-channel&ads.n22=ip&ads.v22=185.217.168.164&ads.n23=content_provider&ads.v23=the-cowboy-channel&ads.n24=content_producer_name&ads.v24=Teton%20Ridge%20LLC&ads.n25=us_privacy&ads.v25=1YNY&ads.n26=gpp&ads.v26=&ads.n27=app_bundle&ads.v27=&ads.n28=channel_genre&ads.v28=Sports&ads.n29=app_store_url&ads.v29=&ads.n30=device_model&ads.v30=&ads.n31=channel_ext_id&ads.v31=&ads.n32=channel_company_id&ads.v32=AMDP500567&ads.n33=content_custom_1_param&ads.v33=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n34=channel_rating&ads.v34=TV-PG&ads.n35=content_custom_2_param&ads.v35=AMDB013681&ads.n36=content_custom_3_param&ads.v36=channel&ads.n37=w&ads.v37=1920&ads.n38=h&ads.v38=1080&ads.n39=channel_language&ads.v39=en&ads.n40=dnt&ads.v40=&ads.n41=channel_title&ads.v41=Cowboy+%20Sports&ads.n42=cust_devicename&ads.v42=desktop_web&ads.n43=channel_corp&ads.v43=Teton%20Ridge%20LLC&ads.n44=channel_name&ads.v44=Cowboy+%20Sports&ads.n45=app_name&ads.v45=&ads.n46=pos&ads.v46=midroll&ads.n47=app_version&ads.v47=0.0.0&ads.n48=device_type&ads.v48=&ads.n49=url&ads.v49=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n50=device_make&ads.v50=&ads.n51=channel_brand_id&ads.v51=AMDB013681&ads.n52=gpp_sid&ads.v52=&ads.n53=content_livestream&ads.v53=1&ads.n54=channel_id&ads.v54=4C6109C1-6E34-4433-96E0-C5CC5C1061E0&ads.n55=ua&ads.v55=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n56=did&ads.v56=&ads.n57=content_type&ads.v57=channel&ads.n58=ifa_type&ads.v58=
+#EXTINF:-1 tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="SPORT/MIX",PBR RidePass
+https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CC63F1D9-7CF2-41EB-B97D-984C1320E32B/3-1x1.png" tvg-id="LN_CC63F1D9-7CF2-41EB-B97D-984C1320E32B" group-title="SPORT/MIX",Sports Illustrated TV
 https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/dist/localnow/235/hls/master/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=CC63F1D9-7CF2-41EB-B97D-984C1320E32B&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=CC63F1D9-7CF2-41EB-B97D-984C1320E32B&ads.n4=content_name&ads.v4=Sports%20Illustrated%20TV&ads.n21=channel_language&ads.v21=en&ads.n22=channel_title&ads.v22=Sports%20Illustrated%20TV&ads.n23=content_livestream&ads.v23=1&ads.n24=device_type&ads.v24=&ads.n25=w&ads.v25=1920&ads.n26=channel_rating&ads.v26=TV-PG&ads.n27=channel_company_id&ads.v27=AMDP500508&ads.n28=app_version&ads.v28=0.0.0&ads.n29=content_custom_1_param&ads.v29=CC63F1D9-7CF2-41EB-B97D-984C1320E32B&ads.n30=channel_id&ads.v30=CC63F1D9-7CF2-41EB-B97D-984C1320E32B&ads.n31=network_name&ads.v31=sports-illustrated&ads.n32=app_bundle&ads.v32=&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_name&ads.v34=Sports%20Illustrated%20TV&ads.n35=gpp&ads.v35=&ads.n36=ifa_type&ads.v36=&ads.n37=ip&ads.v37=185.217.168.164&ads.n38=ua&ads.v38=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n39=channel_brand_id&ads.v39=AMDB013682&ads.n40=channel_corp&ads.v40=Navio%20Networks%20INC&ads.n41=content_type&ads.v41=channel&ads.n42=us_privacy&ads.v42=1YNY&ads.n43=pos&ads.v43=midroll&ads.n44=content_provider&ads.v44=sports-illustrated&ads.n45=gpp_sid&ads.v45=&ads.n46=did&ads.v46=&ads.n47=content_custom_3_param&ads.v47=channel&ads.n48=device_make&ads.v48=&ads.n49=channel_ext_id&ads.v49=&ads.n50=device_model&ads.v50=&ads.n51=channel_genre&ads.v51=Sports&ads.n52=app_name&ads.v52=&ads.n53=content_custom_2_param&ads.v53=AMDB013682&ads.n54=dnt&ads.v54=&ads.n55=content_producer_name&ads.v55=Navio%20Networks%20INC&ads.n56=h&ads.v56=1080&ads.n57=url&ads.v57=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n58=app_store_url&ads.v58=
 #EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png" group-title="SPORT/MIX",CBS Sports HQ
@@ -12387,6 +12415,20 @@ https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 https://jmp2.uk/rok-257afd66cee15a1ca2125fc377e87cc2.m3u8
 #EXTINF:-1 tvg-id="b238edf1869657abb47970bc9b7bfce1" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b238edf1869657abb47970bc9b7bfce1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1720447133788_Roku_HUD_CHGO.png" group-title="SPORT/MIX",CHGO Sports
 https://jmp2.uk/rok-b238edf1869657abb47970bc9b7bfce1.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-65e0c8c6d899afe817b9d224" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="SPORT/MIX",Cricket Gold
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65e0c8c6d899afe817b9d224/?X-Plex-Token=nRF-zyuJ2eWe7SA1XxpV
+#EXTINF:-1 tvg-id="5976983fa00953dab911a0ebea932943" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5976983fa00953dab911a0ebea932943/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694201368177_Roku_DKN_HUD_Logo_Centered.png" group-title="SPORT/MIX",DraftKings
+https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8
+#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="SPORT/MIX",MLB
+https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
+#EXTINF:-1 tvg-id="9ec48964d9b9502396f19fcb3a527074" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9ec48964d9b9502396f19fcb3a527074/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1720539914940_Roku_HUD_PHLY.png" group-title="SPORT/MIX",PHLY Sports
+https://jmp2.uk/rok-9ec48964d9b9502396f19fcb3a527074.m3u8
+#EXTINF:-1 tvg-id="98cafb7f4b01848a967fda4bd2225bd7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/98cafb7f4b01848a967fda4bd2225bd7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1783443201350_unbeaten_sports_logo_hud.png" group-title="SPORT/MIX",Unbeaten Sports
+https://jmp2.uk/rok-98cafb7f4b01848a967fda4bd2225bd7.m3u8
+
+
+
+
 
 
 
