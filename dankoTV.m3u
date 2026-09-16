@@ -4582,7 +4582,6 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="VmesteRF.ru@SD" tvg-name="Вместе РФ" tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="RU🇷🇺/TV",Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-name="Дума ТВ" tvg-logo="https://i.imgur.com/JvlO3PU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="RU🇷🇺/TV",Дума ТВ (1080p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://dumatv.iptv2022.com/playlist.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru@SD" tvg-name="Неизвестная Россия" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="RU🇷🇺/TV",Неизвестная Россия (1080p)
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -12536,6 +12535,367 @@ http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/854
 http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/857
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="SPORT/TEST",EUROSPORT 2 HD ES
 http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/860
+#EXTINF:-1 tvg-id="" tvg-name="Diema sport 1" tvg-logo="" group-title="SPORT/TEST",Diema sport 1
+http://212.70.131.37:8000/play/a06e
+#EXTINF:-1 tvg-id="" tvg-name="Diema sport 2" tvg-logo="" group-title="SPORT/TEST",Diema sport 2
+http://212.70.131.37:8000/play/a06p
+#EXTINF:-1 tvg-id="" tvg-name="Diema sport 3" tvg-logo="" group-title="SPORT/TEST",Diema sport 3
+http://212.70.131.37:8000/play/a06o
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Real Time" tvg-logo="" group-title="TEST"Real Time  (it)
+http://102.129.186.182:81/realtime/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Top Crime  (it)
+http://102.129.186.182:81/topcrime/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",La7d  (it)
+http://102.129.186.182:81/la7d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Rai Storia  (it)
+http://102.129.186.182:81/raistoria/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Rai Movie  (it)
+http://102.129.186.182:81/raimovie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Rai 5  (it)
+http://102.129.186.182:81/rai5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Rai 4  (it)
+http://102.129.186.182:81/rai4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TV 8  (it)
+http://102.129.186.182:81/tv8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Rai 3  (it)
+http://102.129.186.182:81/rai3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Rai 2  (it)
+http://102.129.186.182:81/rai2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Rai 1  (it)
+http://102.129.186.182:81/rai1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Nick Jr  (it)
+http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",La7  (it)
+http://102.129.186.182:81/la7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",La5  (it)
+http://102.129.186.182:81/la5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Iris  (it)
+http://102.129.186.182:81/iris/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Inter  (it)
+http://102.129.186.182:81/inter/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",giallo  (it)
+http://102.129.186.182:81/giallo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",DMAX  (it)
+http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Discovery  (it)
+http://102.129.186.182:81/discovery/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Comedy Central  (it)
+http://102.129.186.182:81/comedy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="dajto" tvg-logo="" group-title="TEST",dajto
+http://193.33.39.108:8088/dajto/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="dvojka" tvg-logo="" group-title="TEST",dvojka
+http://193.33.39.108:8088/dvojka/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="jednotka" tvg-logo="" group-title="TEST",jednotka
+http://193.33.39.108:8088/jednotka/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="m1hd" tvg-logo="" group-title="TEST",m1hd
+http://193.33.39.108:8088/m1hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="TEST",Nickelodeon
+http://193.33.39.108:8088/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="novasport2" tvg-logo="" group-title="TEST",novasport2
+http://193.33.39.108:8088/novasport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="paprika" tvg-logo="" group-title="TEST",paprika
+http://193.33.39.108:8088/paprika/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="" group-title="TEST",RTL
+http://193.33.39.108:8088/RTL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tlc" tvg-logo="" group-title="TEST",tlc
+http://193.33.39.108:8088/tlc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="novaaction" tvg-logo="" group-title="TEST",novaaction
+http://193.33.39.108:8088/novaaction/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="novafun" tvg-logo="" group-title="TEST",novafun
+http://193.33.39.108:8088/novafun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="primazoom" tvg-logo="" group-title="TEST",primazoom
+http://193.33.39.108:8088/primazoom/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="novasport6" tvg-logo="" group-title="TEST",novasport6
+http://193.33.39.108:8088/novasport6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="rtvs24" tvg-logo="" group-title="TEST",rtvs24
+http://193.33.39.108:8088/rtvs24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="joj24" tvg-logo="" group-title="TEST",joj24
+http://193.33.39.108:8088/joj24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="jojcinema" tvg-logo="" group-title="TEST",jojcinema
+http://193.33.39.108:8088/jojcinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="supertv2" tvg-logo="" group-title="TEST",supertv2
+http://193.33.39.108:8088/supertv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv2kids" tvg-logo="" group-title="TEST",tv2kids
+http://193.33.39.108:8088/tv2kids/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="filmmania" tvg-logo="" group-title="TEST",filmmania
+http://193.33.39.108:8088/filmmania/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="spektrumhome" tvg-logo="" group-title="TEST",spektrumhome
+http://193.33.39.108:8088/spektrumhome/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD [PL]" tvg-logo="" group-title="TEST",HBO HD [PL]
+http://185.170.153.13:6878/ace/getstream?infohash=d82bf881231c114915379919a2afffaeb5eb5fee&pid=604
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD [PL]" tvg-logo="" group-title="TEST",HBO 2 HD [PL]
+http://185.170.153.13:6878/ace/getstream?infohash=e690dbfc22c5a7184a2d47bbca065be65e525cfc&pid=600
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 HD [PL]" tvg-logo="" group-title="TEST",HBO 3 HD [PL]
+http://185.170.153.13:6878/ace/getstream?infohash=05428860592e4947d4d6859cb327047ff600184f&pid=602
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Film HD [PL]" tvg-logo="" group-title="TEST",Polsat Film HD [PL]
+http://185.170.153.13:6878/ace/getstream?infohash=f150493892e18605c5bf76984b87044f31562b6b&pid=999
+#EXTINF:-1 tvg-id="" tvg-name="Super Polsat HD [PL]" tvg-logo="" group-title="TEST",Super Polsat HD [PL]
+http://185.170.153.13:6878/ace/getstream?infohash=c856decf73393fa260e91ae2971bf6ef7e89ae28&pid=1254
+#EXTINF:-1 tvg-id="" tvg-name="Nova HD" tvg-logo="" group-title="TEST",Nova HD
+http://185.170.153.13:6878/ace/getstream?infohash=cbf7516d43a7830fd4f42828f4c3a552652c64c0&pid=914
+#EXTINF:-1 tvg-id="" tvg-name="Nova Action HD" tvg-logo="" group-title="TEST",Nova Action HD
+http://185.170.153.13:6878/ace/getstream?infohash=09351bf66e3643e0fa799ef9d013ef2b999739db&pid=909
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema HD" tvg-logo="" group-title="TEST",Nova Cinema HD
+http://185.170.153.13:6878/ace/getstream?infohash=e15cc11e5652d0dbe462710133649510fe57feeb&pid=910
+#EXTINF:-1 tvg-id="" tvg-name="Nova Fun HD" tvg-logo="" group-title="TEST",Nova Fun HD
+http://185.170.153.13:6878/ace/getstream?infohash=fd5d31fc7fee015f8e4ffd070773b1cae52a1cba&pid=912
+#EXTINF:-1 tvg-id="" tvg-name="Nova Gold HD" tvg-logo="" group-title="TEST",Nova Gold HD
+http://185.170.153.13:6878/ace/getstream?infohash=fed96172ca13d9f48f3737c6593636f0ff0519ee&pid=913
+#EXTINF:-1 tvg-id="" tvg-name="Nova Lady HD" tvg-logo="" group-title="TEST",Nova Lady HD
+http://185.170.153.13:6878/ace/getstream?infohash=3711f9b57f709df170c5d2a655cf124ae37cf781&pid=915
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="" group-title="TEST",Cinemax HD
+http://185.170.153.13:6878/ace/getstream?infohash=ab007f4b9077edfdcff64c4c814fa76caeb8a31b&pid=350
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 HD" tvg-logo="" group-title="TEST",Cinemax 2 HD
+http://185.170.153.13:6878/ace/getstream?infohash=4434075114efa4f15249cfcba18d80052aa50f55&pid=349
+#EXTINF:-1 tvg-id="" tvg-name="BCU Premiere HD [RU]" tvg-logo="" group-title="TEST",BCU Premiere HD [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=c248c963c8de10771ace5f3d370566c1b4a6e4ad&pid=210
+#EXTINF:-1 tvg-id="" tvg-name="BCU Premiere Ultra 4K [RU]" tvg-logo="" group-title="TEST",BCU Premiere Ultra 4K [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=4b598726baad9f7a96f8fed7f4415f8379d6d5f9&pid=211
+#EXTINF:-1 tvg-id="" tvg-name="BCU Кинозал Premiere 1 HD [RU]" tvg-logo="" group-title="TEST",BCU Кинозал Premiere 1 HD [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=aeb2a969592f32d318e362601e3dfa9b51672039&pid=220
+#EXTINF:-1 tvg-id="" tvg-name="BCU Кинозал Premiere 2 HD [RU]" tvg-logo="" group-title="TEST",BCU Кинозал Premiere 2 HD [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=0e1f8b3f3bcc338c333fc131b0817fdfc4ebf13b&pid=221
+#EXTINF:-1 tvg-id="" tvg-name="BCU Кинозал Premiere 3 HD [RU]" tvg-logo="" group-title="TEST",BCU Кинозал Premiere 3 HD [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=395e35eb507c28e97c313cf72d7817784fc214d5&pid=222
+#EXTINF:-1 tvg-id="" tvg-name="BCU Marvel HD [RU]" tvg-logo="" group-title="TEST",BCU Marvel HD [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=b437118a4f66ac71cd9b16e2d30b0aff7baf7541&pid=209
+#EXTINF:-1 tvg-id="" tvg-name="BCU Action HD [RU]" tvg-logo="" group-title="TEST",BCU Action HD [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=ac82e6570ec2137e9e56dcefa5bdc54ff790bc54&pid=194
+#EXTINF:-1 tvg-id="" tvg-name="BCU Criminal HD [RU]" tvg-logo="" group-title="TEST",BCU Criminal HD [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=b987e76986be71e070b7a3c8516a3beef348b9c7&pid=200
+#EXTINF:-1 tvg-id="" tvg-name="BCU Fantastic HD [RU]" tvg-logo="" group-title="TEST",BCU Fantastic HD [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=9aece1167d82d7f3fdc36493a11de28b45ed75bb&pid=201
+#EXTINF:-1 tvg-id="" tvg-name="BCU Comedy HD [RU]" tvg-logo="" group-title="TEST",BCU Comedy HD [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=8f7c250bba5197733583fdd64d240f32ff9958aa&pid=198
+#EXTINF:-1 tvg-id="" tvg-name="BCU Kids HD [RU]" tvg-logo="" group-title="TEST",BCU Kids HD [RU]
+http://185.170.153.13:6878/ace/getstream?infohash=8cee61d7252426713403bf5d12acbf5a742b30ba&pid=205
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Hits" tvg-logo="" group-title="TEST",Movistar Hits
+http://185.170.153.13:6878/ace/getstream?infohash=e531e5d415875307b7df86fc8187ad7c754173d5&pid=835
+#EXTINF:-1 tvg-id="" tvg-name="yes Action HD" tvg-logo="" group-title="TEST",yes Action HD
+http://185.170.153.13:6878/ace/getstream?infohash=b7a3b2618e0575ba3fce91968c89d32a25109c6a&pid=1477
+#EXTINF:-1 tvg-id="" tvg-name="yes COMEDY HD" tvg-logo="" group-title="TEST",yes COMEDY HD
+http://185.170.153.13:6878/ace/getstream?infohash=e84135ded4d6a8bb17e5b1cee82fee3b09459f04&pid=1478
+#EXTINF:-1 tvg-id="" tvg-name="yes DRAMA HD" tvg-logo="" group-title="TEST",yes DRAMA HD
+http://185.170.153.13:6878/ace/getstream?infohash=715ab1e81125aeff1d8f80e55bd8e3c5f58adf97&pid=1479
+#EXTINF:-1 tvg-id="" tvg-name="yes KIDS HD" tvg-logo="" group-title="TEST",yes KIDS HD
+http://185.170.153.13:6878/ace/getstream?infohash=62039fb516193ed3e750c44c42e9b075fb54a742&pid=1480
+#EXTINF:-1 tvg-id="" tvg-name="HOT cinema 1" tvg-logo="" group-title="TEST",HOT cinema 1
+http://185.170.153.13:6878/ace/getstream?infohash=fd25b8ee5cce478a68f294e9275e865a170a6caa&pid=626
+#EXTINF:-1 tvg-id="" tvg-name="HOT cinema 2" tvg-logo="" group-title="TEST",HOT cinema 2
+http://185.170.153.13:6878/ace/getstream?infohash=ae9e6f7d2702ea8713b64d0f280832a10549e383&pid=627
+#EXTINF:-1 tvg-id="" tvg-name="HOT cinema 3" tvg-logo="" group-title="TEST",HOT cinema 3
+http://185.170.153.13:6878/ace/getstream?infohash=b72c4b28cf3583976afc7508948be5010fb236e6&pid=628
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV HD [DE]" tvg-logo="" group-title="TEST",Universal TV HD [DE]
+http://185.170.153.13:6878/ace/getstream?infohash=d097bf7b163188d148a2ae7bb2f974c984e1b293&pid=1420
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV Comedy [DE]" tvg-logo="" group-title="TEST",Warner TV Comedy [DE]
+http://185.170.153.13:6878/ace/getstream?infohash=20bafbff7bdce393eacdef515308c1c3d6241392&pid=1457
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV Film [DE]" tvg-logo="" group-title="TEST",Warner TV Film [DE]
+http://185.170.153.13:6878/ace/getstream?infohash=c250de1c096fa5931169d9565cfa4302776644e5&pid=1458
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV Serie [DE]" tvg-logo="" group-title="TEST",Warner TV Serie [DE]
+http://185.170.153.13:6878/ace/getstream?infohash=953cdd072b9a35303d28a93e27598999ef8714f2&pid=1459
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD [DE]" tvg-logo="" group-title="TEST",Sky Atlantic HD [DE]
+http://185.170.153.13:6878/ace/getstream?infohash=0bcd22bef29aa77a7030695261ed9f4cf61b0334&pid=1200
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action HD [DE]" tvg-logo="" group-title="TEST",Sky Cinema Action HD [DE]
+http://185.170.153.13:6878/ace/getstream?infohash=167b439ae4fd189c348e6588c1aab07346435716&pid=1202
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Classics [DE]" tvg-logo="" group-title="TEST",Sky Cinema Classics [DE]
+http://185.170.153.13:6878/ace/getstream?infohash=ffa4be710467fa630ad9fa1bb9f06b3dd166387b&pid=1203
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family [DE]" tvg-logo="" group-title="TEST",Sky Cinema Family [DE]
+http://185.170.153.13:6878/ace/getstream?infohash=c85a6e5f6edb72c33aee67fcf294a62114911f6a&pid=1204
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premieren HD [DE]" tvg-logo="" group-title="TEST",Sky Cinema Premieren HD [DE]
+http://185.170.153.13:6878/ace/getstream?infohash=cf3db052c1bc48dd5c9e55c5b443d494ca277700&pid=1205
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Special HD [DE]" tvg-logo="" group-title="TEST",Sky Cinema Special HD [DE]
+http://185.170.153.13:6878/ace/getstream?infohash=07793c990e158208c29207faecb10769595beeea&pid=1206
+
+#EXTINF:-1 tvg-id="" tvg-name="CLOUDING TV" tvg-logo="" group-title="TEST",CLOUDING TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XTREME TV" tvg-logo="" group-title="TEST",XTREME TV
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CHANNEL NETWORK" tvg-logo="" group-title="TEST",TV CHANNEL NETWORK
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="" group-title="TEST",REDE BRASIL
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV AMPLITUDE JUARA (Record MT)" tvg-logo="" group-title="TEST",TV AMPLITUDE JUARA (Record MT)
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV SONATA" tvg-logo="" group-title="TEST",TV SONATA
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TROPICAL (Record RN)" tvg-logo="" group-title="TEST",TV TROPICAL (Record RN)
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BS-TV ONLINE" tvg-logo="" group-title="TEST",BS-TV ONLINE
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CLÁSSICOS DO CINEMA" tvg-logo="" group-title="TEST",TV CLÁSSICOS DO CINEMA
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELA BRASIL TV" tvg-logo="" group-title="TEST",TELA BRASIL TV
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OTAKU SIGN TV" tvg-logo="" group-title="TEST",OTAKU SIGN TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="" group-title="TEST",RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-id="" tvg-name="TV WEB SÃO LUIS CANOAS RS" tvg-logo="" group-title="TEST",TV WEB SÃO LUIS CANOAS RS
+https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV MIURA" tvg-logo="" group-title="TEST",TV MIURA
+https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV SANTA" tvg-logo="" group-title="TEST",TV SANTA
+https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV LATINASAT" tvg-logo="" group-title="TEST",TV LATINASAT
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV! PARANÁ" tvg-logo="" group-title="TEST",REDE TV! PARANÁ
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ARACATI" tvg-logo="" group-title="TEST",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REVIVA TV" tvg-logo="" group-title="TEST",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE (TV Meio Norte PA)" tvg-logo="" group-title="TEST",TV ONE (TV Meio Norte PA)
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOADING TV" tvg-logo="" group-title="TEST",LOADING TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV MAIS BRASIL" tvg-logo="" group-title="TEST",TV MAIS BRASIL
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WORDING TV" tvg-logo="" group-title="TEST",WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV SÉRIES" tvg-logo="" group-title="TEST",CLASSIQUE TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LUCAS TV" tvg-logo="" group-title="TEST",LUCAS TV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV NBT (Rede NGT PA)" tvg-logo="" group-title="TEST",TV NBT (Rede NGT PA)
+https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV POMPEIA" tvg-logo="" group-title="TEST",TV POMPEIA
+https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC BRASIL TV" tvg-logo="" group-title="TEST",MBC BRASIL TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLN TV" tvg-logo="" group-title="TEST",GLN TV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE NGT" tvg-logo="" group-title="TEST",REDE NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV" tvg-logo="" group-title="TEST",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYMAX TV" tvg-logo="" group-title="TEST",PLAYMAX TV
+https://stmv2.srvsh.com.br/daniel5336/daniel5336/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN (Band PB)" tvg-logo="" group-title="TEST",TV ARAPUAN (Band PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ALIANÇA" tvg-logo="" group-title="TEST",TV ALIANÇA
+https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="" group-title="TEST",TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+
+#EXTINF:-1 tvg-id="" tvg-name="metropola tv" tvg-logo="" group-title="TEST",metropola tv
+https://hls01ns.antenaplay.ro/hls/metropola-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",etno tv
+https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="inedit tv" tvg-logo="" group-title="TEST",inedit tv
+https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="moldova tv" tvg-logo="" group-title="TEST",moldova tv
+https://hls01ns.antenaplay.ro/hls/moldova-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="kapital tv" tvg-logo="" group-title="TEST",kapital tv
+https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="aleph news" tvg-logo="" group-title="TEST",aleph news
+https://hls02ns.antenaplay.ro/hls/aleph-news-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="realitatea plus" tvg-logo="" group-title="TEST",realitatea plus
+https://hls01ns.antenaplay.ro/hls/realitatea-plus-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="romania tv" tvg-logo="" group-title="TEST",romania tv
+https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvr info" tvg-logo="" group-title="TEST",tvr info
+https://hls01ns.antenaplay.ro/hls/tvr-info-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="prima news" tvg-logo="" group-title="TEST",prima news
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ncn" tvg-logo="" group-title="TEST",ncn
+https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nostalgia" tvg-logo="" group-title="TEST",nostalgia
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="favorit" tvg-logo="" group-title="TEST",favorit
+https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="a7" tvg-logo="" group-title="TEST",a7
+https://hls02ns.antenaplay.ro/hls/a7-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tralala hd" tvg-logo="" group-title="TEST",tralala hd
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="speranta tv" tvg-logo="" group-title="TEST",speranta tv
+https://hls02ns.antenaplay.ro/hls/speranta-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv as" tvg-logo="" group-title="TEST",tv as
+https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="orizont tv" tvg-logo="" group-title="TEST",orizont tv
+https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="traditional tv" tvg-logo="" group-title="TEST",traditional tv
+https://hls01ns.antenaplay.ro/hls/traditional-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="trinitas tv" tvg-logo="" group-title="TEST",trinitas tv
+https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="kiss tv" tvg-logo="" group-title="TEST",kiss tv
+https://hls02ns.antenaplay.ro/hls/kiss-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="magic tv" tvg-logo="" group-title="TEST",magic tv
+https://hls02ns.antenaplay.ro/hls/magic-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="atomic" tvg-logo="" group-title="TEST",atomic
+https://hls02ns.antenaplay.ro/hls/atomic-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="atomic academy" tvg-logo="" group-title="TEST",atomic academy
+https://hls02ns.antenaplay.ro/hls/atomic-academy-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="party mix" tvg-logo="" group-title="TEST",party mix
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="taraf tv" tvg-logo="" group-title="TEST",taraf tv
+https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tralala desene animate" tvg-logo="" group-title="TEST",tralala desene animate
+https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bollywood clasic" tvg-logo="" group-title="TEST",bollywood clasic
+https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bollywood" tvg-logo="" group-title="TEST",bollywood
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvr 1" tvg-logo="" group-title="TEST",tvr 1
+https://hls01ns.antenaplay.ro/hls/tvr-1-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvr 2" tvg-logo="" group-title="TEST",tvr 2
+https://hls02ns.antenaplay.ro/hls/tvr-2-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvr 3" tvg-logo="" group-title="TEST",tvr 3
+https://hls01ns.antenaplay.ro/hls/tvr-3-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvr cultural" tvg-logo="" group-title="TEST",tvr cultural
+https://hls01ns.antenaplay.ro/hls/tvr-cultural-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvr info" tvg-logo="" group-title="TEST",tvr info
+https://hls01ns.antenaplay.ro/hls/tvr-info-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvr sport" tvg-logo="" group-title="TEST",tvr sport
+https://hls01ns.antenaplay.ro/hls/tvr-sport-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b1 tv" tvg-logo="" group-title="TEST",b1 tv
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="euronews ro" tvg-logo="" group-title="TEST",euronews ro
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cinemaraton plus" tvg-logo="" group-title="TEST",cinemaraton plus
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="n24 plus" tvg-logo="" group-title="TEST",n24 plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="national tv" tvg-logo="" group-title="TEST",national tv
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv5 monde europe" tvg-logo="" group-title="TEST",tv5 monde europe
+https://hls01ns.antenaplay.ro/hls/tv5-monde-europe-sd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1708173256/1/267/150/0.jpg" group-title="TEST",FREE Western Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzY0MzY1OTYzOH0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646485706/1/267/150/0.jpg" group-title="TEST",Grit XTRA
+https://286eba24.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fR3JpdFh0cmFfSExT/playlist.m3u8?ads.wurl_channel=1208&ads.wurl_name=GritXtra&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzc4ODM2ODI3MH0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1652309484/1/267/150/0.jpg" group-title="TEST",GET.
+https://73324a3542ab4ad4a8738ee1894d2af7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-VIZIO/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQ2MjgyNDU1MzN9
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242882/1/267/150/0.jpg" group-title="TEST",FilmRise Western
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885515&ads.csid=viziowatchfree_us_filmrisewestern_ssai&ads.caid=FilmRiseWestern&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseWestern&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.channelId=88885515&ads.xumo_channelName=FilmRiseWestern&ads._fw_content_programmer_brand=FilmRiseWestern&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6Mjk4NDk5NzEzOX0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1652535931/1/267/150/0.jpg" group-title="TEST",The Three Stooges+
+https://amg02451-c3-amg02451c1-vizio-us-3670.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI3MTE3MjQ1NH0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1684562729/1/267/150/0.jpg" group-title="TEST",Death Valley Days
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885571/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885571&ads.csid=viziowatchfree_us_deathvalleydays_ssai&ads.caid=DeathValleyDays&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=DeathValleyDays&ads.xumo_providerId=260&ads.xumo_providerName=DeathValleyDays&ads.channelId=88885571&ads.xumo_channelName=DeathValleyDays&ads._fw_content_programmer_brand=DeathValleyDays&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDI1NjQxOTI0Mn0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646848034/1/267/150/0.jpg" group-title="TEST",The Carol Burnett Show
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-carol-burnett-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mjk5MzgwMDU5M30
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646486327/1/267/150/0.jpg" group-title="TEST",Johnny Carson TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-johnnycarson-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MjkyMjk3Nzg4N30
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736189244/1/267/150/0.jpg" group-title="TEST",Bonanza-Billies TV
+https://b176f0a9db7f48d896f9c884bfca0325.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_Bonanza-BilliesTV/playlist.m3u8?ads.wurl_channel=2101&ads.wurl_name=Bonanza-BilliesTV&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDY4MzM5MTcxNH0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242703/1/267/150/0.jpg" group-title="TEST",FilmRise Classic TV
+https://dp86zvvitxks3.cloudfront.net/10901/88885509/hls/master.m3u8?ads.xumo_channelId=88885509&ads.xumo_streamId=88885509&ads.supply_id=10229&ads.channelId=88885509&ads.channelName=filmriseclassictv_us&ads.csid=viziowatchfree_us_filmriseclassictv_ssai&ads.caid=FilmRiseClassicTV&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_h_x_country=US&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseClassicTV&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelName=FilmRiseClassicTV&ads._fw_content_programmer_brand=FilmRiseClassicTV&withResolution=true&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads.appName=%7bAPP_NAME%7d&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6MjkyMDk1NjY0NH0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736241962/1/267/150/0.jpg" group-title="TEST",Pam Grier's Soul Flix
+https://6a6e5678.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU291bEZsaXhfSExT/playlist.m3u8?ads.wurl_channel=1949&ads.wurl_name=SoulFlix&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDczMjUzOTY1NH0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646488604/1/267/150/0.jpg" group-title="TEST",MST3K
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-mst3k-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MjkyMjk3Nzg4OX0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736244471/1/267/150/0.jpg" group-title="TEST",Circle
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-circle-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI5MTYyMzQxOH0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1703038520/1/267/150/0.jpg" group-title="WESTERNS + CLASSICS",Western Bound
+https://api-ott-imagicomm-ime.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjQwMDkyMDIxMzR9
+
 
 
 
