@@ -160,6 +160,10 @@ https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bridge Deluxe" tvg-logo="" group-title="music", Bridge Deluxe
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Russki Hit TV" tvg-logo="" group-title="music", Bridge Russki Hit TV
+http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA PLUS" tvg-logo="" group-title="music",EUROPA PLUS 
+https://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="" tvg-name="15 Plus Music" tvg-logo="" group-title="music",15 Plus Music
 http://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ММТВ" tvg-logo="https://i.ibb.co/VKSnQpd/image-97.png" group-title="music", ММТВ
@@ -274,17 +278,17 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Иллюзион+" tvg-logo="" group-title="Kino",Иллюзион+
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Любовь" tvg-logo="" group-title="Kino" ,Смотрим 100% Любовь
-https://stream.smotrim.ru/fasttv_hls/fasttv01/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Мужское" tvg-logo="" group-title="Kino" ,Смотрим 100% Мужское
-https://stream.smotrim.ru/fasttv_hls/fasttv02/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Классика" tvg-logo="" group-title="Kino" ,Смотрим 100% Классика
-https://stream.smotrim.ru/fasttv_hls/fasttv03/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Праздник" tvg-logo="" group-title="Kino" ,Смотрим 100% Праздник
-https://stream.smotrim.ru/fasttv_hls/fasttv04/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Детское" tvg-logo="" group-title="Kino" ,Смотрим 100% Детское
-https://stream.smotrim.ru/fasttv_hls/fasttv05/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Факты" tvg-logo="" group-title="Kino" ,Смотрим 100% Факты
-https://stream.smotrim.ru/fasttv_hls/fasttv06/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 
 
 
