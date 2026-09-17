@@ -447,7 +447,7 @@ https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="" tvg-name="Поехали!" tvg-logo="" group-title="Docu",Поехали!
 https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Моя стихия
+#EXTINF:-1 group-title="Docu" tvg-rec="7" timeshift="7",Моя стихия
 http://stream.mcquack.net/141/index.m3u8
 
 
