@@ -3348,10 +3348,6 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
 #EXTINF:-1 tvg-id="XITE.Hits.DUMMY.us" tvg-name="XITE Hits" tvg-logo="https://i.ibb.co/p88DV2y/resize.png" group-title="MUSIC🎶📺/TV CLASSIC",XITE Hits
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="Vevo.70s.us2" tvg-name="Vevo '70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="MUSIC🎶📺/TV CLASSIC",Vevo '70s
-https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/ts-us-w2-n1/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.70s.us2" tvg-name="Vevo 70s" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV CLASSIC",Vevo 70s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="NOW.70s.uk" tvg-name="Now 70s" tvg-logo="https://i.ibb.co/XrBHVmjP/image-2025-09-02-T152927-117.png" group-title="MUSIC🎶📺/TV CLASSIC",Now 70s
 http://mains.services/live/0228902066/tc674KJ3du/e6adbe1e-f56c-4d33-b8c2-1c51166bb249.m3u
 #EXTINF:-1 tvg-id="Thats70s.au" tvg-name="THAT'S 70S" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",THAT'S 70S
@@ -3371,26 +3367,24 @@ https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
 #EXTINF:-1 tvg-id="XITE.80s.Flashback.DUMMY.us" tvg-name="XITE 80s Flashback" tvg-logo="https://i.ibb.co/p88DV2y/resize.png" group-title="MUSIC🎶📺/TV CLASSIC",XITE 80s Flashback
 https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 tvg-id="Vevo.80s.us2" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="MUSIC🎶📺/TV CLASSIC",Vevo '80s
-https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/ts-us-w2-n1/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.80s.us2" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV CLASSIC",Vevo 80s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.90s.us2" tvg-name="Vevo '90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="MUSIC🎶📺/TV CLASSIC",Vevo '90s
-https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.90s.us2" tvg-name="Vevo 90s" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV CLASSIC",Vevo 90s
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.90s.Throwback.DUMMY.us" tvg-name="XITE 90's Throwback" tvg-logo="https://i.imgur.com/vwpOzuz.png" group-title="MUSIC🎶📺/TV CLASSIC",XITE 90's Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 #EXTINF:-1 tvg-id="NOW.90s.uk" tvg-name="NOW 90s" tvg-logo="https://i.ibb.co/7NrNgk7S/image-11.png" group-title="MUSIC🎶📺/TV CLASSIC",NOW 90s
 http://mains.services/live/0228902066/tc674KJ3du/c365fe14-2b94-47df-b40b-3c2cd47f8f43.m3u
+#EXTINF:-1 channel-id="5f32f26bcd8aea00071240e5-us" tvg-id="5f32f26bcd8aea00071240e5" tvg-chno="4640" tvg-name="Vevo '70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="MUSIC🎶📺/TV CLASSIC",Vevo '70s
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+#EXTINF:-1 channel-id="5fd7b8bf927e090007685853-us" tvg-id="5fd7b8bf927e090007685853" tvg-chno="4650" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="MUSIC🎶📺/TV CLASSIC",Vevo '80s
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+#EXTINF:-1 channel-id="5fd7bb1f86d94a000796e2c2-us" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-chno="4660" tvg-name="Vevo '90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="MUSIC🎶📺/TV CLASSIC",Vevo '90s
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+#EXTINF:-1 channel-id="5fd7bca3e0a4ee0007a38e8c-us" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-chno="4670" tvg-name="Vevo 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="MUSIC🎶📺/TV CLASSIC",Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 #EXTINF:-1 tvg-id="IT:.Vevo.`90s.&.`00s.be" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png" group-title="MUSIC🎶📺/TV CLASSIC",Vevo '90s & '00s
 https://jmp2.uk/stvp-ITBC210000200
 #EXTINF:-1 tvg-id="IT:.Vevo.`90s.&.`00s.be" tvg-name="Vevo 90s & 00s Italy" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV CLASSIC",Vevo 90s & 00s Italy
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TotalMusic 00" tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="MUSIC🎶📺/TV CLASSIC",TotalMusic 00
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Vevo.2K.us2" tvg-name="Vevo 2k" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV CLASSIC",Vevo 2k
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Music.Box.Classic.cz" tvg-name="Music Box Classic" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",Music Box Classic
 https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mitology" tvg-logo="https://i.ibb.co/gbGpd0vy/image-2025-09-03-T184220-307.png" group-title="MUSIC🎶📺/TV CLASSIC", Mitology
@@ -3455,8 +3449,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1275
 http://mediaplatform.streamingmediahosting.com/p/14215/sp/1421500/playManifest/entryId/0_obd393sh/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Country Backroads TV" tvg-logo="https://i.ibb.co/tPq6LfmC/image-4.png" group-title="MUSIC🎶📺/TV COUNTRY",Country Backroads TV
 https://rpn.bozztv.com/gusa/gusa-ridgelinetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Vevo.Country.us2" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="MUSIC🎶📺/TV COUNTRY",Vevo Country
-https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 channel-id="5da0d75e84830900098a1ea0-us" tvg-id="5da0d75e84830900098a1ea0" tvg-chno="4700" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="MUSIC🎶📺/TV COUNTRY",Vevo Country
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/N65pQxzK/image-22.png" group-title="MUSIC🎶📺/TV COUNTRY", ACN American Country Network
 https://amg16902-amg16902c1-lightcast-worldwide-2931.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg16902-americancountrynetworkfast-acnota-lightcastworldwide/cb573d17796c628f84c83878d2f54782847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b458118d3aa5b20148967c40fa83439fd501e984d60d8340d720a411c8c1f4898142828cbc599506e6274759326da68e789ecc2fdbb0f1481ab2310b490b5bf2b18aa42156ee46474fb6f8cfaf778d70a4e875db2d5ddc019c5cca259867d84bcda146b4b9abcc180e76a5c7556228b5ebb498e27b30b26bb4a3ead33e7090e011371db907b1232f2bdefec40494c267f5dc42d5ee3e775fc19556d599bb879dfce700c97d9890a5c06d1a192e5356df5ffbcc358a79d828aecb4077084e15f5ce57c7de8b5d616419d5850880496fd3b28a87cc403ccf6e095f9a07b33e2879df3d6f2697479f9b387fc72f09f75d579d7114a213b1ee1ee5cdab8d96a6c4a4a56bd32d899c19c0f707a51f53336092c15c94c1d11faa8a471e3978b92b8c265e90056134e9fb8ddfd65a2e454b7fa698fa908544baf4a81d181a81723069625a77c441befdbc7191cf4d4ef2bb8c290d0b3c03736ea61e7d1002b7dbb880c8fccf56a06cd2c3f83415f63809b21e0a3c67dfba8c16a8761b3e326a8901604caa141a6cded598b5d7d0358eab6da46e364f23dda6430849736373069ea76dd575eb8752ecc89d129fb9cd5a6ead088e2d5cdedcd567fdada6c24c049fe3173a6f85dc2ac03c7c93439a7bc6823e88f066071a3d52418ddb07a811ea89e8b241f01ba4410771fd6bfbcdb3c1b14862a7c01a7d6373167d197579230bb4dfaf142373feb32ae31dabab62a04c503c28549ce5245b95e363138c3f1d31f0f62bea5c1af9bcac869bd525a53ea17c86b17fb17bfd8576/156/640x360_954628/index.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD3300011UT" tvg-name="XITE Classic Country" tvg-id="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="MUSIC🎶📺/TV COUNTRY",XITE Classic Country
@@ -3766,34 +3760,30 @@ https://cdn-de1.lulzy.eu/vrock_720/main_stream.m3u8
 https://cdn-de1.lulzy.eu/vclassic_720/main_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VANTAGE CLASSIC" tvg-logo="https://i.ibb.co/v4C8YpbK/image-14.png" group-title="MUSIC🎶📺/TV PACK",VANTAGE CLASSIC
 https://hls.lulzy.eu/vclassic_720/index.m3u8
+#EXTINF:-1 channel-id="5f32f26bcd8aea00071240e5-us" tvg-id="5f32f26bcd8aea00071240e5" tvg-chno="4640" tvg-name="Vevo '70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="MUSIC🎶📺/TV PACK",Vevo '70s
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+#EXTINF:-1 channel-id="5fd7b8bf927e090007685853-us" tvg-id="5fd7b8bf927e090007685853" tvg-chno="4650" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="MUSIC🎶📺/TV PACK",Vevo '80s
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+#EXTINF:-1 channel-id="5fd7bb1f86d94a000796e2c2-us" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-chno="4660" tvg-name="Vevo '90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="MUSIC🎶📺/TV PACK",Vevo '90s
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+#EXTINF:-1 channel-id="5fd7bca3e0a4ee0007a38e8c-us" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-chno="4670" tvg-name="Vevo 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="MUSIC🎶📺/TV PACK",Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 channel-id="61d4b38226b8a50007fe03a6-us" tvg-id="61d4b38226b8a50007fe03a6" tvg-chno="4740" tvg-name="Vevo Rock" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG_1748797615724.png" group-title="MUSIC🎶📺/TV PACK",Vevo Rock
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 #EXTINF:-1 tvg-id="Vevo.Pop.us2" tvg-name="Vevo" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="ES:.Vevo.Latino.be" tvg-name="Vevo Latino" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="DE:.Vevo.Pop.be" tvg-name="Vevo Pop" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo Pop
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.70s.us2" tvg-name="Vevo 70s" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo 70s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.80s.us2" tvg-name="Vevo 80s" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo 80s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.90s.us2" tvg-name="Vevo 90s" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo 90s
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.2K.us2" tvg-name="Vevo 2k" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo 2k
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="IT:.Vevo.`70s.&.`80s.be" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="MUSIC🎶📺/TV PACK",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 tvg-id="IT:.Vevo.`90s.&.`00s.be" tvg-name="Vevo 90s & 00s Italy" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo 90s & 00s Italy
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.Rock.us2" tvg-name="Vevo Retro Rock" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo Retro Rock
-https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-id="Vevo.Reggaeton.and.Trap.us2" tvg-name="Vevo Reggaeton & Trap" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo Reggaeton & Trap
 https://amagicloud-medialive-common016.s3.amazonaws.com/vevo_reggaeton-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.Country.us2" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="MUSIC🎶📺/TV PACK",Vevo Country
-https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.70s.us2" tvg-name="Vevo '70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="MUSIC🎶📺/TV PACK",Vevo '70s
-https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/ts-us-w2-n1/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.80s.us2" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="MUSIC🎶📺/TV PACK",Vevo '80s
-https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/ts-us-w2-n1/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.90s.us2" tvg-name="Vevo '90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="MUSIC🎶📺/TV PACK",Vevo '90s
-https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 channel-id="5da0d75e84830900098a1ea0-us" tvg-id="5da0d75e84830900098a1ea0" tvg-chno="4700" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="MUSIC🎶📺/TV PACK",Vevo Country
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 #EXTINF:-1 tvg-id="DE:.Vevo.Schlager.Pop.be" tvg-name="Vevo Schlager Pop" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo Schlager Pop
 https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ES:.Vevo.Pop.be" tvg-name="Vevo Pop Spain" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV PACK",Vevo Pop Spain
@@ -4219,12 +4209,8 @@ https://dash3.antik.sk/live/test_rebel/playlist.m3u8
 https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:-1 tvg-id="UK:.Metal.Rocks.be" tvg-name="Metal_Rocks" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal_Rocks_(720p)pluto (INT.)
 https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.Rock.us2" tvg-name="Vevo Retro Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="MUSIC🎶📺/TV🎸ROCK",Vevo Retro Rock(INT.)
-https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.Rock.us2" tvg-name="Vevo Rock" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20251013T235756SQUARE.png" group-title="MUSIC🎶📺/TV🎸ROCK",Vevo Rock (INT.)
-https://jmp2.uk/stvp-USBD3000145P
-#EXTINF:-1 tvg-id="Vevo.Rock.us2" tvg-name="Vevo Retro Rock" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="MUSIC🎶📺/TV🎸ROCK",Vevo Retro Rock (INT.)
-https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 channel-id="61d4b38226b8a50007fe03a6-us" tvg-id="61d4b38226b8a50007fe03a6" tvg-chno="4740" tvg-name="Vevo Rock" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG_1748797615724.png" group-title="MUSIC🎶📺/TV🎸ROCK",Vevo Rock
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 #EXTINF:-1 tvg-id="USBB2300004KV" tvg-name="XITE Rock x Metal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" channel-id="SamsungTVPlus-USBB2300004KV" tvg-chno="4353" group-title="MUSIC🎶📺/TV🎸ROCK",XITE Rock x Metal (INT.)
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV
 #EXTINF:-1 tvg-id="" tvg-name="Factoria TV HD" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Factoria TV HD (Latino)
