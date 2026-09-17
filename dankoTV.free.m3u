@@ -1853,8 +1853,85 @@ https://hls.showfer.com/live/5Ik8Z/Ads_Test/sonifi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://airy.tv/live-tv
 https://hls.showfer.com/live/qZVEq/CCN1/airy.m3u8
+#EXTINF:-1 tvg-id="B2BTV22.us" tvg-name="B2B TV 22" tvg-logo="https://i.imgur.com/gp31DQR.png" group-title="TV📺/EN🇺🇸",B2B TV 22
+http://192.107.121.209/live-5/live/live.m3u8
+#EXTINF:-1 tvg-id="BATVEducationalChannel.us" tvg-name="BATV Educational Channel" tvg-logo="https://i.imgur.com/eDoJqtg.png" group-title="TV📺/EN🇺🇸",BATV Educational Channel
+https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BATVPublicChannel.us" tvg-name="BATV Public Channel" tvg-logo="https://i.imgur.com/zKQMDsu.png" group-title="TV📺/EN🇺🇸",BATV Public Channel
+https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BATVTheBest.us" tvg-name="BATV The Best" tvg-logo="https://i.imgur.com/4MdSstx.png" group-title="TV📺/EN🇺🇸",BATV The Best
+https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BATVGovernmentChannel.us" tvg-name="BATV Government Channel" tvg-logo="https://i.imgur.com/4MdSstx.png" group-title="TV📺/EN🇺🇸",BATV Government Channel
+https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-name="Midpen Channel 28" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="TV📺/EN🇺🇸",Midpen Channel 28
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us" tvg-name="Midpen Channel 30" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="TV📺/EN🇺🇸",Midpen Channel 30
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us" tvg-name="Midpen Channel 75" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="TV📺/EN🇺🇸",Midpen Channel 75
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us" tvg-name="Midpen Channel 29" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="TV📺/EN🇺🇸",Midpen Channel 29
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us" tvg-name="Midpen Channel 26" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="TV📺/EN🇺🇸",Midpen Channel 26
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BCAMtvGovernmentAccess.us" tvg-name="BCAMtv Government Access" tvg-logo="https://i.imgur.com/jKHF5jN.png" group-title="TV📺/EN🇺🇸",BCAMtv Government Access
+https://vbfast-n.viebit.com/explive/1789899540_6b219667eeaa057c042f8d1cdef331314805a073/c7286922-f623-4dea-b1e0-38416d79c128/playlist.m3u8
+#EXTINF:-1 tvg-id="BCAMtvPublicAccess.us" tvg-name="BCAMtv Public Access" tvg-logo="https://i.imgur.com/2DCmOCO.png" group-title="TV📺/EN🇺🇸",BCAMtv Public Access
+https://vbfast-n.viebit.com/explive/1789899807_9a29a65284a481ca642a9b039115932599217b8a/a1374e4f-7eeb-426e-ac9a-02ed6b7e00fc/playlist.m3u8
+#EXTINF:-1 tvg-id="BCTV.us" tvg-name="BCTV" tvg-logo="https://i.imgur.com/bcGky5h.png" group-title="TV📺/EN🇺🇸",BCTV
+https://reflect-bloomfield-community.cablecast.tv/live-8/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="BeachTVPanamaCity.us" tvg-name="Beach TV Panama City" tvg-logo="https://i.imgur.com/HCQDvEe.png" group-title="TV📺/EN🇺🇸",Beach TV Panama City
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVMyrtleBeachTheGrandStrand.us" tvg-name="Beach TV Myrtle Beach & The Grand Strand" tvg-logo="https://i.imgur.com/aLYz7Bv.png" group-title="TV📺/EN🇺🇸",Beach TV Myrtle Beach & The Grand Strand
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVFloridaAlabama.us" tvg-name="Beach TV Florida & Alabama" tvg-logo="https://i.imgur.com/weypM9C.png" group-title="TV📺/EN🇺🇸",Beach TV Florida & Alabama
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="https://play-lh.googleusercontent.com/58IEgCECrId5YdLMZWL9ohHzyZCY1lNduLVxK9QF1P5EZuSIJScTWEMaw2efd88zMkc" group-title="TV📺/EN🇺🇸",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/master.m3u8
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" tvg-logo="https://i.imgur.com/NxbDjfI.png" group-title="TV📺/EN🇺🇸",QVC2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/master.m3u8
+#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://i.imgur.com/edswdOO.png" group-title="TV📺/EN🇺🇸",QVC3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8
+#EXTINF:-1 tvg-id="QVC365.us" tvg-name="QVC Home" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/QVC_365_logo.png" group-title="TV📺/EN🇺🇸",QVC Home
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/master.m3u8
+#EXTINF:-1 tvg-id="BeautyIQ.us" tvg-name="QVC Beauty" tvg-logo="https://i.imgur.com/ovtQk1a.png" group-title="TV📺/EN🇺🇸",QVC Beauty 
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc10us/master.m3u8
+#EXTINF:-1 tvg-id="QVCHoliday.us" tvg-name="QVC Holiday" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC Holiday
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
+#EXTINF:-1 tvg-id="QVCFashion.us" tvg-name="QVC Fashion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC Fashion
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Outlet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC Outlet
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc15us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Jewelry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC Jewelry
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc11us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC David Vena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC David Venable
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc14us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Top Finds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC Top Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc12us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC The Kim Gravel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC The Kim Gravel Channel
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Martha Stewart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC Martha Stewart
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc13us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" tvg-logo="https://i.imgur.com/6yzvIov.png" group-title="TV📺/EN🇺🇸",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN2" tvg-logo="https://i.imgur.com/V38CJYc.png" group-title="TV📺/EN🇺🇸",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HSN Top Finds" tvg-logo="https://i.imgur.com/6yzvIov.png" group-title="TV📺/EN🇺🇸",HSN Top Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn3us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HSN West" tvg-logo="https://i.imgur.com/6yzvIov.png" group-title="TV📺/EN🇺🇸",HSN West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+
+
 
 
 
@@ -5269,7 +5346,8 @@ https://live2.tensila.com/2-1-1.power-tv/hls/master.m3u8
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-id="RetroPlus.cl" tvg-name="Retro Plus" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Latino Spain - TV",Retro Plus  (Chile, Peru)
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino Spain - TV",
+#EXTINF:-1 tvg-id="QVCENEspanol.us" tvg-name="QVC EN Espanol" tvg-logo="https://play-lh.googleusercontent.com/58IEgCECrId5YdLMZWL9ohHzyZCY1lNduLVxK9QF1P5EZuSIJScTWEMaw2efd88zMkc" group-title="Latino Spain - TV",QVC EN Espanol
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc7us/master.m3u8
 
 
 
