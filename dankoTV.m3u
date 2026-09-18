@@ -4224,7 +4224,7 @@ http://mains.services/live/0228902066/tc674KJ3du/9e37623d-f55a-4794-8d31-b064716
 http://mains.services/live/0228902066/tc674KJ3du/64f9c049-a2b1-41bf-9cf6-706aaaa89221.m3u
 #EXTINF:-1 channel-id="5d3609cd6a6c78d7672f2a81-us" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-chno="4790" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" group-title="MUSIC🎶📺/TV PACK",MTV Flow Latino
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
-#EXTINF:-1 channel-id="5d14fdb8ca91eedee1633117-us" tvg-id="5d14fdb8ca91eedee1633117" tvg-chno="4770" tvg-name="MUSIC🎶📺/TV PACK' New" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="United States",MTV Spankin' New
+#EXTINF:-1 channel-id="5d14fdb8ca91eedee1633117-us" tvg-id="5d14fdb8ca91eedee1633117" tvg-chno="4770" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="MUSIC🎶📺/TV PACK",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="MTV.Polska.cz" tvg-name="MTV Polska" tvg-logo="https://i.ibb.co/CshndJ4N/image-11.png" group-title="MUSIC🎶📺/TV PACK", MTV Polska
 http://mains.services/live/0228902066/tc674KJ3du/f5a18dab-cedb-40c6-80b6-c30f07cedb1e.m3u
@@ -4778,7 +4778,7 @@ http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/34069
 http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33799
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI SPORT 2 SD" tvg-logo="https://i.postimg.cc/2SQPdGCS/DIGI-SPORT-2-SD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 2 SD
 http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33800
-#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI SPORT 2 4K" tvg-logo="https://i.postimg.cc/CLYthDj2/DIGI-SPORT-2-4-K.jpg" group-title="[ROM🇷🇴/TV TEST",DIGI SPORT 2 4K
+#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI SPORT 2 4K" tvg-logo="https://i.postimg.cc/CLYthDj2/DIGI-SPORT-2-4-K.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 2 4K
 http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/116132
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI SPORT 2 FIBRA" tvg-logo="https://i.postimg.cc/W3qRZv3Y/DIGI-SPORT-2-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 2 FIBRA
 http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277314
