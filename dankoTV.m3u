@@ -13146,6 +13146,29 @@ http://212.70.131.37:8000/play/a06e
 http://212.70.131.37:8000/play/a06p
 #EXTINF:-1 tvg-id="" tvg-name="Diema sport 3" tvg-logo="" group-title="SPORT/TEST",Diema sport 3
 http://212.70.131.37:8000/play/a06o
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="3317" tvg-logo="http://epg.one/img2/3317.png" tvg-rec="3",Sport 1 UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6313/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="3318" tvg-logo="http://epg.one/img2/3318.png" tvg-rec="3",Sport 2 UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6314/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="2370" tvg-logo="http://epg.one/img2/2370.png" tvg-rec="3",Setanta Sports FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/272/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="2370" tvg-logo="http://epg.one/img2/2370.png" tvg-rec="0",Setanta Sports HD UA orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15183/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="3",Setanta Sports+ FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/5068/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="0",Setanta Sports+ HD UA orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15184/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="3",Матч! Премьер FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2414/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="2051" tvg-logo="http://epg.one/img2/2051.png" tvg-rec="3",Матч ТВ FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2413/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="2044" tvg-logo="http://epg.one/img2/2044.png" tvg-rec="3",Матч! Футбол 1 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2407/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="1042" tvg-logo="http://epg.one/img2/1042.png" tvg-rec="3",Матч! Футбол 2 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2420/index.m3u8
+#EXTINF:0 group-title="SPORT/TEST" tvg-id="2005" tvg-logo="http://epg.one/img2/2005.png" tvg-rec="3",Матч! Футбол 3 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2408/index.m3u8
+
 
 
 
@@ -13418,6 +13441,89 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-mst3k-vizio/playlist.m3u8?di
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-circle-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI5MTYyMzQxOH0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1703038520/1/267/150/0.jpg" group-title="TEST",Western Bound
 https://api-ott-imagicomm-ime.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjQwMDkyMDIxMzR9
+
+#EXTINF:0 group-title="TEST" tvg-id="3307" tvg-logo="http://epg.one/img2/3307.png" tvg-rec="3",ICTV HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6302/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="7843" tvg-logo="http://epg.one/img2/7843.png" tvg-rec="0",ICTV 2 HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15235/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2104" tvg-logo="http://epg.one/img2/2104.png" tvg-rec="0",Новий Канал HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15128/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2106" tvg-logo="http://epg.one/img2/2106.png" tvg-rec="3",Інтер HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/1047/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="3309" tvg-logo="http://epg.one/img2/3309.png" tvg-rec="0",СТБ HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15122/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2171" tvg-logo="http://epg.one/img2/2171.png" tvg-rec="3",ТЕТ HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6377/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2194" tvg-logo="http://epg.one/img2/2194.png" tvg-rec="3",1+1 Марафон UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6317/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="8897" tvg-logo="http://epg.one/img2/8897.png" tvg-rec="3",1+1 International UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/994/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="8897" tvg-logo="http://epg.one/img2/8897.png" tvg-rec="3",1+1 Україна FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/987/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2195" tvg-logo="http://epg.one/img2/2195.png" tvg-rec="3",2+2 HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6378/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2212" tvg-logo="http://epg.one/img2/2212.png" tvg-rec="3",Прямий HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/1015/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2147" tvg-logo="http://epg.one/img2/2147.png" tvg-rec="3",Перший HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6376/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="4103" tvg-logo="http://epg.one/img2/4103.png" tvg-rec="3",Трофей UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/9076/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="3351" tvg-logo="http://epg.one/img2/3351.png" tvg-rec="3",Оце HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6375/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2100" tvg-logo="http://epg.one/img2/2100.png" tvg-rec="0",К1 HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15125/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2099" tvg-logo="http://epg.one/img2/2099.png" tvg-rec="0",К2 HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15126/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2105" tvg-logo="http://epg.one/img2/2105.png" tvg-rec="0",НТН HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/16017/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2145" tvg-logo="http://epg.one/img2/2145.png" tvg-rec="0",Star Cinema FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15262/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2144" tvg-logo="http://epg.one/img2/2138.png" tvg-rec="3",Bolt FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/991/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2181" tvg-logo="http://epg.one/img2/2181.png" tvg-rec="0",FilmBox+ One UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15266/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2182" tvg-logo="http://epg.one/img2/2182.png" tvg-rec="0",FilmBox+ Festival orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15265/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2102" tvg-logo="http://epg.one/img2/5611.png" tvg-rec="0",Enter-фільм HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15273/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="6230" tvg-logo="http://epg.one/img2/6230.png" tvg-rec="0",Liberty Кино UKR 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/18045/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2197" tvg-logo="http://epg.one/img2/2197.png" tvg-rec="3",Бігуді UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6330/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2950" tvg-logo="http://epg.one/img2/2950.png" tvg-rec="3",Рибалка FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/1058/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="4585" tvg-logo="http://epg.one/img2/4585.png" tvg-rec="0",Перший Автомобільний HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/7228/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2210" tvg-logo="http://epg.one/img2/2210.png" tvg-rec="3",Сонце UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/1013/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2098" tvg-logo="http://epg.one/img2/2098.png" tvg-rec="0",Мега HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15124/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2098" tvg-logo="http://epg.one/img2/2098.png" tvg-rec="3",Мега UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/929/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2201" tvg-logo="http://epg.one/img2/2201.png" tvg-rec="0",Zoom HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15130/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2084" tvg-logo="http://epg.one/img2/2084.png" tvg-rec="3",24 Канал FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/951/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2217" tvg-logo="http://epg.one/img2/2217.png" tvg-rec="3",Уніaн Серіал HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/1023/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2148" tvg-logo="http://epg.one/img2/2148.png" tvg-rec="3",Суспільне Крим HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/1017/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2202" tvg-logo="http://epg.one/img2/2202.png" tvg-rec="3",ПлюсПлюс HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6379/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2107" tvg-logo="http://epg.one/img2/2107.png" tvg-rec="0",Пiксель TV HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15127/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="3333" tvg-logo="http://epg.one/img2/3333.png" tvg-rec="3",NIKI Kids HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6332/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="3334" tvg-logo="http://epg.one/img2/3334.png" tvg-rec="3",NIKI Junior HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6333/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2087" tvg-logo="http://epg.one/img2/2087.png" tvg-rec="3",Надiя ТВ UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/956/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2379" tvg-logo="http://epg.one/img2/2379.png" tvg-rec="3",4ever Music HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/970/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="2094" tvg-logo="http://epg.one/img2/2094.png" tvg-rec="3",EU Music HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/925/index.m3u8
+#EXTINF:0 group-title="TEST" tvg-id="3335" tvg-logo="http://epg.one/img2/3335.png" tvg-rec="3",М1 HD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6334/index.m3u8
 
 
 
