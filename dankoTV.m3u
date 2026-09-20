@@ -5397,6 +5397,125 @@ http://45.11.139.43:8555/orujie/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Кинохит" tvg-logo="" group-title="RU🇷🇺/TV Test", Кинохит
+http://46.32.176.50/kinoxit/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кинокомедия" tvg-logo="" group-title="RU🇷🇺/TV Test", Кинокомедия
+http://46.32.176.50/kinokomedia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Мужское кино HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Мужское кино HD
+http://46.32.176.50/MujskoeKinoHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Hollywood HD
+http://46.32.176.50/HollywoodHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju Megahit HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Viju Megahit HD
+http://46.32.176.50/VIPMegahitHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju Premiere HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Viju Premiere HD
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju Comedy HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Viju Comedy HD
+http://46.32.176.50/VIPComedyHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju Serial HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Viju Serial HD
+http://46.32.176.50/ViasatSportHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Индийское Кино" tvg-logo="" group-title="RU🇷🇺/TV Test", Индийское Кино
+http://46.32.176.50/indiskoekino/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киносвидание" tvg-logo="" group-title="RU🇷🇺/TV Test", Киносвидание
+http://46.32.176.50/kinosvidanie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киносерия HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Киносерия HD
+http://46.32.176.50/kinoseria/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киномикс HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Киномикс HD
+http://46.32.176.50/kinomiks/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киносемья HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Киносемья HD
+http://46.32.176.50/kinosemya/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Еврокино" tvg-logo="" group-title="RU🇷🇺/TV Test", Еврокино
+http://46.32.176.50/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Дом кино" tvg-logo="" group-title="RU🇷🇺/TV Test", Дом кино
+http://46.32.176.50/domkino/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Дом Кино Премиум HD
+http://46.32.176.50/DomKinoPremiumHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi" tvg-logo="" group-title="RU🇷🇺/TV Test", .Sci-Fi
+http://46.32.176.50/sonyscifi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plan B" tvg-logo="" group-title="RU🇷🇺/TV Test", Plan B
+http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Русский Детектив" tvg-logo="" group-title="RU🇷🇺/TV Test", Русский Детектив
+http://46.32.176.50/russkiydetektiv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Русский Роман" tvg-logo="" group-title="RU🇷🇺/TV Test", Русский Роман
+http://46.32.176.50/russkiyroman/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Любимое Кино" tvg-logo="" group-title="RU🇷🇺/TV Test", Любимое Кино
+http://46.32.176.50/lubimoekino/index.m3u8
+EXTINF:-1 tvg-id="" tvg-name="ТВ3" tvg-logo="" group-title="RU🇷🇺/TV Test", ТВ3
+http://46.32.176.50/tv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="RU🇷🇺/TV Test",NAT GEO WILD
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="RU🇷🇺/TV Test",National Geographic
+http://46.32.176.50/nationalgeographic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Animal Planet HD
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Охота и Рыбалка" tvg-logo="" group-title="RU🇷🇺/TV Test", Охота и Рыбалка
+http://46.32.176.50/oxotoiribalka/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Дикий" tvg-logo="" group-title="RU🇷🇺/TV Test", Дикий
+http://46.32.176.50/dikiy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Моя планета" tvg-logo="" group-title="RU🇷🇺/TV Test", Моя планета
+http://46.32.176.50/moyaplaneta/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Planet" tvg-logo="" group-title="RU🇷🇺/TV Test", Big Planet 
+http://46.32.176.50/bigplanet/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Домашние Животные" tvg-logo="" group-title="RU🇷🇺/TV Test", Домашние Животные
+http://46.32.176.50/domashniejivotnie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Живая Планета" tvg-logo="" group-title="RU🇷🇺/TV Test", Живая Планета
+http://46.32.176.50/jivayaplaneta/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Авто24" tvg-logo="" group-title="RU🇷🇺/TV Test", Авто24
+http://46.32.176.50/avto24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Авто Плюс" tvg-logo="" group-title="RU🇷🇺/TV Test", Авто Плюс
+http://46.32.176.50/avtoplyus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju Nature" tvg-logo="" group-title="RU🇷🇺/TV Test",Viju Nature
+http://46.32.176.50/viasatexplorer/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju History" tvg-logo="" group-title="RU🇷🇺/TV Test",Viju History
+http://46.32.176.50/viasathistory/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju Explore" tvg-logo="" group-title="RU🇷🇺/TV Test",Viju Explore
+http://46.32.176.50/viasatexplorer/index.m3u8
+#EXTINF:-1 tvg-id="Vremya.cz" tvg-name="Время" tvg-logo="" group-title="RU🇷🇺/TV Test", Время
+http://46.32.176.50/Vremya/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="История" tvg-logo="" group-title="RU🇷🇺/TV Test", История
+http://46.32.176.50/istoriya/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Звезда" tvg-logo="" group-title="RU🇷🇺/TV Test", Звезда
+http://46.32.176.50/zvezda/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТВЦ" tvg-logo="" group-title="RU🇷🇺/TV Test", ТВЦ
+http://46.32.176.50/tvc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Домашний" tvg-logo="" group-title="RU🇷🇺/TV Test", Домашний
+http://46.32.176.50/domashniy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ностальгия" tvg-logo="" group-title="RU🇷🇺/TV Test", Ностальгия
+http://46.32.176.50/nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Детский Мир HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Детский Мир HD
+http://46.32.176.50/detskiymir/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Мульт" tvg-logo="" group-title="RU🇷🇺/TV Test", Мульт
+http://46.32.176.50/mult/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Мама" tvg-logo="" group-title="RU🇷🇺/TV Test", Мама
+http://46.32.176.50/mama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Живи Активно HD" tvg-logo="" group-title="RU🇷🇺/TV Test",Живи
+http://46.32.176.50/jivi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кухня ТВ" tvg-logo="" group-title="RU🇷🇺/TV Test",Кухня ТВ
+http://46.32.176.50/kuxnyatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Матч HD
+http://46.32.176.50/MatchTVHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Игра" tvg-logo="" group-title="RU🇷🇺/TV Test", Матч! Игра
+http://46.32.176.50/matchiqra/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Арена HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Матч! Арена HD
+http://46.32.176.50/MatchArenaHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Боец" tvg-logo="" group-title="RU🇷🇺/TV Test", Матч! Боец
+http://46.32.176.50/boets/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bridge TV" tvg-logo="" group-title="RU🇷🇺/TV Test", Bridge TV
+http://46.32.176.50/bridgetv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="" group-title="RU🇷🇺/TV Test", Bridge Classic
+http://46.32.176.50/rusong/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Deluxe" tvg-logo="" group-title="RU🇷🇺/TV Test", Bridge Deluxe
+http://46.32.176.50/BridgeTVHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC" tvg-logo="" group-title="RU🇷🇺/TV Test", CBC
+http://46.32.176.50/cbc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТНТ 4" tvg-logo="" group-title="RU🇷🇺/TV Test", ТНТ 4
+http://46.32.176.50/tnt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Рен ТВ" tvg-logo="" group-title="RU🇷🇺/TV Test", Рен ТВ
+http://46.32.176.50/rentv/index.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Шокирующие гипотезы",Последнее лето Европы
