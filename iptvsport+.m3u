@@ -12,7 +12,7 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="РУСИЯ",Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="РОСИЯ", Матч HD
+#EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="РУСИЯ", Матч HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=iORm8kodbyqVhBILvTpvCA&e=2085483124&scheme=https
 
