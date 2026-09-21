@@ -15,6 +15,12 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="РУСИЯ", Матч HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=iORm8kodbyqVhBILvTpvCA&e=2085483124&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 1" tvg-logo="" group-title="РУСИЯ",Матч! Футбол 1
+http://ott.watch/stream/83K27DP6PU/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 2" tvg-logo="" group-title="РУСИЯ",Матч! Футбол 2
+http://ott.watch/stream/83K27DP6PU/142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 3" tvg-logo="" group-title="РУСИЯ",Матч! Футбол 3
+http://ott.watch/stream/83K27DP6PU/185.m3u8
 
 
 
@@ -42,39 +48,81 @@ https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
 http://62.176.112.19:8008/play/a0bd
 #EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport 3 HD
 http://62.176.112.19:8008/play/a0cj
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport 3 HD
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/31917/index.m3u8
 #EXTINF:-1 tvg-id="RING.BG.bg" tvg-name="RING HD" tvg-logo="" group-title="БЪЛГАРИЯ",RING HD
 http://62.176.112.19:8008/play/a0bo
+#EXTINF:-1 tvg-id="NovaSport.bg" tvg-name="NOVA SPORT" tvg-logo="" group-title="БЪЛГАРИЯ",NOVA SPORT
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/32016/index.m3u8
 
 
 
 
 
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-name="Arena Premium 1 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Premium 1 HD
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/31599/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-name="Arena Premium 2 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Premium 2 HD
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/31600/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-name="Arena Premium 3 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Premium 3 HD
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/31601/index.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 1 HD
 https://shift03.isp.bg/Arena_Sport_1/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 1 HD
+http://85.187.232.3:5050/udp/239.100.101.29:8888
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 2 HD
 https://shift03.isp.bg/Arena_Sport_2/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 2 HD
+http://85.187.232.3:5050/udp/239.100.101.30:8888
 #EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-name="Arena Sport 3 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 3 HD
 https://shift03.isp.bg/Arena_Sport_3/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-name="Arena Sport 3 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 3 HD
+http://85.187.232.3:5050/udp/239.100.101.31:8888
 #EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 4 HD
 https://shift03.isp.bg/Arena_Sport_4/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 4 HD
+http://85.187.232.3:5050/udp/239.100.101.32:8888
 #EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 5 HD
 https://shift03.isp.bg/Arena_Sport_5/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 5 HD
+http://85.187.232.3:5050/udp/239.100.101.33:8888
+#EXTINF:-1 tvg-id="Arena.Sport.6.HD.(RS).rs" tvg-name="Arena Sport 6 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 6 HD
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/31607/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Sport.7.HD.(RS).rs" tvg-name="Arena Sport 7 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 7 HD
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/31608/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Sport.8.HD.(RS).rs" tvg-name="Arena Sport 8 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 8 HD
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/31609/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Sport.9.HD.(RS).rs" tvg-name="Arena Sport 9 HD" tvg-logo="" group-title="СЪРБИЯ",Arena Sport 9 HD
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/31610/index.m3u8
+
+
 
 
 
 
 #EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4563" tvg-logo="http://epg.one/img2/4563.png" tvg-rec="0",Arena Sport 1 HD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7329/index.m3u8
+#EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4563" tvg-logo="http://epg.one/img2/4563.png" tvg-rec="0",Arena Sport 1 HD HR
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/7329/index.m3u8
 #EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4564" tvg-logo="http://epg.one/img2/4564.png" tvg-rec="0",Arena Sport 2 HD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7330/index.m3u8
+#EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4564" tvg-logo="http://epg.one/img2/4564.png" tvg-rec="0",Arena Sport 2 HD HR
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/7330/index.m3u8
 #EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4565" tvg-logo="http://epg.one/img2/4565.png" tvg-rec="0",Arena Sport 3 HD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7331/index.m3u8
+#EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4565" tvg-logo="http://epg.one/img2/4565.png" tvg-rec="0",Arena Sport 3 HD HR
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/7331/index.m3u8
 #EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4566" tvg-logo="http://epg.one/img2/4566.png" tvg-rec="0",Arena Sport 4 HD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7332/index.m3u8
+#EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4566" tvg-logo="http://epg.one/img2/4566.png" tvg-rec="0",Arena Sport 4 HD HR
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/7332/index.m3u8
 #EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4567" tvg-logo="http://epg.one/img2/4567.png" tvg-rec="0",Arena Sport 5 HD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7333/index.m3u8
+#EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4567" tvg-logo="http://epg.one/img2/4567.png" tvg-rec="0",Arena Sport 5 HD HR
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/7333/index.m3u8
 #EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4568" tvg-logo="http://epg.one/img2/4568.png" tvg-rec="0",Arena Sport 6 HD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7334/index.m3u8
+#EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4568" tvg-logo="http://epg.one/img2/4568.png" tvg-rec="0",Arena Sport 6 HD HR
+http://b7d46914.ottolok.net/iptv/EHF55SW2TTSDUN/7334/index.m3u8
 #EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4536" tvg-logo="http://epg.one/img2/4536.png" tvg-rec="0",Sport Klub 1 HD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/7269/index.m3u8
 #EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4537" tvg-logo="http://epg.one/img2/4537.png" tvg-rec="0",Sport Klub 2 HD HR
@@ -91,6 +139,15 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/7274/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/7275/index.m3u8
 #EXTINF:0 group-title="ХЪРВАТИЯ" tvg-id="4543" tvg-logo="http://epg.one/img2/4543.png" tvg-rec="0",Sport Klub 8 HD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/7276/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="МАКЕДОНИЯ",ARENA M1 PREMIUM
+http://85.187.232.3:5050/udp/239.100.101.26:8888
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="МАКЕДОНИЯ",ARENA M2 PREMIUM
+http://85.187.232.3:5050/udp/239.100.101.27:8888
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="МАКЕДОНИЯ",ARENA M3 PREMIUM
+http://85.187.232.3:5050/udp/239.100.101.28:8888
 
 
 
@@ -122,6 +179,30 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2538/inde
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="УНГАРИЯ",M4 SPORT
 http://88.212.15.19/live/uatlmvixrr/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ГЕРМАНИЯ",SPORT DIGITAL FSBL
+http://85.187.232.3:5050/udp/239.100.101.24:8888
+
+
+
+#EXTINF:0 group-title="Израел" tvg-id="2684" tvg-logo="http://epg.one/img2/2684.png" tvg-rec="0",Sport 1 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12249/index.m3u8
+#EXTINF:0 group-title="Израел" tvg-id="2683" tvg-logo="http://epg.one/img2/2683.png" tvg-rec="0",Sport 2 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12250/index.m3u8
+#EXTINF:0 group-title="Израел" tvg-id="2719" tvg-logo="http://epg.one/img2/2719.png" tvg-rec="0",Sport 3 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8
+#EXTINF:0 group-title="Израел" tvg-id="2720" tvg-logo="http://epg.one/img2/2720.png" tvg-rec="3",Sport 4 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
+#EXTINF:0 group-title="Израел" tvg-id="2682" tvg-logo="http://epg.one/img2/2682.png" tvg-rec="3",5Sport HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2391/index.m3u8
+#EXTINF:0 group-title="Израел" tvg-id="3994" tvg-logo="http://epg.one/img2/3994.png" tvg-rec="0",5Sport Stars HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12232/index.m3u8
+#EXTINF:0 group-title="Израел" tvg-id="3992" tvg-logo="http://epg.one/img2/3992.png" tvg-rec="0",5Sport Gold HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12254/index.m3u8
+#EXTINF:0 group-title="Израел" tvg-id="3993" tvg-logo="http://epg.one/img2/3993.png" tvg-rec="0",5Sport Live HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12255/index.m3u8
 
 
 

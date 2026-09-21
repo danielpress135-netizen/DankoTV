@@ -2077,6 +2077,26 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn3us/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HSN West" tvg-logo="https://i.imgur.com/6yzvIov.png" group-title="TV📺/EN🇺🇸",HSN West
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+#EXTINF:-1 tvg-id="BECTV.us" tvg-name="BEC-TV" tvg-logo="https://i.imgur.com/0AfVksn.png" group-title="TV📺/EN🇺🇸",BEC-TV
+https://reflect-bcit.cablecast.tv/live-49/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",BTV (Bloomington TV)
+https://reflect-bcit.cablecast.tv/live-51/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-id="BEKNews.us" tvg-name="BEK News" tvg-logo="https://i.imgur.com/m80uxdz.png" group-title="TV📺/EN🇺🇸",BEK News
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BensenvilleTV.us" tvg-name="BensenvilleTV" tvg-logo="https://i.imgur.com/X7p0s2J.png" group-title="TV📺/EN🇺🇸",BensenvilleTV
+https://betv-bensenville.cablecast.tv/live-1/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="BerksCommunityTV2.us" tvg-name="Berks Community TV 2" tvg-logo="https://i.imgur.com/vQ6a4VL.png" group-title="TV📺/EN🇺🇸",Berks Community TV 2
+https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BerksCommunityTV1.us" tvg-name="Berks Community TV 1" tvg-logo="https://i.imgur.com/vQ6a4VL.png" group-title="TV📺/EN🇺🇸",Berks Community TV 1
+https://livestream.telvue.com/berkscmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BetterLifeTV.us" tvg-name="Better Life TV" tvg-logo="https://betterlife.tulix.tv/img/channel/betterlife-web11.png" group-title="TV📺/EN🇺🇸",Better Life TV
+https://rpn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
+#EXTINF:-1 tvg-id="BetterHealthTV.us" tvg-name="Better Health TV" tvg-logo="https://i.imgur.com/qnwJiji.png" group-title="TV📺/EN🇺🇸",Better Health TV
+https://rpn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-name="Better Life Nature Channel" tvg-logo="https://i.imgur.com/D8Vuw6I.png" group-title="TV📺/EN🇺🇸",Better Life Nature Channel
+https://rpn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-id="BibleExplorations.us" tvg-name="Bible Explorations" tvg-logo="https://i.imgur.com/lP6VSNx.png" group-title="TV📺/EN🇺🇸",Bible Explorations
+https://tgn2.bozztv.com/be-tv/output71/output71.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
@@ -2086,6 +2106,23 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+
+
 
 
 
@@ -3271,26 +3308,16 @@ https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/chunklist_w17953555
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Alex Jones live dvr
-https://rumble.com/live-hls-dvr/Dzext7xKXJg/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",RT News
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",RT News 
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",RT DE dvr
-https://rumble.com/live-hls-dvr/f5tjBnAdbc8/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",RT DE  dvr
-https://hugh.cdn.rumble.cloud/live/k1ub38pe/slot-56/obt3-hm0v_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",RT Documentary
 https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-53/vyrq-gtaf_1080p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",RT Documentary
 https://rumble.com/live-hls/y5ScjO3wzl4/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",RT Documentary
 https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-53/vyrq-gtaf_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",End Times TV 
-https://rumble.com/live-hls/WqL_ln6IdTU/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",End Times TV 
-https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-45/6fxn-2rl0_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Associated Christian Television 
 https://rumble.com/live-hls/gaXw5JJqPEQ/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Associated Christian Television 
@@ -3299,26 +3326,12 @@ https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-155/zm0o-ysao_720p/chunklist.m3
 https://1a-1791.com/live/qt9k24wa/slot-68/vxdb-dfxw_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",NEWSMAX2  dvr
 https://1a-1791.com/live/qt9k24wa/slot-68/vxdb-dfxw_720p/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Prophetic Flow Television 
-https://1a-1791.com/live/hd37fm8g/slot-138/8j4n-m0bc_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Prophetic Flow Television
-https://1a-1791.com/live/hd37fm8g/slot-138/8j4n-m0bc/chunklist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Supreme Master Television  dvr
-https://1a-1791.com/live/r31jzt5k/slot-125/xp6g-uz04_720p/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Supreme Master Television  dvr
-https://1a-1791.com/live/r31jzt5k/slot-125/xp6g-uz04_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Conspiracy TV 
 https://rumble.com/live-hls/6XRc3V_jrjQ/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Conspiracy TV 
 https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-127/vul8-is3u_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",The World Live - Original Version - earthTV®
 https://rumble.com/live-hls-dvr/cz_CppctN68/playlist.m3u8?level=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",BiohackingVille TV
-https://rumble.com/live-hls-dvr/T3GQJ5eKW3E/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Prophetic Flow Television
-https://rumble.com/live-hls/TZnvDpWDdsc/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",UN24TV
-https://rumble.com/live-hls/WmOvj-PifXs/playlist.m3u8?
 
 
 
@@ -5530,6 +5543,9 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="QVCENEspanol.us" tvg-name="QVC EN Espanol" tvg-logo="https://play-lh.googleusercontent.com/58IEgCECrId5YdLMZWL9ohHzyZCY1lNduLVxK9QF1P5EZuSIJScTWEMaw2efd88zMkc" group-title="Latino Spain - TV",QVC EN Espanol
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc7us/master.m3u8
+#EXTINF:-1 tvg-id="VidaMejorTV.us" tvg-name="Vida Mejor TV" tvg-logo="https://i.imgur.com/1hJ16i0.png" group-title="Latino Spain - TV",Vida Mejor TV
+https://rpn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8
+
 
 
 
