@@ -599,6 +599,14 @@ https://www.youtube.com/watch?v=bKV_-InhY88
 https://www.youtube.com/watch?v=-J_-Zw6a5ds
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Di Di STATION - NHỮNG BÀI NHẠC TÌNH YÊU CỰC ĐÁNG YÊU
 https://www.youtube.com/watch?v=cgAxFjL9nUs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",BẠCH CÔNG KHANH STATION - Lắng nghe những giai điệu chạm đến trái tim người nghe của chàng lãng tử
+https://www.youtube.com/watch?v=oaQ3K1L1Jjs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",DƯƠNG NGHI ĐÌNH STATION - Các Ca Khúc Nhạc Trữ Tình Được Yêu Thích Nhất 2026
+https://www.youtube.com/watch?v=GWUyyV-VEps
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",LÂM HÙNG - TỔNG HỢP NHẠC REMIX LÂM HÙNG HAY NHẤT MÀ BẠN KHÔNG NÊN BỎ QUA
+https://www.youtube.com/watch?v=ynFb8sHI48M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",SAKA TRƯƠNG TUYỀN - NHỮNG CA KHÚC HAY NHẤT CỦA SAKA TRƯƠNG TUYỀN MÀ BẠN KHÔNG NÊN BỎ QUA 
+https://www.youtube.com/watch?v=cHW95eczGG0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",avex STATION
 https://www.youtube.com/watch?v=vMJVLRFnidY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",avex - a-nation 2026 出演アーティストステーション
@@ -667,7 +675,8 @@ https://www.youtube.com/watch?v=OItUj6DNW_Q
 https://www.youtube.com/watch?v=iXSbnL56SWs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",MUZIK247 - Malayalam Long Drive Mix - The Station
 https://www.youtube.com/watch?v=SZSHHSfuakU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Hindley Street Country Club classics - HSCC - The Station
+https://www.youtube.com/watch?v=s7lzY9cxA1k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",
@@ -2318,6 +2327,8 @@ http://109.72.57.12/hls/tvcityub.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NISH TV" tvg-logo="" group-title="Ex-Yu/TV",NISH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://178.253.201.11:8081/live/tvnis/playlist.m3u8
+#EXTINF:-1 tvg-id="Diadora.TV.hr" tvg-name="Diadora TV" tvg-logo="" group-title="Ex-Yu/TV",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 8 mak" tvg-logo="" group-title="Ex-Yu/TV",Kanal 8 mak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://tv.kanal8.mk/live/kanal8.m3u8
@@ -2346,6 +2357,14 @@ https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 tvg-id="TVVrnjackaBanja.rs" tvg-name="TV Vrnjacka Banja" tvg-logo="" group-title="Ex-Yu/TV",TV Vrnjačka Banja
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.rtvvrnjackabanja.com/rvb/index.m3u8
+#EXTINF:-1 tvg-id="N1.HD.(RS).rs" tvg-name="N1 Srbija" tvg-logo="" group-title="Ex-Yu/TV",N1 Srbija
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-id="N1.HD.(BH)/(BIH).rs" tvg-name="N1 Bosna" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="Ex-Yu/TV",N1 Bosna
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 tvg-id="N1.HD.(BH)/(BIH).rs" tvg-name="N1 Bosna" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="Ex-Yu/TV",N1 Bosna
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+
+
 
 
 
@@ -2436,6 +2455,8 @@ http://eu.live.skyfolk.mk/live.m3u8
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308_output_0.m3u8
 #EXTINF:-1 tvg-id="Hugo2.mk" tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" group-title="Ex-Yu/TV",Хуго 2
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
+#EXTINF:-1 tvg-id="zonam1.mk" tvg-name="ЗОНА М1 ТВ" tvg-logo="https://i.imgur.com/yTR7A0d.png" group-title="Ex-Yu/TV",ЗОНА М1 ТВ
+https://zonam1.ddns.net/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="IDJTV.HD.rs" tvg-name="IDJ TV" tvg-logo="" group-title="Ex-Yu/TV",IDJ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8
@@ -2472,6 +2493,7 @@ https://mcv2.streams.gr/stream/balkanradiosalzburgtv/index.m3u8
 #EXTINF:-1 tvg-id="BravoTV.hr" tvg-name="Bravo! TV" tvg-logo="https://i.imgur.com/FN2J9hv.png" group-title="Ex-Yu/TV",Bravo! TV  HR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/2.m3u8
+
 
 
 
@@ -2777,7 +2799,13 @@ https://live.ro24tv.ro/hls/stream.m3u8?cachebust=f9dbfe
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-name="Radio Fx Net TV" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Romania-TV",radio fxnet tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8          
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8  
+#EXTINF:-1 tvg-id="RealitateaTV.md" tvg-name="Realitatea TV" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="Romania-TV",Realitatea TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.md" tvg-name="Realitatea TV" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="Romania-TV",Realitatea TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://6065d3147e895.streamlock.net:4444/real/video5_720p/playlist.m3u8        
 #EXTINF:-1 tvg-id="TV1.Satu.Mare.ro" tvg-name="TV1 SATU MARE" tvg-logo="" group-title="Romania-TV",tv1 satu mare
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s2.netstreaming.eu/tv1.m3u8
@@ -3232,6 +3260,13 @@ https://cdnsk003.panaccess.com/local/VIO_TV/index.m3u8
 #EXTINF:-1 tvg-id="VIOTV.sk" tvg-name="VIO TV" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="czesh-sk-tv",vio tv  sk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdnsk003.panaccess.com/local/VIO_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="czesh-sk-tv",tv8  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="czesh-sk-tv",tv8  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/chunklist_w1795355521.m3u8
+
 
 
 

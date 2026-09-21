@@ -661,6 +661,8 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sporty.TV.cz" tvg-name="Sporty TV" tvg-logo="" group-title="CZECH🇨🇿/TV",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport 2" tvg-logo="" group-title="CZECH🇨🇿/TV",Sport 2(test)
+http://185.98.211.8:81/sport2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-name="Elektrika TV" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="CZECH🇨🇿/TV",Elektrika TV (1080p)
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JC1.cz" tvg-name="JČ1" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="CZECH🇨🇿/TV",JČ1 (1080p)
@@ -715,6 +717,12 @@ http://88.212.15.19/live/travel_xp/index.m3u8
 http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-id="A11.cz" tvg-name="A11 TV" tvg-logo="" group-title="CZECH🇨🇿/TV",A11 TV
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="CZECH🇨🇿/TV",tv8  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="CZECH🇨🇿/TV",tv8  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/chunklist_w1795355521.m3u8
 #EXTINF:-1 tvg-id="BBC.Eartch.cz" tvg-name="bbc eartch" tvg-logo="" group-title="CZECH🇨🇿/TV",bbc eartch (test)
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat.Nature.cz" tvg-name="viasat nature" tvg-logo="" group-title="CZECH🇨🇿/TV",viasat nature (test)
@@ -1764,6 +1772,16 @@ http://109.106.239.1:8001/play/a09j
 https://zelina.tv/hls/zelina_tv.m3u8
 #EXTINF:-1 tvg-id="Super.TV.Tuzla.(RS).rs" tvg-name="SuperTV Tuzla" tvg-logo="" group-title="Ex-Yu/TV",SuperTV Tuzla
 https://live.probaj.net/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-id="N1.HD.(BH)/(BIH).rs" tvg-name="N1 Bosna" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="Ex-Yu/TV",N1 Bosna
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 tvg-id="N1.HD.(BH)/(BIH).rs" tvg-name="N1 Bosna" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="Ex-Yu/TV",N1 Bosna
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-id="N1.HD.(RS).rs" tvg-name="N1 Srbija" tvg-logo="" group-title="Ex-Yu/TV",N1 Srbija
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-id="Diadora.TV.hr" tvg-name="Diadora TV" tvg-logo="" group-title="Ex-Yu/TV",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+
+
 
 
 
@@ -4766,286 +4784,6 @@ https://tv.streambox.ro/hls/itv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI SPORT 1 UHD" tvg-logo="https://i.postimg.cc/zfGCfDBT/DIGI-SPORT-1-UHD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 1 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33796
-#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI SPORT 1 HD" tvg-logo="https://i.postimg.cc/vmTnsPqD/DIGI-SPORT-1-HD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 1 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33797
-#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI SPORT 1 SD" tvg-logo="https://i.postimg.cc/6py66DK9/DIGI-SPORT-1-SD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 1 SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/268927
-#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI SPORT 1 4K" tvg-logo="https://i.postimg.cc/858z0wqF/DIGI-SPORT-1-4-K.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 1 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/62775
-#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="DIGI SPORT 1 FIBRA" tvg-logo="https://i.postimg.cc/L5xR2V04/DIGI-SPORT-1-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 1 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277313
-#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI SPORT 2 UHD" tvg-logo="https://i.postimg.cc/QCm5DR3c/DIGI-SPORT-2-UHD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 2 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/34069
-#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI SPORT 2 HD" tvg-logo="https://i.postimg.cc/jdwTfyWd/DIGI-SPORT-2-HD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 2 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33799
-#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI SPORT 2 SD" tvg-logo="https://i.postimg.cc/2SQPdGCS/DIGI-SPORT-2-SD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 2 SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33800
-#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI SPORT 2 4K" tvg-logo="https://i.postimg.cc/CLYthDj2/DIGI-SPORT-2-4-K.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 2 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/116132
-#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="DIGI SPORT 2 FIBRA" tvg-logo="https://i.postimg.cc/W3qRZv3Y/DIGI-SPORT-2-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 2 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277314
-#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="DIGI SPORT 3 UHD" tvg-logo="https://i.postimg.cc/GmsdYG5m/DIGI-SPORT-3-UHD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 3 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/34071
-#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="DIGI SPORT 3 HD" tvg-logo="https://i.postimg.cc/NMXHzKFG/DIGI-SPORT-3-HD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 3 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33801
-#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="DIGI SPORT 3" tvg-logo="https://i.postimg.cc/K8V4hmdB/DIGI-SPORT-3-SD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 3
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33802
-#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="DIGI SPORT 3 4K" tvg-logo="https://i.postimg.cc/858z0wqF/DIGI-SPORT-1-4-K.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 3 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/185269
-#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="DIGI SPORT 3 FIBRA" tvg-logo="https://i.postimg.cc/G2tDJMwq/DIGI-SPORT-3-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 3 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277315
-#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="DIGI SPORT 4 UHD" tvg-logo="https://i.postimg.cc/fTQr5P5g/DIGI-SPORT-4-UHD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 4 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/498425
-#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="DIGI SPORT 4 HD" tvg-logo="https://i.postimg.cc/7h9t5H7n/DIGI-SPORT-4-HD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 4 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33803
-#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="DIGI SPORT 4" tvg-logo="https://i.postimg.cc/m2N1Fct6/DIGI-SPORT-4-SD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 4
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33804
-#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="DIGI SPORT 4 4K" tvg-logo="https://i.postimg.cc/9Fwy4NCB/DIGI-SPORT-4-4-K.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 4 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/185268
-#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="DIGI SPORT 4 FIBRA" tvg-logo="https://i.postimg.cc/LXX3xtZ1/DIGI-SPORT-4-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",DIGI SPORT 4 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277316
-#EXTINF:-1 tvg-id="Digi.4K.ro" tvg-name="DIGI 4K" tvg-logo="https://i.postimg.cc/bwBcVVRB/DIGI-4K.jpg" group-title="ROM🇷🇴/TV TEST",DIGI 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/260604
-#EXTINF:-1 tvg-id="Pro.Arena.HD.ro" tvg-name="PRO ARENA UHD" tvg-logo="https://i.postimg.cc/s2xXb32f/PRO-ARENA-UHD.jpg" group-title="ROM🇷🇴/TV TEST",PRO ARENA UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/228695
-#EXTINF:-1 tvg-id="Pro.Arena.HD.ro" tvg-name="PRO ARENA HD" tvg-logo="https://i.postimg.cc/NFdjj0bp/PRO-ARENA-HD.jpg" group-title="ROM🇷🇴/TV TEST",PRO ARENA HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33817
-#EXTINF:-1 tvg-id="Pro.Arena.HD.ro" tvg-name="PRO ARENA SD" tvg-logo="https://i.postimg.cc/NfJhPJgB/PRO-ARENA-SD.jpg" group-title="ROM🇷🇴/TV TEST",PRO ARENA SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33818
-#EXTINF:-1 tvg-id="Pro.Arena.HD.ro" tvg-name="PRO ARENA FIBRA" tvg-logo="https://i.postimg.cc/GmjVWXPZ/PRO-ARENA-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",PRO ARENA FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277310
-#EXTINF:-1 tvg-id="Prima.Sport.1.HD.ro" tvg-name="PRIMA SPORT 1" tvg-logo="https://i.postimg.cc/RCj1ny2n/PRIMA-SPORT-1-SD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 1
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33816
-#EXTINF:-1 tvg-id="Prima.Sport.1.HD.ro" tvg-name="PRIMA SPORT 1 HD" tvg-logo="https://i.postimg.cc/Hk92Q3CL/PRIMA-SPORT-1-HD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 1 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33815
-#EXTINF:-1 tvg-id="Prima.Sport.1.HD.ro" tvg-name="PRIMA SPORT 1 UHD" tvg-logo="https://i.postimg.cc/jjYXf99R/PRIMA-SPORT-1-UHD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 1 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146486
-#EXTINF:-1 tvg-id="Prima.Sport.1.HD.ro" tvg-name="PRIMA SPORT 1 FIBRA" tvg-logo="https://i.postimg.cc/NjK5vMLp/PRIMA-SPORT-1-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 1 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277319
-#EXTINF:-1 tvg-id="Prima.Sport.2.HD.ro" tvg-name="PRIMA SPORT 2" tvg-logo="https://i.postimg.cc/rygGNQbw/PRIMA-SPORT-2-SD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 2
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/56167
-#EXTINF:-1 tvg-id="Prima.Sport.2.HD.ro" tvg-name="PRIMA SPORT 2 UHD" tvg-logo="https://i.postimg.cc/pTzGdzXy/PRIMA-SPORT-2-UHD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 2 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146488
-#EXTINF:-1 tvg-id="Prima.Sport.2.HD.ro" tvg-name="PRIMA SPORT 2 FIBRA" tvg-logo="https://i.postimg.cc/tC5h4YXK/PRIMA-SPORT-2-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 2 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277320
-#EXTINF:-1 tvg-id="Prima.Sport.3.HD.ro" tvg-name="PRIMA SPORT 3 SD" tvg-logo="https://i.postimg.cc/nc2DJrZZ/PRIMA-SPORT-3-SD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 3 SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/185253
-#EXTINF:-1 tvg-id="Prima.Sport.3.HD.ro" tvg-name="PRIMA SPORT 3 UHD" tvg-logo="https://i.postimg.cc/xCLXFTtD/PRIMA-SPORT-3-UHD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 3 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/157160
-#EXTINF:-1 tvg-id="Prima.Sport.3.HD.ro" tvg-name="PRIMA SPORT 3 FIBRA" tvg-logo="https://i.postimg.cc/nr8vCPwt/PRIMA-SPORT-3-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 3 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277321
-#EXTINF:-1 tvg-id="Prima.Sport.4.HD.ro" tvg-name="PRIMA SPORT 4 HD" tvg-logo="https://i.postimg.cc/5tMGrDq0/PRIMA-SPORT-4-HD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 4 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/245819
-#EXTINF:-1 tvg-id="Prima.Sport.4.HD.ro" tvg-name="PRIMA SPORT 4 UHD" tvg-logo="https://i.postimg.cc/wMs77tyx/PRIMA-SPORT-4-UHD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 4 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/157161
-#EXTINF:-1 tvg-id="Prima.Sport.4.HD.ro" tvg-name="PRIMA SPORT 4 FIBRA" tvg-logo="https://i.postimg.cc/vH3pcPs2/PRIMA-SPORT-4-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 4 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277322
-#EXTINF:-1 tvg-id="Prima.Sport.5.HD.ro" tvg-name="PRIMA SPORT 5 SD" tvg-logo="https://i.postimg.cc/MGVyZTky/PRIMA-SPORT-5-SD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 5 SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/185254
-#EXTINF:-1 tvg-id="Prima.Sport.5.HD.ro" tvg-name="PRIMA SPORT 5 UHD" tvg-logo="https://i.postimg.cc/NMTYP3HK/PRIMA-SPORT-5-UHD.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 5 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/157162
-#EXTINF:-1 tvg-id="Prima.Sport.5.HD.ro" tvg-name="PRIMA SPORT 5 FIBRA" tvg-logo="https://i.postimg.cc/KvfpF0Pw/PRIMA-SPORT-5-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",PRIMA SPORT 5 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277323
-#EXTINF:-1 tvg-id="Eurosport.1.HD.ro" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EUROSPORT-1.png" group-title="ROM🇷🇴/TV TEST",EUROSPORT 1 FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33810
-#EXTINF:-1 tvg-id="Eurosport.1.HD.ro" tvg-name="EUROSPORT 1 SD" tvg-logo="http://fluxro.live:8080/images/dsAt8cMDBjbP3mVNdeYR4drYiGKD1GcKVm0-QqQ2txlyJs3oApC16RKEuZZXNfNs.png" group-title="ROM🇷🇴/TV TEST",EUROSPORT 1 SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/268946
-#EXTINF:-1 tvg-id="Eurosport.1.HD.ro" tvg-name="EUROSPORT 1 HD" tvg-logo="http://fluxro.live:8080/images/dsAt8cMDBjbP3mVNdeYR4drYiGKD1GcKVm0-QqQ2txlyJs3oApC16RKEuZZXNfNs.png" group-title="ROM🇷🇴/TV TEST",EUROSPORT 1 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277317
-#EXTINF:-1 tvg-id="Eurosport.2.HD.ro" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Eurosport_2_HD_Logo_%282011-2015%29.svg/1280px-Eurosport_2_HD_Logo_%282011-2015%29.svg.png" group-title="ROM🇷🇴/TV TEST",EUROSPORT 2 FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33812
-#EXTINF:-1 tvg-id="Eurosport.2.HD.ro" tvg-name="EUROSPORT 2 SD" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="ROM🇷🇴/TV TEST",EUROSPORT 2 SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/268947
-#EXTINF:-1 tvg-id="Eurosport.2.HD.ro" tvg-name="EUROSPORT 2 HD" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="ROM🇷🇴/TV TEST",EUROSPORT 2 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277318
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-name="EUROSPORT 4K" tvg-logo="https://i.postimg.cc/DyVR27jT/EUROSPORT-4-K.jpg" group-title="ROM🇷🇴/TV TEST",EUROSPORT 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/268948
-#EXTINF:-1 tvg-id="TVR.Sport.HD.ro" tvg-name="TVR SPORT HD" tvg-logo="https://media.stiripesurse.ro/image/202304/w800/media-168200152923203100.png" group-title="ROM🇷🇴/TV TEST",TVR SPORT HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/206422
-#EXTINF:-1 tvg-name="ROMANIA Film" group-title="ROM🇷🇴/TV TEST",ROMANIA Film
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666935
-#EXTINF:-1 tvg-name="Film Box War" tvg-logo="https://i.postimg.cc/8zzSBmsk/filmbox-war.png" group-title="ROM🇷🇴/TV TEST",Film Box War
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666988
-#EXTINF:-1 tvg-name="Muzica Romaneasca" tvg-logo="https://i.postimg.cc/kGrGZyNN/Chat-GPT-Image-Jun-9-2026-02-13-48-PM.png" group-title="ROM🇷🇴/TV TEST",Muzica Romaneasca
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666945
-#EXTINF:-1 tvg-name="MANELE Top" tvg-logo="https://i.postimg.cc/XJTcjLBV/manele-vip.jpg" group-title="ROM🇷🇴/TV TEST",MANELE Top
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666943
-#EXTINF:-1 tvg-id="Cinemaraton.ro" tvg-name="CINEMARATON" tvg-logo="http://quito.zapto.org/icon/CINEMARATON_SD.png" group-title="ROM🇷🇴/TV TEST",CINEMARATON
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666942
-#EXTINF:-1 tvg-id="National.TV.ro" tvg-name="NATIONAL TV 2 HD" tvg-logo="https://i.postimg.cc/44rjs1GV/e187e179-a5a1-41c5-bbf9-b92a9aaa634e.png" group-title="ROM🇷🇴/TV TEST",NATIONAL TV 2 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666941
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://quito.zapto.org/icon/CINEMAX_SD.png" group-title="ROM🇷🇴/TV TEST",CINEMAX
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666939
-#EXTINF:-1 tvg-id="Cinemax.2.ro" tvg-name="CINEMAX 2" tvg-logo="http://quito.zapto.org/icon/CINEMAX2_SD.png" group-title="ROM🇷🇴/TV TEST",CINEMAX 2
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666938
-#EXTINF:-1 tvg-id="AXN.HD.ro" tvg-name="AXN FHD" tvg-logo="http://quito.zapto.org/icon/AXN_HD.png" group-title="ROM🇷🇴/TV TEST",AXN FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666937
-#EXTINF:-1 tvg-name="VIASAT EXPLORE FHD" tvg-logo="http://quito.zapto.org/icon/VIASAT_EXPLORE_HD.png" group-title="ROM🇷🇴/TV TEST",VIASAT EXPLORE FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666936
-#EXTINF:-1 tvg-name="PRO TV BOX" tvg-logo="https://i.postimg.cc/rpcmwdm4/3-a667fa44.jpg" group-title="ROM🇷🇴/TV TEST",PRO TV BOX
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666927
-#EXTINF:-1 tvg-name="KANAL D BOX" tvg-logo="https://i.postimg.cc/9MP8Gnt0/dfdsvdsdsxcv.jpg" group-title="ROM🇷🇴/TV TEST",KANAL D BOX
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666920
-#EXTINF:-1 tvg-id="PRO.TV.HD.ro" tvg-name="PRO TV UHD" tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="ROM🇷🇴/TV TEST",PRO TV UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33760
-#EXTINF:-1 tvg-id="PRO.TV.HD.ro" tvg-name="PRO TV HD" tvg-logo="https://i.postimg.cc/jSn8M9Mw/resize.png" group-title="ROM🇷🇴/TV TEST",PRO TV HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33761
-#EXTINF:-1 tvg-id="PRO.TV.HD.ro" tvg-name="PRO TV SD" tvg-logo="https://i.postimg.cc/7YKvFp1t/resize.png" group-title="ROM🇷🇴/TV TEST",PRO TV SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33762
-#EXTINF:-1 tvg-id="PRO.TV.HD.ro" tvg-name="PRO TV 4K" tvg-logo="https://i.postimg.cc/TP9n0Jvy/resize.png" group-title="ROM🇷🇴/TV TEST",PRO TV 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/260601
-#EXTINF:-1 tvg-id="PRO.TV.HD.ro" tvg-name="PRO TV FIBRA" tvg-logo="https://i.postimg.cc/Hx64Y4Sp/resize.png" group-title="ROM🇷🇴/TV TEST",PRO TV FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277301
-#EXTINF:-1 tvg-id="PRO.TV.INTERNATIONAL.ro" tvg-name="PRO TV INTERNATIONAL" tvg-logo="https://i.postimg.cc/KYJgBctN/resize.png" group-title="ROM🇷🇴/TV TEST",PRO TV INTERNATIONAL
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33794
-#EXTINF:-1 tvg-name="ANTENA BOX" tvg-logo="https://i.postimg.cc/zvmWpz7F/Whats-App-Image-2025-05-12-at-22-12-13-a667fa44.jpg" group-title="ROM🇷🇴/TV TEST",ANTENA BOX
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/666928
-#EXTINF:-1 tvg-id="Antena.1.HD.ro" tvg-name="ANTENA 1 UHD" tvg-logo="https://i.postimg.cc/CLSNBchF/ANTENA-1-UHD.png" group-title="ROM🇷🇴/TV TEST",ANTENA 1 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33763
-#EXTINF:-1 tvg-id="Antena.1.HD.ro" tvg-name="ANTENA 1 HD" tvg-logo="https://i.postimg.cc/ZKX5sMCL/ANTENA-1-HD.png" group-title="ROM🇷🇴/TV TEST",ANTENA 1 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33764
-#EXTINF:-1 tvg-id="Antena.1.HD.ro" tvg-name="ANTENA 1 SD" tvg-logo="https://i.postimg.cc/d0xHGrWB/ANTENA-1-SD.png" group-title="ROM🇷🇴/TV TEST",ANTENA 1 SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33765
-#EXTINF:-1 tvg-id="Antena.1.HD.ro" tvg-name="ANTENA 1 4K" tvg-logo="https://i.postimg.cc/ncSDF2M1/ANTENA-1-4-K.png" group-title="ROM🇷🇴/TV TEST",ANTENA 1 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/260600
-#EXTINF:-1 tvg-id="Antena.1.HD.ro" tvg-name="ANTENA 1 FIBRA" tvg-logo="https://i.postimg.cc/zGMKj7r8/ANTENA-1-FIBRA.png" group-title="ROM🇷🇴/TV TEST",ANTENA 1 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277302
-#EXTINF:-1 tvg-id="Antena.3.CNN.HD.ro" tvg-name="ANTENA 3 CNN UHD" tvg-logo="https://i.postimg.cc/wxWDzjhK/ANTENA-3-UHD.png" group-title="ROM🇷🇴/TV TEST",ANTENA 3 CNN UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33766
-#EXTINF:-1 tvg-id="Antena.3.CNN.HD.ro" tvg-name="ANTENA 3 CNN HD" tvg-logo="https://i.postimg.cc/Px0pLPKL/ANTENA-3-HD.png" group-title="ROM🇷🇴/TV TEST",ANTENA 3 CNN HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/121389
-#EXTINF:-1 tvg-id="Antena.3.CNN.HD.ro" tvg-name="ANTENA 3 CNN SD" tvg-logo="https://i.postimg.cc/X77xKPk8/ANTENA-3-SD.png" group-title="ROM🇷🇴/TV TEST",ANTENA 3 CNN SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33767
-#EXTINF:-1 tvg-id="Antena.3.CNN.HD.ro" tvg-name="ANTENA 3 CNN FIBRA" tvg-logo="https://i.postimg.cc/nz9MtnxP/ANTENA-3-FIBRA.png" group-title="ROM🇷🇴/TV TEST",ANTENA 3 CNN FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277304
-#EXTINF:-1 tvg-id="Antena.Stars.HD.ro" tvg-name="ANTENA STARS UHD" tvg-logo="https://i.postimg.cc/wvzZGyth/ANTENA-STARS-UHD.png" group-title="ROM🇷🇴/TV TEST",ANTENA STARS UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33768
-#EXTINF:-1 tvg-id="Antena.Stars.HD.ro" tvg-name="ANTENA STARS HD" tvg-logo="https://i.postimg.cc/jdnZstn3/ANTENA-STARS-HD.png" group-title="ROM🇷🇴/TV TEST",ANTENA STARS HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146447
-#EXTINF:-1 tvg-id="Antena.Stars.HD.ro" tvg-name="ANTENA STARS" tvg-logo="https://i.postimg.cc/FK61bv1j/ANTENA-STARS-SD.png" group-title="ROM🇷🇴/TV TEST",ANTENA STARS
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33769
-#EXTINF:-1 tvg-id="Antena.Stars.HD.ro" tvg-name="ANTENA STARS 4K" tvg-logo="https://i.postimg.cc/XJJdvkXn/ANTENA-STARS-4-K.jpg" group-title="ROM🇷🇴/TV TEST",ANTENA STARS 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/186004
-#EXTINF:-1 tvg-id="Antena.Stars.HD.ro" tvg-name="ANTENA STARS FIBRA" tvg-logo="https://i.postimg.cc/B6w51RGq/ANTENA-STARS-FIBRA.png" group-title="ROM🇷🇴/TV TEST",ANTENA STARS FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/498475
-#EXTINF:-1 tvg-id="Kanal.D.HD.ro" tvg-name="KANAL D UHD" tvg-logo="https://i.postimg.cc/RZZjbVmf/KANAL-D-UHD.png" group-title="ROM🇷🇴/TV TEST",KANAL D UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33770
-#EXTINF:-1 tvg-id="Kanal.D.HD.ro" tvg-name="KANAL D HD" tvg-logo="https://i.postimg.cc/fWXtJD6r/KANALD-D-HD.png" group-title="ROM🇷🇴/TV TEST",KANAL D HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33771
-#EXTINF:-1 tvg-id="Kanal.D.HD.ro" tvg-name="KANAL D SD" tvg-logo="https://i.postimg.cc/sXGzHfYR/KANAL-D-SD.png" group-title="ROM🇷🇴/TV TEST",KANAL D SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33772
-#EXTINF:-1 tvg-id="Kanal.D.HD.ro" tvg-name="KANAL D FIBRA" tvg-logo="https://i.postimg.cc/zfR29yc3/KANAL-D-FIBRA.png" group-title="ROM🇷🇴/TV TEST",KANAL D FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277303
-#EXTINF:-1 tvg-id="Kanal.D2.HD.ro" tvg-name="KANAL D2 UHD" tvg-logo="https://i.postimg.cc/Wz3X2t4L/KANAL-D2-UHD.png" group-title="ROM🇷🇴/TV TEST",KANAL D2 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146435
-#EXTINF:-1 tvg-id="Kanal.D2.HD.ro" tvg-name="KANAL D2 HD" tvg-logo="https://i.postimg.cc/4dMh935H/KANAL-D2-HD.png" group-title="ROM🇷🇴/TV TEST",KANAL D2 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146434
-#EXTINF:-1 tvg-id="Kanal.D2.HD.ro" tvg-name="KANAL D2 SD" tvg-logo="https://i.postimg.cc/1zvm8YH8/KANAL-D2-SD.png" group-title="ROM🇷🇴/TV TEST",KANAL D2 SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/498477
-#EXTINF:-1 tvg-id="Kanal.D2.HD.ro" tvg-name="KANAL D2 4K" tvg-logo="https://i.postimg.cc/gctxSsfj/KANAL-D2-4-K.jpg" group-title="ROM🇷🇴/TV TEST",KANAL D2 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/206570
-#EXTINF:-1 tvg-id="Kanal.D2.HD.ro" tvg-name="KANAL D2 (Net Slab)" tvg-logo="https://i.postimg.cc/L8NBNLB3/KANAL-D2-FIBRA.png" group-title="ROM🇷🇴/TV TEST",KANAL D2 (Net Slab)
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277309
-#EXTINF:-1 tvg-id="Prima.TV.HD.ro" tvg-name="PRIMA TV FHD" tvg-logo="https://i.postimg.cc/3xMGGbKY/BECDB099-7-A07-4551-B062-5-DE205392612.png" group-title="ROM🇷🇴/TV TEST",PRIMA TV FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/107943
-#EXTINF:-1 tvg-id="Prima.TV.HD.ro" tvg-name="PRIMA TV HD" tvg-logo="https://i.postimg.cc/xT1x78HT/BF2-F42-FA-9297-4963-BC5-B-96574-C972-EC2.png" group-title="ROM🇷🇴/TV TEST",PRIMA TV HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146441
-#EXTINF:-1 tvg-id="Prima.TV.HD.ro" tvg-name="PRIMA TV SD" tvg-logo="https://i.postimg.cc/05DPQtHC/4321-B154-40-AC-446-B-B1-AE-3138-A8456-EE9.png" group-title="ROM🇷🇴/TV TEST",PRIMA TV SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33785
-#EXTINF:-1 tvg-id="Prima.TV.HD.ro" tvg-name="PRIMA TV FIBRA" tvg-logo="https://i.postimg.cc/05M0F42t/85-FBC78-B-44-E5-40-D7-8294-AC306-DFBAE3-D.png" group-title="ROM🇷🇴/TV TEST",PRIMA TV FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277307
-#EXTINF:-1 tvg-id="Prima.News.ro" tvg-name="PRIMA NEWS (Fibra)" tvg-logo="https://i.postimg.cc/QN7KDZLR/97-C82-C3-F-DFB1-400-B-8-E8-C-8-EA2-F7079798.png" group-title="ROM🇷🇴/TV TEST",PRIMA NEWS (Fibra)
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/255763
-#EXTINF:-1 tvg-name="PRIMA COMEDY UHD" tvg-logo="https://i.postimg.cc/kMRYdGgV/CF80-EEC2-7568-48-BC-A2-B9-55-E3-EB2-EACA8.png" group-title="ROM🇷🇴/TV TEST",PRIMA COMEDY UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/206428
-#EXTINF:-1 tvg-id="Acasa.HD.ro" tvg-name="ACASA TV UHD" tvg-logo="https://i.postimg.cc/FFPpF6KY/9-B84-D0-A3-56-F2-45-A1-8-AF3-F6-AE5962-EF10.png" group-title="ROM🇷🇴/TV TEST",ACASA TV UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/297585
-#EXTINF:-1 tvg-id="Acasa.HD.ro" tvg-name="ACASA TV HD" tvg-logo="https://i.postimg.cc/GmBdg641/ACBA358-E-AE15-4575-B8-C0-A1502-F0-F08-A5.png" group-title="ROM🇷🇴/TV TEST",ACASA TV HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146442
-#EXTINF:-1 tvg-id="Acasa.HD.ro" tvg-name="ACASA TV SD" tvg-logo="https://i.postimg.cc/zfgWNdcb/DC89-C459-F7-B5-4-A72-9-B58-CC860517-C917.png" group-title="ROM🇷🇴/TV TEST",ACASA TV SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/297584
-#EXTINF:-1 tvg-id="Acasa.Gold.HD.ro" tvg-name="ACASA GOLD UHD" tvg-logo="https://i.postimg.cc/MKJBw2ky/1593775-F-E1-A7-479-A-A3-BC-35-AACC3-CFE2-F.png" group-title="ROM🇷🇴/TV TEST",ACASA GOLD UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/167805
-#EXTINF:-1 tvg-id="Acasa.Gold.HD.ro" tvg-name="ACASA GOLD" tvg-logo="https://i.postimg.cc/Bbp4RK9y/4-E51-A126-5-EE3-4-AEE-AD8-C-C28-A3-D5-EA119.png" group-title="ROM🇷🇴/TV TEST",ACASA GOLD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33777
-#EXTINF:-1 tvg-id="Pro.Cinema.HD.ro" tvg-name="PRO CINEMA UHD" tvg-logo="https://i.postimg.cc/ryCv5HXF/PRO-CINEMA-UHD.jpg" group-title="ROM🇷🇴/TV TEST",PRO CINEMA UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/107960
-#EXTINF:-1 tvg-id="Pro.Cinema.HD.ro" tvg-name="PRO CINEMA HD" tvg-logo="https://i.postimg.cc/4yQkdLZG/PRO-CINEMA-HD.jpg" group-title="ROM🇷🇴/TV TEST",PRO CINEMA HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146436
-#EXTINF:-1 tvg-id="Happy.Channel.HD.ro" tvg-name="HAPPY CHANNEL FHD" tvg-logo="https://i.postimg.cc/gkM2dDD2/HAPPY-CHANNEL-UHD.jpg" group-title="ROM🇷🇴/TV TEST",HAPPY CHANNEL FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33775
-#EXTINF:-1 tvg-id="Happy.Channel.HD.ro" tvg-name="HAPPY CHANNEL" tvg-logo="https://i.postimg.cc/RZk9Vbn7/HAPPY-CHANNEL-SD.jpg" group-title="ROM🇷🇴/TV TEST",HAPPY CHANNEL
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33776
-#EXTINF:-1 tvg-id="Comedy.Central.HD.ro" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://i.postimg.cc/qMV7fbxH/COMEDY-CENTRAL-UHD.jpg" group-title="ROM🇷🇴/TV TEST",COMEDY CENTRAL FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33840
-#EXTINF:-1 tvg-id="Cinemax.HD.ro" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/wTLQHr8K/CINEMAX-HD.jpg" group-title="ROM🇷🇴/TV TEST",CINEMAX HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/477149
-#EXTINF:-1 tvg-id="Cinemax.2.HD.ro" tvg-name="CINEMAX 2 HD" tvg-logo="https://i.postimg.cc/hGqwcm3Q/CINEMAX-2-UHD.jpg" group-title="ROM🇷🇴/TV TEST",CINEMAX 2 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/56163
-#EXTINF:-1 tvg-id="Epic.Drama.ro" tvg-name="EPIC DRAMA UHD" tvg-logo="https://i.postimg.cc/TY35NHd9/EPIC-DRAMA-UHD.jpg" group-title="ROM🇷🇴/TV TEST",EPIC DRAMA UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/36463
-#EXTINF:-1 tvg-id="Diva.ro" tvg-name="DIVA TV HD" tvg-logo="https://i.postimg.cc/Y06c1xVS/DIVA-HD.jpg" group-title="ROM🇷🇴/TV TEST",DIVA TV HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/276514
-#EXTINF:-1 tvg-id="Timeless.Dizi.Channel.HD.ro" tvg-name="DIZI CHANNEL HD" tvg-logo="https://i.postimg.cc/MG7yJMhQ/DIZI-HD.jpg" group-title="ROM🇷🇴/TV TEST",DIZI CHANNEL HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/50718
-#EXTINF:-1 tvg-id="Timeless.Dizi.Channel.HD.ro" tvg-name="DIZI CHANNEL SD" tvg-logo="https://i.postimg.cc/yNHZj6Ww/DIZI-SD.jpg" group-title="ROM🇷🇴/TV TEST",DIZI CHANNEL SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/50719
-#EXTINF:-1 tvg-id="Realitatea.Plus.ro" tvg-name="REALITATEA PLUS UHD" tvg-logo="https://i.postimg.cc/MX2vnmLn/REALITATEA-UHD.jpg" group-title="ROM🇷🇴/TV TEST",REALITATEA PLUS UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/37266
-#EXTINF:-1 tvg-id="Realitatea.Plus.ro" tvg-name="REALITATEA PLUS HD" tvg-logo="https://i.postimg.cc/QdgWWvhC/REALITATEA-HD.jpg" group-title="ROM🇷🇴/TV TEST",REALITATEA PLUS HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146444
-#EXTINF:-1 tvg-id="Realitatea.Plus.ro" tvg-name="REALITATEA PLUS SD" tvg-logo="https://i.postimg.cc/4yK97dxT/REALITATEA-SD.jpg" group-title="ROM🇷🇴/TV TEST",REALITATEA PLUS SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146445
-#EXTINF:-1 tvg-id="Digi.24.HD.ro" tvg-name="DIGI 24 UHD" tvg-logo="https://i.postimg.cc/8czSs7BT/DIGI-24-UHD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI 24 UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/162582
-#EXTINF:-1 tvg-id="Digi.24.HD.ro" tvg-name="DIGI 24" tvg-logo="https://i.postimg.cc/DzfkxWHr/DIGI-24-SD.jpg" group-title="ROM🇷🇴/TV TEST",DIGI 24
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33784
-#EXTINF:-1 tvg-id="Digi.24.HD.ro" tvg-name="DIGI 24 4K" tvg-logo="https://i.postimg.cc/3Nmg4wKc/DIGI-24-4-K.jpg" group-title="ROM🇷🇴/TV TEST",DIGI 24 4K
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/216178
-#EXTINF:-1 tvg-id="Digi.24.HD.ro" tvg-name="DIGI 24 FIBRA" tvg-logo="https://i.postimg.cc/xCTfNpnF/DIGI-24-FIBRA.jpg" group-title="ROM🇷🇴/TV TEST",DIGI 24 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277306
-#EXTINF:-1 tvg-id="România.TV.HD.ro" tvg-name="ROMANIA TV UHD" tvg-logo="https://i.postimg.cc/W4TjhH1P/ROMANIA-TV-UHD.jpg" group-title="ROM🇷🇴/TV TEST",ROMANIA TV UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33779
-#EXTINF:-1 tvg-id="România.TV.ro" tvg-name="ROMANIA TV HD" tvg-logo="https://i.postimg.cc/QNb63YRT/ROMANIA-TV-HD.jpg" group-title="ROM🇷🇴/TV TEST",ROMANIA TV HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/498490
-#EXTINF:-1 tvg-id="National.TV.ro" tvg-name="NATIONAL TV" tvg-logo="https://i.postimg.cc/8c507x3K/NATIONAL-TV-SD.jpg" group-title="ROM🇷🇴/TV TEST",NATIONAL TV
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/260592
-#EXTINF:-1 tvg-id="National.24.Plus.ro" tvg-name="NATIONAL 24 PLUS FHD" tvg-logo="https://i.postimg.cc/dVBN9sYL/NATIONAL-24-SD.jpg" group-title="ROM🇷🇴/TV TEST",NATIONAL 24 PLUS FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33782
-#EXTINF:-1 tvg-id="Euronews.Romania.HD.ro" tvg-name="EURONEWS ROMANIA FHD" tvg-logo="https://i.postimg.cc/N0QqgCgV/EURONEWS-UHD.jpg" group-title="ROM🇷🇴/TV TEST",EURONEWS ROMANIA FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/287391
-#EXTINF:-1 tvg-id="Euronews.Romania.HD.ro" tvg-name="EURONEWS ROMANIA HD" tvg-logo="https://i.postimg.cc/QMN86dW3/EURONEWS-HD.jpg" group-title="ROM🇷🇴/TV TEST",EURONEWS ROMANIA HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/301151
-#EXTINF:-1 tvg-id="Nasul.TV.ro" tvg-name="NASUL TV HD" tvg-logo="https://i.postimg.cc/yY1RHYfk/NASUL-TV-HD.jpg" group-title="ROM🇷🇴/TV TEST",NASUL TV HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/301605
-#EXTINF:-1 tvg-id="Nasul.TV.ro" tvg-name="NASUL TV SD" tvg-logo="https://i.postimg.cc/V5QXqjqH/NASUL-TV-SD.jpg" group-title="ROM🇷🇴/TV TEST",NASUL TV SD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/56139
-#EXTINF:-1 tvg-id="B1.TV.HD.ro" tvg-name="B1 TV UHD" tvg-logo="https://i.postimg.cc/WbW42L8s/B1-TV-UHD.jpg" group-title="ROM🇷🇴/TV TEST",B1 TV UHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33786
-#EXTINF:-1 tvg-name="ALEPH NEWS HD" tvg-logo="https://logo.iptveditor.com/alephnews.png" group-title="ROM🇷🇴/TV TEST",ALEPH NEWS HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/463625
-#EXTINF:-1 tvg-id="TVR.1.HD.ro" tvg-name="TVR 1 FHD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyd6-7a5c675d-d679-4373-b373-006b556d784a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlkNi03YTVjNjc1ZC1kNjc5LTQzNzMtYjM3My0wMDZiNTU2ZDc4NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zaE7SLx8r_kWtm-cPpUN0wAkuflRgDhXCu4AQUF7Z-g" group-title="ROM🇷🇴/TV TEST",TVR 1 FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33788
-#EXTINF:-1 tvg-id="TVR.1.HD.ro" tvg-name="TVR 1 HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyd6-7a5c675d-d679-4373-b373-006b556d784a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlkNi03YTVjNjc1ZC1kNjc5LTQzNzMtYjM3My0wMDZiNTU2ZDc4NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zaE7SLx8r_kWtm-cPpUN0wAkuflRgDhXCu4AQUF7Z-g" group-title="ROM🇷🇴/TV TEST",TVR 1 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146437
-#EXTINF:-1 tvg-id="TVR.1.HD.ro" tvg-name="TVR 1" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyd6-7a5c675d-d679-4373-b373-006b556d784a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlkNi03YTVjNjc1ZC1kNjc5LTQzNzMtYjM3My0wMDZiNTU2ZDc4NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zaE7SLx8r_kWtm-cPpUN0wAkuflRgDhXCu4AQUF7Z-g" group-title="ROM🇷🇴/TV TEST",TVR 1
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33791
-#EXTINF:-1 tvg-id="TVR.1.HD.ro" tvg-name="TVR 1 FIBRA" tvg-logo="https://logo.iptveditor.com/tvr1.png" group-title="ROM🇷🇴/TV TEST",TVR 1 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277311
-#EXTINF:-1 tvg-id="TVR.2.HD.ro" tvg-name="TVR 2 FHD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyoh-2985154c-dd94-4e60-80e2-28a256f0fc54.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlvaC0yOTg1MTU0Yy1kZDk0LTRlNjAtODBlMi0yOGEyNTZmMGZjNTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fE-jaORyBDila5rezfLw3w529ueHPvRzyRWkmVG3ZM4" group-title="ROM🇷🇴/TV TEST",TVR 2 FHD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/56156
-#EXTINF:-1 tvg-id="TVR.2.HD.ro" tvg-name="TVR 2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyoh-2985154c-dd94-4e60-80e2-28a256f0fc54.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlvaC0yOTg1MTU0Yy1kZDk0LTRlNjAtODBlMi0yOGEyNTZmMGZjNTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fE-jaORyBDila5rezfLw3w529ueHPvRzyRWkmVG3ZM4" group-title="ROM🇷🇴/TV TEST",TVR 2
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33790
-#EXTINF:-1 tvg-id="TVR.2.HD.ro" tvg-name="TVR 2 FIBRA" tvg-logo="https://logo.iptveditor.com/tvr2.png" group-title="ROM🇷🇴/TV TEST",TVR 2 FIBRA
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/277312
-#EXTINF:-1 tvg-id="TVR.3.ro" tvg-name="TVR 3 HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyue-e0cc77c8-df35-4613-943e-fad2f1b05330.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anl1ZS1lMGNjNzdjOC1kZjM1LTQ2MTMtOTQzZS1mYWQyZjFiMDUzMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TZsG72WlEx8ck7FFAvdk6POegDXifbq_X1M2ON-xufA" group-title="ROM🇷🇴/TV TEST",TVR 3 HD
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/146440
-#EXTINF:-1 tvg-id="TVR.3.ro" tvg-name="TVR 3" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyue-e0cc77c8-df35-4613-943e-fad2f1b05330.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anl1ZS1lMGNjNzdjOC1kZjM1LTQ2MTMtOTQzZS1mYWQyZjFiMDUzMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TZsG72WlEx8ck7FFAvdk6POegDXifbq_X1M2ON-xufA" group-title="ROM🇷🇴/TV TEST",TVR 3
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/33789
-#EXTINF:-1 tvg-id="TVR.Info.ro" tvg-name="TVR INFO HD (FIBRA)" tvg-logo="https://yt3.googleusercontent.com/RyU_r-dpKEQK7_kkPdtrt0GbFFhMyxWjWS46qvggQUA9q6Lyd9jzPjla6sxl_dczbcew1l2WQA=s900-c-k-c0x00ffffff-no-rj" group-title="ROM🇷🇴/TV TEST",TVR INFO HD (FIBRA)
-http://ciresebune.com:8080/grigore@iulian/mgMDCgp3t1/116857
 #EXTINF:-1 tvg-id="" tvg-name="metropola tv" tvg-logo="" group-title="ROM🇷🇴/TV TEST",metropola tv
 https://hls01ns.antenaplay.ro/hls/metropola-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",etno tv
