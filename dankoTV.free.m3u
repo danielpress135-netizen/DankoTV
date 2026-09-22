@@ -81,7 +81,8 @@ https://vod132.witmind.com/hls/cam1/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",TRUMP TV - The Essentials Station
+https://www.youtube.com/watch?v=A4gNgHfZ-v4
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Пловдивска Православна телевизия" tvg-logo="" group-title="youtube.tv",Пловдивска Православна телевизия
 https://www.youtube.com/watch?v=zhJ4LHPt7dk
 #EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-name="Bulgaria 24" tvg-logo="https://i.imgur.com/XMlnMb8.png" group-title="youtube.tv", България 24 Live
@@ -371,12 +372,16 @@ https://www.youtube.com/watch?v=1fz60gNnSdU
 https://www.youtube.com/watch?v=HSJOF4ulYG8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",KISS TV
 https://www.youtube.com/watch?v=TDSCd8xUpcs
+#EXTINF:-1 tvg-id="" tvg-name="The Beatles" tvg-logo="" group-title="Music",Avenged Sevenfold TV  
+https://www.youtube.com/watch?v=7Tusnkm0VbY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",The Rolling Stones
 https://www.youtube.com/watch?v=FrhnrNXtQKg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Bring Me The Horizon
 https://www.youtube.com/watch?v=sL_fbNaq6VA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Oasis
 https://www.youtube.com/watch?v=JbFRzyqW22g
+#EXTINF:-1 tvg-id="" tvg-name="The Beatles" tvg-logo="" group-title="Music",U2 TV - 50
+https://www.youtube.com/watch?v=wIeQDAyIYbo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Beatles
 https://www.youtube.com/watch?v=xRzaFgSsgH4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Radiohead TV
@@ -393,6 +398,8 @@ https://www.youtube.com/watch?v=Ih-flcN6krY
 https://www.youtube.com/watch?v=up5_JOCSWO8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Nonstop Joe Bonamassa
 https://www.youtube.com/watch?v=3-Wkvh2GhX0
+#EXTINF:-1 tvg-id="" tvg-name="The Beatles" tvg-logo="" group-title="Music",Juanes - 25th Anniversary Hits Station
+https://www.youtube.com/watch?v=h_PYrVTEkrw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Silverchair Station
 https://www.youtube.com/watch?v=RllBYh9ToZE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Savage Garden Station
@@ -469,6 +476,8 @@ https://www.youtube.com/watch?v=qmlK7WKSanU
 https://www.youtube.com/watch?v=064S1UeYN7Q
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Riley Green
 https://www.youtube.com/watch?v=_RaOsXHQ-P8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Global Citizen Station
+https://www.youtube.com/watch?v=zT3vTqSH8xw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Corey Kent's Greatest Hits
 https://www.youtube.com/watch?v=S2YrQ5u8lwA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Sido's Beste
@@ -647,6 +656,12 @@ https://www.youtube.com/watch?v=OSbDkFp7ncw
 https://www.youtube.com/watch?v=v-ZErU3RteY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",UNIVERSAL MUSIC JAPAN Station CityPop Revivals
 https://www.youtube.com/watch?v=H-jgtM-3SvY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",UNIVERSAL MUSIC Hong Kong Station - 24 小時不間斷廣東歌 STATION - 2000 年代
+https://www.youtube.com/watch?v=pmD2Z0WHKjQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",UNIVERSAL MUSIC Thailand Station Ur Song Station
+https://www.youtube.com/watch?v=MapyzI6YI_Q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Media Asia Music - Top Hits  寰亞音樂精選歌單  
+https://www.youtube.com/watch?v=xjZqJrMwIvE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Ferrugem - As Melhores (Station) - Brasilia
 https://www.youtube.com/watch?v=CvnRz3yTG-U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv-Music",Luan Santana: As Melhores e As Antigas - Registro Histórico - Estação-Station
