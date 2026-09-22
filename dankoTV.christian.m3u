@@ -109,8 +109,10 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.XITE.Gospel.plex" tvg-name="XITE Gospel" tvg-logo="" group-title="christian music tv",XITE Gospel (720p)
 https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Planetshakers Praise and Worshi" tvg-logo="" group-title="christian music tv",Planetshakers Praise and Worship (Youtube Tv)
-https://www.youtube.com/watch?v=j6qudrwejKk
+#EXTINF:-1 tvg-id="" tvg-name="Planetshakers Praise and Worshi" tvg-logo="" group-title="christian music tv",Planetshakers Praise - Praise God Anytime, Anywhere (Youtube Tv)
+https://www.youtube.com/watch?v=BqqHjZJm1hc
+#EXTINF:-1 tvg-id="" tvg-name="Planetshakers Praise and Worshi" tvg-logo="" group-title="christian music tv",Planetshakers Worship - Worship God Anytime, Anywhere (Youtube Tv)
+https://www.youtube.com/watch?v=zkcl7tBXhio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Hillsong Worship (Youtube Tv)
 https://www.youtube.com/watch?v=SC1gPTTOXxc
 #EXTINF:-1 tvg-id="" tvg-name="Don Moen TV" tvg-logo="" group-title="christian music tv",Don Moen TV (Youtube Tv)
@@ -141,8 +143,8 @@ https://www.youtube.com/watch?v=ONIC51Kdqnw
 https://www.youtube.com/watch?v=dRat1ZAB0oo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Daystar Reflections Livestream – Peaceful Instrumental Christian Music (Youtube Tv)
 https://www.youtube.com/watch?v=SlC5CXZg6W4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Folabi Nuel Non-Stop Soaking Worship (Yotutube Tv)
-https://www.youtube.com/watch?v=gnyF27-jMa4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Folabi Nuel Non-Stop Live Worship (Yotutube Tv)
+https://www.youtube.com/watch?v=yNWQThpf12A
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",David Forlu Soaking Worship (Youtube Tv)
 https://www.youtube.com/watch?v=SBZqWKjDvX0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="christian music tv",Gaither Vocal Band Station (Youtube Tv)
@@ -251,7 +253,7 @@ http://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-name="Evandis Gospel TV" tvg-logo="https://i.imgur.com/v8TiqhH.png" group-title="French",Evandis Gospel TV
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="EvangileTV.fr" tvg-name="Evangile TV" tvg-logo="" group-title="French",Evangile TV
-https://evangiletv-live1-p28-cdn.hexaglobe.net/d558fba8bc277aa8aa10fb3b6a014c97/6a95a9c5/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/playlist.m3u8
+https://evangiletv-live1-p31-cdn.hexaglobe.net/99e890f64a0a67d4b85460e9b1a8b28f/6ab257a6/evangiletv/EvangileTV-website-web-1/evangiletvlive1_fre.smil/playlist.m3u8
 
 
 
