@@ -16,6 +16,17 @@ https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="BG🇧🇬📻/Radio",Радио Аве Мария(католическо)
+http://stream.radioavemaria.net:8000/
+#EXTINF:-1 group-title="BG🇧🇬📻/Radio",Радио Ел Шадай(християнско)
+https://stream-175.zeno.fm/hku46gxdexquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoa3U0Nmd4ZGV4cXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlZkc2lsZTRnU3hlRDJYTHRtWXpxa1EiLCJpYXQiOjE3NzgxNzA2MDQsImV4cCI6MTc3ODE3MDY2NH0.K562Wy4Tk_zh3hPJoCqzuFRCLPegw0cjgkrMqQUlaGw
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Soyuz.ru" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="RUSSIAN",Союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="Spas.ru" tvg-logo="https://i.imgur.com/yY39nMg.png" group-title="RUSSIAN",Spas (576p)

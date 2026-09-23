@@ -27,10 +27,18 @@ http://ott.watch/stream/83K27DP6PU/185.m3u8
 
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 1 HD
 http://62.176.112.19:8008/play/a0be
+#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 1 HD
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 2 HD
+http://77.46.130.252:99/maxsport2
 #EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 3 HD
 http://62.176.112.19:8008/play/a0bg
+#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 3 HD
+http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="БЪЛГАРИЯ",Max Sport 4
 http://62.176.112.19:8008/play/a0d6
+#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="БЪЛГАРИЯ",Max Sport 4
+http://77.46.130.252:99/maxsport4
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="Max Sport 1" tvg-logo="https://i.imgur.com/0ohnpql.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="БЪЛГАРИЯ",Max Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport1
@@ -42,12 +50,18 @@ http://77.46.130.252:99/maxsport2
 http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport HD
 https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
+#EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport HD
+http://77.46.130.252:99/diema1
+#EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport 2 HD
+http://77.46.130.252:99/diema2
 #EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport 2 HD
 https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport 2 HD
 http://62.176.112.19:8008/play/a0bd
 #EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport 3 HD
 http://62.176.112.19:8008/play/a0cj
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport 3 HD
+http://77.46.130.252:99/diema3
 #EXTINF:-1 tvg-id="RING.BG.bg" tvg-name="RING HD" tvg-logo="" group-title="БЪЛГАРИЯ",RING HD
 http://62.176.112.19:8008/play/a0bo
 
@@ -149,6 +163,17 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2538/inde
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="УНГАРИЯ",M4 SPORT
 http://88.212.15.19/live/uatlmvixrr/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ГЪРЦИЯ",NOVA sports 1
+http://88.99.57.248:8080/s1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ГЪРЦИЯ",NOVA sports 2
+http://88.99.57.248:8080/s2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ГЪРЦИЯ",NOVA sports 3
+http://88.99.57.248:8080/s3/index.m3u8
 
 
 
