@@ -13395,64 +13395,6 @@ http://195.178.110.110/sportv2/index.m3u8
 http://195.178.110.110/sportv3/index.m3u8
 #EXTINF:-1 tvg-id="tntsports.br" tvg-name="tntsports" tvg-logo="" group-title="SPORT/TEST",tntsports
 http://195.178.110.110/tntsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 1 FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1956
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 2 FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1957
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 3 FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1958
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 4 FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1959
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 5 FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1960
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 6 FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1961
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 7 FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1962
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 8 FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1963
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS 9 FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1964
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NEWS FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS NEWS FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1911
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS GLOBAL FHD" tvg-logo="" group-title="SPORT/TEST",beIN SPORTS GLOBAL FHD
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1912
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 1 HD" tvg-logo="" group-title="SPORT/TEST",BEIN SPORT 1 HD FR
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/4661
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 2 HD" tvg-logo="" group-title="SPORT/TEST",BEIN SPORT 2 HD FR
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/4663
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 3 HD" tvg-logo="" group-title="SPORT/TEST",BEIN SPORT 3 HD FR
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/4665
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 1 FHD" tvg-logo="" group-title="SPORT/TEST",DAZN Bar 1 FHD DE
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1759
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 2 FHD" tvg-logo="" group-title="SPORT/TEST",DAZN Bar 2 FHD  DE
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1760
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="SPORT/TEST",DAZN 1 HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1037
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="SPORT/TEST",DAZN 2 HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1039
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="SPORT/TEST",DAZN LA LIGA HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1028
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="SPORT/TEST",DAZN LA LIGA 2 HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1031
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="SPORT/TEST",DAZN F1 HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/1034
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LA LIGA HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="SPORT/TEST",M+ LA LIGA HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/799
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="SPORT/TEST",M+ LIGA DE CAMPEONES HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/806
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ LIGA DE CAMPEONES 2 HD 1080p " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="SPORT/TEST",M+ LIGA DE CAMPEONES 2 HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/812
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="SPORT/TEST",M+ DEPORTES HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/839
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 HD 1080p (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="SPORT/TEST",M+ DEPORTES 2 HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/842
-#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="SPORT/TEST",TELEDEPORTE HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/854
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="SPORT/TEST",EUROSPORT 1 HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/857
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="SPORT/TEST",EUROSPORT 2 HD ES
-http://mitv.netinc.org:8691/Iptv2126/cfP5RymM/860
 #EXTINF:-1 tvg-id="" tvg-name="Diema sport 1" tvg-logo="" group-title="SPORT/TEST",Diema sport 1
 http://212.70.131.37:8000/play/a06e
 #EXTINF:-1 tvg-id="" tvg-name="Diema sport 2" tvg-logo="" group-title="SPORT/TEST",Diema sport 2
@@ -13481,6 +13423,250 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2407/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2420/index.m3u8
 #EXTINF:0 group-title="SPORT/TEST" tvg-id="2005" tvg-logo="http://epg.one/img2/2005.png" tvg-rec="3",Матч! Футбол 3 FHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2408/index.m3u8
+
+
+#EXTINF:-1 tvg-id="1738" tvg-name="SUPER SPORT 1 ALB" tvg-logo="" group-title="SPORT/TEST" ,SUPER SPORT 1 ALB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1738
+#EXTINF:-1 tvg-id="1739" tvg-name="SUPER SPORT 2 ALB" tvg-logo="" group-title="SPORT/TEST" ,SUPER SPORT 2 ALB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1739
+#EXTINF:-1 tvg-id="1740" tvg-name="SUPER SPORT 3 ALB" tvg-logo="" group-title="SPORT/TEST" ,SUPER SPORT 3 ALB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1740
+#EXTINF:-1 tvg-id="1741" tvg-name="SUPER SPORT 4 ALB" tvg-logo="" group-title="SPORT/TEST" ,SUPER SPORT 4 ALB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1741
+#EXTINF:-1 tvg-id="2362" tvg-name="HAJDUK TV HD" tvg-logo="https://static.hajduk.hr/rev-1701319995/uploads/1/application/5c03b85a8c7b89a2789c402efbbe7821c9e579c2.png" group-title="SPORT/TEST" ,HAJDUK TV HD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2362
+#EXTINF:-1 tvg-id="481" tvg-name="MAX SPORT 1 HR HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_maxsport1.png" group-title="SPORT/TEST" ,MAX SPORT 1 HR HD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2185
+#EXTINF:-1 tvg-id="2072" tvg-name="MAX SPORT 2 HR HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_maxsport2.png" group-title="SPORT/TEST" ,MAX SPORT 2 HR HD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2186
+#EXTINF:-1 tvg-id="481" tvg-name="MAX SPORT 1 HR FHD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_maxsport1.png" group-title="SPORT/TEST" ,MAX SPORT 1 HR FHD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/481
+#EXTINF:-1 tvg-id="2072" tvg-name="MAX SPORT 2 HR FHD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_maxsport2.png" group-title="SPORT/TEST" ,MAX SPORT 2 HR FHD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2072
+#EXTINF:-1 tvg-id="2399" tvg-name="ZONASPORT TV HD" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2025/05/zonasporttv-384x216-16-300x169-1.png" group-title="SPORT/TEST" ,ZONASPORT TV HD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2399
+#EXTINF:-1 tvg-id="2381" tvg-name="ARENA ADRENALIN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-adrenalin-rs.png" group-title="SPORT/TEST" ,ARENA ADRENALIN
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2381
+#EXTINF:-1 tvg-id="1957" tvg-name="ARENA ESPORT" tvg-logo="https://mojasupernova.rs/oec/images/tv_channels/a572ac68907c899d781b957c46ea75b6.png" group-title="SPORT/TEST" ,ARENA ESPORT
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1957
+#EXTINF:-1 tvg-id="1956" tvg-name="ARENA FIGHT" tvg-logo="https://mojasupernova.rs/Picture/787/png/ARENAFIGHT_Inserter_PNG-1-.png" group-title="SPORT/TEST" ,ARENA FIGHT
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1956
+#EXTINF:-1 tvg-id="1955" tvg-name="ARENA SPORT 1X2" tvg-logo="https://mojasupernova.rs/Picture/823/png/Arena-1x2-smanjeno.png" group-title="SPORT/TEST" ,ARENA SPORT 1X2
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1955
+#EXTINF:-1 tvg-id="2380" tvg-name="ARENA TENIS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-tenis-rs.png" group-title="SPORT/TEST" ,ARENA TENIS
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2380
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="ARENA HD 1 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png" group-title="SPORT/TEST" ,ARENA HD 1 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/20
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="ARENA HD 2 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png" group-title="SPORT/TEST" ,ARENA HD 2 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/21
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="ARENA HD 3 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena3_logo.png" group-title="SPORT/TEST" ,ARENA HD 3 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/22
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="ARENA HD 4 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena4_logo.png" group-title="SPORT/TEST" ,ARENA HD 4 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/23
+#EXTINF:-1 tvg-id="123" tvg-name="ARENA HD 5 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena5_logo.png" group-title="SPORT/TEST" ,ARENA HD 5 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/123
+#EXTINF:-1 tvg-id="464" tvg-name="ARENA HD 6 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena6_logo.png" group-title="SPORT/TEST" ,ARENA HD 6 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/464
+#EXTINF:-1 tvg-id="1858" tvg-name="ARENA FHD 1 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png" group-title="SPORT/TEST" ,ARENA FHD 1 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1858
+#EXTINF:-1 tvg-id="21" tvg-name="ARENA FHD 2 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png" group-title="SPORT/TEST" ,ARENA FHD 2 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1859
+#EXTINF:-1 tvg-id="1860" tvg-name="ARENA FHD 3 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena3_logo.png" group-title="SPORT/TEST" ,ARENA FHD 3 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1860
+#EXTINF:-1 tvg-id="23" tvg-name="ARENA FHD 4 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena4_logo.png" group-title="SPORT/TEST" ,ARENA FHD 4 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1861
+#EXTINF:-1 tvg-id="1862" tvg-name="ARENA FHD 5 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena5_logo.png" group-title="SPORT/TEST" ,ARENA FHD 5 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1862
+#EXTINF:-1 tvg-id="1979" tvg-name="ARENA FHD 6 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena6_logo.png" group-title="SPORT/TEST" ,ARENA FHD 6 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1979
+#EXTINF:-1 tvg-id="1980" tvg-name="ARENA FHD 7 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/50x50/5/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="SPORT/TEST" ,ARENA FHD 7 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1980
+#EXTINF:-1 tvg-id="1981" tvg-name="ARENA FHD 8 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/50x50/5/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="SPORT/TEST" ,ARENA FHD 8 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1981
+#EXTINF:-1 tvg-id="1982" tvg-name="ARENA FHD 9 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/50x50/5/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="SPORT/TEST" ,ARENA FHD 9 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1982
+#EXTINF:-1 tvg-id="1983" tvg-name="ARENA FHD 10 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/50x50/5/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="SPORT/TEST" ,ARENA FHD 10 HR
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1983
+#EXTINF:-1 tvg-id="2307" tvg-name="ARENA PREMIUM 1 HD BiH" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_1_Premium_BiH_BA_logo.png" group-title="SPORT/TEST" ,ARENA PREMIUM 1 HD BiH
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2307
+#EXTINF:-1 tvg-id="2408" tvg-name="ARENA PREMIUM 2 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA PREMIUM 2 HD BIH
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2408
+#EXTINF:-1 tvg-id="2409" tvg-name="ARENA PREMIUM 3 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA PREMIUM 3 HD BIH
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2409
+#EXTINF:-1 tvg-id="2037" tvg-name="ARENA PREMIUM 1 HD" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORT/TEST" ,ARENA PREMIUM 1 HD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2037
+#EXTINF:-1 tvg-id="2038" tvg-name="ARENA PREMIUM 2 HD" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORT/TEST" ,ARENA PREMIUM 2 HD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2038
+#EXTINF:-1 tvg-id="2039" tvg-name="ARENA PREMIUM 3 HD" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORT/TEST" ,ARENA PREMIUM 3 HD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2039
+#EXTINF:-1 tvg-id="2382" tvg-name="ARENA PREMIUM 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-4-rs.png" group-title="SPORT/TEST" ,ARENA PREMIUM 4 HD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2382
+#EXTINF:-1 tvg-id="2383" tvg-name="ARENA PREMIUM 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-5-rs.png" group-title="SPORT/TEST" ,ARENA PREMIUM 5 HD
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2383
+#EXTINF:-1 tvg-id="1873" tvg-name="ARENA 1 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA 1 HD BIH
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1873
+#EXTINF:-1 tvg-id="2384" tvg-name="ARENA 2 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA 2 HD BIH
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2384
+#EXTINF:-1 tvg-id="2385" tvg-name="ARENA 3 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA 3 HD BIH
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2385
+#EXTINF:-1 tvg-id="2386" tvg-name="ARENA 4 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA 4 HD BIH
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2386
+#EXTINF:-1 tvg-id="2387" tvg-name="ARENA 5 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA 5 HD BIH
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2387
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ARENA 1 SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png" group-title="SPORT/TEST" ,ARENA 1 SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/100
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ARENA 2 SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png" group-title="SPORT/TEST" ,ARENA 2 SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/101
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="ARENA 3 SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png" group-title="SPORT/TEST" ,ARENA 3 SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/102
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="ARENA 4 SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png" group-title="SPORT/TEST" ,ARENA 4 SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/35
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="ARENA 5 SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena5.png" group-title="SPORT/TEST" ,ARENA 5 SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/121
+#EXTINF:-1 tvg-id="1336" tvg-name="ARENA 1 HD SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png" group-title="SPORT/TEST" ,ARENA 1 HD SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1336
+#EXTINF:-1 tvg-id="1337" tvg-name="ARENA 2 HD SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png" group-title="SPORT/TEST" ,ARENA 2 HD SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1337
+#EXTINF:-1 tvg-id="1338" tvg-name="ARENA 3 HD SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png" group-title="SPORT/TEST" ,ARENA 3 HD SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1338
+#EXTINF:-1 tvg-id="1339" tvg-name="ARENA 4 HD SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png" group-title="SPORT/TEST" ,ARENA 4 HD SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1339
+#EXTINF:-1 tvg-id="1930" tvg-name="ARENA 5 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 5 HD SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1930
+#EXTINF:-1 tvg-id="2052" tvg-name="ARENA 6 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 6 HD SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2052
+#EXTINF:-1 tvg-id="2053" tvg-name="ARENA 7 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 7 HD SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2053
+#EXTINF:-1 tvg-id="2054" tvg-name="ARENA 8 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 8 HD SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2054
+#EXTINF:-1 tvg-id="2377" tvg-name="ARENA 9 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 9 HD SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2377
+#EXTINF:-1 tvg-id="2379" tvg-name="ARENA 10 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 10 HD SRB
+http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2379
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Dazn 1 es
+http://195.178.110.110/dazn1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Dazn 1 es
+http://195.178.110.110/dazn2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Dazn 1 es
+http://195.178.110.110/dazn3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Dazn 1 es
+http://195.178.110.110/dazn4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Dazn f1 es
+http://195.178.110.110/daznf1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",liga 1 Max pe
+http://195.178.110.110/liga1max/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Foxsports premium amozon
+http://195.178.110.110/foxsportspremium/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Foxdeportes
+http://195.178.110.110/foxdeportes/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Espnpremium HD
+http://195.178.110.110/espnpremium/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Espndeportes
+http://195.178.110.110/espndeportes/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Win plus HD
+http://195.178.110.110/winplus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Win sports HD
+http://195.178.110.110/winsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Win sports 2 HD
+http://195.178.110.110/winsports2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Tudn
+http://195.178.110.110/tudn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",fox 1 amozon HD
+http://195.178.110.110/foxsportsmx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",fox 2 amozon HD
+http://195.178.110.110/foxsports2mx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",foxsports 3 HD
+http://195.178.110.110/foxsports3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",DSports
+http://195.178.110.110/dsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",DSports
+http://195.178.110.110/dsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",DSports 2
+http://195.178.110.110/dsports2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",DSports Plus
+http://195.178.110.110/dsportsplus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",TntSports
+http://195.178.110.110/tntsports/index.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Tyc Sports
+http://195.178.110.110/tycsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",SporTV
+http://195.178.110.110/sportv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",SporTV 2
+http://195.178.110.110/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",SporTV 3
+http://195.178.110.110/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN
+http://195.178.110.110/espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 2
+http://195.178.110.110/espn2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 3
+http://195.178.110.110/espn3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 4
+http://195.178.110.110/espn4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 5
+http://195.178.110.110/espn5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 6
+http://195.178.110.110/espn6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 7
+http://195.178.110.110/espn7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN mx
+http://195.178.110.110/espnmx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 2 mx
+http://195.178.110.110/espn2mx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 3 mx
+http://195.178.110.110/espn3mx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 4 mx
+http://195.178.110.110/espn4mx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 1
+http://195.178.110.110/premiere1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 2
+http://195.178.110.110/premiere2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 3
+http://195.178.110.110/premiere3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 4
+http://195.178.110.110/premiere4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 5
+http://195.178.110.110/premiere5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 6
+http://195.178.110.110/premiere6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 7
+http://195.178.110.110/premiere7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 1 HD
+http://195.178.110.110/even1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 2 HD
+http://195.178.110.110/even2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 3 HD
+http://195.178.110.110/even3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 4 HD
+http://195.178.110.110/even4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 5 HD
+http://195.178.110.110/even5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",TntSports HD
+http://195.178.110.110/even6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 7 HD
+http://195.178.110.110/even7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 8 HD
+http://195.178.110.110/even8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Hypermotion 1 HD es
+http://195.178.110.110/hypermotion1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Hypermotion 2 HD es
+http://195.178.110.110/hypermotion2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Hypermotion 3 HD es
+http://195.178.110.110/hypermotion3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Azteca 7
+http://195.178.110.110/azteca7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Canal5 HD
+http://195.178.110.110/canal5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Telemundo
+http://195.178.110.110/telemundo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Movistar
+http://195.178.110.110/movistar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Unimas
+http://190.197.41.183/Unimas/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Univision
+http://195.178.110.110/univision/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Universo
+http://195.178.110.110/universo/index.m3u8
 
 
 
