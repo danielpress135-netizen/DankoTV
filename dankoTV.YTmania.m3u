@@ -6,6 +6,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",TRUMP TV - The Essentials Station
 https://www.youtube.com/watch?v=A4gNgHfZ-v4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Trump Report Station
+https://www.youtube.com/watch?v=P5mODouEKac
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Пловдивска Православна телевизия" tvg-logo="" group-title="youtube.tv",Пловдивска Православна телевизия
 https://www.youtube.com/watch?v=zhJ4LHPt7dk
 #EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-name="Bulgaria 24" tvg-logo="https://i.imgur.com/XMlnMb8.png" group-title="youtube.tv", България 24 Live
@@ -605,6 +607,8 @@ https://www.youtube.com/watch?v=EXHWKmJ4dwQ
 https://www.youtube.com/watch?v=DqyPK2jdxGM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Christians",Pagode Restaura - Mais Tocadas - Pagode Gospel 
 https://www.youtube.com/watch?v=M2dgs_BwofU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Christians",Charity Gayle - Official Station
+https://www.youtube.com/watch?v=tKOxRsrzZeM
 
 
 
@@ -677,6 +681,13 @@ https://www.youtube.com/watch?v=up5_JOCSWO8
 https://www.youtube.com/watch?v=XJRVTOlVuHo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Reggae Rock",PROTOJE TV
 https://www.youtube.com/watch?v=064S1UeYN7Q
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - France",Cœur de Pirate - La Station
+https://www.youtube.com/watch?v=meRXLMwqFkY
 
 
 
@@ -1075,13 +1086,27 @@ https://www.youtube.com/playlist?list=PL7O98C1ST92seYn53JFDIkcc3eB0HzZx7
 https://www.youtube.com/playlist?list=PL7O98C1ST92sPNA_n-214Q98cJwc3-fBm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",Discovery - Двойно оцеляване
 https://www.youtube.com/playlist?list=PL7O98C1ST92sHv0PTR_o6HQwqWjoO8BvI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",Nature Time
+https://www.youtube.com/playlist?list=PLYmxMxGxJYw8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",ФИЛМИ БГ АУДИО
+https://www.youtube.com/playlist?list=PLPofuvWcqn-0eIEJCm5cHdzSlnK10MSKA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",Филми #бг аудио
+https://www.youtube.com/playlist?list=PLNQlBHi0oVDtdzsqQpZ8oI10UTme31axQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",BG-BG ФИЛМИ БГ АУДИО
+https://www.youtube.com/playlist?list=PLdRXd1HjsS3svm2pG23OGkolBMBBfu05s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",POLMEDIA - Цели филми на български
+https://www.youtube.com/playlist?list=PL2UI2P0sy-4DZiEzqBYN0Y1ZFuNtQ94m4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",🪲 Minuscule: The Animated Series seson 2
+https://www.youtube.com/playlist?list=PL7eLsxQrsg-69_M01yj2OHYtCaM9N3ypx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",🪲 Minuscule: The Animated Series seson 1
+https://www.youtube.com/playlist?list=PL7eLsxQrsg-5XomfLKJsXuPg9qSYcG30a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
+
 
 
 
@@ -1106,7 +1131,8 @@ https://www.youtube.com/playlist?list=PLvQkHJi9WIlJcmfhcpbHj2KFOrjcmJIy0
 https://www.youtube.com/playlist?list=PLvQkHJi9WIlJJfgzifsUsDOFmZMvfw2X-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - RUSSIA",Discovery - Оружие по-американски
 https://www.youtube.com/playlist?list=PLvQkHJi9WIlJlwuFlg2BRe8cVAwUtZY7h
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - RUSSIA",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - RUSSIA",МОСФИЛЬМ - Фильмы в 4К, Full HD
+https://www.youtube.com/playlist?list=PL4dWJMOQ_a1R9gyHhN7HHevW8crWu8DCa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - RUSSIA",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - RUSSIA",
 
