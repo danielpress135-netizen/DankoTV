@@ -1,338 +1,410 @@
 #EXTM3U   x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",TRUMP TV - The Essentials Station
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",TRUMP TV - The Essentials Station
 https://www.youtube.com/watch?v=A4gNgHfZ-v4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Trump Report Station
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",Trump Report Station
 https://www.youtube.com/watch?v=P5mODouEKac
-#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Пловдивска Православна телевизия" tvg-logo="" group-title="youtube.tv",Пловдивска Православна телевизия
-https://www.youtube.com/watch?v=zhJ4LHPt7dk
-#EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-name="Bulgaria 24" tvg-logo="https://i.imgur.com/XMlnMb8.png" group-title="youtube.tv", България 24 Live
-https://www.youtube.com/watch?v=TsPPWPpl_uM
-#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="youtube.tv",HRT 4 
-https://www.youtube.com/watch?v=_n1zk0VMyLA
-#EXTINF:-1 tvg-id="DW.ru" tvg-name="DW на русском" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="youtube.tv",DW на русском
-https://www.youtube.com/watch?v=gP7872YRFDk
-#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="youtube.tv",CGTN Russian
-https://www.youtube.com/watch?v=C3BKx6JxCQU
-#EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-name="Настоящее Время" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="youtube.tv",Настоящее Время
-https://www.youtube.com/watch?v=t9Ilev-uk4w
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ТЕЛЕКАНАЛ МИССИЯ ВОЗРОЖДЕНИЕ МИРА
-https://www.youtube.com/watch?v=U12F2XO6QX0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Имидж тв филми онлайн
-https://www.youtube.com/watch?v=0cuNFg4wE9M
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Russian
-https://www.youtube.com/watch?v=lwYzwdBiaho
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Сериал - "Сваты"
-https://www.youtube.com/watch?v=L-Jj68tHV10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",TOM and JERRY in NY
-https://www.youtube.com/watch?v=rEKifG2XUZg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Cars
-https://www.youtube.com/watch?v=yzKTO-6KWHU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Learning Time with Timmy
-https://www.youtube.com/watch?v=rSa5g8z_YdA
-#EXTINF:-1 tvg-id="earthTV.de" tvg-name="EarthTV" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="youtube.tv",The World Live - EarthTV
-https://www.youtube.com/watch?v=HfgIFGbdGJ0
-#EXTINF:-1 tvg-id="" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="youtube.tv",China Travel
-https://www.youtube.com/watch?v=LJgXwC-AKu8
-#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="" tvg-logo="" group-title="youtube.tv",Euronews Travel Channel
-https://www.youtube.com/watch?v=08AInuYFKl0
-#EXTINF:-1 tvg-id="ArcadiaWorldHD.at" tvg-name="Arcadia World HD" tvg-logo="https://i.imgur.com/pGooWxW.png" group-title="youtube.tv",Arcadia World HD (bg)
-https://www.youtube.com/watch?v=VMTp2W0V2iA
-#EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-name="Supreme Master TV" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="youtube.tv",Supreme Master TV  
-https://www.youtube.com/watch?v=ZzWBpGwKoaI
-#EXTINF:-1 tvg-id="Cruise1stTV.uk" tvg-name="Cruise1st TV" tvg-logo="https://i.imgur.com/L1bysJS.png" group-title="youtube.tv",Cruise1st TV
-https://www.youtube.com/watch?v=aTJGSuZPNpM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Dick Van Dyke Show
-https://www.youtube.com/watch?v=Y0vqwbt0A0w
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="youtube.tv",CGTN 
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="YouTubeTV - English",CGTN 
 https://www.youtube.com/watch?v=0i7n3r01L2U
-#EXTINF:-1 tvg-id="CGTNEurope.uk" tvg-name="CGTN Europe" tvg-logo="https://i.imgur.com/oz0FQsE.png" group-title="youtube.tv",CGTN Europe
+#EXTINF:-1 tvg-id="CGTNEurope.uk" tvg-name="CGTN Europe" tvg-logo="https://i.imgur.com/oz0FQsE.png" group-title="YouTubeTV - English",CGTN Europe
 https://www.youtube.com/watch?v=fZqr56lztHw
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="youtube.tv",Sky News
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="YouTubeTV - English",Sky News
 https://www.youtube.com/watch?v=xDWQ3LkccY8
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="youtube.tv",ABC News
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="YouTubeTV - English",ABC News
 https://www.youtube.com/watch?v=vOTiJkg1voo
-#EXTINF:-1 tvg-id="" tvg-name="ABC7 Eyewitness News" tvg-logo="" group-title="youtube.tv",ABC7 Eyewitness News
+#EXTINF:-1 tvg-id="" tvg-name="ABC7 Eyewitness News" tvg-logo="" group-title="YouTubeTV - English",ABC7 Eyewitness News
 https://www.youtube.com/watch?v=s3iVFJoxrYc
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="youtube.tv",DW News
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="YouTubeTV - English",DW News
 https://www.youtube.com/watch?v=LuKwFajn37U
-#EXTINF:-1 tvg-id="DW.es" tvg-name="DW Español" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="youtube.tv",DW Español
-https://www.youtube.com/watch?v=yZh3xsFqCt8
-#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="youtube.tv",Bloomberg Originals
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="YouTubeTV - English",Bloomberg Originals
 https://www.youtube.com/watch?v=DxmDPrfinXY
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="youtube.tv",Bloomberg TV
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="YouTubeTV - English",Bloomberg TV
 https://www.youtube.com/watch?v=f39oHo6vFLg
-#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="youtube.tv",Yahoo Finance
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="YouTubeTV - English",Yahoo Finance
 https://www.youtube.com/watch?v=KQp-e_XQnDE
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="youtube.tv",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="YouTubeTV - English",Al Jazeera English
 https://www.youtube.com/watch?v=gCNeDWCI0vo
-#EXTINF:-1 tvg-id="KBSKorea.kr" tvg-name="KBS Korea" tvg-logo="https://i.imgur.com/Dy1xwEd.png" group-title="youtube.tv",KBS KOREA
-https://www.youtube.com/watch?v=OxQQsIvJTTU
-#EXTINF:-1 tvg-id="YTNDMB.kr" tvg-name="YTN DMB" tvg-logo="https://i.imgur.com/50VQSBk.png" group-title="youtube.tv",YTN DMB
-https://www.youtube.com/watch?v=50HUC32RyJA
-#EXTINF:-1 tvg-id="MaurienneTV.fr" tvg-name="Maurienne TV" tvg-logo="https://i.imgur.com/eBfEe61.png" group-title="youtube.tv",Maurienne TV
-https://www.youtube.com/watch?v=5ARTNKq49WY
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="youtube.tv",franceinfo
-https://www.youtube.com/watch?v=NG7ZX42nZKc
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="youtube.tv",FRANCE 24
-https://www.youtube.com/watch?v=a47ckXKZjxI
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png" group-title="youtube.tv",Euronews English
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png" group-title="YouTubeTV - English",Euronews English
 https://www.youtube.com/watch?v=pykpO5kQJ98
-#EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-name="Euronews Deutsch" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png" group-title="youtube.tv",Euronews Deutsch
-https://www.youtube.com/watch?v=CQ3KsEbsYHs
-#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-name="euronews Italiano" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Italiano
-https://www.youtube.com/watch?v=pUcmpyynASM
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="euronews en español" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" group-title="youtube.tv",euronews español
-https://www.youtube.com/watch?v=O9mOtdZ-nSk
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews Português" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews em Português
-https://www.youtube.com/watch?v=XuZAl-ZPEcA
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-name="Euronews Français" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews français
-https://www.youtube.com/watch?v=NiRIbKwAejk
-#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="youtube.tv",Euronews România
-https://www.youtube.com/watch?v=XNcx7TFm6zg
-#EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Greek
-https://www.youtube.com/watch?v=uWIhV9gQClg
-#EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-name="Euronews Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Hungarian
-https://www.youtube.com/watch?v=jAn7L2Kt32U
-#EXTINF:-1 tvg-id="EuronewsKazakh.kz" tvg-name="Euronews Kazakh" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Kazakh 
-https://www.youtube.com/watch?v=iW7mGG9GXTU
-#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews Polski" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="youtube.tv",Euronews Polski
-https://www.youtube.com/watch?v=fG7PjdiKaBY
-#EXTINF:-1 tvg-id="EuronewsArabic.ct" tvg-name="Euronews Arabic" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube.tv",Euronews Arabic
-https://www.youtube.com/watch?v=A8eHIQdTpvQ
-#EXTINF:-1 tvg-id="TVS.cz" tvg-name="Televize TVS" tvg-logo="https://i.imgur.com/BqFeyDv.png" group-title="youtube.tv",Televize TVS  cz
-https://www.youtube.com/watch?v=Wr2lfcqVI9U
-#EXTINF:-1 tvg-id="TelevizeFILMpro.cz" tvg-name="Televize FILMpro" tvg-logo="https://i.imgur.com/7OY5EPh.jpg" group-title="youtube.tv",Televize FILMpro cz
-https://www.youtube.com/watch?v=qowVBqGn2jE
-#EXTINF:-1 tvg-id="TVRepublikaPlus.pl" tvg-name="TV Republika Plus" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="youtube.tv",Republika Plus
-https://www.youtube.com/watch?v=vcQ05GitXUM
-#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="youtube.tv",Telewizja Republika
-https://www.youtube.com/watch?v=dzntyCTgJMQ
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="https://i.imgur.com/qXrrNxv.png" group-title="youtube.tv",TVP INFO
-https://www.youtube.com/watch?v=3jKb-uThfrg
-#EXTINF:-1 tvg-id="Biznes24.pl" tvg-name="Biznes 24" tvg-logo="https://i.imgur.com/0yoFsuq.png" group-title="youtube.tv",telewizja BIZNES24 
-https://www.youtube.com/watch?v=1ocbJcGikfM
-#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="Telewizja wPolsce24" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="youtube.tv",Telewizja wPolsce24
-https://www.youtube.com/watch?v=loS6SQnNnqg
-#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-name="Telewizja Regionalna Zary" tvg-logo="https://i.imgur.com/FB9H8DO.png" group-title="youtube.tv",Telewizja Wielkopolska
-https://www.youtube.com/watch?v=FZO3yES6Ag0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Earthquake monitor
-https://www.youtube.com/watch?v=VGevOp5cNEU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",LIVE 3D Globe Earthquake Monitor
-https://www.youtube.com/watch?v=U8x51eUfFTI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Show MAX Canlı
-https://www.youtube.com/watch?v=Y3vGHFrsqrs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",a2 Canlı
-https://www.youtube.com/watch?v=HtnytvwXi5o
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Star TV - Canlı
-https://www.youtube.com/watch?v=82O6yOy_XwE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",NTV Canlı
-https://www.youtube.com/watch?v=pqq5c6k70kk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",24 TV Canlı
-https://www.youtube.com/watch?v=6B-nPOdP720
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Habertürk TV Canlı
-https://www.youtube.com/watch?v=RNVNlJSUFoE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CNN TÜRK
-https://www.youtube.com/watch?v=6N8_r2uwLEc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",beIN SPORTS HABER Canlı
-https://www.youtube.com/watch?v=i7UpPgxfZZ8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",HSN
-https://www.youtube.com/watch?v=1ph8qQnjXts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",HSN 2
-https://www.youtube.com/watch?v=q-BvtDrTnxc
-#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-name="Ideal World TV" tvg-logo="https://i.imgur.com/su6GH7i.png" group-title="youtube.tv",Ideal World TV UK
-https://www.youtube.com/watch?v=pNVWQQjMNqQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",PEARL TV
-https://www.youtube.com/watch?v=HwnR8DmTJqg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",TJC
-https://www.youtube.com/watch?v=Zswxn5QW_54
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Jewelry Television
-https://www.youtube.com/watch?v=nL5H_f37WRE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Fashion Finds
-https://www.youtube.com/watch?v=RwZYu_c13kA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Outdoor Escape
-https://www.youtube.com/watch?v=c728BwxpS5s
-#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC UK Beauty Channel" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="youtube.tv",QVC UK Beauty Channel
-https://www.youtube.com/watch?v=B-A-co6p2BI
-#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-name="QVC Extra" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="youtube.tv",QVC UK Extra Channel 
-https://www.youtube.com/watch?v=8m3sdzsPxXg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",QVC  usa
-https://www.youtube.com/watch?v=ufwLk92fA9k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",QVC 2  usa
-https://www.youtube.com/watch?v=ott_wC2a06I
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",QVC 3  usa
-https://www.youtube.com/watch?v=xBGuhy6YpbA
-#EXTINF:-1 tvg-id="HighStreetTV1.uk" tvg-name="High Street TV 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3580.png" group-title="youtube.tv",High Street TV 1 (UK)
-https://www.youtube.com/watch?v=z7LFHuBwbpc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",MsMojo
-https://www.youtube.com/watch?v=9gtxyOwIBxs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",MojoPlays
-https://www.youtube.com/watch?v=uNYzA22s1Cs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",WatchMojo
-https://www.youtube.com/watch?v=AHa_Uz50sJk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",A24 EN VIVO
-https://www.youtube.com/watch?v=ArKbAx1K-2U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CANAL 24H 
-https://www.youtube.com/watch?v=b4tE5aKhtlg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",TELEFE NOTICIAS 24HS
-https://www.youtube.com/watch?v=XhAYcYpPzTc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",N+ FORO Noticias
-https://www.youtube.com/watch?v=p2AzyIEuFak 
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher" tvg-logo="https://i.imgur.com/X80DQvF.png" group-title="youtube.tv",Al jazeera Mubasher
-https://www.youtube.com/watch?v=8D5QY5gw_Xk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",LRT LITUANICA
-https://www.youtube.com/watch?v=m67gYVnA100
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CANAL 26 EN VIVO EN 4K - Noticias internacionales
-https://www.youtube.com/watch?v=C_RnFD6xiX8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Canal Siete
-https://www.youtube.com/watch?v=Vh8xmLBJtR8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",AMÉRICA TV INTERNACIONAL
-https://www.youtube.com/watch?v=zcWXboTnous
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Berks Community Television
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",Berks Community Television
 https://www.youtube.com/watch?v=1d50hM_esPA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",N+ Monterrey 
-https://www.youtube.com/watch?v=u_vBHLK0Ppc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Canal 6 Guadalajara
-https://www.youtube.com/watch?v=XDo_FvBYvUI
-#EXTINF:-1 tvg-id="France24Español.fr" tvg-name="FRANCE 24 Español" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="youtube.tv",FRANCE 24 Español 
-https://www.youtube.com/watch?v=zTv0hCakAhg
-#EXTINF:-1 tvg-id="DW.ar" tvg-name="DW Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="youtube.tv",DW Arabic
-https://www.youtube.com/watch?v=AGkp2AL8e7o
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="FRANCE 24 English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="youtube.tv",FRANCE 24 English
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="FRANCE 24 English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="YouTubeTV - English",FRANCE 24 English
 https://www.youtube.com/watch?v=HvZt-nh9sGg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ABC 7 New York
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",ABC 7 New York
 https://www.youtube.com/watch?v=VrhYz4CL70I
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",The Victory Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",The Victory Channel
 https://www.youtube.com/watch?v=puUHK7ahyLo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",United Nations
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",United Nations
 https://www.youtube.com/watch?v=vYRfQo6JMxc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Amazing Facts TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",Amazing Facts TV
 https://www.youtube.com/watch?v=9spifqMjZCE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBN News
 https://www.youtube.com/watch?v=OviZBygJBOQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",News 12 New York
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",News 12 New York
 https://www.youtube.com/watch?v=JEtvLd4B-AY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",6 abc Philadelphia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",6 abc Philadelphia
 https://www.youtube.com/watch?v=sNi1KbGCJ3o
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ABC11 Raleigh-Durham
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",ABC11 Raleigh-Durham
 https://www.youtube.com/watch?v=ueregi3uBNQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL NY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL NY
 https://www.youtube.com/watch?v=ADXWeM9wsDw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Minnesota 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Minnesota 
 https://www.youtube.com/watch?v=NL3DQm0B5wM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Phoenix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Phoenix
 https://www.youtube.com/watch?v=qilQmQW8Dqg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL San Francisco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL San Francisco
 https://www.youtube.com/watch?v=rM8rkzxKZRs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Philadelphia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Philadelphia
 https://www.youtube.com/watch?v=Yo5G6C9Qex8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Atlanta 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Atlanta 
 https://www.youtube.com/watch?v=egVaFAi74cI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Houston
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Houston
 https://www.youtube.com/watch?v=og9_jHrGwQg  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Detroit
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Detroit
 https://www.youtube.com/watch?v=_Yf-hAf3mvM 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL DC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL DC
 https://www.youtube.com/watch?v=CpYKIeqU1qc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Tampa Bay
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Tampa Bay
 https://www.youtube.com/watch?v=OY1dcr-zr6Q
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Seattle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Seattle
 https://www.youtube.com/watch?v=BZ2eIuu0m_k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Milwaukee
 https://www.youtube.com/watch?v=DwrIZbw5oig 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Austin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Austin
 https://www.youtube.com/watch?v=4qiWy7ohNUI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Dallas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Dallas
 https://www.youtube.com/watch?v=HkfKsRa9qnE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Orlando
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Orlando
 https://www.youtube.com/watch?v=8FOpii0O2mU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Chicago
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Chicago
 https://www.youtube.com/watch?v=E2gGh3BEhEA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX LOCAL Los Angeles
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX LOCAL Los Angeles
 https://www.youtube.com/watch?v=8u8pQ_uLGjo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX19 NOW Weather Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX19 NOW Weather Channel
 https://www.youtube.com/watch?v=fc9NcfJNFlY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",FOX Weather Channel 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",FOX Weather Channel 
 https://www.youtube.com/watch?v=wt6SIE7BXS8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",YTN
-https://www.youtube.com/watch?v=qkBMMCs8sB4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",YTN DMB
-https://www.youtube.com/watch?v=2C2WCLhDsR4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",YonhapnewsTV
-https://www.youtube.com/watch?v=6QZ_qc75ihU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",MBC NEWS
-https://www.youtube.com/watch?v=q9bM12ucTIY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",MKeconomy_TV [라이브] 대한민국 대표 재테크 채널 매일경제TV
-https://www.youtube.com/watch?v=s9xL1DpBsfQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Yonhap Infomax TV 연합뉴스경제
-https://www.youtube.com/watch?v=yhpbioCP6nA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Seoul Economy TV 트레이딩 No.1 서울경제TV│주식│증권│재테크
-https://www.youtube.com/watch?v=ciA-0rInLwQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",TomatoTV
-https://www.youtube.com/watch?v=w05Ejc0iOVI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Asharq Bloomberg 
-https://www.youtube.com/watch?v=f6VpkfV7m4Y
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Alaraby TV News
-https://www.youtube.com/watch?v=e2RgSa1Wt5o
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",AlArabiya
-https://www.youtube.com/watch?v=n7eQejkXbnM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",tv.berlin
-https://www.youtube.com/watch?v=Kwz-0udZwEQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",No Dunks 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CNBC Marathon - Documentaries and deep dives 24/7
+https://www.youtube.com/watch?v=9NyxcX3rhQs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",No Dunks 
 https://www.youtube.com/watch?v=qAwcOdH7qrs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",nectarHouse Station
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",nectarHouse Station
 https://www.youtube.com/watch?v=DkIdYHC_dsw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Boston City TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",Boston City TV
 https://www.youtube.com/watch?v=jAiukxQ53OI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Toronto
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Toronto
 https://www.youtube.com/watch?v=mM3kOpgjm98
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Saskatchewan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Saskatchewan
 https://www.youtube.com/watch?v=XlMhLzwI1eY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Nova Scotia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Nova Scotia
 https://www.youtube.com/watch?v=Utk7BN9X1Dk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Quebec
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Quebec
 https://www.youtube.com/watch?v=WIgNWfoZQ4g
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News New Brunswick
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News New Brunswick
 https://www.youtube.com/watch?v=GE63kL2HU7I
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Ottawa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Ottawa
 https://www.youtube.com/watch?v=vapwNrS802k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Calgary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Calgary
 https://www.youtube.com/watch?v=GXan5ROsd08
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News British Columbia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News British Columbia
 https://www.youtube.com/watch?v=OHt8RHPdxrw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Edmonton
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Edmonton
 https://www.youtube.com/watch?v=ncgbz1TdPK0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Newfoundland and Labrador
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Newfoundland and Labrador
 https://www.youtube.com/watch?v=KJb3pSYYkTQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Manitoba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Manitoba
 https://www.youtube.com/watch?v=aizaz75Or0M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Prince Edward Island
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Prince Edward Island
 https://www.youtube.com/watch?v=7AdMRdh2L7s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News Windsor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News Windsor
 https://www.youtube.com/watch?v=gm-PuobKxd4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",CBC News North
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",CBC News North
 https://www.youtube.com/watch?v=KK-o-idbQho
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Axel! TV - 24/7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",WION LIVE News English
+https://www.youtube.com/watch?v=vfszY1JYbMc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",WION LIVE News world
+https://www.youtube.com/watch?v=X-7LAkvfA5s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",GB News 
+https://www.youtube.com/watch?v=I8E6eDmhegY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",NBC10 Philadelphia News
+https://www.youtube.com/watch?v=BbCxHt5vUik
+
+
+
+
+
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Пловдивска Православна телевизия" tvg-logo="" group-title="YouTubeTV - Europa",Пловдивска Православна телевизия
+https://www.youtube.com/watch?v=zhJ4LHPt7dk
+#EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-name="Bulgaria 24" tvg-logo="https://i.imgur.com/XMlnMb8.png" group-title="YouTubeTV - Europa", България 24 Live
+https://www.youtube.com/watch?v=TsPPWPpl_uM
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="YouTubeTV - Europa",HRT 4 
+https://www.youtube.com/watch?v=_n1zk0VMyLA
+#EXTINF:-1 tvg-id="DW.ru" tvg-name="DW на русском" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="YouTubeTV - Europa",DW на русском
+https://www.youtube.com/watch?v=gP7872YRFDk
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="YouTubeTV - Europa",CGTN Russian
+https://www.youtube.com/watch?v=C3BKx6JxCQU
+#EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-name="Настоящее Время" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="YouTubeTV - Europa",Настоящее Время
+https://www.youtube.com/watch?v=t9Ilev-uk4w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",ТЕЛЕКАНАЛ МИССИЯ ВОЗРОЖДЕНИЕ МИРА
+https://www.youtube.com/watch?v=U12F2XO6QX0
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Russian
+https://www.youtube.com/watch?v=lwYzwdBiaho
+#EXTINF:-1 tvg-id="MaurienneTV.fr" tvg-name="Maurienne TV" tvg-logo="https://i.imgur.com/eBfEe61.png" group-title="YouTubeTV - Europa",Maurienne TV
+https://www.youtube.com/watch?v=5ARTNKq49WY
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="YouTubeTV - Europa",franceinfo
+https://www.youtube.com/watch?v=NG7ZX42nZKc
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="YouTubeTV - Europa",FRANCE 24
+https://www.youtube.com/watch?v=a47ckXKZjxI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",Axel! TV - 24/7
 https://www.youtube.com/watch?v=nmEGUClHwhc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Камеди Клаб - ВСЕ ВЫПУСКИ И СЕЗОНЫ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",tv.berlin
+https://www.youtube.com/watch?v=Kwz-0udZwEQ
+#EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-name="Euronews Deutsch" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png" group-title="YouTubeTV - Europa",Euronews Deutsch
+https://www.youtube.com/watch?v=CQ3KsEbsYHs
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-name="euronews Italiano" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Italiano
+https://www.youtube.com/watch?v=pUcmpyynASM
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="euronews en español" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" group-title="YouTubeTV - Europa",euronews español
+https://www.youtube.com/watch?v=O9mOtdZ-nSk
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews Português" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews em Português
+https://www.youtube.com/watch?v=XuZAl-ZPEcA
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-name="Euronews Français" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews français
+https://www.youtube.com/watch?v=NiRIbKwAejk
+#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="YouTubeTV - Europa",Euronews România
+https://www.youtube.com/watch?v=XNcx7TFm6zg
+#EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Greek
+https://www.youtube.com/watch?v=uWIhV9gQClg
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-name="Euronews Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Hungarian
+https://www.youtube.com/watch?v=jAn7L2Kt32U
+#EXTINF:-1 tvg-id="EuronewsKazakh.kz" tvg-name="Euronews Kazakh" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Kazakh 
+https://www.youtube.com/watch?v=iW7mGG9GXTU
+#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews Polski" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="YouTubeTV - Europa",Euronews Polski
+https://www.youtube.com/watch?v=fG7PjdiKaBY
+#EXTINF:-1 tvg-id="TVS.cz" tvg-name="Televize TVS" tvg-logo="https://i.imgur.com/BqFeyDv.png" group-title="YouTubeTV - Europa",Televize TVS  cz
+https://www.youtube.com/watch?v=Wr2lfcqVI9U
+#EXTINF:-1 tvg-id="TVRepublikaPlus.pl" tvg-name="TV Republika Plus" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="YouTubeTV - Europa",Republika Plus
+https://www.youtube.com/watch?v=vcQ05GitXUM
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="YouTubeTV - Europa",Telewizja Republika
+https://www.youtube.com/watch?v=dzntyCTgJMQ
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="https://i.imgur.com/qXrrNxv.png" group-title="YouTubeTV - Europa",TVP INFO
+https://www.youtube.com/watch?v=3jKb-uThfrg
+#EXTINF:-1 tvg-id="Biznes24.pl" tvg-name="Biznes 24" tvg-logo="https://i.imgur.com/0yoFsuq.png" group-title="YouTubeTV - Europa",telewizja BIZNES24 
+https://www.youtube.com/watch?v=1ocbJcGikfM
+#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="Telewizja wPolsce24" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="YouTubeTV - Europa",Telewizja wPolsce24
+https://www.youtube.com/watch?v=loS6SQnNnqg
+#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-name="Telewizja Regionalna Zary" tvg-logo="https://i.imgur.com/FB9H8DO.png" group-title="YouTubeTV - Europa",Telewizja Wielkopolska
+https://www.youtube.com/watch?v=FZO3yES6Ag0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",LRT LITUANICA
+https://www.youtube.com/watch?v=m67gYVnA100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",A24 EN VIVO
+https://www.youtube.com/watch?v=ArKbAx1K-2U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",CANAL 24H 
+https://www.youtube.com/watch?v=b4tE5aKhtlg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",TELEFE NOTICIAS 24HS
+https://www.youtube.com/watch?v=XhAYcYpPzTc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",N+ FORO Noticias
+https://www.youtube.com/watch?v=p2AzyIEuFak 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",CANAL 26 EN VIVO EN 4K - Noticias internacionales
+https://www.youtube.com/watch?v=C_RnFD6xiX8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",Canal Siete
+https://www.youtube.com/watch?v=Vh8xmLBJtR8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",AMÉRICA TV INTERNACIONAL
+https://www.youtube.com/watch?v=zcWXboTnous
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",N+ Monterrey 
+https://www.youtube.com/watch?v=u_vBHLK0Ppc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",Canal 6 Guadalajara
+https://www.youtube.com/watch?v=XDo_FvBYvUI
+#EXTINF:-1 tvg-id="France24Español.fr" tvg-name="FRANCE 24 Español" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="YouTubeTV - Europa",FRANCE 24 Español 
+https://www.youtube.com/watch?v=zTv0hCakAhg
+#EXTINF:-1 tvg-id="DW.es" tvg-name="DW Español" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="YouTubeTV - Europa",DW Español
+https://www.youtube.com/watch?v=yZh3xsFqCt8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Имидж тв филми онлайн
+https://www.youtube.com/watch?v=0cuNFg4wE9M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Сериал - "Сваты"
+https://www.youtube.com/watch?v=L-Jj68tHV10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Камеди Клаб - ВСЕ ВЫПУСКИ И СЕЗОНЫ
 https://www.youtube.com/watch?v=T-6F7tAkQYc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Женский Стендап - ВСЕ СЕЗОНЫ ПОДРЯД
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Женский Стендап - ВСЕ СЕЗОНЫ ПОДРЯД
 https://www.youtube.com/watch?v=8tnXxoXe-4k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",COMEDY WOMAN - ВСЕ СЕЗОНЫ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",COMEDY WOMAN - ВСЕ СЕЗОНЫ
 https://www.youtube.com/watch?v=h6mY_JN5Dpc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Универ 24/7 - ВСЕ СЕРИИ ПОДРЯД
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Универ 24/7 - ВСЕ СЕРИИ ПОДРЯД
 https://www.youtube.com/watch?v=8vphrRaGyk0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",ИП Пирогова - ВСЕ СЕРИИ ВСЕ СЕЗОНЫ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",ИП Пирогова - ВСЕ СЕРИИ ВСЕ СЕЗОНЫ
 https://www.youtube.com/watch?v=kq8B_ysJuSE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",Бандитский Петербург
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Бандитский Петербург
 https://www.youtube.com/watch?v=QsmjluazaSQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",МЕНТОВСКИЕ ВОЙНЫ! ВСЕ СЕРИИ! ВСЕ СЕЗОНЫ!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",МЕНТОВСКИЕ ВОЙНЫ! ВСЕ СЕРИИ! ВСЕ СЕЗОНЫ!
 https://www.youtube.com/watch?v=bLfAx3Q64Vk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube.tv",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Следствие ведут ЗнаТоКи.Все серии подряд (1971–1989)
+https://www.youtube.com/watch?v=NFXv2UW-KLI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",TOM and JERRY in NY
+https://www.youtube.com/watch?v=rEKifG2XUZg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Cars
+https://www.youtube.com/watch?v=yzKTO-6KWHU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Learning Time with Timmy
+https://www.youtube.com/watch?v=rSa5g8z_YdA
+#EXTINF:-1 tvg-id="earthTV.de" tvg-name="EarthTV" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="YouTubeTV - Multimedia",The World Live - EarthTV
+https://www.youtube.com/watch?v=HfgIFGbdGJ0
+#EXTINF:-1 tvg-id="" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="YouTubeTV - Multimedia",China Travel
+https://www.youtube.com/watch?v=LJgXwC-AKu8
+#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Euronews Travel Channel
+https://www.youtube.com/watch?v=08AInuYFKl0
+#EXTINF:-1 tvg-id="ArcadiaWorldHD.at" tvg-name="Arcadia World HD" tvg-logo="https://i.imgur.com/pGooWxW.png" group-title="YouTubeTV - Multimedia",Arcadia World HD (bg)
+https://www.youtube.com/watch?v=VMTp2W0V2iA
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-name="Supreme Master TV" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="YouTubeTV - Multimedia",Supreme Master TV  
+https://www.youtube.com/watch?v=ZzWBpGwKoaI
+#EXTINF:-1 tvg-id="Cruise1stTV.uk" tvg-name="Cruise1st TV" tvg-logo="https://i.imgur.com/L1bysJS.png" group-title="YouTubeTV - Multimedia",Cruise1st TV
+https://www.youtube.com/watch?v=aTJGSuZPNpM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",The Dick Van Dyke Show
+https://www.youtube.com/watch?v=Y0vqwbt0A0w
+#EXTINF:-1 tvg-id="TelevizeFILMpro.cz" tvg-name="Televize FILMpro" tvg-logo="https://i.imgur.com/7OY5EPh.jpg" group-title="YouTubeTV - Multimedia",Televize FILMpro cz
+https://www.youtube.com/watch?v=qowVBqGn2jE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",Earthquake monitor
+https://www.youtube.com/watch?v=VGevOp5cNEU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",LIVE 3D Globe Earthquake Monitor
+https://www.youtube.com/watch?v=U8x51eUfFTI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",MsMojo
+https://www.youtube.com/watch?v=9gtxyOwIBxs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",MojoPlays
+https://www.youtube.com/watch?v=uNYzA22s1Cs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Multimedia",WatchMojo
+https://www.youtube.com/watch?v=AHa_Uz50sJk
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkArab",Show MAX Canlı
+https://www.youtube.com/watch?v=Y3vGHFrsqrs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkArab",a2 Canlı
+https://www.youtube.com/watch?v=HtnytvwXi5o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkArab",Star TV - Canlı
+https://www.youtube.com/watch?v=82O6yOy_XwE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkAra",NTV Canlı
+https://www.youtube.com/watch?v=pqq5c6k70kk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkAra",24 TV Canlı
+https://www.youtube.com/watch?v=6B-nPOdP720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkAra",Habertürk TV Canlı
+https://www.youtube.com/watch?v=RNVNlJSUFoE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkAra",CNN TÜRK
+https://www.youtube.com/watch?v=6N8_r2uwLEc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkAra",beIN SPORTS HABER Canlı
+https://www.youtube.com/watch?v=i7UpPgxfZZ8
+#EXTINF:-1 tvg-id="EuronewsArabic.ct" tvg-name="Euronews Arabic" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - TurkAra",Euronews Arabic
+https://www.youtube.com/watch?v=A8eHIQdTpvQ
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher" tvg-logo="https://i.imgur.com/X80DQvF.png" group-title="YouTubeTV - TurkAra",Al jazeera Mubasher
+https://www.youtube.com/watch?v=8D5QY5gw_Xk
+#EXTINF:-1 tvg-id="DW.ar" tvg-name="DW Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="YouTubeTV - TurkAra",DW Arabic
+https://www.youtube.com/watch?v=AGkp2AL8e7o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkAra",Asharq Bloomberg 
+https://www.youtube.com/watch?v=f6VpkfV7m4Y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkAra",Alaraby TV News
+https://www.youtube.com/watch?v=e2RgSa1Wt5o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - TurkAra",AlArabiya
+https://www.youtube.com/watch?v=n7eQejkXbnM
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",HSN
+https://www.youtube.com/watch?v=1ph8qQnjXts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",HSN 2
+https://www.youtube.com/watch?v=q-BvtDrTnxc
+#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-name="Ideal World TV" tvg-logo="https://i.imgur.com/su6GH7i.png" group-title="YouTubeTV - Shop",Ideal World TV UK
+https://www.youtube.com/watch?v=pNVWQQjMNqQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",PEARL TV
+https://www.youtube.com/watch?v=HwnR8DmTJqg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",TJC
+https://www.youtube.com/watch?v=Zswxn5QW_54
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",Jewelry Television
+https://www.youtube.com/watch?v=nL5H_f37WRE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",Fashion Finds
+https://www.youtube.com/watch?v=RwZYu_c13kA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",Outdoor Escape
+https://www.youtube.com/watch?v=c728BwxpS5s
+#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC UK Beauty Channel" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="YouTubeTV - Shop",QVC UK Beauty Channel
+https://www.youtube.com/watch?v=B-A-co6p2BI
+#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-name="QVC Extra" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="YouTubeTV - Shop",QVC UK Extra Channel 
+https://www.youtube.com/watch?v=8m3sdzsPxXg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",QVC  usa
+https://www.youtube.com/watch?v=ufwLk92fA9k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",QVC 2  usa
+https://www.youtube.com/watch?v=ott_wC2a06I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",QVC 3  usa
+https://www.youtube.com/watch?v=xBGuhy6YpbA
+#EXTINF:-1 tvg-id="HighStreetTV1.uk" tvg-name="High Street TV 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3580.png" group-title="YouTubeTV - Shop",High Street TV 1 (UK)
+https://www.youtube.com/watch?v=z7LFHuBwbpc
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",CCTV4
+https://www.youtube.com/watch?v=PiSwAy-blvA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",EBC 24h live news (Taiwan)
+https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",CTV news HD  Taiwan
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",TVBS NEWS Taiwan
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",EBC Financial News Taiwan int
+https://www.youtube.com/watch?v=1I2iq41Akmo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",EBC Financial News Taiwan
+https://www.youtube.com/watch?v=AEBeWMM1atA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",TVBS NEWS Taiwan
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",CTITV Taiwan News HD
+https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",setnews-ch54‬ Taiwan
+https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-id="KBSKorea.kr" tvg-name="KBS Korea" tvg-logo="https://i.imgur.com/Dy1xwEd.png" group-title="YouTubeTV - Asia",KBS KOREA
+https://www.youtube.com/watch?v=OxQQsIvJTTU
+#EXTINF:-1 tvg-id="YTNDMB.kr" tvg-name="YTN DMB" tvg-logo="https://i.imgur.com/50VQSBk.png" group-title="YouTubeTV - Asia",YTN DMB  (Korea)
+https://www.youtube.com/watch?v=50HUC32RyJA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",YTN (Korea)
+https://www.youtube.com/watch?v=qkBMMCs8sB4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",YonhapnewsTV (Korea)
+https://www.youtube.com/watch?v=6QZ_qc75ihU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",MBC NEWS (Korea)
+https://www.youtube.com/watch?v=q9bM12ucTIY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",MKeconomy_TV (Korea) [라이브] 대한민국 대표 재테크 채널 매일경제TV
+https://www.youtube.com/watch?v=s9xL1DpBsfQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",Yonhap Infomax TV (Korea) 연합뉴스경제
+https://www.youtube.com/watch?v=yhpbioCP6nA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",Seoul Economy TV   (Korea) 트레이딩 No.1 서울경제TV│주식│증권│재테크
+https://www.youtube.com/watch?v=ciA-0rInLwQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",TomatoTV (Korea)
+https://www.youtube.com/watch?v=w05Ejc0iOVI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",NIPPON TV (NNN NEWS JAPAN)
+https://www.youtube.com/watch?v=t9kwjZBLI-A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",ANN NEWS24  (JAPAN)
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",HTB (HOKKAIDO News Japan)
+https://www.youtube.com/watch?v=tvgbZZYS4Nk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",TBS NEWS DIG JAPAN
+https://www.youtube.com/watch?v=Anr15FA9OCI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",メ～テレ NEWS (NagoyaTVnewsCH Japan)
+https://www.youtube.com/watch?v=-C6FE2m7kX8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",home-tv.news Japan
+https://www.youtube.com/watch?v=e2pgLUmaxGs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",STV NEWS Japan
+https://www.youtube.com/watch?v=iJj2iAEIK70
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",CNA india
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",NDTV India
+https://www.youtube.com/watch?v=CQSJGYd6myg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Asia",TV9 KANNADA NEWS India
+https://www.youtube.com/watch?v=iJj2iAEIK70
+
+
+
+
+
 
 
 
@@ -1282,10 +1354,14 @@ https://www.youtube.com/watch?v=kAUVOHB3XYM
 https://www.youtube.com/watch?v=EbAqAwSafwY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Christmas Piano Music & Fireplace Sounds
 https://www.youtube.com/watch?v=kszQ_pb1lU8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Fireplace & Piano Relaxing Music For Sleep
+https://www.youtube.com/watch?v=NRFnC7gWepE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Classical Piano Music & Fireplace
 https://www.youtube.com/watch?v=y6TZHLAzg5o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Fireplace 4K
 https://www.youtube.com/watch?v=ITBtNXd5WJs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Water & Piano Relaxing Music for Sleeping
+https://www.youtube.com/watch?v=l6J0ylYTO4s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",4K видео UHD - РАЙСКИ ОСТРОВ
 https://www.youtube.com/watch?v=-D9F0zr-ieA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Швейцарска пролетна магия
@@ -1314,10 +1390,14 @@ https://www.youtube.com/watch?v=xCLTpcx9aO8
 https://www.youtube.com/watch?v=5ZotRF8LoMs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",4K Ocean World ДЪЛБОКИЯТ ОКЕАН
 https://www.youtube.com/watch?v=THnF0IQ8JJM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Релаксираща музика за облекчаване на стреса 2
+https://www.youtube.com/watch?v=wKg71lcs5Nw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Tropical Beach Bossa Nova Vibes
 https://www.youtube.com/watch?v=iE7fml65wsc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Rain Sound On Window with Thunder Sounds
 https://www.youtube.com/watch?v=g2dWy9TTFN4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Rain & Piano Relaxing Music for Sleeping
+https://www.youtube.com/watch?v=9PgkeuyY4hs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Sen - Live 4K video of Earth and space
 https://www.youtube.com/watch?v=fO9e9jnhYK8
 
