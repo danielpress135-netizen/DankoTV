@@ -129,6 +129,12 @@ https://www.youtube.com/watch?v=X-7LAkvfA5s
 https://www.youtube.com/watch?v=I8E6eDmhegY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",NBC10 Philadelphia News
 https://www.youtube.com/watch?v=BbCxHt5vUik
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",Talk TV
+https://www.youtube.com/watch?v=DFYaNjzI1aI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",Times Radio
+https://www.youtube.com/watch?v=3EaWrWqt7dk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - English",talkSPORT
+https://www.youtube.com/watch?v=uLWEssCrXYc
 
 
 
@@ -150,12 +156,18 @@ https://www.youtube.com/watch?v=t9Ilev-uk4w
 https://www.youtube.com/watch?v=U12F2XO6QX0
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Russian
 https://www.youtube.com/watch?v=lwYzwdBiaho
+#EXTINF:-1 tvg-id="EuronewsKazakh.kz" tvg-name="Euronews Kazakh" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Kazakh 
+https://www.youtube.com/watch?v=iW7mGG9GXTU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",LRT LITUANICA
+https://www.youtube.com/watch?v=m67gYVnA100
 #EXTINF:-1 tvg-id="MaurienneTV.fr" tvg-name="Maurienne TV" tvg-logo="https://i.imgur.com/eBfEe61.png" group-title="YouTubeTV - Europa",Maurienne TV
 https://www.youtube.com/watch?v=5ARTNKq49WY
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="YouTubeTV - Europa",franceinfo
 https://www.youtube.com/watch?v=NG7ZX42nZKc
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="YouTubeTV - Europa",FRANCE 24
 https://www.youtube.com/watch?v=a47ckXKZjxI
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-name="Euronews Français" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews français
+https://www.youtube.com/watch?v=NiRIbKwAejk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",Axel! TV - 24/7
 https://www.youtube.com/watch?v=nmEGUClHwhc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",tv.berlin
@@ -164,28 +176,22 @@ https://www.youtube.com/watch?v=Kwz-0udZwEQ
 https://www.youtube.com/watch?v=CQ3KsEbsYHs
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-name="euronews Italiano" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Italiano
 https://www.youtube.com/watch?v=pUcmpyynASM
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="euronews en español" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" group-title="YouTubeTV - Europa",euronews español
-https://www.youtube.com/watch?v=O9mOtdZ-nSk
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews Português" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews em Português
-https://www.youtube.com/watch?v=XuZAl-ZPEcA
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-name="Euronews Français" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews français
-https://www.youtube.com/watch?v=NiRIbKwAejk
 #EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="YouTubeTV - Europa",Euronews România
 https://www.youtube.com/watch?v=XNcx7TFm6zg
 #EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Greek
 https://www.youtube.com/watch?v=uWIhV9gQClg
+#EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",PRONEWS Greek
+https://www.youtube.com/watch?v=qVQRH3YSszo
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-name="Euronews Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Hungarian
 https://www.youtube.com/watch?v=jAn7L2Kt32U
-#EXTINF:-1 tvg-id="EuronewsKazakh.kz" tvg-name="Euronews Kazakh" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews Kazakh 
-https://www.youtube.com/watch?v=iW7mGG9GXTU
-#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews Polski" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="YouTubeTV - Europa",Euronews Polski
-https://www.youtube.com/watch?v=fG7PjdiKaBY
 #EXTINF:-1 tvg-id="TVS.cz" tvg-name="Televize TVS" tvg-logo="https://i.imgur.com/BqFeyDv.png" group-title="YouTubeTV - Europa",Televize TVS  cz
 https://www.youtube.com/watch?v=Wr2lfcqVI9U
 #EXTINF:-1 tvg-id="TVRepublikaPlus.pl" tvg-name="TV Republika Plus" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="YouTubeTV - Europa",Republika Plus
 https://www.youtube.com/watch?v=vcQ05GitXUM
 #EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="YouTubeTV - Europa",Telewizja Republika
 https://www.youtube.com/watch?v=dzntyCTgJMQ
+#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews Polski" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="YouTubeTV - Europa",Euronews Polski
+https://www.youtube.com/watch?v=fG7PjdiKaBY
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="https://i.imgur.com/qXrrNxv.png" group-title="YouTubeTV - Europa",TVP INFO
 https://www.youtube.com/watch?v=3jKb-uThfrg
 #EXTINF:-1 tvg-id="Biznes24.pl" tvg-name="Biznes 24" tvg-logo="https://i.imgur.com/0yoFsuq.png" group-title="YouTubeTV - Europa",telewizja BIZNES24 
@@ -194,8 +200,6 @@ https://www.youtube.com/watch?v=1ocbJcGikfM
 https://www.youtube.com/watch?v=loS6SQnNnqg
 #EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-name="Telewizja Regionalna Zary" tvg-logo="https://i.imgur.com/FB9H8DO.png" group-title="YouTubeTV - Europa",Telewizja Wielkopolska
 https://www.youtube.com/watch?v=FZO3yES6Ag0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",LRT LITUANICA
-https://www.youtube.com/watch?v=m67gYVnA100
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",A24 EN VIVO
 https://www.youtube.com/watch?v=ArKbAx1K-2U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Europa",CANAL 24H 
@@ -218,6 +222,11 @@ https://www.youtube.com/watch?v=XDo_FvBYvUI
 https://www.youtube.com/watch?v=zTv0hCakAhg
 #EXTINF:-1 tvg-id="DW.es" tvg-name="DW Español" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="YouTubeTV - Europa",DW Español
 https://www.youtube.com/watch?v=yZh3xsFqCt8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="euronews en español" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" group-title="YouTubeTV - Europa",euronews español
+https://www.youtube.com/watch?v=O9mOtdZ-nSk
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews Português" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="YouTubeTV - Europa",Euronews em Português
+https://www.youtube.com/watch?v=XuZAl-ZPEcA
+
 
 
 
@@ -322,6 +331,8 @@ https://www.youtube.com/watch?v=pNVWQQjMNqQ
 https://www.youtube.com/watch?v=HwnR8DmTJqg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",TJC
 https://www.youtube.com/watch?v=Zswxn5QW_54
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",TSC
+https://www.youtube.com/watch?v=xJqdjrR86oc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",Jewelry Television
 https://www.youtube.com/watch?v=nL5H_f37WRE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",Fashion Finds
@@ -340,6 +351,18 @@ https://www.youtube.com/watch?v=ott_wC2a06I
 https://www.youtube.com/watch?v=xBGuhy6YpbA
 #EXTINF:-1 tvg-id="HighStreetTV1.uk" tvg-name="High Street TV 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3580.png" group-title="YouTubeTV - Shop",High Street TV 1 (UK)
 https://www.youtube.com/watch?v=z7LFHuBwbpc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",QVC En Español
+https://www.youtube.com/watch?v=NX0xNK6iN10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",QVC Italia
+https://www.youtube.com/watch?v=Bh9H_dD4XcI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",QVC 1 GERMAN
+https://www.youtube.com/watch?v=zyArwYJdK9c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",QVC 2 GERMAN
+https://www.youtube.com/watch?v=UcbiF9UXX8Q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",JUWELO GERMAN
+https://www.youtube.com/watch?v=hHrJB5xMQ7g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Shop",HSE GERMAN
+https://www.youtube.com/watch?v=WjGNsuKEPDg
 
 
 
@@ -541,8 +564,12 @@ https://www.youtube.com/watch?v=4lbJXKgSgM8
 https://www.youtube.com/watch?v=mdw5eBzCYVk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",GRAND RADIO  (Serbia)
 https://www.youtube.com/watch?v=aJgu2xSo-t0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",TOP MUSIC TV  (Greek)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",TOP MUSIC TV  (GREEK HITS TV) ALFA RECORDS
 https://www.youtube.com/watch?v=9OCDNJI9buU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",TOP MUSIC RADIO   ALFA RECORDS
+https://www.youtube.com/watch?v=TUU9RrFYiuc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",TOP MUSIC RADIO  ΝΥΧΤΑ ΜΕΡΑ ΛΑΪΚΑ  ALFA RECORDS
+https://www.youtube.com/watch?v=Zzb1MF6BXc0
 
 
 
@@ -1168,17 +1195,31 @@ https://www.youtube.com/playlist?list=PLNQlBHi0oVDtdzsqQpZ8oI10UTme31axQ
 https://www.youtube.com/playlist?list=PLdRXd1HjsS3svm2pG23OGkolBMBBfu05s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",POLMEDIA - Цели филми на български
 https://www.youtube.com/playlist?list=PL2UI2P0sy-4DZiEzqBYN0Y1ZFuNtQ94m4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",🪲 Minuscule: The Animated Series seson 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",Minuscule - The Animated Series seson 2
 https://www.youtube.com/playlist?list=PL7eLsxQrsg-69_M01yj2OHYtCaM9N3ypx
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",🪲 Minuscule: The Animated Series seson 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",Minuscule - The Animated Series seson 1
 https://www.youtube.com/playlist?list=PL7eLsxQrsg-5XomfLKJsXuPg9qSYcG30a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",Cartonito Tom ana Jery
+https://www.youtube.com/playlist?list=PLL7RN4p67JW3QqhJVST7FZHiSxBPmXHo3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",Agro TV - История на храните
+https://www.youtube.com/playlist?list=PL7mM4kAWFkLiZOZYXyLmzUQwCVKytstAe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",24 kitchen - Съвети и Трикове
+https://www.youtube.com/playlist?list=PLfe9TOGOo6f_oP13Jhy2DQIGqc4-ILT0F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",24 kitchen - Супи
+https://www.youtube.com/playlist?list=PLfe9TOGOo6f9TZC3bDvd1KvGedqqPblIJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",24 kitchen - Основни ястия
+https://www.youtube.com/playlist?list=PLfe9TOGOo6f8MGC1uSghQNtb1h-rJ_RSe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",24 kitchen - Салати
+https://www.youtube.com/playlist?list=PLfe9TOGOo6f8769inQMsZ9oN8n7uzOMdt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",24 kitchen - Десерти
+https://www.youtube.com/playlist?list=PLfe9TOGOo6f96WvRqLKvXX-83TLtLjP4V
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",24 kitchen - Предястия
+https://www.youtube.com/playlist?list=PLfe9TOGOo6f8PbItHnAaNr8CDpzByvhFt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",24 kitchen - Риба и морски деликатеси
+https://www.youtube.com/playlist?list=PLfe9TOGOo6f-Siv1n2ammQrfd4qpYcAlX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",24 kitchen - Вкусотии от буркана с Примож
+https://www.youtube.com/playlist?list=PLfe9TOGOo6f9SnVObJnw5dTLM1SBvP7lk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(PL) - BULGARIA",
-
 
 
 
