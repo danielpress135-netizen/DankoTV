@@ -2317,13 +2317,120 @@ https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp
 https://bolton-ma.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-id="BoltonAccessTVChannel99.us" tvg-name="Bolton Access TV Channel 22" tvg-logo="https://i.imgur.com/kgnLDWQ.jpg" group-title="TV📺/EN🇺🇸",Bolton Access TV Channel 22
 https://bolton-ma.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 tvg-id="BPTV.us" tvg-name="BPTV" tvg-logo="https://i.imgur.com/ObNBL7L.png" group-title="TV📺/EN🇺🇸",BPTV
+https://buenapark.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="BremertonKitsapAccessTelevision.us" tvg-name="Bremerton Kitsap Access Television" tvg-logo="https://i.imgur.com/coVWVZk.png" group-title="TV📺/EN🇺🇸",Bremerton Kitsap Access Television
+https://s3-us-west-2.amazonaws.com/bremerton.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="BremertonKitsapAccessTelevision.us" tvg-name="Bremerton Kitsap Access Television" tvg-logo="https://i.imgur.com/coVWVZk.png" group-title="TV📺/EN🇺🇸",Bremerton Kitsap Access Television
+https://bremerton.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 tvg-id="BremertonKitsapAccessTelevision2.us" tvg-name="BKA TV2" tvg-logo="https://i.imgur.com/coVWVZk.png" group-title="TV📺/EN🇺🇸",BKA TV2 
+https://s3-us-west-2.amazonaws.com/bremerton.castus-vod/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="BremertonKitsapAccessTelevision2.us" tvg-name="BKA TV2" tvg-logo="https://i.imgur.com/coVWVZk.png" group-title="TV📺/EN🇺🇸",BKA TV2
+https://bremerton.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us" tvg-name="Brevard Government Access TV" tvg-logo="https://i.imgur.com/eUTDIQ2.png" group-title="TV📺/EN🇺🇸",Brevard Government Access TV
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
+#EXTINF:-1 tvg-id="BRICTV.us" tvg-name="BRIC TV" tvg-logo="https://i.imgur.com/cdvYfEj.png" group-title="TV📺/EN🇺🇸",BRIC TV
+https://livestream.telvue.com/bric4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BrimfieldPublicAccess.us" tvg-name="Brimfield Public Access" tvg-logo="https://i.imgur.com/gLy96rQ.png" group-title="TV📺/EN🇺🇸",Brimfield Public Access
+https://brimfieldma.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 tvg-id="BrimfieldPublicAccess.us" tvg-name="Brimfield Public Access" tvg-logo="https://i.imgur.com/gLy96rQ.png" group-title="TV📺/EN🇺🇸",Brimfield Public Access
+https://s3-us-west-2.amazonaws.com/brimfieldma.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="BrimfieldTownGovernment.us" tvg-name="Brimfield Town Government" tvg-logo="https://i.imgur.com/gLy96rQ.png" group-title="TV📺/EN🇺🇸",Brimfield Town Government
+https://brimfieldma.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 tvg-id="BrimfieldTownGovernment.us" tvg-name="Brimfield Town Government" tvg-logo="https://i.imgur.com/gLy96rQ.png" group-title="TV📺/EN🇺🇸",Brimfield Town Government
+https://s3-us-west-2.amazonaws.com/brimfieldma.castus-vod/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTV.us" tvg-name="Bumblebee TV" tvg-logo="" group-title="TV📺/EN🇺🇸",Bumblebee TV
+https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-bd4cbed9-67eb-40a9-874e-97aed0963f9a/index.m3u8
+#EXTINF:-1 tvg-id="BXOmni.us" tvg-name="BX Omni" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="TV📺/EN🇺🇸",BX Omni
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="BXArts.us" tvg-name="BX Arts" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="TV📺/EN🇺🇸",BX Arts
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="BXCulture.us" tvg-name="" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="TV📺/EN🇺🇸",BX Culture
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="BXInform.us" tvg-name="BX Inform" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="TV📺/EN🇺🇸",BX Inform
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-id="BXInspire.us" tvg-name="BX Inspire" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="TV📺/EN🇺🇸",BX Inspire
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
+#EXTINF:-1 tvg-id="BXLegacy.us" tvg-name="BX Legacy" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="TV📺/EN🇺🇸",BX Legacy
+https://reflect-stream-bronxnet.cablecast.tv/live-10/live/stream-6/live.m3u8
+#EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us" tvg-name="CMC-USA Country Music Channel" tvg-logo="https://i.imgur.com/QsANRSu.png" group-title="TV📺/EN🇺🇸",CMC-USA Country Music Channel
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+#EXTINF:-1 tvg-id="theDoveTV.us" tvg-name="theDove TV" tvg-logo="https://i.imgur.com/ULtuRsj.png" group-title="TV📺/EN🇺🇸",theDove TV
+https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8
+#EXTINF:-1 tvg-id="CAMAccess.us" tvg-name="CAM Access" tvg-logo="https://i.imgur.com/zGJzvK6.png" group-title="TV📺/EN🇺🇸",CAM Access
+https://reflect-watchncam.cablecast.tv/live-12/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="CAMED.us" tvg-name="CAM-ED" tvg-logo="https://i.imgur.com/zGJzvK6.png" group-title="TV📺/EN🇺🇸",CAM-ED
+https://reflect-watchncam.cablecast.tv/live-13/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="GOVCAM.us" tvg-name="GOVCAM" tvg-logo="https://i.imgur.com/zGJzvK6.png" group-title="TV📺/EN🇺🇸",GOVCAM
+https://reflect-watchncam.cablecast.tv/live-14/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-name="Camera Smile TV" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="TV📺/EN🇺🇸",Camera Smile TV
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-id="CANTV19.us" tvg-name="CAN TV19" tvg-logo="https://i.imgur.com/PUQtIa3.png" group-title="TV📺/EN🇺🇸",CAN TV19
+https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CANTV21.us" tvg-name="CAN TV21" tvg-logo="https://i.imgur.com/PUQtIa3.png" group-title="TV📺/EN🇺🇸",CAN TV21
+https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CANTV27.us" tvg-name="CAN TV27" tvg-logo="https://i.imgur.com/PUQtIa3.png" group-title="TV📺/EN🇺🇸",CAN TV27
+https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CANTV36.us" tvg-name="CAN TV36" tvg-logo="https://i.imgur.com/PUQtIa3.png" group-title="TV📺/EN🇺🇸",CAN TV36
+https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CantonCommunityTVMAPublicStation.us" tvg-name="Canton Community TV MA Public Station" tvg-logo="https://i.imgur.com/YzpmkCm.png" group-title="TV📺/EN🇺🇸",Canton Community TV MA Public Station
+https://reflect-cctv-vod.cablecast.tv/live-4/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="CantonCommunityTVStudentStation.us" tvg-name="Canton Community TV Student Station" tvg-logo="https://i.imgur.com/YzpmkCm.png" group-title="TV📺/EN🇺🇸",Canton Community TV Student Station
+https://reflect-cctv-vod.cablecast.tv/live-5/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="CantonCommunityTVGovernmentStation.us" tvg-name="Canton Community TV Government Station" tvg-logo="https://i.imgur.com/YzpmkCm.png" group-title="TV📺/EN🇺🇸",Canton Community TV Government Station
+https://reflect-cctv-vod.cablecast.tv/live-6/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-id="CantonCommunityTVHDStation.us" tvg-name="Canton Community TV HD Station" tvg-logo="https://i.imgur.com/YzpmkCm.png" group-title="TV📺/EN🇺🇸",Canton Community TV HD Station
+https://reflect-cctv-vod.cablecast.tv/live-7/live/stream-6/live.m3u8
+#EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us" tvg-name="Capital City Connection Montgomery" tvg-logo="https://image.roku.com/developer_channels/prod/a2cb55884ff88035ebbbb32ef9c60a228314d0a2ac4c86722aff5ea1cb9abcd8.png" group-title="TV📺/EN🇺🇸",Capital City Connection Montgomery
+https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="CapitalCommunityMediaChannel21.us" tvg-name="Capital Community Media Channel 21" tvg-logo="https://i.imgur.com/kw1onlq.png" group-title="TV📺/EN🇺🇸",Capital Community Media Channel 21
+https://reflect-watch-capitalcommunitymedia.cablecast.tv/live-7/live/stream-11/live.m3u8
+#EXTINF:-1 tvg-id="CapitalCommunityMediaChannel22.us" tvg-name="Capital Community Media Channel 22" tvg-logo="https://i.imgur.com/3TlXDEU.png" group-title="TV📺/EN🇺🇸",Capital Community Media Channel 22
+https://reflect-watch-capitalcommunitymedia.cablecast.tv/live-8/live/stream-12/live.m3u8
+#EXTINF:-1 tvg-id="CapitalCommunityMediaChannel23.us" tvg-name="Capital Community Media Channel 23" tvg-logo="https://i.imgur.com/7Vb7Sbx.png" group-title="TV📺/EN🇺🇸",Capital Community Media Channel 23
+https://reflect-watch-capitalcommunitymedia.cablecast.tv/live-9/live/stream-13/live.m3u8
+#EXTINF:-1 tvg-id="CAPSChannel6.us" tvg-name="CAPS Channel 6" tvg-logo="https://i.imgur.com/by9Q5Ea.png" group-title="TV📺/EN🇺🇸",CAPS Channel 6
+https://reflect-capsmedia.cablecast.tv/live-1/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-id="CAPSChannel15.us" tvg-name="CAPS Channel 15" tvg-logo="https://i.imgur.com/by9Q5Ea.png" group-title="TV📺/EN🇺🇸",CAPS Channel 15
+https://reflect-capsmedia.cablecast.tv/live-14/live/stream-5/live.m3u8
+#EXTINF:-1 tvg-id="CarmelTV.us" tvg-name="Carmel TV" tvg-logo="https://i.imgur.com/Wv313G5.png" group-title="TV📺/EN🇺🇸",Carmel TV
+https://reflect-carmeltv-carmel-in.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="CatholicFaithNetwork.us" tvg-name="Catholic Faith Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="TV📺/EN🇺🇸",Catholic Faith Network
+https://rpn.bozztv.com/cfntv/cfntv-push/index.m3u8
+#EXTINF:-1 tvg-id="CatholicFaithNetwork.us" tvg-name="Catholic Faith Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="TV📺/EN🇺🇸",Catholic Faith Network
+https://rpn.bozztv.com/cfntv/cfntv-push/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CatholicTV.us" tvg-name="Catholic TV" tvg-logo="https://i.imgur.com/EL0rWD3.png" group-title="TV📺/EN🇺🇸",Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 tvg-id="CATSCityChannel.us" tvg-name="CATS City Channel" tvg-logo="https://i.imgur.com/6JgXS5d.png" group-title="TV📺/EN🇺🇸",CATS City Channel
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/cfa6d8a759fc6aedf7e8a04c4ad003e6/master.m3u8
+#EXTINF:-1 tvg-id="CATSCountyChannel.us" tvg-name="CATS County Channel" tvg-logo="https://i.imgur.com/6JgXS5d.png" group-title="TV📺/EN🇺🇸",CATS County Channel
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/717441a0f28e627c7d64f28827fd262f/master.m3u8
+#EXTINF:-1 tvg-id="CBNFamily.us" tvg-name="CBN Family" tvg-logo="https://i.imgur.com/adHRFrS.png" group-title="TV📺/EN🇺🇸",CBN Family
+https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="TV📺/EN🇺🇸",CBS News
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/13405cc1-e96f-45a0-96ad-ee3feffd4bd6:GRQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Car Chase" tvg-logo="" group-title="TV📺/EN🇺🇸",CBS News Car Chase
+https://dai.google.com/linear/hls/pa/event/RjvF1cd0Qx-65Dz14THpPA/stream/068e6279-11cf-4207-8f42-124ba0027247:BRU/master.m3u8
+#EXTINF:-1 tvg-id="CCM.us" tvg-name="County Cable Montgomery" tvg-logo="https://i.imgur.com/oW6ve9q.png" group-title="TV📺/EN🇺🇸",County Cable Montgomery
+https://cdn3.wowza.com/5/ZXJ5L1RpWlU0NEk5/montgomerycountymd/G0319_006/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV189.us" tvg-name="CCTV 189" tvg-logo="https://i.imgur.com/KylKZC3.png" group-title="TV📺/EN🇺🇸",CCTV 189
+https://streams.cctv-cadillac.org/CCTV/189/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV190.us" tvg-name="CCTV 190" tvg-logo="https://i.imgur.com/KylKZC3.png" group-title="TV📺/EN🇺🇸",CCTV 190
+https://streams.cctv-cadillac.org/CCTV/190/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV8.us" tvg-name="CCTV-8" tvg-logo="https://i.imgur.com/7XSIzq2.png" group-title="TV📺/EN🇺🇸",CCTV-8
+https://reflect-claremont.cablecast.tv/live-6/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="CCTV10.us" tvg-name="CCTV-10" tvg-logo="https://i.imgur.com/IREC9RR.png" group-title="TV📺/EN🇺🇸",CCTV-10
+https://reflect-claremont.cablecast.tv/live-7/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="CCX1.us" tvg-name="CCX1" tvg-logo="https://i.imgur.com/1hHW3IK.png" group-title="TV📺/EN🇺🇸",CCX1
+https://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+
+
+
+
+
+
 
 
 
@@ -4759,8 +4866,6 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" group-title="Turkiye - TV",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Turkiye - TV",TRT Belgesel
-https://tv-trtbelgesel-dash.medya.trt.com.tr/master.mpd
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-name="Turk Haber TV" tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="Turkiye - TV",Turk Haber TV
 https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1.tr" tvg-name="TV 1" tvg-logo="https://i.imgur.com/8CtrYVb.png" group-title="Turkiye - TV",TV 1
@@ -5762,6 +5867,10 @@ https://rpn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="BraziTV.us" tvg-name="BraziTV" tvg-logo="https://i.imgur.com/khjFgXI.png" group-title="Latino Portuges - TV",BraziTV
+https://cbtvnow.com:5866/hls/livest2024.m3u8
+#EXTINF:-1 tvg-id="BraziTV.us" tvg-name="BraziTV" tvg-logo="https://i.imgur.com/khjFgXI.png" group-title="Latino Portuges - TV",BraziTV
+https://cbtvnow.com:5866/hls/livest2024_1080p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latino Portuges - TV",
 
 
