@@ -26,17 +26,11 @@ http://ott.watch/stream/83K27DP6PU/185.m3u8
 
 
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 1 HD
-http://62.176.112.19:8008/play/a0be
-#EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 1 HD
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 2 HD
 http://77.46.130.252:99/maxsport2
 #EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 3 HD
-http://62.176.112.19:8008/play/a0bg
-#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 3 HD
 http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="БЪЛГАРИЯ",Max Sport 4
-http://62.176.112.19:8008/play/a0d6
 #EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="БЪЛГАРИЯ",Max Sport 4
 http://77.46.130.252:99/maxsport4
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="Max Sport 1" tvg-logo="https://i.imgur.com/0ohnpql.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="БЪЛГАРИЯ",Max Sport 1
@@ -126,54 +120,92 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/7276/inde
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="МАКЕДОНИЯ",ARENA M1 PREMIUM
-http://85.187.232.3:5050/udp/239.100.101.26:8888
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="МАКЕДОНИЯ",ARENA M2 PREMIUM
-http://85.187.232.3:5050/udp/239.100.101.27:8888
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="МАКЕДОНИЯ",ARENA M3 PREMIUM
-http://85.187.232.3:5050/udp/239.100.101.28:8888
 
 
 
-#EXTINF:-1 group-title="ЧЕХИЯ",ONEPLAY1-kolo cz
+#EXTINF:-1 group-title="Чехия",ONEPLAY1-kolo cz
 #EXTVLCOPT:network-caching=1000
 http://45.129.141.180:9981/stream/channelid/177253733?profile=iptv.org.ua
-#EXTINF:-1 group-title="ЧЕХИЯ",ONEPLAY2-kolo cz
+#EXTINF:-1 group-title="Чехия",ONEPLAY2-kolo cz
 #EXTVLCOPT:network-caching=1000
 http://45.129.141.180:9981/stream/channelid/1716506983?profile=iptv.org.ua
-#EXTINF:-1 group-title="ЧЕХИЯ", ONEPLAY3-kolo cz
+#EXTINF:-1 group-title="Чехия", ONEPLAY3-kolo cz
 #EXTVLCOPT:network-caching=1000 
 http://45.129.141.180:9981/stream/channelid/1597775099?profile=iptv.org.ua
+#EXTINF:-1 group-title="Чехия",CANAL+ SPORT HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd
+#EXTINF:-1 group-title="Чехия",CANAL+ SPORT 2 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd
+#EXTINF:-1 group-title="Чехия",CANAL+ SPORT 3 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd
+#EXTINF:-1 group-title="Чехия",CANAL+ SPORT 4 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd
+#EXTINF:-1 group-title="Чехия",CANAL+ SPORT 5 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd
+#EXTINF:-1 group-title="Чехия",CANAL+ Sport 6 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd
+#EXTINF:-1 group-title="Чехия",CANAL+ Sport 7 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd
+#EXTINF:-1 group-title="Чехия",CANAL+ Sport 8 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd
+#EXTINF:-1 group-title="Чехия",NOVA SPORT 1 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport1/live_fullhd
+#EXTINF:-1 group-title="Чехия",NOVA SPORT 2 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport2/live_fullhd
+#EXTINF:-1 group-title="Чехия",NOVA SPORT 3 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport3/live_fullhd
+#EXTINF:-1 group-title="Чехия",NOVA SPORT 4 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport4/live_fullhd
+#EXTINF:-1 group-title="Чехия",NOVA SPORT 5 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport5/live_fullhd
+#EXTINF:-1 group-title="Чехия",NOVA SPORT 6 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport6/live_fullhd
+
 
 
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="РУМЪНИЯ",Digi Sport 1 HD
 http://91.201.172.14:35005
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="РУМЪНИЯ",Digi Sport 2 HD
 http://91.201.172.14:35006
-#EXTINF:0 group-title="РУМЪНИЯ" tvg-id="2907" tvg-logo="http://epg.one/img2/2907.png" tvg-rec="3",DIGI Sport 1 HD RO
+#EXTINF:-1 group-title="РУМЪНИЯ" tvg-id="2907" tvg-logo="http://epg.one/img2/2907.png" tvg-rec="3",DIGI Sport 1 HD RO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2523/index.m3u8
-#EXTINF:0 group-title="РУМЪНИЯ" tvg-id="2906" tvg-logo="http://epg.one/img2/2906.png" tvg-rec="3",DIGI Sport 2 HD RO
+#EXTINF:-1 group-title="РУМЪНИЯ" tvg-id="2906" tvg-logo="http://epg.one/img2/2906.png" tvg-rec="3",DIGI Sport 2 HD RO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2522/index.m3u8
-#EXTINF:0 group-title="РУМЪНИЯ" tvg-id="2908" tvg-logo="http://epg.one/img2/2908.png" tvg-rec="3",DIGI Sport 3 HD RO
+#EXTINF:-1 group-title="РУМЪНИЯ" tvg-id="2908" tvg-logo="http://epg.one/img2/2908.png" tvg-rec="3",DIGI Sport 3 HD RO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2524/index.m3u8
-#EXTINF:0 group-title="РУМЪНИЯ" tvg-id="2922" tvg-logo="http://epg.one/img2/2922.png" tvg-rec="3",DIGI Sport 4 HD RO
+#EXTINF:-1 group-title="РУМЪНИЯ" tvg-id="2922" tvg-logo="http://epg.one/img2/2922.png" tvg-rec="3",DIGI Sport 4 HD RO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2538/index.m3u8
-
+#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="РУМЪНИЯ",Digi Sport 1 HD
+http://178.76.68.60:7441/232/mpegts
+#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="РУМЪНИЯ",Digi Sport 2 HD
+http://178.76.68.60:7441/229/mpegts
+#EXTINF:-1 group-title="РУМЪНИЯ" tvg-id="2908" tvg-logo="http://epg.one/img2/2908.png" tvg-rec="3",Digi Sport 3
+http://178.76.68.60:7441/230/mpegts
+#EXTINF:-1 group-title="РУМЪНИЯ" tvg-id="2922" tvg-logo="http://epg.one/img2/2922.png" tvg-rec="3",Digi Sport 4
+http://178.76.68.60:7441/231/mpegts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="УНГАРИЯ",M4 SPORT
 http://88.212.15.19/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="УНГАРИЯ",M4 SPORT
+http://142.132.200.37:9000/M4HD
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Полша",ELEVEN SPORTS 1 HD
+http://92.114.85.87:8002/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Полша",ELEVEN SPORTS 2 HD
+http://92.114.85.87:8002/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Полша",ELEVEN SPORTS 3 HD
+http://92.114.85.87:8002/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Полша",ELEVEN SPORTS 4 HD
+http://92.114.85.87:8002/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Полша",TVP SPORT HD
+http://92.114.85.87:8009/play/a007/index.m3u8
 
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ГЪРЦИЯ",NOVA sports 1
-http://88.99.57.248:8080/s1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ГЪРЦИЯ",NOVA sports 2
-http://88.99.57.248:8080/s2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ГЪРЦИЯ",NOVA sports 3
-http://88.99.57.248:8080/s3/index.m3u8
 
 
 
@@ -187,22 +219,6 @@ http://85.187.232.3:5050/udp/239.100.101.24:8888
 
 
 
-#EXTINF:0 group-title="Израел" tvg-id="2684" tvg-logo="http://epg.one/img2/2684.png" tvg-rec="0",Sport 1 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12249/index.m3u8
-#EXTINF:0 group-title="Израел" tvg-id="2683" tvg-logo="http://epg.one/img2/2683.png" tvg-rec="0",Sport 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12250/index.m3u8
-#EXTINF:0 group-title="Израел" tvg-id="2719" tvg-logo="http://epg.one/img2/2719.png" tvg-rec="0",Sport 3 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8
-#EXTINF:0 group-title="Израел" tvg-id="2720" tvg-logo="http://epg.one/img2/2720.png" tvg-rec="3",Sport 4 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
-#EXTINF:0 group-title="Израел" tvg-id="2682" tvg-logo="http://epg.one/img2/2682.png" tvg-rec="3",5Sport HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2391/index.m3u8
-#EXTINF:0 group-title="Израел" tvg-id="3994" tvg-logo="http://epg.one/img2/3994.png" tvg-rec="0",5Sport Stars HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12232/index.m3u8
-#EXTINF:0 group-title="Израел" tvg-id="3992" tvg-logo="http://epg.one/img2/3992.png" tvg-rec="0",5Sport Gold HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12254/index.m3u8
-#EXTINF:0 group-title="Израел" tvg-id="3993" tvg-logo="http://epg.one/img2/3993.png" tvg-rec="0",5Sport Live HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12255/index.m3u8
 
 
 
