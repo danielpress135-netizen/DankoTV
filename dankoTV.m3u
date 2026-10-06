@@ -813,6 +813,57 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-dajto/live_fullhd?offsetSeconds
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-doma/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Nova.International.cz" tvg-name="Nova International" tvg-logo="" group-title="CZECH🇨🇿/TV",Nova International (test)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-international/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="NovaNews.cz" tvg-name="Nova News" tvg-logo="" group-title="CZECH🇨🇿/TV",Nova News (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/nova-news/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Wau.cz" tvg-name="Wau" tvg-logo="" group-title="CZECH🇨🇿/TV",Wau(test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/wau/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Joj.Plus.cz" tvg-name="Joj Plus" tvg-logo="" group-title="CZECH🇨🇿/TV",Joj Plus (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/joj_plus/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Joj.cz" tvg-name="Joj" tvg-logo="" group-title="CZECH🇨🇿/TV",Joj (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/joj/live_hd?offsetSeconds=0
+#EXTINF:-1 tvg-id="STV2.cz" tvg-name="STV 2" tvg-logo="" group-title="CZECH🇨🇿/TV",STV 2 (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/stv2/live_hd?offsetSeconds=0
+#EXTINF:-1 tvg-id="STV1.cz" tvg-name="STV 1" tvg-logo="" group-title="CZECH🇨🇿/TV",STV 1 (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/stv1/live_hd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Nova.cz" tvg-name="Nova" tvg-logo="" group-title="CZECH🇨🇿/TV",Nova (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/nova/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Prima.CNN.cz" tvg-name="Prima CNN" tvg-logo="" group-title="CZECH🇨🇿/TV",Prima CNN (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_cnn/live_hd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Prima.Zoom.cz" tvg-name="Prima Zoom" tvg-logo="" group-title="CZECH🇨🇿/TV",Prima Zoom (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_zoom/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Prima.Max.cz" tvg-name="Prima Max" tvg-logo="" group-title="CZECH🇨🇿/TV",Prima Max (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_max/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Prima.Show.cz" tvg-name="Prima Show" tvg-logo="" group-title="CZECH🇨🇿/TV",Prima Show (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_show/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Prima.Love.cz" tvg-name="Prima Love" tvg-logo="" group-title="CZECH🇨🇿/TV",Prima Love (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_love/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Prima.Star.cz" tvg-name="Prima Star" tvg-logo="" group-title="CZECH🇨🇿/TV",Prima Star (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_star/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Prima.Krimi.cz" tvg-name="Prima Krimi" tvg-logo="" group-title="CZECH🇨🇿/TV",Prima Krimi (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_krimi/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Prima.Family.cz" tvg-name="Prima Family" tvg-logo="" group-title="CZECH🇨🇿/TV",Prima Family (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_family/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Prima.Cool.cz" tvg-name="Prima Cool" tvg-logo="" group-title="CZECH🇨🇿/TV",Prima Cool (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_cool/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Nova2.cz" tvg-name="Nova 2" tvg-logo="" group-title="CZECH🇨🇿/TV",Nova 2 (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/nova_2_avod/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Nova.Action.cz" tvg-name="Nova Action" tvg-logo="" group-title="CZECH🇨🇿/TV",Nova Action (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/nova_action_avod/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Nova.Cinema.cz" tvg-name="Nova Cinema" tvg-logo="" group-title="CZECH🇨🇿/TV",Nova Cinema (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/nova_cinema_avod/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Nova.Gold.cz" tvg-name="Nova Gold" tvg-logo="" group-title="CZECH🇨🇿/TV",Nova Gold (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/nova_gold_avod/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Nova.Lady.cz" tvg-name="Nova Lady" tvg-logo="" group-title="CZECH🇨🇿/TV",Nova Lady (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/nova_lady_avod/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko" tvg-logo="" group-title="CZECH🇨🇿/TV",Ocko (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/ocko/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Ocko.Star.cz" tvg-name="Ocko Star" tvg-logo="" group-title="CZECH🇨🇿/TV",Ocko Star (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/ocko_gold/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="Ocko.Expres.cz" tvg-name="Ocko Expres" tvg-logo="" group-title="CZECH🇨🇿/TV",Ocko Expres (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/ocko_expres/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="NOE.cz" tvg-name="NOE" tvg-logo="" group-title="CZECH🇨🇿/TV",NOE (test)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/noe/live_hd?offsetSeconds=0
+
 
 
 
