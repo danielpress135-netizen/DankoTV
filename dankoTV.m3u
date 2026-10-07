@@ -649,6 +649,8 @@ http://hls127.freeott.top:8080/BG_Dizi_HD/video.m3u8
 http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
 #EXTINF:-1 tvg-id="ViasatExplorer.bg" tvg-name="Viasat Explorer" tvg-logo="" group-title="BG🇧🇬/TV test",Viasat Explorer
 http://hls127.freeott.top:8080/BG_Viasat_Explorer_HD/video.m3u8
+#EXTINF:-1 tvg-id="БНТ1.bg" tvg-name="BNT 1 HD" tvg-logo="" group-title="BG🇧🇬/TV test",BNT 1 HD
+http://212.25.55.242:9094/at/b3e62ae990f9544bbb17a8be3a76b3ac/1707803848/bnt1.ts
 
 
 
@@ -2081,8 +2083,6 @@ https://stream1.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 http://5.57.74.130/Nicktoons/index.m3u8
 #EXTINF:-1 tvg-id="Viasat.Kino.(RS).exTV1000.rs" tvg-name="Viasat Kino" tvg-logo="" group-title="Ex-Yu/TV",Viasat Kino
 http://109.106.239.1:8001/play/a09j
-#EXTINF:-1 tvg-id="ITH.Zelina" tvg-name="ITH Zelina" tvg-logo="" group-title="Ex-Yu/TV",ITH Zelina
-https://zelina.tv/hls/zelina_tv.m3u8
 #EXTINF:-1 tvg-id="Super.TV.Tuzla.(RS).rs" tvg-name="SuperTV Tuzla" tvg-logo="" group-title="Ex-Yu/TV",SuperTV Tuzla
 https://live.probaj.net/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-id="N1.HD.(BH)/(BIH).rs" tvg-name="N1 Bosna" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="Ex-Yu/TV",N1 Bosna
@@ -2093,6 +2093,9 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1b
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="Diadora.TV.hr" tvg-name="Diadora TV" tvg-logo="" group-title="Ex-Yu/TV",Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-id="AuroraTV.hr" tvg-name="Aurora TV" tvg-logo="https://i.imgur.com/T6O6OPS.png" group-title="Ex-Yu/TV",Aurora TV
+https://cdn-media-content.onestream.studio/content/hls/live/customwebsite_564_wey7rwdyl/hls.m3u8?eventId=25078469&originServer=frankfurt-primary-1
+
 
 
 
@@ -4831,7 +4834,7 @@ https://lbgo.bozztv.com/07/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bridge-tv-rock" tvg-logo="http://epg.one/img2/6188.png" $ExtFilter="UFLTV" group-title="MUSIC🎶📺/TV🎸ROCK",Bridge Rock
 http://185.195.184.30:8000/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6188.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bridge-tv-rock" $ExtFilter="UFLTV" group-title="MUSIC🎶📺/TV🎸ROCK",Bridge Rock
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LXXGL6KDPBHBE2/17043/index.m3u8
+http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lamore Rock Show WebTV" tvg-logo="https://s3minio.webativa.com.br/redeitv/lamore-rock-show-webtv.png" group-title="MUSIC🎶📺/TV🎸ROCK",Lamore Rock Show WebTV
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classic Rock Network" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK", Classic Rock Network
