@@ -178,21 +178,23 @@ https://play.global.audio/vanilla.aac?dist=PREDAVATEL
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Kiss Lounge Radio
 https://nova-radio.neterra.tv/kiss
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Virtuoso Radio 
-https://eu1.reliastream.com/proxy/feedc?mp=/MVR64
+https://radio.jump.bg/proxy/metrolowb?mp=/MVRLOWDATA
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Smooth Radio
-https://eu1.reliastream.com/proxy/metroplusa?mp=/SMOOTHONE
+https://radio.jump.bg/proxy/servicech1?mp=/SMOOTHONE
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Dance Radio
 https://eu1.reliastream.com/proxy/feeda?mp=/MDR64
+#EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Dance Xtra Radio
+https://radio.jump.bg/proxy/servicech1?mp=/MDRXTRA
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Hits! Radio 
 https://eu1.reliastream.com/proxy/feeda?mp=/MHR64
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Urban Hits Radio
-https://eu1.reliastream.com/proxy/metroplusd?mp=/MCR64
+https://radio.jump.bg/proxy/feed11?mp=/UHRAAC
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Love Radio
 https://eu1.reliastream.com/proxy/feedb?mp=/MLR64
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Love 70s Radio
 https://eu1.reliastream.com/proxy/metroplusb?mp=/MLR70S
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Love 80s Radio
-https://eu1.reliastream.com/proxy/love80?mp=/MLR80S64
+https://radio.jump.bg/proxy/feed911?mp=/MLR80S
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Love 90s Radio
 https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR90S64
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Love 2K Radio
@@ -201,12 +203,20 @@ https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K
 https://eu1.reliastream.com/proxy/feedb?mp=/CRR64
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Top Radio
 https://eu1.reliastream.com/proxy/feedc?mp=/MGR64
+#EXTINF:-1 group-title="BG🇧🇬📻/Radio",Metro Xmas Radio
+https://eu1.reliastream.com/proxy/metroxmas?mp=/MCR
+#EXTINF:-1 group-title="BG🇧🇬📻/Radio",Mega Beats Radio
+https://ams1.reliastream.com/proxy/pavel?mp=/stream
+#EXTINF:-1 group-title="BG🇧🇬📻/Radio",Top Radio
+https://ams1.reliastream.com/proxy/pavel1?mp=/stream
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Note FM!
-https://radiozender.mpbnetwerken.nl/notefmbg.mp3
+https://sc.mpbnl.nl/notefm.mp3
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Note Paty 
 https://stream-177.zeno.fm/ux3k5mabt18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1eDNrNW1hYnQxOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkFBdUctMHRYU01PSlVvY0RHajVTUEEiLCJpYXQiOjE3NzgxNjE3MDMsImV4cCI6MTc3ODE2MTc2M30.r83Ny-Lsjl-P0sC1X8siw0TSTncab6I98fjwj-gokqk
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Radio Nostalgia
-https://radiozender.mpbnetwerken.nl/radionostalgia.mp3
+https://sc.mpbnl.nl/radionostalgia.mp3
+#EXTINF:-1 group-title="BG🇧🇬📻/Radio",Radio Variant
+https://sc.mpbnl.nl/radiovariantbg.aac
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Радио Мюзайка
 https://radio.muzaica.fm:9000/stream
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Radio Gorchivo
@@ -277,6 +287,10 @@ http://stream.radioavemaria.net:8000/
 https://stream-175.zeno.fm/hku46gxdexquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoa3U0Nmd4ZGV4cXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlZkc2lsZTRnU3hlRDJYTHRtWXpxa1EiLCJpYXQiOjE3NzgxNzA2MDQsImV4cCI6MTc3ODE3MDY2NH0.K562Wy4Tk_zh3hPJoCqzuFRCLPegw0cjgkrMqQUlaGw
 #EXTINF:-1 group-title="BG🇧🇬📻/Radio",Радио Истина и Свобода
 https://stream-175.zeno.fm/4knvkgfhb78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0a252a2dmaGI3OHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRldlZaTno1UVRxUjB6RGp1MWgxZUEiLCJpYXQiOjE3NzgxNzA4MDUsImV4cCI6MTc3ODE3MDg2NX0.H9SlVTEevHQKm6KC385gRlWUY9JaWVj_NJD3ERpVnSU
+#EXTINF:-1 group-title="BG🇧🇬📻/Radio",Raio Fresh
+https://streamer.atlantis.bg:8443/fresh?1791532951979
+#EXTINF:-1 group-title="BG🇧🇬📻/Radio",Raio Z Rock
+https://streamer.atlantis.bg:8443/zrocknew?1791533310021
 
 
 
@@ -1154,7 +1168,7 @@ http://stream.radioaktual.si/Veseljak
 http://live3.okradio.net:8020/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1537445462.jpg" group-title="Ex-Yu/Radio", narodni - 96 kbit/s
 http://live.narodni.hr:8063/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537460974.jpg" group-title="Ex-Yu/Radio", NAXI BOEM RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 128k - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537460974.jpg" group-title="Ex-Yu/Radio", NAXI BOEM RADIO (NAXI Belgrade Serbia) - 128k - 128 kbit/s
 http://109.206.96.18:8050
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1550043601.jpg" group-title="Ex-Yu/Radio", iFM Narodni Radio Topola Oplenac - 192 kbit/s
 http://91.228.254.72:7000/stream/1/
@@ -1182,8 +1196,12 @@ http://91.228.254.120:8000/stream/1/
 http://ljubav128.streaming.rs:9360/
 #EXTINF:-1 group-title="Ex-Yu/Radio" tvg-id="RadioS.rs",Radio S
 https://myradiostanice.rs/ldblncr/radio-s1/radio-s1#.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Radio",Radio S
+https://53be5ef2d13aa.streamlock.net/asmedia/radios/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio" tvg-id="RadioSNarodni.rs",Radio S Narodni
 https://539745e629986.streamlock.net/asmedia/radio_s_kafana/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Radio",Radio S Narodni
+https://stream.radios.rs:9016/*.mp3
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S1
 https://53a7ed211fc32.streamlock.net/asmedia/radios/chunklist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S2
@@ -1192,8 +1210,6 @@ https://53a7ed211fc32.streamlock.net/asmedia/index/chunklist.m3u8
 https://53a7ed211fc32.streamlock.net/asmedia/pingvin/chunklist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S4
 https://53be5ef2d13aa.streamlock.net/asmedia/gradski/chunklist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Radio",Radio S
-https://53be5ef2d13aa.streamlock.net/asmedia/radios/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S Cafe
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_cafe/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S Dance
@@ -1206,22 +1222,22 @@ https://53a7ed211fc32.streamlock.net/asmedia/radio_s_ex_yu/playlist.m3u8
 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_lounge/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S Južni
 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/playlist.m3u8
+#EXTINF:-1 group-title="Ex-Yu/Radio",Radio S Juzni
+http://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/chunklist_w317033927.m3u8?nocache=286704
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S Kids
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_kids/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Radio",Radio S Narodni
-https://stream.radios.rs:9016/*.mp3
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S POP&&ROCK
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_pop_80_90/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S Trap&&Rap
 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_mchits/playlist.m3u8
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio S Xtra
 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_love/playlist.m3u8
-#EXTINF:-1 group-title="Ex-Yu/Radio",Radio S3 Juzni
-http://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/chunklist_w317033927.m3u8?nocache=286704
 #EXTINF:-1 group-title="Ex-Yu/Radio",Rock Radio Beograd
 https://edge9.pink.rs/rockstream/?type=http
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio Pink
-http://pink.exyuserver.com/stream.mp3
+https://edge9.pink.rs/pinkstream
+#EXTINF:-1 group-title="Ex-Yu/Radio",Radio Pink WTF
+https://radio.paukhost.com/wtfradio192.aac
 #EXTINF:-1 group-title="Ex-Yu/Radio",Radio Bravo Kragujevac
 http://streaming.orion.rs:8030/stream.nsv
 #EXTINF:-1 group-title="Ex-Yu/Radio",Bravo Radio
@@ -1316,6 +1332,9 @@ https://s29.myradiostream.com:16654/listen.mp3;
 https://radio.simplecloud.rs:8311/;
 #EXTINF:-1 group-title="Ex-Yu/Radio",radio yuEco
 https://s1.skeletor.rs/yueco
+#EXTINF:-1 group-title="Ex-Yu/Radio",radio Super FM
+https://onair.superfm.rs/superfm.mp3
+
 
 
 
@@ -3394,8 +3413,6 @@ http://tuner.rockyfm.com:80/;
 http://mp3channels.webradio.antenne.de/classic-rock-live
 #EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",antenne 1 Modern Rock Listen live
 https://stream.antenne1.de/modernrock/livestream1.aac
-#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Rock Radio
-https://onair.superfm.rs/superfm.mp3
 #EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Radio 021 - Rock
 http://centova.dukahosting.com:8190/stream/
 #EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Naxi Blues Rock Radio
@@ -3768,6 +3785,7 @@ https://regiocast.streamabc.net/regc-80s80sevent026349418-mp3-192-6884259?
 https://regiocast.streamabc.net/regc-80s80squeen8655545-mp3-192-1954187?
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Crooner Radio Elvis Presley
 https://croonerradio_elvispresley.ice.infomaniak.ch/croonerradio-elvispresley-midfi.mp3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de Pink Floyd
 https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8 
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - Red Hot Chili Peppers
@@ -3907,18 +3925,25 @@ https://regiocast.streamabc.net/regc-80s80smicjac6506662-mp3-192-3954067?
 #EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Michael Jackson
 https://stream.vagalume.fm/hls/1498504131678502/aac.m3u8
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Frank Sinatra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://croonerradio_franksinatra.ice.infomaniak.ch/croonerradio-franksinatra-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Barbra Streisand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Céline Dion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://croonerradio_celinedion.ice.infomaniak.ch/croonerradio-celinedion-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",M Radio Céline Dion
 https://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Dean Martin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://croonerradio_deanmartin.ice.infomaniak.ch/croonerradio-deanmartin-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Julio Iglesias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://croonerradio_julioiglesias.ice.infomaniak.ch/croonerradio-julioiglesias-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Michael Bublé
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",ABradio Depeche Mode
 https://ice4.abradio.cz/depeche128.mp3
