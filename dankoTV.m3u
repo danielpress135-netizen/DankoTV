@@ -3330,7 +3330,7 @@ http://rosetta.shoutca.st:8352/stream/1/
 http://145.14.14.93:9034/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1550756704.jpg" group-title="World-Rock🎵📻🎸/RADIO", Metal Express Radio - 192 kbit/s
 http://s39.myradiostream.com:11590/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537460974.jpg" group-title="World-Rock🎵📻🎸/RADIO", NAXI ROCK RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 128k - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537460974.jpg" group-title="World-Rock🎵📻🎸/RADIO", NAXI ROCK RADIO (NAXI Belgrade Serbia) - 128 kbit/s
 http://178.253.200.250:8180
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="World-Rock🎵📻🎸/RADIO", Metal Rock Radio - 128 kbit/s
 https://kathy.torontocast.com:2800/stream/1/
@@ -3338,7 +3338,7 @@ https://kathy.torontocast.com:2800/stream/1/
 http://poznan5-4.radio.pionier.net.pl:8000/tuba8-1.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1549788617.jpg" group-title="World-Rock🎵📻🎸/RADIO", Rock Melodic Radio - AOR MELODIC ROCK HARD ROCK - 320 kbit/s
 http://i4.streams.ovh:8124/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1436088486.png" group-title="World-Rock🎵📻🎸/RADIO", Hard Rock Heaven - 80s Hard Rock, Hair Metal, Heavy Metal, Glam - www.hrhradio.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1436088486.png" group-title="World-Rock🎵📻🎸/RADIO", Hard Rock Heaven - 80s Hard Rock Hair Metal Heavy Metal Glam - www.hrhradio.com - 128 kbit/s
 http://hydra.cdnstream.com:80/1521_128
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/83597.jpg" group-title="World-Rock🎵📻🎸/RADIO", HD Radio - The Blues - 128 kbit/s
 http://rosetta.shoutca.st:8389/stream/1/
@@ -3622,14 +3622,86 @@ http://hearme.fm:8564/stream
 http://s1.slotex.pl:7836/stream/1/
 #EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",TotalRock - The True Voice of Rock & Metal Radio
 https://s3.citrus3.com:8056/stream
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Vagalume.FM - Hard Rock
+https://stream.vagalume.fm/hls/1521216096352408/aac.m3u8
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Vagalume.FM - Heavy Metal
+https://stream.vagalume.fm/hls/1479752883943544/aac.m3u8
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Vagalume.FM - Rock Ballads
+https://stream.vagalume.fm/hls/1464720376206867533/aac.m3u8
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Vagalume.FM - Punk Rock
+https://stream.vagalume.fm/hls/1470155080752829/aac.m3u8
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Vagalume.FM - Metal Sinfônico
+https://stream.vagalume.fm/hls/1477592024431906/aac.m3u8
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Vagalume.FM - Rock Clássico
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Vagalume.FM - Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Vagalume.FM - Rock - Das Raízes ao Progressivo
+https://stream.vagalume.fm/hls/1475867272151401/aac.m3u8
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Hard & Heavy Metal Hits Radio
+https://audio.serv.pt/8040/stream
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Radio Metal Warriors Perú
+https://nd02.ehostingperu.net:8005/stream
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Radio Extasy - Power Metal
+https://pl.extasy.es/
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Radio Metal On - The Heavy
+https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Radio Metal On - 80s HNH
+https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Radio Metal ON - The Thrasher
+https://radiometalon.com/listen/radio_metal_on_the_thrasher/radiohigh.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Radio Metal On - The Brutal
+https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Radio Metal On - Toxic
+https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Radio Fucking Metal - Power
+https://radio-fucking-metal.stream.laut.fm/radio-fucking-metal
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",hearme fm Power Metal
+https://radio.hearme.fm:8600/stream
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",hearme fm Metal
+https://radio.hearme.fm:8540/stream
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",hearme Hard Rock
+https://radio.hearme.fm:8550/stream
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Metal Radio Colombia
+https://stream.zeno.fm/qwnpbyb0c7vuv
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Rock Attack Radio
+https://listen.radioking.com/radio/176026/stream/218008
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Metal Hammer
+https://metal-hammer.stream.laut.fm/metal-hammer
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Metalomanie
+https://ice.abradio.cz/metalomanie128.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Rock Radio
+https://22183.live.streamtheworld.com/ROCK_RADIO_128.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Rocková Zábava
+https://ice.abradio.cz/rockzabava128.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Známka Punku
+https://ice.abradio.cz/znamkapunku128.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Espíritu Rock
+https://centova92.instainternet.com/proxy/santiago/stream
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Antyradio Hard
+https://an.cdn.eurozet.pl/ANTHAR.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Antyradio Ballads
+https://an03.cdn.eurozet.pl/ANTBAL.mp3?filetype=mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Antyradio Classic Rock
+https://an.cdn.eurozet.pl/ANTCLA.mp3?filetype=mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Antyradio Greatest
+https://an.cdn.eurozet.pl/ANTGRE.mp3?filetype=mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Antyradio Made in Poland
+https://an.cdn.eurozet.pl/ANTPOL.mp3?filetype=mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Antyradio Makak
+https://an06.cdn.eurozet.pl/ANTMAK.mp3
+#EXTINF:-1 group-title="World-Rock🎵📻🎸/RADIO",Anytradio Covers
+https://an04.cdn.eurozet.pl/ANTCOV.mp3
 
 
 
 
 
 
-#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/a33e9c24b93601dd7841aa0e071d89f6.png", Золотая Коллекция - Metallica
-https://pub0202.101.ru:8443/stream/pro/aac/64/123
+
+
+
+
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO", Exclusive Radio - Metallica
 https://streaming.exclusive.radio/er/metallica/icecast.audio
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Rockland Radio - Best of Rock FM - Metallica
@@ -3656,12 +3728,10 @@ https://streaming.exclusive.radio/er/blacksabbath/icecast.audio
 https://streaming.exclusive.radio/er/vanhalen/icecast.audio  
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO", Exclusive Radio - Deep Purple
 https://streaming.exclusive.radio/er/deeppurple/icecast.audio  
-#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/05d31f3851985ea99d76d89d5126b3d2.png", Золотая Коллекция - Scorpions
-https://pub0202.101.ru:8443/stream/pro/aac/64/113
-#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/10a9ec079b837552c8030237208cd676.png", Золотая Коллекция - Deep Purple
-https://pub0202.101.ru:8443/stream/pro/aac/64/125
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO", Exclusive Radio - Bon Jovi
 http://streaming.exclusive.radio/er/bonjovi/icecast.audio
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume - O Melhor De Bon Jovi
+https://stream.vagalume.fm/hls/165577643598331/aac.m3u8
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO", Exclusive Radio - Alice Cooper
 https://streaming.exclusive.radio/er/alicecooper/icecast.audio
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO", Exclusive Radio - KISS
@@ -3678,26 +3748,50 @@ https://streaming.exclusive.radio/er/rollingstones/icecast.audio
 https://streaming.exclusive.radio/er/acdc/icecast.audio
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO", ZZ Top 
 https://2.mystreaming.net/er/zztop/icecast.audio  
-#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/fb7831b59cad0c74d72061d5a51bea41.png", Золотая Коллекция - Linkin Park
-https://pub0202.101.ru:8443/stream/pro/aac/64/149
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO", Exclusive Radio - Foo Fighters
 https://streaming.exclusive.radio/er/foofighters/icecast.audio
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO", Exclusive Radio - Green Day
-https://streaming.exclusive.radio/er/greenday/icecast.audio  
-#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/8cc7a970aa1c62ca87d909ed13544504.png", Золотая Коллекция - Queen
-https://pub0202.101.ru:8443/stream/pro/aac/64/54
-#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO"  tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/c09d01c7f07eff8d5b50fddb30312d42.png", Золотая Коллекция - The Rolling Stones
-https://pub0202.101.ru:8443/stream/pro/aac/64/117
-#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/035a5754ef3d9c23100befc7a6f46bc7.png", Золотая Коллекция - U2
-https://pub0202.101.ru:8443/stream/pro/aac/64/109
+https://streaming.exclusive.radio/er/greenday/icecast.audio 
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O melhor de Green Day
+https://stream.vagalume.fm/hls/1498156439621697/aac.m3u8 
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO"  tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/fca1ac0c36643566b09c723ebb8bf6fc.png", Exclusive Radio - The Beatles
 http://streaming.exclusive.radio/er/beatles/icecast.audio 
-#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO"  tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0724971a11b543c96d94f0f228cbcd51.png", Золотая Коллекция - Elvis Presley
-https://pub0202.101.ru:8443/stream/pro/aac/64/111
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de The Beatles
+https://stream.vagalume.fm/hls/1497301149923842/aac.m3u8
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO", Exclusive Radio - Roxette
 https://streaming.exclusive.radio/er/roxette/icecast.audio
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",The A.X.E. Project
 http://79.98.108.170:8004/autodj
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",80s80s Bowie
+https://regiocast.streamabc.net/regc-80s80sevent026349418-mp3-192-6884259?
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",80s80s Queen
+https://regiocast.streamabc.net/regc-80s80squeen8655545-mp3-192-1954187?
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Crooner Radio Elvis Presley
+https://croonerradio_elvispresley.ice.infomaniak.ch/croonerradio-elvispresley-midfi.mp3
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de Pink Floyd
+https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8 
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - Red Hot Chili Peppers
+https://stream.vagalume.fm/hls/1498587049275183/aac.m3u8
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de Queen
+https://stream.vagalume.fm/hls/1498761012966340/aac.m3u8
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de Led Zeppelin
+https://stream.vagalume.fm/hls/1498245335241623/aac.m3u8
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de U2
+https://stream.vagalume.fm/hls/1497039009964147/aac.m3u8
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de Nirvana
+https://stream.vagalume.fm/hls/1498151997992567/aac.m3u8
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de Guns 'N Roses
+https://stream.vagalume.fm/hls/1498674064969547/aac.m3u8
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de Linkin Park
+https://stream.vagalume.fm/hls/1500578866216038/aac.m3u8
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de Coldplay
+https://stream.vagalume.fm/hls/1495654405992111/aac.m3u8
+#EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de Paramore
+https://stream.vagalume.fm/hls/1618433830478191/aac.m3u8
+
+
+
+
  
 
 
@@ -3804,6 +3898,63 @@ http://stream.laut.fm/primetime
 
 #EXTINF:-1 group-title="World-Mix+/Radio", Exclusive Radio - Madonna
 https://streaming.exclusive.radio/er/madonna/icecast.audio
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Madonna
+https://stream.vagalume.fm/hls/1524166883702216/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",80s80s Prince
+https://regiocast.streamabc.net/regc-80s80s1006968135-mp3-192-7499710?
+#EXTINF:-1 group-title="World-Mix+/Radio",80s80s Michael Jackson
+https://regiocast.streamabc.net/regc-80s80smicjac6506662-mp3-192-3954067?
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Michael Jackson
+https://stream.vagalume.fm/hls/1498504131678502/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Frank Sinatra
+https://croonerradio_franksinatra.ice.infomaniak.ch/croonerradio-franksinatra-midfi.mp3
+#EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Barbra Streisand
+https://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3
+#EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Céline Dion
+https://croonerradio_celinedion.ice.infomaniak.ch/croonerradio-celinedion-midfi.mp3
+#EXTINF:-1 group-title="World-Mix+/Radio",M Radio Céline Dion
+https://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
+#EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Dean Martin
+https://croonerradio_deanmartin.ice.infomaniak.ch/croonerradio-deanmartin-midfi.mp3
+#EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Julio Iglesias
+https://croonerradio_julioiglesias.ice.infomaniak.ch/croonerradio-julioiglesias-midfi.mp3
+#EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Michael Bublé
+https://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3
+#EXTINF:-1 group-title="World-Mix+/Radio",ABradio Depeche Mode
+https://ice4.abradio.cz/depeche128.mp3
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Ed Sheeran
+https://stream.vagalume.fm/hls/1495569735124775/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Katy Perry
+https://stream.vagalume.fm/hls/1495652324424489/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Rihanna
+https://stream.vagalume.fm/hls/1495655520843402/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Justin Bieber
+https://stream.vagalume.fm/hls/1495566261351323/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Bruno Mars
+https://stream.vagalume.fm/hls/149858723873431/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de John Mayer
+https://stream.vagalume.fm/hls/1491848189504196/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Bob Marley
+https://stream.vagalume.fm/hls/1524167056721891/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Adele
+https://stream.vagalume.fm/hls/1524166942596130/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume - O Melhor de Skank
+https://stream.vagalume.fm/hls/1534352328636564/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume - O Melhor de Maroon 5
+https://stream.vagalume.fm/hls/1524166899459398/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume - O Melhor de BTS   (k-pop)
+https://stream.vagalume.fm/hls/1618433870850629/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume - O Melhor de Lana Del Rey
+https://stream.vagalume.fm/hls/1618433844888212/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume - O Melhor de Anitta
+https://stream.vagalume.fm/hls/1554491399247327/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume - O Melhor de Shakira
+https://stream.vagalume.fm/hls/1618433857708722/aac.m3u8
+#EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Taylor Swift
+https://stream.vagalume.fm/hls/1618433809265385/aac.m3u8
+
+
+
 
 
 
