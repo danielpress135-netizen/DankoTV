@@ -3925,6 +3925,7 @@ https://regiocast.streamabc.net/regc-80s80smicjac6506662-mp3-192-3954067?
 #EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Michael Jackson
 https://stream.vagalume.fm/hls/1498504131678502/aac.m3u8
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Frank Sinatra
+#EXTMP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://croonerradio_franksinatra.ice.infomaniak.ch/croonerradio-franksinatra-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Barbra Streisand
