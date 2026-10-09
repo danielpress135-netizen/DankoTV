@@ -3784,7 +3784,9 @@ https://regiocast.streamabc.net/regc-80s80sevent026349418-mp3-192-6884259?
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",80s80s Queen
 https://regiocast.streamabc.net/regc-80s80squeen8655545-mp3-192-1954187?
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Crooner Radio Elvis Presley
-https://croonerradio_elvispresley.ice.infomaniak.ch/croonerradio-elvispresley-midfi.mp3
+#EXTMP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+http://croonerradio_elvispresley.ice.infomaniak.ch/croonerradio-elvispresley-midfi.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTINF:-1 group-title="World-ROCK+🎵📻🎸/RADIO",Vagalume.FM - O Melhor de Pink Floyd
 https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8 
@@ -3931,22 +3933,25 @@ http://croonerradio_franksinatra.ice.infomaniak.ch/croonerradio-franksinatra-mid
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Barbra Streisand
 #EXTMP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+http://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Céline Dion
+#EXTMP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://croonerradio_celinedion.ice.infomaniak.ch/croonerradio-celinedion-midfi.mp3
+http://croonerradio_celinedion.ice.infomaniak.ch/croonerradio-celinedion-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",M Radio Céline Dion
 https://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Dean Martin
+#EXTMP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://croonerradio_deanmartin.ice.infomaniak.ch/croonerradio-deanmartin-midfi.mp3
+http://croonerradio_deanmartin.ice.infomaniak.ch/croonerradio-deanmartin-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Julio Iglesias
+#EXTMP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://croonerradio_julioiglesias.ice.infomaniak.ch/croonerradio-julioiglesias-midfi.mp3
+http://croonerradio_julioiglesias.ice.infomaniak.ch/croonerradio-julioiglesias-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",Crooner Radio Michael Bublé
+#EXTMP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3
+http://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",ABradio Depeche Mode
 https://ice4.abradio.cz/depeche128.mp3
 #EXTINF:-1 group-title="World-Mix+/Radio",Vagalume.FM - O Melhor de Ed Sheeran
