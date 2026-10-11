@@ -892,7 +892,7 @@ https://cdn-ca-yyz.b-cdn.net/hcorg_5sHLUPrgnAd/s/jsl_CXcUJudUIEp/master.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/jesstv/playlist.m3u8
 #EXTINF:-1 tvg-id="MiracleChannel.ca" tvg-name="Miracle Channel" tvg-logo="https://i.imgur.com/LvIfmR5.png" group-title="TV📺/EN🇬🇧",Miracle Channel  (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referrer=https://www.miraclechannel.ca/live
+#EXTVLCOPT:referrer="https://www.miraclechannel.ca/live"
 https://video.corcoplus.com/mclive/_definst_/smil:miraclechannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QuoVadisTV.ca" tvg-name="Quo Vadis TV" tvg-logo="https://i.imgur.com/pEqDDHl.png" group-title="TV📺/EN🇬🇧",Quo Vadis TV (Canada)
 https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
