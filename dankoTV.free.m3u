@@ -94,21 +94,17 @@ https://res.obzorweather.com/memfs/ad508abf-ee51-4e32-b223-70c463b05587_output_0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Обзор плаж 2
 https://res.obzorweather.com/memfs/23f241ab-160b-4786-890e-86086517c15b_output_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Приморско 1
-https://s153.ipcamlive.com/streams/99zwb5ysemq2rogrw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Приморско 2
-https://s160.ipcamlive.com/streams/a0y2kqp3ibq7vhwyw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Приморско 3
 https://s110.ipcamlive.com/streams/6ezng8uone1o5xvfp/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Приморско 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Приморско 2
 https://s110.ipcamlive.com/streams/6ea9rrnzbdyokho7f/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Приморско 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Приморско 3
 https://s150.ipcamlive.com/streams/96xhpecnifv9sp0ct/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Слънчев Бряг
 https://s76.ipcamlive.com/streams/4cef9gqvn6jwutfer/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Дуранкулак
 https://s154.ipcamlive.com/streams/9adoxifbq73mgywvu/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Равда и Несебър 
-https://s148.ipcamlive.com/streams/94m6dhzvjjpxr0eux/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Elegance Baech Hotel Несебър 
+https://streamer.pix-l.biz/hls/streaone.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Несебър
 https://streamer.pix-l.biz/hls/streamtwo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Тюленово с панорамна гледка към Черно море
@@ -116,17 +112,11 @@ https://s25.ipcamlive.com/streams/19ntluqvze35h8cdk/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Стара Планина - хижа Добрила намираща се между върховете Добрила и Левски в Троянската планина
 https://dobrila.darkpsy.space/secure-stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Хасково 1
-https://haskovo.net/tvs/cam8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Хасково 2
-https://haskovo.net/tvs/cam7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Хасково 3
-https://haskovo.net/tvs/cam2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Хасково 4
 https://haskovo.net/tvs/cam5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Хасково 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Хасково 2
 https://haskovo.net/tvs/cam1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Хасково 6
-https://haskovo.net/tvs/cam1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Хасково 3
+https://haskovo.net/tvs/cam6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Колашин  Черна Гора 1
 https://s76.ipcamlive.com/streams/4cf68ccq9wz0nhgzb/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Колашин  Черна Гора 2
