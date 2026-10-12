@@ -893,7 +893,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/jesstv/playlist.m3u8
 #EXTINF:-1 tvg-id="MiracleChannel.ca" tvg-name="Miracle Channel" tvg-logo="https://i.imgur.com/LvIfmR5.png" group-title="TV📺/EN🇬🇧",Miracle Channel  (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer="https://www.miraclechannel.ca/live"
-https://video.corcoplus.com/mclive/_definst_/smil:miraclechannel.smil/playlist.m3u8
+https://video.corcoplus.com/mclive/_definst_/smil:miraclechannel.smil/chunklist_w265861684_b3328000_sleng.m3u8
 #EXTINF:-1 tvg-id="QuoVadisTV.ca" tvg-name="Quo Vadis TV" tvg-logo="https://i.imgur.com/pEqDDHl.png" group-title="TV📺/EN🇬🇧",Quo Vadis TV (Canada)
 https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="PointeTV.ag" tvg-name="Pointe TV" tvg-logo="https://i.ibb.co/7tyD2kr/IMG-20240421-154850.jpg" group-title="TV📺/EN🇬🇧",Pointe TV  (Antigua and Barbuda)
@@ -934,13 +934,13 @@ https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Praise 87.9 FM" tvg-logo="" group-title="TV📺/EN🇬🇧",Praise 87.9 FM  (Cayman Islands)
 https://praise.345guide.com/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="CompassTV.ky" tvg-name="Compass TV" tvg-logo="https://i.imgur.com/njILO8c.png" group-title="TV📺/EN🇬🇧",Compass TV  (Cayman Islands)
-https://livecdn.use1-0007.jwplive.com/live/sites/UcsV9dHw/media/Akq1tGDt/live.isml/.mpd
+https://livecdn.use1-0009.jwplive.com/live/sites/UcsV9dHw/media/2ZRDAWMH/live.isml/.mpd
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="TV📺/EN🇬🇧",CGTN  (China)
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="TV📺/EN🇬🇧",CGTN Documentary  (China)
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-id="VAMTV.cw" tvg-name="VAM TV" tvg-logo="https://i.imgur.com/CD1PffA.png" group-title="TV📺/EN🇬🇧",VAM TV  (America - Curacao)
-https://nl04.edge.sincerecloud.stream/live_v1/hls/LClmEwFTY7YcG_zRu1pT2w/1788998242/CWVAM_720/index.m3u8
+https://nl04.edge.sincerecloud.stream/live_v1/hls/j1Kc6dLsKInk41AxBcbfMw/1791766337/CWVAM_720/index.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="TV📺/EN🇬🇧",Tom And Jerry  (Dominican Republic)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="TV📺/EN🇬🇧",Tom And Jerry  (Dominican Republic)
@@ -969,7 +969,9 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
 #EXTINF:-1 tvg-id="ElevateTV.ke" tvg-name="Elevate TV" tvg-logo="https://i.imgur.com/M7xaQ7o.jpg" group-title="TV📺/EN🇬🇧",Elevate TV  (Kenya)
 https://goliveafrica.media:9998/live/6a96a7eaccd31/index.m3u8
-#EXTINF:-1 tvg-id="MaldivesTV.mv" tvg-name="Maldives TV" tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="TV📺/EN🇬🇧",Maldives TV  
+#EXTINF:-1 tvg-id="MaldivesTV.mv" tvg-name="Maldives TV" tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="TV📺/EN🇬🇧",Maldives TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer="https://maldivestv.mv/" 
 https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:-1 tvg-id="MNBWorld.mn" tvg-name="MNB World" tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" group-title="TV📺/EN🇬🇧",MNB World  (Mongolia)
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
@@ -1689,9 +1691,39 @@ https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CypressChannel36.us" tvg-name="Cypress Channel 36" tvg-logo="https://i.imgur.com/vOvoHBC.png" group-title="TV📺/EN🇺🇸",Cypress Channel 36
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="DallasTV16.us" tvg-name="Dallas TV 16" tvg-logo="https://i.imgur.com/BDgl7dz.png" group-title="TV📺/EN🇺🇸",Dallas TV 16
+https://edge-f.swagit.com/live/dallastx/live-5-a/playlist.m3u8
+#EXTINF:-1 tvg-id="DallasTV95.us" tvg-name="Dallas TV 95" tvg-logo="https://i.imgur.com/BDgl7dz.png" group-title="TV📺/EN🇺🇸",Dallas TV 95
+https://edge-f.swagit.com/live/dallastx/live-4-a/playlist.m3u8
+#EXTINF:-1 tvg-id="DallasTV96.us" tvg-name="Dallas TV 96" tvg-logo="https://i.imgur.com/BDgl7dz.png" group-title="TV📺/EN🇺🇸",Dallas TV 96
+https://edge-f.swagit.com/live/dallastx/live-3-a/playlist.m3u8
+#EXTINF:-1 tvg-id="DATV.us" tvg-name="Dayton Access Television" tvg-logo="https://i.imgur.com/iPGkSMg.png" group-title="TV📺/EN🇺🇸",Dayton Access Television
+https://reflect-dayton-access-tv.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-id="DaytonSpiritualTelevision.us" tvg-name="Dayton Spiritual Television" tvg-logo="https://i.imgur.com/s5RenKv.png" group-title="TV📺/EN🇺🇸",Dayton Spiritual Television
+https://reflect-dayton-access-tv.cablecast.tv/live-9/live/live.m3u8
+#EXTINF:-1 tvg-id="DCCouncilHearingRoom120.us" tvg-name="DC Council Hearing Room 120" tvg-logo="https://i.imgur.com/8fljC7g.png" group-title="TV📺/EN🇺🇸",DC Council Hearing Room 120
+https://video.oct.dc.gov/out/u/120.m3u8
+#EXTINF:-1 tvg-id="DCCouncilHearingRoom123.us" tvg-name="DC Council Hearing Room 123" tvg-logo="https://i.imgur.com/8fljC7g.png" group-title="TV📺/EN🇺🇸",DC Council Hearing Room 123
+https://video.oct.dc.gov/out/u/123.m3u8
+#EXTINF:-1 tvg-id="DCCouncilHearingRoom412.uS" tvg-name="DC Council Hearing Room 412" tvg-logo="https://i.imgur.com/8fljC7g.png" group-title="TV📺/EN🇺🇸",DC Council Hearing Room 412
+https://video.oct.dc.gov/out/u/412.m3u8
+#EXTINF:-1 tvg-id="DCC.us" tvg-name="DCC" tvg-logo="https://i.imgur.com/YBWbiWZ.png" group-title="TV📺/EN🇺🇸",DCC
+https://video.oct.dc.gov/out/u/DCC.m3u8
+#EXTINF:-1 tvg-id="DCN.us" tvg-name="DCN" tvg-logo="https://i.imgur.com/DIau0GB.png" group-title="TV📺/EN🇺🇸",DCN
+https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-id="DedhamTVEducationChannel.us" tvg-name="Dedham TV Education Channel" tvg-logo="https://i.imgur.com/8NRhoNO.png" group-title="TV📺/EN🇺🇸",Dedham TV Education Channel
+http://50.77.30.235/live-18/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-id="DedhamTVGovernmentChannel.us" tvg-name="Dedham TV Government Channel" tvg-logo="https://i.imgur.com/E3hkdZx.png" group-title="TV📺/EN🇺🇸",Dedham TV Government Channel
+http://50.77.30.235/live-18/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="DedhamTVPublicChannel.us" tvg-name="Dedham TV Public Channel" tvg-logo="https://i.imgur.com/E3hkdZx.png" group-title="TV📺/EN🇺🇸",Dedham TV Public Channel
+http://50.77.30.235/live-18/live/stream-5/live.m3u8
+#EXTINF:-1 tvg-id="DeKalbCountyTV.us" tvg-name="DeKalb County TV" tvg-logo="https://i.imgur.com/zymCWZC.png" group-title="TV📺/EN🇺🇸",DeKalb County TV
+https://cdn3.wowza.com/5/ZXJ5L1RpWlU0NEk5/dekalbcountyga/G0799_003/playlist.m3u8
+#EXTINF:-1 tvg-id="DentonTelevision.us" tvg-name="Denton Television" tvg-logo="https://i.imgur.com/RYfUDfL.png" group-title="TV📺/EN🇺🇸",Denton Television
+https://edge-f.swagit.com/live/dentontx/live-1-b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+
+
 
 
 
