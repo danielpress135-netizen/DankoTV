@@ -1825,8 +1825,6 @@ https://egtv6.cablecast.tv/live-1/live/stream-1/live.m3u8
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/elsegundo/G0014_007/playlist.m3u8
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-name="Electric Now" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7685b801-1ef6-4098-947a-4ccada912e33/Electric_Now_Logo_For_Dark_Background_EN.png" group-title="TV📺/EN🇺🇸",Electric Now
 https://amg01705-amg01705c1-amgplt0274.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0274/playlist.m3u8
-#EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-name="Entertainment Tonight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png" group-title="TV📺/EN🇺🇸",Entertainment Tonight
-https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/b9b3db91-40ee-49b6-abe6-89d3acc4e7bc:BRU/master.m3u8
 #EXTINF:-1 tvg-id="EnumclawCityTelevision.us" tvg-name="Enumclaw City Television" tvg-logo="https://i.imgur.com/8vXuYwc.png" group-title="TV📺/EN🇺🇸",Enumclaw City Television
 https://securestream11.champds.com/LIVE/EnumclawWALIVE/EnumclawWALIVE.m3u8
 #EXTINF:-1 tvg-id="EPlusTV6.us" tvg-name="EPlusTV 6" tvg-logo="https://i.imgur.com/dvVebvQ.png" group-title="TV📺/EN🇺🇸",EPlusTV 6
@@ -1845,7 +1843,61 @@ https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EWTN Asia - Africa" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="TV📺/EN🇺🇸",EWTN Asia - Africa
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FairfaxCountyGovernmentChannel16.us" tvg-name="Fairfax County Government Channel 16" tvg-logo="https://i.imgur.com/BIjVg7E.png" group-title="TV📺/EN🇺🇸",Fairfax County Government Channel 16
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-live/_definst_/mp4:fairfax-ch16/playlist.m3u8
+#EXTINF:-1 tvg-id="Fairfax10.us" tvg-name="Fairfax 10" tvg-logo="" group-title="TV📺/EN🇺🇸",Fairfax 10
+https://fcac.cablecast.tv/live-4/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="Spirit36.us" tvg-name="Spirit 36" tvg-logo="" group-title="TV📺/EN🇺🇸",Spirit 36
+https://fcac.cablecast.tv/live-4/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="FaithTV.us" tvg-name="Faith TV" tvg-logo="https://i.imgur.com/RNaYOyW.png" group-title="TV📺/EN🇺🇸",Faith TV
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FaithAfrica.za" tvg-name="Faith Africa" tvg-logo="https://i.imgur.com/yAZE7aU.png" group-title="TV📺/EN🇺🇸",Faith Africa
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FaithUK.uk" tvg-name="Faith UK" tvg-logo="https://i.imgur.com/mn8I2wt.png" group-title="TV📺/EN🇺🇸",Faith UK"
+https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FarmersBranchTV.us" tvg-name="Farmers Branch TV" tvg-logo="https://i.imgur.com/soPulk5.png" group-title="TV📺/EN🇺🇸",Farmers Branch TV
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/farmersbranch/G1215_002/playlist.m3u8
+#EXTINF:-1 tvg-id="FaribaultCommunityTelevision.us" tvg-name="Faribault Community Television" tvg-logo="https://i.imgur.com/7GWubTD.png" group-title="TV📺/EN🇺🇸",Faribault Community Television
+https://reflect-faribault.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-id="FATVEducationChannel.us" tvg-name="FATV Education Channel" tvg-logo="https://i.imgur.com/uh6GxaW.png" group-title="TV📺/EN🇺🇸",FATV Education Channel Civic
+https://livestream.telvue.com/fitchburg2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FATVGovernmentChannel.us" tvg-name="FATV Government Channel" tvg-logo="https://i.imgur.com/AojfAKO.png" group-title="TV📺/EN🇺🇸",FATV Government Channel
+https://livestream.telvue.com/fitchburg3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FATVPublicChannel.us" tvg-name="FATV Public Channel" tvg-logo="https://i.imgur.com/AojfAKO.png" group-title="TV📺/EN🇺🇸",FATV Public Channel
+https://livestream.telvue.com/fitchburg1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FCPublicMedia.us" tvg-name="FC Public Media" tvg-logo="https://i.imgur.com/naLbZuo.png" group-title="TV📺/EN🇺🇸",FC Public Media
+https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="FCTChannel2.us" tvg-name="FCT Channel 2" tvg-logo="https://i.imgur.com/pNy7EUt.png" group-title="TV📺/EN🇺🇸",FCT Channel 2
+https://securestream11.champds.com/LIVE/FalmouthMELIVE/FalmouthMELIVE.m3u8
+#EXTINF:-1 tvg-id="FGTV.us" tvg-name="FGTV" tvg-logo="https://i.imgur.com/RXFmzVY.png" group-title="TV📺/EN🇺🇸",FGTV
+https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE_HQ.m3u8
+#EXTINF:-1 tvg-id="FieldStream.us" tvg-name="Field & Stream" tvg-logo="https://i.imgur.com/9ApEFXx.png" group-title="TV📺/EN🇺🇸",Field & Stream
+https://linear-600.frequency.stream/dist/fieldstream/600/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="FlowerMoundTV.us" tvg-name="Flower Mound TV" tvg-logo="https://i.imgur.com/kaDWr7Z.png" group-title="TV📺/EN🇺🇸",Flower Mound TV
+https://edge-f.swagit.com/live/flowermoundtx/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="FLTVWebChannel1.us" tvg-name="FLTV Web Channel 1" tvg-logo="https://i.imgur.com/HjXe8c1.png" group-title="TV📺/EN🇺🇸",FLTV Web Channel 1
+https://reflect-fingerlakestv.cablecast.tv/live-1/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="57487" tvg-name="FNX.us" tvg-logo="https://i.imgur.com/AfI5xuN.png" group-title="TV📺/EN🇺🇸",FNX.us
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1784430/Xaa-KqFbEByaiW_MFQSBjw/1792093084/media_mpegts_0.m3u8
+#EXTINF:-1 tvg-id="FortWorthTVMunicipalChannel.us" tvg-name="Fort Worth TV Municipal Channel" tvg-logo="https://i.imgur.com/2IVjBqY.png" group-title="TV📺/EN🇺🇸",Fort Worth TV Municipal Channel
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/fortworthgov/G0551_005/playlist.m3u8
+#EXTINF:-1 tvg-id="FortWorthTVCommunityChannel.us" tvg-name="Fort Worth TV Community Channel" tvg-logo="https://i.imgur.com/2IVjBqY.png" group-title="TV📺/EN🇺🇸",Fort Worth TV Community Channel
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/fortworthgov/G0551_004/playlist.m3u8
+#EXTINF:-1 tvg-id="FreeportTV3.us" tvg-name="Freeport TV3" tvg-logo="https://i.imgur.com/Q7iaXyh.png" group-title="TV📺/EN🇺🇸",Freeport TV3
+https://reflect-fctv3.cablecast.tv/live-3/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="FriscoTelevisionNetwork.us" tvg-name="Frisco Television Network" tvg-logo="https://i.imgur.com/EpXr5OU.png" group-title="TV📺/EN🇺🇸",Frisco Television Networ
+https://edge-f.swagit.com/live/friscotx/live-2-a/playlist.m3u8
+#EXTINF:-1 tvg-id="FTTV.us" tvg-name="Franklin Township Television" tvg-logo="https://i.imgur.com/yhsaR4V.png" group-title="TV📺/EN🇺🇸",Franklin Township Television
+https://vbfast-n.viebit.com/explive/1792269913_84307c156d04c5d2078460a0568ba47463620dad/e525be04-7b3b-471e-981c-c43fec240d2e/playlist.m3u8
+#EXTINF:-1 tvg-id="FVTV.us" tvg-name="FVTV" tvg-logo="https://i.imgur.com/HVxIIy1.png" group-title="TV📺/EN🇺🇸",FVTV
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/fountainvalley/G0806_001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
+
+
 
 
 
