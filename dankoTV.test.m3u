@@ -9,14 +9,6 @@ http://31.43.191.142:8080/191703089055131/01703089055686/23853
 http://31.43.191.142:8080/191703089055131/01703089055686/23851
 #EXTINF:-1 tvg-name="RO: DIGI SPORT 4" tvg-logo="https://docdog.top/logo/countries/romania/digisport4.png" group-title="EURO | ROMANIA",RO: DIGI SPORT 4
 http://31.43.191.142:8080/191703089055131/01703089055686/23852
-#EXTINF:-1 tvg-name="RO: ORANGE SPORT 1" group-title="EURO | ROMANIA",RO: ORANGE SPORT 1
-http://31.43.191.142:8080/191703089055131/01703089055686/23849
-#EXTINF:-1 tvg-name="RO: ORANGE SPORT 2" group-title="EURO | ROMANIA",RO: ORANGE SPORT 2
-http://31.43.191.142:8080/191703089055131/01703089055686/23848
-#EXTINF:-1 tvg-name="RO: ORANGE SPORT 3" group-title="EURO | ROMANIA",RO: ORANGE SPORT 3
-http://31.43.191.142:8080/191703089055131/01703089055686/23847
-#EXTINF:-1 tvg-name="RO: ORANGE SPORT 4" group-title="EURO | ROMANIA",RO: ORANGE SPORT 4
-http://31.43.191.142:8080/191703089055131/01703089055686/23846
 #EXTINF:-1 tvg-name="RO: 1 MUSIC CHANNEL" tvg-logo="https://docdog.top/logo/countries/romania/1musicchannel.png" group-title="EURO | ROMANIA",RO: 1 MUSIC CHANNEL
 http://31.43.191.142:8080/191703089055131/01703089055686/23856
 #EXTINF:-1 tvg-name="RO: A 7 TV" tvg-logo="https://docdog.top/logo/countries/romania/a7tv1.png" group-title="EURO | ROMANIA",RO: A 7 TV
@@ -1002,7 +994,7 @@ https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivest
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/espansionetv.png" tvg-id="Espansione TV.ch" group-title="EUROPA | ITALIA",Espansione TV
 https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Np3RaKv.png" tvg-id="BergamoTV.it" group-title="Altro" group-title="EUROPA | ITALIA",Bergamo Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Np3RaKv.png" tvg-id="BergamoTV.it" group-title="EUROPA | ITALIA",Bergamo Tv
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R1IGIDf.png" tvg-id="TTTeletutto.it" group-title="EUROPA | ITALIA",TeleTutto
 https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/playlist.m3u8
@@ -1530,6 +1522,33 @@ http://stream.mcquack.net/272/index.m3u8
 http://stream.mcquack.net/318/index.m3u8
 #EXTINF:-1 group-title="MUSIC | RUSSIA",BRIDGE RUSKII HIT
 http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Bridge deluxe
+http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Bridge classic
+http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Bridge
+http://stream.mcquack.net/318/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Bridge хит
+http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Europa Plus TV
+http://stream.mcquack.net/184/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Inrating
+http://stream.mcquack.net/147/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Музыка Первого
+http://stream.mcquack.net/153/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Муз ТВ
+http://stream.mcquack.net/86/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Жара
+http://stream.mcquack.net/386/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",RU TV
+http://stream.mcquack.net/109/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Mezzo Live
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",Ля-минор ТВ
+http://stream.mcquack.net/303/index.m3u8
+#EXTINF:-1 group-title="MUSIC | RUSSIA" tvg-rec="7" timeshift="7",ТНТ music
+http://stream.mcquack.net/317/index.m3u8
+
 
 #EXTINF:-1 group-title="MUSIC | TURK",NR1
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
@@ -1552,6 +1571,33 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="MUSIC | LATINO",TotalMusicᴴᴰ
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+
+#EXTINF:-1,MIMUSICA POPULAR HD
+#EXTVLCOPT:network-caching=1000
+http://45.239.51.139:4000/play/a05s
+#EXTINF:-1,MIMUSICA REGGAETON HD
+#EXTVLCOPT:network-caching=1000
+http://45.239.51.139:4000/play/a05t
+#EXTINF:-1,MIMUSICA ROMANTICA HD
+#EXTVLCOPT:network-caching=1000
+http://45.239.51.139:4000/play/a05u
+#EXTINF:-1,MIMUSICA SALSA HD
+#EXTVLCOPT:network-caching=1000
+http://45.239.51.139:4000/play/a05v
+
+
+
+#EXTINF:-1,Music Box Sexy
+http://88.212.15.17/live/mb_sexy/index.m3u8
+#EXTINF:-1,Music Box Classic
+http://88.212.15.17/live/mb_classic/index.m3u8 
+#EXTINF:-1,Music Box Hits
+http://88.212.15.17/live/mb_hits/index.m3u8 
+#EXTINF:-1,Music Box Dance
+http://88.212.15.17/live/mb_dance/index.m3u8 
+
+ 
 
 
 
@@ -1658,6 +1704,42 @@ http://sansatplus.net:88/AWIUKAUV66/ITTVHAMSMX/682632
 #EXTINF:-1 group-title="EUROPE | RUSSIA",ШОКИРУЮЩЕЕ HD
 http://sansatplus.net:88/AWIUKAUV66/ITTVHAMSMX/682634
 
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Kinoman
+http://185.121.1.163:8083/Kinoman/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Kinomiks
+http://185.121.1.163:8083/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Kinopremyera
+http://185.121.1.163:8083/Kinopremyera/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Kinosemya
+http://185.121.1.163:8083/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Kino TV
+http://185.121.1.163:8083/KinoTV/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Muzhskoe Kino
+http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",TV 1000
+http://185.121.1.163:8083/TV1000/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",TV 1000 Kino
+http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Indiyskoe Kino
+http://185.121.1.163:8083/IndiyskoeKino/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Bollywood
+http://185.121.1.163:8083/Bollywood/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Dom Kino
+http://185.121.1.163:8083/DomKino/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Nashe Novoe Kino
+http://185.121.1.163:8083/NasheNovoeKino/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Mosfilm
+http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Kineko
+http://185.121.1.163:8083/Kineko/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Avto24
+http://185.121.1.163:8083/Avto24/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Ohota Rybalka
+http://185.121.1.163:8083/OhotaRybalka/index.m3u8
+#EXTINF:-1 group-title="EUROPE | RUSSIA",Navo
+http://185.121.1.163:8083/Navo/index.m3u8
+
+
 
 
 
@@ -1691,6 +1773,9 @@ http://luckydreamvod.servebeer.com:24000/movie/mario81/hLStErJ3Gy/229367.mkv
 http://luckydreamvod.servebeer.com:24000/movie/mario81/hLStErJ3Gy/229377.mkv
 #EXTINF:-1 group-title="TINTO BRAS",Senso 45
 http://luckydreamvod.servebeer.com:24000/movie/mario81/hLStErJ3Gy/229378.mkv
+
+
+
 
 
 
@@ -2037,6 +2122,39 @@ http://45.82.88.87:15153/udp/238.40.1.49:5000
 
 
 
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF1
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF1
+https://test06.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",0RF1
+https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF2
+https://test02.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF2
+https://test06.mdn.ors.at/orf/orf2/qxb/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF2
+https://test09.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF2
+https://test13.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF3
+https://test02.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF3
+https://test07.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF3
+https://test13.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF3
+https://test16.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF SPORT
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF SPORT
+https://test07.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF SPORT
+https://test13.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+#EXTINF:-1 group-title="EUROPE | AUSTRIA",ORF SPORT
+https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="EUROPE | BULGARIA",Diema HD
@@ -2215,6 +2333,167 @@ http://45.84.187.172:3001/udp/239.100.100.64:5000
 
 
 
+#EXTINF:-1 group-title="EUROPE | POLAND",Eurosport 1 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/20058/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Eurosport 2 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/20066/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Rodzina HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7301/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Canal+ Kuchnia PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7302/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport 3 FHD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7303/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport Premium 1 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7304/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport Premium 2 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7305/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport Extra 3 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7306/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport Extra 4 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7307/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport 2 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7308/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport Extra 2 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7309/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport Extra 1 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7310/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport Fight HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7311/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",FX Comedy HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6107/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Canal+ Sport HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6098/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Canal+ Sport 2 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6099/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Canal+ Film HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6101/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",BBC Earth HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6100/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Canal+ 360 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6105/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Canal+ Seriale HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6104/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Discovery Channel HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6102/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Discovery Channel HD PT
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6103/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Super Polsat HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6109/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Kino Polska HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6088/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",FX HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6108/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Eleven Sports 2 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/2517/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Eleven Sports 1 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/2518/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Canal+ Sport 5 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/2519/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVP Sport HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/2520/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVP Info HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/961/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Play HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6087/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Film HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6086/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Cafe HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6085/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat 2 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6084/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVN 7 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7279/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVP Seriale HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7281/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVP Polonia HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7282/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVP Historia PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7283/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVP 3 Warszawa HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7284/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVN Style HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7285/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVN HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7286/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVN Fabula HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7287/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TV6 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7289/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TV4 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7290/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVP 1 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7292/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVP 2 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7293/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",MTV HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7294/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Games HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7295/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport 1 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7296/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat News 2 PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7297/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat JimJam PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7298/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7299/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Stars TV PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/19168/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Disco Polo Music HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/19169/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polo TV HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/19170/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Vox Music TV HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/19171/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Eska Rock TV PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/19172/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Eska TV Extra PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/19173/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Eska TV PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/19174/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Canal+ Sport 5 FHD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32009/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat Sport 3 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32010/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Fightklub HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32017/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Eleven Sports 3 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32018/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Canal+ Sport 3 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32040/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Canal+ Sport 4 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32041/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Eleven Sports 4 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32042/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polsat News HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32072/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",BBC Lifestyle HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32075/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Tele 5 PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32183/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Polonia 1 PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32184/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Planete+ PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32185/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Ale Kino!+ PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32186/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",Wydarzenia 24 PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32187/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TV Puls HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32188/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",4Fun TV PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32189/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",MiniMini+ HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32190/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVN 24 HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32191/index.m3u8
+#EXTINF:-1 group-title="EUROPE | POLAND",TVP HD PL
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32192/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="EUROPE | ROMANIA" tvg-id="2907" tvg-logo="http://epg.one/img2/2907.png" tvg-rec="3",DIGI Sport 1 HD RO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2523/index.m3u8
@@ -2224,6 +2503,219 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2522/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2524/index.m3u8
 #EXTINF:-1 group-title="EUROPE | ROMANIA" tvg-id="2922" tvg-logo="http://epg.one/img2/2922.png" tvg-rec="3",DIGI Sport 4 HD RO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2538/index.m3u8
+
+#EXTINF:-1 group-title="EUROPE | ROMANIA",E! HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6093/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",DIGI Sport 1 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/2523/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",DIGI Sport 2 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/2522/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",DIGI Sport 3 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/2524/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",DIGI Sport 4 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/2538/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",TVR 1 RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6941/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",TVR 2 RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6942/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",TVR 3 RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6943/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Viasat Kino RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6944/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Acasă Gold RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6945/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Alfa Omega TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6946/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",National 24 Plus RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6947/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",FilmBox+ One RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6948/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",AMC RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6949/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",AXN White RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6950/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Pro Cinema RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6951/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",AXN Black RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6952/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Film Cafe RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6953/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Travel Mix HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6954/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",TV Paprika RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6955/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Investigation Discovery RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6957/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Realitatea Plus RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6958/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Romania TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6959/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Minimax RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6960/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",JimJam RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6961/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Kiss TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6962/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Music Channel RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6963/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Disney Channel RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6965/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Cartoon Network RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6966/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Disney Jr. RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6967/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Discovery Channel RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6968/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",TLC RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6969/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Nickelodeon RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6972/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Chefi.ro RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6973/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Cartoonito RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6974/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Favorit TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6979/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Viasat History RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6980/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Viasat Explore RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6981/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",CineMax 2 RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6982/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",National TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6983/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Kanal D HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6984/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",CineMax HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6985/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",HBO HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6986/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",HBO 3 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6987/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Acasă TV HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6988/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Animal Planet HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6989/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Pro Arena HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6990/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",National Geographic HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6991/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Eurosport 1 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6992/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Bucuresti 1 TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6994/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Prima TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6995/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",FilmBox+ Emotion HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6996/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Pro TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6997/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",TVR 1 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6998/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Film Now HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6999/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",TVR International HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7000/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Antena 1 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7002/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Antena 3 CNN HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7003/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Antena Stars HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7004/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",HBO 2 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7005/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",History HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7006/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",AXN RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7007/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",AXN HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7008/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",DIGI 24 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7009/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",National Geographic Wild HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7010/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Mezzo RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7011/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",AXN Spin RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7012/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",HBO 3 RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7013/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",HBO RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7014/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Diva RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7016/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",UTV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7017/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",National Geographic RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7018/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",National Geographic Wild RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7021/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Taraf TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7022/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Agro TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7023/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Hora TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7024/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Comedy Central RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7025/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Etno RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7027/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",HBO 2 RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7029/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",MTV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7031/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",BBC Earth HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7032/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Warner TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7033/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Chefi.ro HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7034/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Happy Channel HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7035/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",UTV HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7036/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Viasat Nature HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7037/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",DIGI Animal World HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7038/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",DIGI Life HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7039/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",DIGI World HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7040/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Nick Jr. RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7042/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",FilmBox+ Hits HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7043/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",FilmBox+ Comedy HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7044/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",FilmBox+ Love & Crime RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7045/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Food Network RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7046/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Trinitas TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7047/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",DocuBox HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7049/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Fashion TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7051/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Credo TV RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7052/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",BollywooD Clasic RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7054/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Pro TV International RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7055/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Mooz Dance RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7056/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Viasat Epic Drama RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7057/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",BBC Earth RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7058/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Prima Sport 1 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7059/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",Prima Sport 2 HD RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/7060/index.m3u8
+#EXTINF:-1 group-title="EUROPE | ROMANIA",TraLaLa DSN RO
+http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/32067/index.m3u8
 
 
 
@@ -2268,6 +2760,54 @@ http://193.33.39.108:8088/tv2kids/index.m3u8
 http://193.33.39.108:8088/filmmania/index.m3u8
 #EXTINF:-1 group-title="EUROPE | SLOVAKIA",spektrumhome
 http://193.33.39.108:8088/spektrumhome/index.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",TV BRNO 1 HD
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",Vzpravy TV HD
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",POLAR 2 HD
+https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",Elektrika TV HD
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",JC1 HD
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",STV HD
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",KO TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",Ocko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",Ocko Express Tv
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",CANAL+ SPORT HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",CANAL+ SPORT 2 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",CANAL+ SPORT 3 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",CANAL+ SPORT 4 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",CANAL+ SPORT 5 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",CANAL+ Sport 6 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",CANAL+ Sport 7 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",CANAL+ Sport 8 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",NOVA SPORT 1 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport1/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",NOVA SPORT 2 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",NOVA SPORT 3 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",NOVA SPORT 4 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",NOVA SPORT 5 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="EUROPE | SLOVAKIA",NOVA SPORT 6 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport6/live_fullhd?offsetSeconds=0
 
 
 #EXTINF:0 group-title="EUROPE | FRANCE" tvg-id="2884" tvg-logo="http://epg.one/img2/2884.png" tvg-rec="3",Bein Sports 1 HD FR
@@ -2420,26 +2960,6 @@ https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
 
 
-#EXTINF:-1 group-title="ZBONUS",penthouse gold
-http://45.84.187.172:3001/udp/226.156.69.247:5000
-#EXTINF:-1 group-title="ZBONUS",penthouse reality
-http://45.84.187.172:3001/udp/226.156.69.248:5000
-#EXTINF:-1 group-title="ZBONUS",penthouse passion
-http://45.84.187.172:3001/udp/226.156.69.249:5000
-#EXTINF:-1 group-title="ZBONUS",PINKO TV
-http://45.84.187.172:3001/udp/224.156.69.250:5000
-#EXTINF:-1 group-title="ZBONUS",PINKO TV
-http://45.84.187.172:3001/udp/224.156.69.251:5000
-#EXTINF:-1 group-title="ZBONUS",CENTO X CENTO
-http://45.84.187.172:3001/udp/224.156.69.252:5000
-#EXTINF:-1 group-title="ZBONUS",XY PLUS
-http://45.84.187.172:3001/udp/239.100.100.146:5000
-#EXTINF:-1 group-title="ZBONUS",XY MIX
-http://45.84.187.172:3001/udp/239.100.100.147:5000
-#EXTINF:-1 group-title="ZBONUS",XY MAX
-http://45.84.187.172:3001/udp/239.100.100.148:5000
-#EXTINF:-1 group-title="ZBONUS",PASSION XXX BUSTY BABES
-http://45.84.187.172:3001/udp/224.156.69.237:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="潘朵拉完美" tvg-logo="" group-title="ZBONUS",潘朵拉完美
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
@@ -2453,30 +2973,68 @@ http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
 #EXTINF:-1 tvg-id="" tvg-name="松視3台" tvg-logo="" group-title="ZBONUS",松視3台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+#EXTINF:-1 tvg-id="" tvg-name="香蕉台" tvg-logo="" group-title="ZBONUS",banana 香蕉台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+#EXTINF:-1 group-title="ZBONUS",RusskayaNoch
+http://185.23.80.23:8080/RusskayaNoch/index.m3u8
+#EXTINF:-1 group-title="ZBONUS" tvg-rec="7" timeshift="7",Erox
+http://stream.mcquack.net/58/index.m3u8
+#EXTINF:-1 group-title="ZBONUS" tvg-rec="7" timeshift="7",Playboy TV
+http://stream.mcquack.net/290/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Playboy TV HD
+http://109.106.239.1:8001/play/a089
+#EXTINF:-1 group-title="ZBONUS",PLAYBOY
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca97/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Barely Legal
+http://185.23.80.23:8080/BarelyLegal/index.m3u8
+#EXTINF:-1 group-title="ZBONUS" tvg-rec="7" timeshift="7",Barely Legal TV
+http://stream.mcquack.net/289/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Blue Hustler
+http://109.106.239.1:8001/play/a084
 #EXTINF:-1 tvg-id="" tvg-name="bluehustler" tvg-logo="" group-title="ZBONUS",bluehustler
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/91
-#EXTINF:-1 tvg-id="" tvg-name="hustlet" tvg-logo="" group-title="ZBONUS",hustlet
+#EXTINF:-1 group-title="ZBONUS" tvg-rec="7" timeshift="7",Blue Hustler
+http://stream.mcquack.net/280/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Blue Hustler
+http://185.23.80.23:8080/BlueHustler/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",HUSTLER TV
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca96/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="hustleR" tvg-logo="" group-title="ZBONUS",hustler
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/92
+#EXTINF:-1 group-title="ZBONUS",HUSTLER TV
+http://stream.mcquack.net/52/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",penthouse gold
+http://45.84.187.172:3001/udp/226.156.69.247:5000
+#EXTINF:-1 group-title="ZBONUS",penthouse reality
+http://45.84.187.172:3001/udp/226.156.69.248:5000
+#EXTINF:-1 group-title="ZBONUS",penthouse passion
+http://45.84.187.172:3001/udp/226.156.69.249:5000
+#EXTINF:-1 group-title="ZBONUS",PINKO TV
+http://45.84.187.172:3001/udp/224.156.69.250:5000
+#EXTINF:-1 group-title="ZBONUS",PINKO TV
+http://45.84.187.172:3001/udp/224.156.69.251:5000
+#EXTINF:-1 group-title="ZBONUS",CENTO X CENTO
+http://45.84.187.172:3001/udp/224.156.69.252:5000
+#EXTINF:-1 group-title="ZBONUS",PASSION XXX 
+http://45.84.187.172:3001/udp/224.156.69.237:5000
+#EXTINF:-1 group-title="ZBONUS",Desire TV
+http://109.106.239.1:8001/play/a085
+#EXTINF:-1 group-title="ZBONUS",Dorcel XXX HD
+http://109.106.239.1:8001/play/a08a
+#EXTINF:-1 group-title="ZBONUS",Reality Kings
+http://109.106.239.1:8001/play/a096
 #EXTINF:-1 tvg-id="" tvg-name="private" tvg-logo="" group-title="ZBONUS",private
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/93
+#EXTINF:-1 group-title="ZBONUS" tvg-rec="7" timeshift="7",Vivid Red
+http://stream.mcquack.net/284/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="vividred" tvg-logo="" group-title="ZBONUS",vividred
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/94
 #EXTINF:-1 tvg-id="" tvg-name="vividtouch" tvg-logo="" group-title="ZBONUS",vividtouch
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/95
 #EXTINF:-1 tvg-id="" tvg-name="vividtv" tvg-logo="" group-title="ZBONUS",vividtv
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/96
-#EXTINF:-1 tvg-id="" tvg-name="香蕉台" tvg-logo="" group-title="ZBONUS",banana 香蕉台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
-#EXTINF:-1 group-title="ZBONUS",Blue Hustler
-http://109.106.239.1:8001/play/a084
-#EXTINF:-1 group-title="ZBONUS",Desire TV
-http://109.106.239.1:8001/play/a085
-#EXTINF:-1 group-title="ZBONUS",Dorcel XXX HD
-http://109.106.239.1:8001/play/a08a
-#EXTINF:-1 group-title="ZBONUS",Playboy TV HD
-http://109.106.239.1:8001/play/a089
-#EXTINF:-1 group-title="ZBONUS",Reality Kings
-http://109.106.239.1:8001/play/a096
 #EXTINF:-1 group-title="ZBONUS",ADULTOS
 #EXTVLCOPT:network-caching=1000
 http://200.115.120.1:8000/play/ca99/index.m3u8
@@ -2486,15 +3044,55 @@ http://200.115.120.1:8000/play/ca329/index.m3u8
 #EXTINF:-1 group-title="ZBONUS",BRAZZERS TV
 #EXTVLCOPT:network-caching=1000
 http://200.115.120.1:8000/play/ca98/index.m3u8
-#EXTINF:-1 group-title="ZBONUS",HUSTLER TV
-#EXTVLCOPT:network-caching=1000
-http://200.115.120.1:8000/play/ca96/index.m3u8
-#EXTINF:-1 group-title="ZBONUS",PLAYBOY
-#EXTVLCOPT:network-caching=1000
-http://200.115.120.1:8000/play/ca97/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Brazzers TV
+http://185.23.80.23:8080/BrazzersTV/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Brazzers TV
+http://stream.mcquack.net/53/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Brazzers TV Europa
+http://193.239.186.231/BRAZZERS/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",BRAZZERS
+http://193.239.187.102/BRAZZERS/index.m3u8
 #EXTINF:-1 group-title="ZBONUS",VENUS
 #EXTVLCOPT:network-caching=1000
 http://200.115.120.1:8000/play/ca95/index.m3u8
+#EXTINF:-1 group-title="ZBONUS" tvg-rec="7" timeshift="7",Babes TV
+http://stream.mcquack.net/55/index.m3u8
+#EXTINF:-1 group-title="ZBONUS" tvg-rec="7" timeshift="7",Exxxotica
+http://stream.mcquack.net/57/index.m3u8
+#EXTINF:-1 group-title="ZBONUS" tvg-rec="7" timeshift="7",Frenchlover
+http://stream.mcquack.net/54/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1 group-title="ZBONUS",XY PLUS
+http://45.84.187.172:3001/udp/239.100.100.146:5000
+#EXTINF:-1 group-title="ZBONUS",XY MIX
+http://45.84.187.172:3001/udp/239.100.100.147:5000
+#EXTINF:-1 group-title="ZBONUS",XY MAX
+http://45.84.187.172:3001/udp/239.100.100.148:5000
+#EXTINF:-1 tvg-id="" tvg-name="private" tvg-logo="" group-title="ZBONUS",private
+http://stream.mcquack.net/282/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",REDLIGHT
+http://stream.mcquack.net/51/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Pierre Woodman
+http://stream.mcquack.net/56/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",GONZO
+http://stream.mcquack.net/59/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Red Lips
+http://stream.mcquack.net/61/index.m3u8
+#EXTINF:-1 group-title="ZBONUS",Penthouse Gold
+http://stream.mcquack.net/66/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
