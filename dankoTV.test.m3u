@@ -1594,7 +1594,7 @@ https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
 #EXTINF:-1 group-title="MUSIC | CANADA",XITE TV Celebrates
 https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8
-#EXTINF:0,XITE TV Hits
+#EXTINF:-1 group-title="MUSIC | CANADA",XITE TV Hits
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC | CANADA",XITE TV Just Chill
 https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8
@@ -1797,7 +1797,7 @@ http://45.82.88.87:15153/udp/237.40.1.153:5000
 http://45.82.88.87:15153/udp/237.40.1.154:5000
 #EXTINF:-1 group-title="EUROPE | EX-YU",Pink
 http://45.82.88.87:15153/udp/237.40.1.155:5000
-#EXTINF:-1,Red
+#EXTINF:-1 group-title="EUROPE | EX-YU",Red
 http://45.82.88.87:15153/udp/237.40.1.156:5000
 #EXTINF:-1 group-title="EUROPE | EX-YU",Pink Hits
 http://45.82.88.87:15153/udp/237.40.1.157:5000
