@@ -1573,28 +1573,28 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 
 
-#EXTINF:-1,MIMUSICA POPULAR HD
+#EXTINF:-1 group-title="MUSIC | LATINO",MIMUSICA POPULAR HD
 #EXTVLCOPT:network-caching=1000
 http://45.239.51.139:4000/play/a05s
-#EXTINF:-1,MIMUSICA REGGAETON HD
+#EXTINF:-1 group-title="MUSIC | LATINO",MIMUSICA REGGAETON HD
 #EXTVLCOPT:network-caching=1000
 http://45.239.51.139:4000/play/a05t
-#EXTINF:-1,MIMUSICA ROMANTICA HD
+#EXTINF:-1 group-title="MUSIC | LATINO",MIMUSICA ROMANTICA HD
 #EXTVLCOPT:network-caching=1000
 http://45.239.51.139:4000/play/a05u
-#EXTINF:-1,MIMUSICA SALSA HD
+#EXTINF:-1 group-title="MUSIC | LATINO",MIMUSICA SALSA HD
 #EXTVLCOPT:network-caching=1000
 http://45.239.51.139:4000/play/a05v
 
 
 
-#EXTINF:-1,Music Box Sexy
+#EXTINF:-1 group-title="MUSIC | POLAND",Music Box Sexy
 http://88.212.15.17/live/mb_sexy/index.m3u8
-#EXTINF:-1,Music Box Classic
+#EXTINF:-1 group-title="MUSIC | POLAND",,Music Box Classic
 http://88.212.15.17/live/mb_classic/index.m3u8 
-#EXTINF:-1,Music Box Hits
+#EXTINF:-1 group-title="MUSIC | POLAND",,Music Box Hits
 http://88.212.15.17/live/mb_hits/index.m3u8 
-#EXTINF:-1,Music Box Dance
+#EXTINF:-1 group-title="MUSIC | POLAND",,Music Box Dance
 http://88.212.15.17/live/mb_dance/index.m3u8 
 
  
