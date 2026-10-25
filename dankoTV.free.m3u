@@ -795,7 +795,7 @@ https://bl.rutube.ru/livestream/69c54c756c1d5e789c489398a8725835/index.m3u8?s=BV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=r1nRT2MZTvfChs9OVgQmdA&e=2092058804&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал 78
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=BZ-p1h0Oe0l5Y7lc2tUkXQ&e=2092930098&scheme=https
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=mFK19gn7PET9ELgSY1QU8Q&e=2092953561&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал ЧЕ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/5bbff90167d1b1d88fda92376ec7a651/index.m3u8?s=liD5cDoOJO9n51suHrgzlA&e=2092930716&scheme=https
@@ -1036,7 +1036,9 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="TV📺/EN🇬🇧",CGTN Documentary  (China)
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-id="VAMTV.cw" tvg-name="VAM TV" tvg-logo="https://i.imgur.com/CD1PffA.png" group-title="TV📺/EN🇬🇧",VAM TV  (America - Curacao)
-https://nl04.edge.sincerecloud.stream/live_v1/hls/j1Kc6dLsKInk41AxBcbfMw/1791766337/CWVAM_720/index.m3u8
+https://nl04.edge.sincerecloud.stream/live_v1/hls/kC-Qxcw5lPQUw8KX1KUFlw/1792976477/CWVAM_720/index.m3u8?output=wEvdVHAM
+#EXTINF:-1 tvg-id="VAMTV.cw" tvg-name="VAM TV" tvg-logo="https://i.imgur.com/CD1PffA.png" group-title="TV📺/EN🇬🇧",VAM TV  (America - Curacao)
+https://sincerecloud.stream/loadbalancer/public/wEvdVHAM.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="TV📺/EN🇬🇧",Tom And Jerry  (Dominican Republic)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="TV📺/EN🇬🇧",Tom And Jerry  (Dominican Republic)
@@ -1131,7 +1133,7 @@ https://stream.mdc.akamaized.net/live/20260615/ngrp:revelationtvhd.stream_web/pl
 #EXTINF:-1 tvg-id="SewingStreet.uk" tvg-name="Sewing Street" tvg-logo="https://i.imgur.com/Hf0fHtt.png" group-title="TV📺/EN🇬🇧",Sewing Street  (UK)
 https://lo3.gemporia.com/abrsewingstreetukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-name="V2BEAT TV" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="TV📺/EN🇬🇧",V2BEAT TV  (UK)
-https://de1se01.v2beat.live:8444/live/360p/playlist.m3u8
+https://abr.de1se01.v2beat.live/playlist.m3u8
 
 
 
@@ -1148,100 +1150,8 @@ https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="TV📺/EN🇺🇸",3ABN Praise Him Music Network   
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="30ATVClassicMovies.us" tvg-name="30A TV Classic Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A TV Classic Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/30a-tv-classic-movies/
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-#EXTINF:-1 tvg-id="30ATelevisionChannel.us" tvg-name="30A Television Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" group-title="TV📺/EN🇺🇸",30A Television Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/30atvchannel/
-https://30a-tv.com/feeds/vidaa/30atv.m3u8
-#EXTINF:-1 tvg-id="30AFloridaTravelTV.us" tvg-name="30A Florida Travel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A Florida Travel TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/florida-tv/
-https://30a-tv.com/feeds/vidaa/visitflorida.m3u8
-#EXTINF:-1 tvg-id="30ALuxuryYachtTV.us" tvg-name="30A Luxury Yacht TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A Luxury Yacht TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/nautistyles-yachts/
-https://30a-tv.com/feeds/mwaretv/nautistyles.m3u8
-#EXTINF:-1 tvg-id="30ATheFirstTimersTV.us" tvg-name="30A The First Timers TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A The First Timers TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/the-first-timers/
-https://30a-tv.com/feeds/vidaa/firsttimers.m3u8
-#EXTINF:-1 tvg-id="30ATVSciFi&Spooky.us" tvg-name="30A TV Sci Fi & Spooky" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A TV Sci Fi & Spooky
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/30a-tv-sci-fi-spooky/
-https://30a-tv.com/feeds/vidaa/scifi.m3u8
-#EXTINF:-1 tvg-id="30AAiCreatorMovieChannel.us" tvg-name="30A Ai Creator Movie Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A Ai Creator Movie Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/ai-creator-movie-channel/
-https://30a-tv.com/feeds/vidaa/aicreatortv.m3u8
-#EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-name="30A Ridiculous TV" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="TV📺/EN🇺🇸",30A Ridiculous TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/funny-crazy-videos/
-https://30a-tv.com/feeds/vidaa/funnyvideos.m3u8
-#EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-name="30A Golf Kingdom" tvg-logo="https://i.imgur.com/Lv53nh4.png" group-title="TV📺/EN🇺🇸",30A Golf Kingdom
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/golf-kingdom/
-https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 tvg-id="30ASidewalks.us" tvg-name="30A Sidewalks" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="TV📺/EN🇺🇸",30A Sidewalks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/sidewalks-on-30atv/
-https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" tvg-name="30A Georgia Hollywood Review" tvg-logo="https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg" group-title="TV📺/EN🇺🇸",30A Georgia Hollywood Review
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/georgia-hollywood-review-tv/
-https://30a-tv.com/gh.m3u8
-#EXTINF:-1 tvg-id="30AMusic.us" tvg-name="30A Music" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="TV📺/EN🇺🇸",30A Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/30a-tv-music-channel/
-https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" tvg-name="30A Darcizzle Offshore" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="TV📺/EN🇺🇸",30A Darcizzle Offshore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/fishing-outdoor-channel/
-https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-name="30A The Beach Show" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="TV📺/EN🇺🇸",30A The Beach Show
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/the-beach-show/
-https://30a-tv.com/beachy.m3u8
-#EXTINF:-1 tvg-id="30ATVMovieChannel2.us" tvg-name="30A TV Movie Channel 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A TV Movie Channel 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/30a-tv-movie-channel-2/
-https://30a-tv.com/feeds/masters/30atvmovies2.m3u8
-#EXTINF:-1 tvg-id="30ATVPaltrocastPodcast.us" tvg-name="30A TV Paltrocast Podcast" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A TV Paltrocast Podcast
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/paltrowitz-podcast/
-https://30a-tv.com/feeds/vidaa/paltrowitz.m3u8
-#EXTINF:-1 tvg-id="30ANothingScripted.us" tvg-name="30A Nothing Scripted" tvg-logo="https://30a-tv.com/wp-content/uploads/2020/03/nothing-slate-300x175.jpg" group-title="TV📺/EN🇺🇸",30A Nothing Scripted
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/nothing-scripted-24-7/
-https://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 tvg-id="30ALionelNation.us" tvg-name="30A Lionel Nation" tvg-logo="https://m.media-amazon.com/images/I/71dgsQwVcNL.png" group-title="TV📺/EN🇺🇸",30A Lionel Nation
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/lionel-nation-tv/
-https://30a-tv.com/feeds/mwaretv/lionelmedia.m3u8
-#EXTINF:-1 tvg-id="30AWeLoveCars.us" tvg-name="30A We Love Cars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A We Love Cars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/we-love-cars/
-https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1 tvg-id="30ATVNautistylesLuxuryYachts.us" tvg-name="30A TV Nautistyles Luxury Yachts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="TV📺/EN🇺🇸",30A TV Nautistyles Luxury Yachts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/nautistyles-yachts/
-https://30a-tv.com/feeds/mwaretv/nautistyles.m3u8
-#EXTINF:-1 tvg-id="30AXPTV2.us" tvg-name="30A XPTV 2 Classic" tvg-logo="" group-title="TV📺/EN🇺🇸",30A XPTV 2 classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/xptv-ch-2-uk-tv-classics/
-https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
-#EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us" tvg-name="30A Luxe Life Discovered" tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" group-title="TV📺/EN🇺🇸",30A Luxe Life Discovered
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://30a-tv.com/30a/luxe-life-discovered/
-https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="AbileneTelevisionNetwork.us" tvg-name="Abilene Television Network" tvg-logo="https://i.imgur.com/daTJZmM.png" group-title="TV📺/EN🇺🇸",Abilene Television Network
 https://edge-f.swagit.com/live/abilenetx/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="ABMIPublicChannel.us" tvg-name="ABMI Public Channel" tvg-logo="https://i.imgur.com/BLALz9w.jpg" group-title="TV📺/EN🇺🇸",ABMI Public Channel
-https://5a5c57d042315.streamlock.net/live1000/ngrp:public_channel_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ABMIGovernmentChannel.us" tvg-name="ABMI Government Channel" tvg-logo="https://i.imgur.com/BLALz9w.jpg" group-title="TV📺/EN🇺🇸",ABMI Government Channel
-https://5a5c57d042315.streamlock.net/live1000/ngrp:10810001_government_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ACLCornholeTV.us" tvg-name="ACL Cornhole TV" tvg-logo="https://i.imgur.com/lBIq2ZD.png" group-title="TV📺/EN🇺🇸",ACL Cornhole TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bbb-aclco-victoryplus.otteravision.com/bbb/aclco/aclco.m3u8
@@ -1415,10 +1325,6 @@ https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
 https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us" tvg-name="Midpen Channel 26" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="TV📺/EN🇺🇸",Midpen Channel 26
 https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BCAMtvGovernmentAccess.us" tvg-name="BCAMtv Government Access" tvg-logo="https://i.imgur.com/jKHF5jN.png" group-title="TV📺/EN🇺🇸",BCAMtv Government Access
-https://vbfast-n.viebit.com/explive/1789899540_6b219667eeaa057c042f8d1cdef331314805a073/c7286922-f623-4dea-b1e0-38416d79c128/playlist.m3u8
-#EXTINF:-1 tvg-id="BCAMtvPublicAccess.us" tvg-name="BCAMtv Public Access" tvg-logo="https://i.imgur.com/2DCmOCO.png" group-title="TV📺/EN🇺🇸",BCAMtv Public Access
-https://vbfast-n.viebit.com/explive/1789899807_9a29a65284a481ca642a9b039115932599217b8a/a1374e4f-7eeb-426e-ac9a-02ed6b7e00fc/playlist.m3u8
 #EXTINF:-1 tvg-id="BCTV.us" tvg-name="BCTV" tvg-logo="https://i.imgur.com/bcGky5h.png" group-title="TV📺/EN🇺🇸",BCTV
 https://reflect-bloomfield-community.cablecast.tv/live-8/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="BeachTVPanamaCity.us" tvg-name="Beach TV Panama City" tvg-logo="https://i.imgur.com/HCQDvEe.png" group-title="TV📺/EN🇺🇸",Beach TV Panama City
@@ -1451,8 +1357,6 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc14us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc12us/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QVC The Kim Gravel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC The Kim Gravel Channel
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC Martha Stewart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC Martha Stewart
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc13us/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QVC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="TV📺/EN🇺🇸",QVC West
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" tvg-logo="https://i.imgur.com/6yzvIov.png" group-title="TV📺/EN🇺🇸",HSN
@@ -1607,10 +1511,6 @@ https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/cfa6d8a75
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/717441a0f28e627c7d64f28827fd262f/master.m3u8
 #EXTINF:-1 tvg-id="CBNFamily.us" tvg-name="CBN Family" tvg-logo="https://i.imgur.com/adHRFrS.png" group-title="TV📺/EN🇺🇸",CBN Family
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="TV📺/EN🇺🇸",CBS News
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/13405cc1-e96f-45a0-96ad-ee3feffd4bd6:GRQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS News Car Chase" tvg-logo="" group-title="TV📺/EN🇺🇸",CBS News Car Chase
-https://dai.google.com/linear/hls/pa/event/RjvF1cd0Qx-65Dz14THpPA/stream/068e6279-11cf-4207-8f42-124ba0027247:BRU/master.m3u8
 #EXTINF:-1 tvg-id="CCM.us" tvg-name="County Cable Montgomery" tvg-logo="https://i.imgur.com/oW6ve9q.png" group-title="TV📺/EN🇺🇸",County Cable Montgomery
 https://cdn3.wowza.com/5/ZXJ5L1RpWlU0NEk5/montgomerycountymd/G0319_006/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV189.us" tvg-name="CCTV 189" tvg-logo="https://i.imgur.com/KylKZC3.png" group-title="TV📺/EN🇺🇸",CCTV 189
@@ -1647,8 +1547,6 @@ https://m1.livecdn.io/cycnow.com/cyc.smil/playlist.m3u8
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/nrhtx/G1722_002/playlist.m3u8
 #EXTINF:-1 tvg-id="CitizensInformationTelevision.us" tvg-name="Citizens Information Television" tvg-logo="https://i.imgur.com/G9yg5SA.png" group-title="TV📺/EN🇺🇸",Citizens Information Television
 https://edge-f.swagit.com/live/richardsontx/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="City190.us" tvg-name="City 190" tvg-logo="https://i.imgur.com/jzyBBra.png" group-title="TV📺/EN🇺🇸",City 190
-https://vbfast-c.viebit.com/explive/1791313824_0e912d91be796074742aa5cae6836d033219d040/4fe0dd9c-70b9-4653-adbf-e0dcc5dd1384/playlist.m3u8
 #EXTINF:-1 tvg-id="CityHallTV.us" tvg-name="City Hall TV" tvg-logo="https://i.imgur.com/C3RZLYl.png" group-title="TV📺/EN🇺🇸",City Hall TV
 https://securestream11.champds.com/LIVE/YonkersNYLIVE/YonkersNYLIVE_HQ.m3u8
 #EXTINF:-1 tvg-id="CityofBeachwood.us" tvg-name="City of Beachwood" tvg-logo="https://i.imgur.com/SxRC7gY.png" group-title="TV📺/EN🇺🇸",City of Beachwood
@@ -1863,8 +1761,6 @@ https://livestream.telvue.com/dovernh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/play
 https://livestream.telvue.com/dovernh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DoverTV (Community Bulletin Board)" tvg-logo="https://i.imgur.com/pcxf5es.png" group-title="TV📺/EN🇺🇸",DoverTV (Community Bulletin Board)
 https://livestream.telvue.com/dovernh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="DPSTV.us" tvg-name="DPS-TV" tvg-logo="https://i.imgur.com/DbnqDZv.png" group-title="TV📺/EN🇺🇸",DPS-TV
-https://vbfast-c.viebit.com/explive/1792063344_74b83045b8b164447cee18da551a181ae5d11c37/2078f8ea-0011-4c69-b89d-da9af9857403/playlist.m3u8
 #EXTINF:-1 tvg-id="DreamInTV.us" tvg-name="DreamInTV" tvg-logo="https://i.imgur.com/Zg67WAP.png" group-title="TV📺/EN🇺🇸",DreamInTV  (usa haiti french)
 https://571561.gvideo.io/videos/571561_vQFw9Aw7aR3Kxfkb/master.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us" tvg-name="DroneTV" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="TV📺/EN🇺🇸",DroneTV
@@ -1873,8 +1769,6 @@ https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="DuckHuntingTV.us" tvg-name="Duck Hunting TV" tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.pn" group-title="TV📺/EN🇺🇸",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/720p/playlist.m3u8
-#EXTINF:-1 tvg-id="EastHartfordCommunityTelevision.us" tvg-name="East Hartford Community Television" tvg-logo="https://i.imgur.com/x9BN46N.png" group-title="TV📺/EN🇺🇸",East Hartford Community Television
-https://vbfast-n.viebit.com/explive/1792067171_ffcd86b4fddc8b0dd050b8d2ead6ea95fcae91fa/02b0feb0-5a9f-4b79-b75c-6435b1da772f/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVCommunityEvents.us" tvg-name="E-TV Community Events" tvg-logo="https://i.imgur.com/I1G27J4.png" group-title="TV📺/EN🇺🇸",E-TV Community Events
 https://reflect-vod-eagan.cablecast.tv/live-9/live/stream-5/live.m3u8
 #EXTINF:-1 tvg-id="ETVGovernment.us" tvg-name="E-TV Government" tvg-logo="https://i.imgur.com/RIKhFXZ.png" group-title="TV📺/EN🇺🇸",E-TV Government
@@ -1927,8 +1821,6 @@ https://securestream11.champds.com/LIVE/EnumclawWALIVE/EnumclawWALIVE.m3u8
 https://livestream.telvue.com/jacksonenergy1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ERCNTV12.us" tvg-name="ERCN TV-12" tvg-logo="https://i.imgur.com/x7nOujO.png" group-title="TV📺/EN🇺🇸",ERCN TV-12
 https://livestream.telvue.com/erochesterny1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ErTVChannel180.us" tvg-name="ErTV Channel 180" tvg-logo="https://i.imgur.com/KAOeRwh.png" group-title="TV📺/EN🇺🇸",ErTV Channel 180
-https://vbfast-c.viebit.com/explive/1792084295_b4e6ad3ec81071762a05242363077cd79367e15f/968f6e7a-9074-4147-ac32-95ef0cac7d06/playlist.m3u8
 #EXTINF:-1 tvg-id="EulessGovernmentAccessChannel.us" tvg-name="Euless Government Access Channel" tvg-logo="https://i.imgur.com/qLaOuSs.png" group-title="TV📺/EN🇺🇸",Euless Government Access Channel
 https://edge-f.swagit.com/live/eulesstx/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EWTN Canada" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="TV📺/EN🇺🇸",EWTN Canada
@@ -1973,8 +1865,6 @@ https://linear-600.frequency.stream/dist/fieldstream/600/hls/master/playlist.m3u
 https://edge-f.swagit.com/live/flowermoundtx/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="FLTVWebChannel1.us" tvg-name="FLTV Web Channel 1" tvg-logo="https://i.imgur.com/HjXe8c1.png" group-title="TV📺/EN🇺🇸",FLTV Web Channel 1
 https://reflect-fingerlakestv.cablecast.tv/live-1/live/stream-2/live.m3u8
-#EXTINF:-1 tvg-id="57487" tvg-name="FNX.us" tvg-logo="https://i.imgur.com/AfI5xuN.png" group-title="TV📺/EN🇺🇸",FNX.us
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1784430/Xaa-KqFbEByaiW_MFQSBjw/1792093084/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-id="FortWorthTVMunicipalChannel.us" tvg-name="Fort Worth TV Municipal Channel" tvg-logo="https://i.imgur.com/2IVjBqY.png" group-title="TV📺/EN🇺🇸",Fort Worth TV Municipal Channel
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/fortworthgov/G0551_005/playlist.m3u8
 #EXTINF:-1 tvg-id="FortWorthTVCommunityChannel.us" tvg-name="Fort Worth TV Community Channel" tvg-logo="https://i.imgur.com/2IVjBqY.png" group-title="TV📺/EN🇺🇸",Fort Worth TV Community Channel
@@ -1983,8 +1873,6 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/fortworthgov/G0551_004/playlist.m3u8
 https://reflect-fctv3.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="FriscoTelevisionNetwork.us" tvg-name="Frisco Television Network" tvg-logo="https://i.imgur.com/EpXr5OU.png" group-title="TV📺/EN🇺🇸",Frisco Television Networ
 https://edge-f.swagit.com/live/friscotx/live-2-a/playlist.m3u8
-#EXTINF:-1 tvg-id="FTTV.us" tvg-name="Franklin Township Television" tvg-logo="https://i.imgur.com/yhsaR4V.png" group-title="TV📺/EN🇺🇸",Franklin Township Television
-https://vbfast-n.viebit.com/explive/1792269913_84307c156d04c5d2078460a0568ba47463620dad/e525be04-7b3b-471e-981c-c43fec240d2e/playlist.m3u8
 #EXTINF:-1 tvg-id="FVTV.us" tvg-name="FVTV" tvg-logo="https://i.imgur.com/HVxIIy1.png" group-title="TV📺/EN🇺🇸",FVTV
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/fountainvalley/G0806_001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/EN🇺🇸",
@@ -2074,8 +1962,6 @@ https://live.vtv.mk/live/vtv/playlist.m3u8
 #EXTINF:-1 tvg-id="BN.HD.(BIH).ba" tvg-name="BN TV" tvg-logo="" group-title="Ex-Yu/TV",BN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
-#EXTINF:-1 tvg-id="BN.HD.(BIH).ba" tvg-name="BN TV" tvg-logo="" group-title="Ex-Yu/TV",BN TV
-https://stream1.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 #EXTINF:-1 tvg-id="TVNiksic.me@SD" tvg-name="TV Niksic" tvg-logo="" group-title="Ex-Yu/TV",TV Niksic (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://tv.rtv-niksic.me/hls/stream.m3u8
@@ -2085,9 +1971,6 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVHB.HD.ba" tvg-name="RTV HB" tvg-logo="" group-title="Ex-Yu/TV",RTV HB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Televizija.M.ba" tvg-name"Televizija M" tvg-logo="" group-title="Ex-Yu/TV",Televizija M (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tok tv" tvg-logo="" group-title="Ex-Yu/TV",tok tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://elara.netcomm.rs/toktv/tracks-v1a1/index.m3u8
@@ -2214,15 +2097,6 @@ http://cdn1.invivo.bg/NASHA_TV_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HRT.International.cz" tvg-name="HRT Int." tvg-logo="" group-title="Ex-Yu/TV",HRT Int.(test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://cdn1.invivo.bg/HRT_INT_SD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="TV..AS.rs" tvg-name="RTV AS" tvg-logo="" group-title="Ex-Yu/TV",RTV AS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://de1.dstv.cx/TVAS/rewind-7200.m3u8
-#EXTINF:-1 tvg-id="TV..AS.rs" tvg-name="RTV AS" tvg-logo="" group-title="Ex-Yu/TV",RTV AS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://de1.dstv.cx/TVAS/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="TVPiKanal.rs@SD" tvg-name="TV Pi Kanal" tvg-logo="" group-title="Ex-Yu/TV",TV Pi Kanal (576p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://stream.pikanal.rs/pikanal/pgm.m3u8
 #EXTINF:-1 tvg-id="RTRS.ba" tvg-name="RTRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" group-title="Ex-Yu/TV",RTRS (пускат когато искат)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://parh.rtrs.tv/tv/live/playlist.m3u8
@@ -2234,10 +2108,7 @@ https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 https://edge2.livebroadcastsolutions.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="Exodus TV" tvg-logo="" group-title="Ex-Yu/TV",Exodus TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="Exodus TV" tvg-logo="" group-title="Ex-Yu/TV",Exodus TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
+https://live.exodus.si/vzivo.m3u8
 #EXTINF:-1 tvg-id="KTV.Zrenjanin.rs" tvg-name="KTV Zrenjanin" tvg-logo="" group-title="Ex-Yu/TV",KTV Zrenjanin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
@@ -2315,18 +2186,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/jupokradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Aktual" tvg-logo="https://i.ibb.co/BM39YmP/image-2025-07-09-T095625-258.png" group-title="Ex-Yu/TV",Radio Aktual
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://radio.serv.si/AktualTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ADRIA.MUSIC.TELEVISION.ch" tvg-name="Adria" tvg-logo="" group-title="Ex-Yu/TV"",Adria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://adriaapp.b-cdn.net/master.m3u8
-#EXTINF:-1 tvg-id="One.music.cz" tvg-name="ONE 1 Adria" tvg-logo="" group-title="Ex-Yu/TV"",ONE 1 Adria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://oneadriaapp.b-cdn.net/master.m3u8
-#EXTINF:-1 tvg-id="folx.tv.ch" tvg-name="FOLX Slovenija" tvg-logo="" group-title="Ex-Yu/TV"",FOLX Slovenija
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://folxsloapp.b-cdn.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOLX Music Tv" tvg-logo="" group-title="Ex-Yu/TV"",FOLX Music Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://folxapp.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="CMC.hr" tvg-name="CMC TV" tvg-logo="" group-title="Ex-Yu/TV"",CMC TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://stream.cmctv.hr:49998/cmc/live.m3u8
@@ -2380,10 +2239,6 @@ https://skyfolk.mk/live.m3u8
 http://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="TV.Duga+.ch" tvg-name="TV Duga+" tvg-logo="" group-title="Ex-Yu/TV",TV Duga+
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308_output_0.m3u8
-#EXTINF:-1 tvg-id="Hugo2.mk" tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" group-title="Ex-Yu/TV",Хуго 2
-http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
-#EXTINF:-1 tvg-id="zonam1.mk" tvg-name="ЗОНА М1 ТВ" tvg-logo="https://i.imgur.com/yTR7A0d.png" group-title="Ex-Yu/TV",ЗОНА М1 ТВ
-https://zonam1.ddns.net/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="IDJTV.HD.rs" tvg-name="IDJ TV" tvg-logo="" group-title="Ex-Yu/TV",IDJ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8
@@ -2404,7 +2259,7 @@ https://sradio.ipradio.rs/sradio/radiostv/chunklist_w666705940.m3u8
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="adria info" tvg-logo="" group-title="Ex-Yu/TV",adria info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://de1.dstv.cx:8443/AdriaInfo/index.fmp4.m3u8
+https://streams.adriatelekom.net/AdriaInfo-www/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TVZdravkin.mk" tvg-name="TV Zdravkin" tvg-logo="" group-title="Ex-Yu/TV",TV Zdravkin (400p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8

@@ -266,7 +266,7 @@ https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="" tvg-logo="https://i.imgur.com/WKr5ncQ.png" group-title="Ex-Yu",Exodus TV (prvo-katolik)
-https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+https://live.exodus.si/vzivo.m3u8
 #EXTINF:-1 tvg-id="TVHram.rs@SD" tvg-name="" tvg-logo="" group-title="Ex-Yu",TV Hram (576p) [Not 24/7]
 https://vod1.laki.eu/live/hram/index.m3u8
 

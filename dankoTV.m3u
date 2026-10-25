@@ -1066,33 +1066,7 @@ https://sradio.ipradio.rs/sradio/radiostv/chunklist_w799893154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio S TV" tvg-logo="https://i.ibb.co/3yPKqWqp/image-2025-09-01-T195635-215.png" group-title="Ex-Yu/Music tv", Radio S TV
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w666705940.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="adria info" tvg-logo="" group-title="Ex-Yu/Music tv",adria info
-https://de1.dstv.cx:8443/AdriaInfo/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/Music tv",Adria EX YU Rock
-https://de1.dstv.cx:8443/AdriaEXYURock/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria Hits 4K" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Hits 4K
-https://de1.dstv.cx:8443/AdriaHits4K/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria Hits 1" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Hits 1
-https://de1.dstv.cx:8443/AdriaHits1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria Hits 2" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Hits 2
-https://de1.dstv.cx:8443/AdriaHits2/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria CRO Hits" tvg-logo="" group-title="Ex-Yu/Music tv",Adria CRO Hits
-https://de1.dstv.cx:8443/AdriaCROHits/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria Trubaci" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Trubaci
-https://de1.dstv.cx:8443/AdriaTrubaci/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria Urban" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Urban
-https://de1.dstv.cx:8443/AdriaUrban/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria Cubanismo" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Cubanismo
-https://de1.dstv.cx:8443/AdriaCubanismo/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria Narodna" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Narodna
-https://de1.dstv.cx:8443/AdriaNarodna/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria Folk" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Folk
-https://de1.dstv.cx:8443/AdriaFolk/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria Nostalgy" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Nostalgy
-https://de1.dstv.cx:8443/AdriaNostalgy/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria 90s" tvg-logo="" group-title="Ex-Yu/Music tv",Adria 90s
-https://de1.dstv.cx:8443/Adria90s/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adria Big Band" tvg-logo="" group-title="Ex-Yu/Music tv",Adria Big Band
-https://de1.dstv.cx:8443/AdriaBigBand/index.fmp4.m3u8
+https://streams.adriatelekom.net/AdriaInfo-www/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Hit.FM.radio.rs" tvg-name="Hit FM radio" tvg-logo="" group-title="Ex-Yu/Music tv",Radio Hit FM TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 #EXTINF:-1 tvg-id="Radio.Karolina.rs" tvg-name="Radio Karolina" tvg-logo="" group-title="Ex-Yu/Music tv",Radio Karolina TV (720p)
@@ -2077,9 +2051,7 @@ https://tv.rtv-niksic.me/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Plava.Vinkovacka.hr" tvg-name="Plava vinkovacka" tvg-logo="" group-title="Ex-Yu/TV",Plava vinkovacka tv DVR
 https://edge2.livebroadcastsolutions.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="Exodus TV" tvg-logo="" group-title="Ex-Yu/TV",Exodus TV (720p)
-https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="Exodus TV" tvg-logo="" group-title="Ex-Yu/TV",Exodus TV (720p)
-https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
+https://live.exodus.si/vzivo.m3u8
 #EXTINF:-1 tvg-id="SLO1.hr" tvg-name="TV SLO 1" tvg-logo="" group-title="Ex-Yu/TV",TV SLO 1 HD
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="SLO2.hr" tvg-name="TV SLO 2" tvg-logo="" group-title="Ex-Yu/TV",TV SLO 2 HD
