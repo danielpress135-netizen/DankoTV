@@ -77,22 +77,10 @@ https://vod132.witmind.com/hls/cam1/index.m3u8
 https://kamere.amss.org.rs/gradina2/gradina2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",ГКПП Гюешево – Деве баир
 https://streaming1.neotel.net.mk/stream/deve_bair.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",брега на Шабла
-https://s74.ipcamlive.com/streams/4azzkiogfe8brjwwg/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",пристанище Китен
-https://s25.ipcamlive.com/streams/190blhkje423tontg/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Обзор плаж 1
 https://res.obzorweather.com/memfs/ad508abf-ee51-4e32-b223-70c463b05587_output_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Обзор плаж 2
 https://res.obzorweather.com/memfs/23f241ab-160b-4786-890e-86086517c15b_output_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Приморско 1
-https://s110.ipcamlive.com/streams/6ezng8uone1o5xvfp/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Приморско 2
-https://s110.ipcamlive.com/streams/6ea9rrnzbdyokho7f/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Приморско 3
-https://s150.ipcamlive.com/streams/96xhpecnifv9sp0ct/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Тюленово с панорамна гледка към Черно море
-https://s25.ipcamlive.com/streams/19ntluqvze35h8cdk/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Стара Планина - хижа Добрила намираща се между върховете Добрила и Левски в Троянската планина
 https://dobrila.darkpsy.space/secure-stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Хасково 1
@@ -101,8 +89,6 @@ https://haskovo.net/tvs/cam5.m3u8
 https://haskovo.net/tvs/cam1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Хасково 3
 https://haskovo.net/tvs/cam6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",Колашин  Черна Гора 
-https://s110.ipcamlive.com/streams/6ecj19pyth8xr5e74/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",RUSSIA  City Bay Moscow
 https://rtsp2.videocam.online/live/CityBay3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VideoCam/World",RUSSIA  City Bay 2 Moscow 
@@ -322,9 +308,6 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Соловьёв Live (720)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",RTR PLANETA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://streaming.thestream.cyou/live/211.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",RTR PLANETA (720)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
@@ -420,9 +403,6 @@ https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/track_105_12b117d7/ch
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Телеканал Краснодар
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Москва 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=A77nNXWzhKawguHWxdeigA&e=2085483063&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RU🇷🇺",Самара 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/index.m3u8
@@ -474,9 +454,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/tmfrus/playlist.m3u8
 #EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" tvg-logo="https://i.imgur.com/SJNDksF.png" group-title="TV📺/RU🇷🇺",Silk Way (Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
-#EXTINF:-1 tvg-id="BogBlagTV.us" tvg-name="БОГ БЛАГ ТВ" tvg-logo="" group-title="TV📺/RU🇷🇺",БОГ БЛАГ ТВ (usa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://glorystartv.live/BogBlag/index.fmp4.m3u8
 
 
 
@@ -764,9 +741,6 @@ https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=4V
 https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=_AKD2yCTPrnPRQZkqhz3BA&e=2085339217&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ВСЕЛЕННАЯ DC 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://river-6-601.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/ZC_oLUNayEsOPIosoeGGEQ/1792662188/31cd70d4054fbbde3b169d9a6972515c/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ВСЕЛЕННАЯ DC 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=3pabDG5cEgQ0rCJ7q6eg5Q&e=2092057387&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ТБВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -810,9 +784,6 @@ https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=d2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",телеканала "Волейбол"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=8-U3Zppi-v03IrB1KumAbw&e=2092057979&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",телеканала "Волейбол"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://river-6-602.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/LjvGr670ZN7TUgvVNY6h4w/1792662780/cc1b56aa4955a144f324ad58998513bb/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Ключайка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=KI6eUsO8v5HTm_nZbFMbTg&e=2092058405&scheme=https
@@ -822,9 +793,116 @@ https://bl.rutube.ru/livestream/69c54c756c1d5e789c489398a8725835/index.m3u8?s=BV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",телеканала РУ ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=r1nRT2MZTvfChs9OVgQmdA&e=2092058804&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ТВ "МЫ"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал 78
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ee431650738a594119c3516ceda72775/index.m3u8?s=1oAAQHuQMGe_Psc2vG9dWQ&e=2092059395&scheme=https
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=BZ-p1h0Oe0l5Y7lc2tUkXQ&e=2092930098&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал ЧЕ!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5bbff90167d1b1d88fda92376ec7a651/index.m3u8?s=liD5cDoOJO9n51suHrgzlA&e=2092930716&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2742a3c42be661ea732705f80adb7bdd/index.m3u8?s=PoJ7t75uQNoVe9hwZM2xIA&e=2092931196&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/ad6ba2e9e587406b29978b861b7b7dd1/index.m3u8?s=bZfSKC_AtRtBDVptNriGHg&e=2092931287&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Россия Культура
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/d0c0d69362edfbe706cb82d973439bb5/index.m3u8?s=N62hU3U5L3sNQ7Zy5YYeFA&e=2092931366&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",БАШКОРТОСТАН 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=uZHX0bZRlEKpBOVlo8KQtw&e=2092931861&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал Евразия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=1tdI0RC4ZJ6IvdgBUnj5Qg&e=2092931994&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал "Кубань 24"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=g_fTaTdF6TWNplU-1-pywQ&e=2092932297&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",АСТВ LIVE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=0-uBl5BGr3YHVAoFBlxyrg&e=2092932551&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Актуальные события ТМК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=AUnG9eoqzEb86rS0lccK6Q&e=2092932866&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Саратов 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=Ec93pEg9Xkr0l3XGE2Qsnw&e=2092933051&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",САМОТЛОР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=B6eqcr8tj39pDg7FfAiUBA&e=2092933270&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ВЕТТА 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=ftBsI4nHUYftC2NSkPJlNw&e=2092933390&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал ПРИМА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=jwIZjm6kZt_q2_RSZVWfaw&e=2092935807&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Липецк 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=69RA4Iyojczmq4bvlCLCaw&e=2092936357&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",телеканала Сангат
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=ot0SVoAGUWoUZkBFhR3iAg&e=2092936673&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Бийское Телевидение (БТВ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=Q2EtZ_vG-YW8Jn3flNaJHA&e=2092939044&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",TV Губерния (Воронеж)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/42ed85b003d36b28cd2da077e7ab0ed4/index.m3u8?s=r7oBPrjnHFU5kzaKiuid9w&e=2092938305&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Телеканал "Сейм" (Курская область)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/58406cad9cc435f48a62209e076e8a9b/index.m3u8?s=LrEwh7KZNSjtmwZ2u5GbTQ&e=2092938444&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Царьград
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=bamugP15oGjcWaN8kFrPXg&e=2092939784&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",КРИК-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=rp6i5vbicUbmIlSk2U8ZbQ&e=2092939925&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",ОСН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1f550a23c44ec7f287324b0b3e4f5a29/index.m3u8?s=QTSofblw6vmEMp1jQ9VlMg&e=2092940308&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/32dc45cf878497abe1c9695e228f039b/index.m3u8?s=waHdSI-h9HJSkXcbo98zWw&e=2092941579&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Детское радио (Москва)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/bf296006751f4344e359b3b5dc70be25/index.m3u8?s=Gacf7tKlIgjZH_kB1L5dxQ&e=2092945921&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",МУЗАЧ - Музыкальные клипы без перерыва
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e7e04192431a24a750fd8704fa221461/index.m3u8?s=2-xDSJEAGijzmyPSWU1t3g&e=2092946466&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",NANO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=VWgKOtt8ru0-LBsstBD9Pw&e=2092947534&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Дорамы - без перерыва
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5e3edd063411550ed6b67a8c0d7c96ea/index.m3u8?s=-Rao-W33XeRRUsHYZOJgCQ&e=2092948111&scheme=https
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Санкт-Петербург (Невский проспект)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/746aa7922a210086f18daff094a5e63d/index.m3u8?s=ydWkcpGVaY-IzwXRfXAxyg&e=2092937061&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Калиниградский зоопарк - видри
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e00423314d16d4696640a39963cc8be3/index.m3u8?s=_KaRlKtHeEZwtjScOJgFwg&e=2092937462&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Санкт-Петербург (Невский пр. Аничков дворец)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a996e6508b2ff81cd523dae2d14f7bf6/index.m3u8?s=1NpC97YotEXVL7ehQNgTbQ&e=2092937658&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Санкт-Петербург (Загородный проспект)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/92e79cc0d122fb94647b79d4e7778773/index.m3u8?s=7mBU4T3rKKLB54rX47Qlfg&e=2092937747&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Санкт-Петербург (Дворцовый мост и панорама Невы)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/86e2f45785378c866d212e7f5f5447b0/index.m3u8?s=MOPSNIH7-85B6z7GYrKSGg&e=2092937837&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Санкт-Петербург (Легендарный крейсер «Аврора» )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2c5000420be8aa08a969a21614e2d33e/index.m3u8?s=b-8joHOEv79TPziA3eDf9g&e=2092937940&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV📺/RUTUBE🇷🇺",Санкт-Петербург (Невский проспект и Садовая улица)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1217bd14907ff59c5c64bcc4cbe1af41/index.m3u8?s=hkvviq8c00nKFskCrdkZ9w&e=2092938090&scheme=https
+
+
+
+
+
 
 
 
