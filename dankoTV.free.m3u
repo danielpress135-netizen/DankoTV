@@ -3738,10 +3738,6 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr" tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/6twzd38.png" group-title="Greece - TV",Alpha TV
 https://alphatvlive2-ak.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ART.gr" tvg-name="ART" tvg-logo="https://i.imgur.com/mNeLu04.png" group-title="Greece - TV",ART
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-#EXTVLCOPT:http-referrer=https://www.arttv.info/p/art.html
-https://rumble.com/live-hls-dvr/lTv77Vg06v0/playlist.m3u8
 #EXTINF:-1 tvg-id="BarazaTVGreekMusicHits.gr" tvg-name="Baraza TV Greek Music Hits" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Greece - TV",Baraza TV Greek Music Hits
 https://eco.streams.ovh:8081/barazatv/index.m3u8
 #EXTINF:-1 tvg-id="BarazaTVGreekMusicHits.gr" tvg-name="Baraza TV Greek Music Hits" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Greece - TV",Baraza TV Greek Music Hits
@@ -3772,11 +3768,6 @@ https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 http://81.171.10.42:1935/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DiavataTV.gr" tvg-name="Diavata TV" tvg-logo="https://i.imgur.com/hsK68yd.png" group-title="Greece - TV",Diavata TV
 https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
-#EXTINF:-1 tvg-id="DionTV.gr" tvg-name="Dion TV" tvg-logo="https://i.imgur.com/13MverN.png" group-title="Greece - TV",Dion TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-#EXTVLCOPT:http-referrer=https://diontv.gr/webtv/
-#EXTVLCOPT:http-origin=https://diontv.gr/webtv/
-https://rtmp.win:3650/live/diontvlive.m3u8
 #EXTINF:-1 tvg-id="EllasTV.gr" tvg-name="Ellas TV" tvg-logo="https://i.imgur.com/aRWB7ss.png" group-title="Greece - TV",Ellas TV
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 tvg-id="EllasTV.gr" tvg-name="Ellas TV" tvg-logo="https://i.imgur.com/aRWB7ss.png" group-title="Greece - TV",Ellas TV
@@ -3791,11 +3782,6 @@ https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 https://ellastvmax.gotdns.com/freetv/madworldtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-name="Epiloges TV" tvg-logo="https://i.imgur.com/3S4P7ob.png" group-title="Greece - TV",Epiloges TV
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
-#EXTINF:-1 tvg-id="EpirusTV1.gr" tvg-name="Epirus TV1" tvg-logo="https://i.imgur.com/nYVqhu8.png" group-title="Greece - TV",Epirus TV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-#EXTVLCOPT:http-referrer=https://www.epirustv1.eu/
-#EXTVLCOPT:http-origin=https://www.epirustv1.eu/
-https://rtmp.win:3929/live/epiruslive.m3u8
 #EXTINF:-1 tvg-id="EpsilonTV.gr" tvg-name="Epsilon TV" tvg-logo="https://i.imgur.com/ZiiPNf6.png" group-title="Greece - TV",Epsilon TV
 https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1 tvg-id="EpsilonTV.gr" tvg-name="Epsilon TV" tvg-logo="https://i.imgur.com/ZiiPNf6.png" group-title="Greece - TV",Epsilon TV
@@ -3804,10 +3790,6 @@ https://neon.streams.gr:8081/epsilontv/tracks-v1a1/mono.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="FORMediaTV.gr" tvg-name="FORMedia TV" tvg-logo="https://i.imgur.com/8FcJ2I9.png" group-title="Greece - TV",FORMedia TV
 https://ant.32bit.gr:5443/live/streams/for123456.m3u8
-#EXTINF:-1 tvg-id="FORMediaTV.gr" tvg-name="FORMedia TV" tvg-logo="https://i.imgur.com/8FcJ2I9.png" group-title="Greece - TV",FORMedia TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-#EXTVLCOPT:http-referrer=https://formediatv.gr/
-https://ant.32bit.gr:5443/live/streams/for123456_adaptive.m3u8
 #EXTINF:-1 tvg-id="GnomiTV.gr" tvg-name="Gnomi TV" tvg-logo="https://i.ibb.co/ZNCXr79/gnomi-logo.png" group-title="Greece - TV",Gnomi TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 tvg-id="GnomiTV.gr" tvg-name="Gnomi TV" tvg-logo="https://i.ibb.co/ZNCXr79/gnomi-logo.png" group-title="Greece - TV",Gnomi TV
@@ -3844,10 +3826,6 @@ https://rtmp.streams.ovh:8081/mtv/index.m3u8
 https://rtmp.streams.ovh:8081/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-name="Naftemporiki TV" tvg-logo="https://i.imgur.com/9OFdMud.png" group-title="Greece - TV",Naftemporiki TV
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
-#EXTINF:-1 tvg-id="NeaTV.gr" tvg-name="Nea TV" tvg-logo="https://i.imgur.com/nvNW8G7.png" group-title="Greece - TV",Nea TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-#EXTVLCOPT:http-referrer=https://www.neatv.gr/live-broadcast/
-https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-name="Nea TV" tvg-logo="https://i.imgur.com/nvNW8G7.png" group-title="Greece - TV",Nea TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1 tvg-id="NetmaxTV.gr" tvg-name="Netmax TV" tvg-logo="https://i.imgur.com/dLvRD4k.png" group-title="Greece - TV",Netmax TV
@@ -3922,8 +3900,10 @@ https://eu1.streams.gr:8081/netvtoronto/index.m3u8
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-name="Apostol TV" tvg-logo="https://i.imgur.com/C43Cc9N.png" group-title="Hungary - TV",Apostol TV
 https://live.apostoltv.hu/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BajaiTV.hu" tvg-name="Bajai TV" tvg-logo="https://i.imgur.com/cyReGWh.png" group-title="Hungary - TV",Bajai TV
+#EXTINF:-1 tvg-id="BajaiTV.hu" tvg-name="Bajai TV" tvg-logo="https://i.imgur.com/cyReGWh.png" group-title="Hungary - TV",Bajai TV (1080)
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BajaiTV.hu" tvg-name="Bajai TV" tvg-logo="https://i.imgur.com/cyReGWh.png" group-title="Hungary - TV",Bajai TV (720)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream001.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BalatonTV.hu" tvg-name="Balaton TV" tvg-logo="https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png" group-title="Hungary - TV",Balaton TV
 https://hls.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-id="BudapestEuropaTelevizio.hu" tvg-name="Budapest Europa Televizio" tvg-logo="https://i.imgur.com/CqqWtzo.png" group-title="Hungary - TV",Budapest Europa Televizio
@@ -3935,7 +3915,31 @@ https://citytv.hu/playlist.m3u8
 #EXTINF:-1 tvg-id="DTV.hu" tvg-name="DTV" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="Hungary - TV",DTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Duna.hu" tvg-name="Duna" tvg-logo="https://i.imgur.com/oPbsSlp.png" group-title="Hungary - TV",Duna
-https://c802-node63-cdn.connectmedia.hu/110303/72078eefbbb26c7f24250de41275663e/6a8dda49/index.m3u8
+https://c401-node62-cdn.connectmedia.hu/110303/c7209384a906d5b6dbd3e35f338c1a82/6ae09f8e/index.m3u8
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="Hungary - TV",Duna World 
+https://c801-node63-cdn.connectmedia.hu/110306/4b5ab029c786fc851fee3285be9830a4/6ae0a5a1/index.m3u8
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="Hungary - TV",Duna World (avc)
+https://c402-node62-cdn.connectmedia.hu/110306/241d39a1c20c9c160f7da5f63fa2aef3/6ae0a34f/306-DunaWorld_NOGEO-avc1_1800000=10004.m3u8
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="Hungary - TV",Duna World (mp4a)
+https://c402-node62-cdn.connectmedia.hu/110306/241d39a1c20c9c160f7da5f63fa2aef3/6ae0a34f/306-DunaWorld_NOGEO-mp4a_140800_hun=20000.m3u8
+#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="Hungary - TV",M1 
+https://c202-node62-cdn.connectmedia.hu/110301/9af4052344bfd7305d7d4c8dbc48e175/6ae0a019/index.m3u8
+#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="Hungary - TV",M1 (avc)
+https://c202-node62-cdn.connectmedia.hu/110301/9af4052344bfd7305d7d4c8dbc48e175/6ae0a019/301-M1_NOGEO-avc1_1800000=10004.m3u8
+#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="Hungary - TV",M1 (mp4a)
+https://c202-node62-cdn.connectmedia.hu/110301/9af4052344bfd7305d7d4c8dbc48e175/6ae0a019/301-M1_NOGEO-mp4a_140800_hun=20000.m3u8
+#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Hungary - TV",M2 
+https://c402-node62-cdn.connectmedia.hu/110302/8e977e278ad9d09b93ff5686553cb400/6ae0a169/index.m3u8
+#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Hungary - TV",M2 (avc)
+https://c402-node62-cdn.connectmedia.hu/110302/8e977e278ad9d09b93ff5686553cb400/6ae0a169/302-M2_NOGEO-avc1_1800000=10004.m3u8
+#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Hungary - TV",M2 (mp4a)
+https://c402-node62-cdn.connectmedia.hu/110302/8e977e278ad9d09b93ff5686553cb400/6ae0a169/302-M2_NOGEO-mp4a_140800_hun=20000.m3u8
+#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Hungary - TV",M5 
+https://c401-node61-cdn.connectmedia.hu/110305/40409d89e4b792f469f0e8dbd0c57f6f/6ae0a27c/index.m3u8
+#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Hungary - TV",M5 (avc)
+https://c401-node61-cdn.connectmedia.hu/110305/40409d89e4b792f469f0e8dbd0c57f6f/6ae0a27c/305-M5_NOGEO-avc1_1800000=10004.m3u8
+#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Hungary - TV",M5 (mp4a)
+https://c401-node61-cdn.connectmedia.hu/110305/40409d89e4b792f469f0e8dbd0c57f6f/6ae0a27c/305-M5_NOGEO-mp4a_140800_hun=20000.m3u8
 #EXTINF:-1 tvg-id="ESTV.hu" tvg-name="ESTV" tvg-logo="https://i.imgur.com/OCZ8CfK.png" group-title="Hungary - TV",ESTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNBonumTV.hu" tvg-name="EWTN/Bonum TV" tvg-logo="https://i.imgur.com/LdsRz2E.png" group-title="Hungary - TV",EWTN/Bonum TV
@@ -3946,8 +3950,6 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
 http://212.92.13.108:8080/live/livestream1.m3u8
 #EXTINF:-1 tvg-id="HeviziTV.hu" tvg-name="Hevizi TV" tvg-logo="https://i.imgur.com/zuWQKDm.png" group-title="Hungary - TV",Hevizi TV
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HetiTV.hu" tvg-name="Heti TV" tvg-logo="https://i.imgur.com/9vPTuBf.png" group-title="Hungary - TV",Heti TV
-https://stream.castr.com/63b7c89976c749fc4ca05821/live_d5e1de708d9011ed94a41b331e248587/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="JaszsagiTersegiTV.hu" tvg-name="Jaszsagi Tersegi TV" tvg-logo="https://i.imgur.com/bsDN0lH.png" group-title="Hungary - TV",Jaszsagi Tersegi TV
 https://cloudfront41.lexanetwork.com:1344/relay41_1/livestream001.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KaposTV.hu" tvg-name="Kapos TV" tvg-logo="https://i.imgur.com/ZMrj2C5.png" group-title="Hungary - TV",Kapos TV
@@ -3966,8 +3968,6 @@ https://rakosmentetv.hu/stream/rmtv.m3u8
 https://live.tiszatv.hu/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVEger.hu" tvg-name="" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="Hungary - TV",TV Eger
 https://stream.tveger.hu:8012/live.m3u8
-#EXTINF:-1 tvg-id="TVEger.hu" tvg-name="" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="Hungary - TV",TV Eger
-https://stream.tveger.hu:8012/hls/dffa2f8290450e03d84857022e6d0a12/live.m3u8
 #EXTINF:-1 tvg-id="VTVMor.hu" tvg-name="VTV Mor" tvg-logo="https://i.imgur.com/x8jstsh.png" group-title="Hungary - TV",VTV Mor
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE041.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ZalaegerszegiTV.hu" tvg-name="Zalaegerszegi TV" tvg-logo="https://i.imgur.com/MLVPf0i.png" group-title="Hungary - TV",Zalaegerszegi TV
@@ -3978,8 +3978,6 @@ https://video9.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
 https://videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
 #EXTINF:-1 tvg-id="PannonTV.rs" tvg-name="Pannon TV" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="Hungary - TV",Pannon TV
 https://stream2.nmih.hu:4102/live.m3u8
-#EXTINF:-1 tvg-id="PannonTV.rs" tvg-name="Pannon TV" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="Hungary - TV",Pannon TV
-https://stream2.nmih.hu:4102/hls/6915b1e28c520561a5e821e5692fa7b4/live.m3u8
 
 
 
