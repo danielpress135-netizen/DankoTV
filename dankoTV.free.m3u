@@ -1891,57 +1891,6 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/fountainvalley/G0806_001/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="SOS.Kanal.Plus.rs" tvg-name="SOS Kanal Plus" tvg-logo="" group-title="Ex-Yu/TV",SOS Kanal Plus (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
@@ -2579,13 +2528,7 @@ https://online.tvimpact.live/hls/impact_tv2.m3u8
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-id="InfoTVRomania.ro" tvg-name="Info TV Romania" tvg-logo="https://i.imgur.com/rLzapB3.png" group-title="Romania-TV",info tv Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://rumble.com/live-hls-dvr/HSsZ5KWYwF0/playlist.m3u8?level=1
-#EXTINF:-1 tvg-id="InfoTVRomania.ro" tvg-name="Info TV Romania" tvg-logo="https://i.imgur.com/rLzapB3.png" group-title="Romania-TV",info tv Romania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://1a-1791.com/live/k1ub38pe/live-hls/e5bk-dddn/chunklist_360p_i1_DVR.m3u8
-#EXTINF:-1 tvg-id="InfoTVRomania.ro" tvg-name="Info TV Romania" tvg-logo="https://i.imgur.com/rLzapB3.png" group-title="Romania-TV",info tv Romania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://1a-1791.com/live/k1ub38pe/live-hls/e5bk-dddn/chunklist_i1_DVR.m3u8
+https://rumble.com/live-hls-dvr/u8-OEMjYbNw/playlist.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="IntermediaTV.ro" tvg-logo="https://i.imgur.com/cNXM4Mu.png" group-title="Romania-TV",intermedia tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.intermediatv.ro/ram/playlist.m3u8
@@ -2600,10 +2543,7 @@ https://jobtvserver.eu/hls/stream.m3u8
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 #EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" tvg-logo="https://i.imgur.com/Q1PYwkZ.png" group-title="Romania-TV",kapital tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
-#EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" tvg-logo="https://i.imgur.com/Q1PYwkZ.png" group-title="Romania-TV",kapital tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://rumble.com/live-hls-dvr/TZJxcEAm7p4/playlist.m3u8?level=1
+https://rumble.com/live-hls-dvr/TwnD_zriv40/playlist.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Romania-TV",kiss tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
@@ -2637,9 +2577,6 @@ https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaTV.md" tvg-name="Realitatea TV" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="Romania-TV",Realitatea TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 tvg-id="RealitateaTV.md" tvg-name="Realitatea TV" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="Romania-TV",Realitatea TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://6065d3147e895.streamlock.net:4444/real/video5_720p/playlist.m3u8        
 #EXTINF:-1 tvg-id="TV1.Satu.Mare.ro" tvg-name="TV1 SATU MARE" tvg-logo="" group-title="Romania-TV",tv1 satu mare
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s2.netstreaming.eu/tv1.m3u8
@@ -2814,16 +2751,10 @@ https://tsv.md/stream/hls/tsv-online/index.m3u8
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Poland-TV",4FUN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
-#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Poland-TV",4FUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
+https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
 #EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="Poland-TV",4FUN KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.4fun.tv:8889/hls/4fk.m3u8
-#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="Poland-TV",4FUN KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream.4fun.tv:8889/hls/4fk_med/index.m3u8
 #EXTINF:-1 tvg-id="RemontyTV.pl" tvg-name="Remonty TV" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="Poland-TV",remonty tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
@@ -2844,16 +2775,10 @@ https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-name="Telewizja Imperium" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="Poland-TV",telewizija imperium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://str10.imperiummedia.pl/TVIMPERIUM/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-name="Telewizja Imperium" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="Poland-TV",telewizija imperium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://str10.imperiummedia.pl/TVIMPERIUM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TelewizjaImperiumkronika.pl" tvg-name="telewizija imperium kronika" tvg-logo="" group-title="Poland-TV",telewizija imperium kronika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://str12.imperiummedia.pl/ImperiumArchiwum/index.m3u8
-#EXTINF:-1 tvg-id="TelewizjaImperiumkronika.pl" tvg-name="telewizija imperium kronika" tvg-logo="" group-title="Poland-TV",telewizija imperium kronika
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://str12.imperiummedia.pl/ImperiumArchiwum/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="TelewizjaImperiumkronika.pl" tvg-name="telewizija imperium kronika" tvg-logo="" group-title="Poland-TV",telewizija imperium kronika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://str12.imperiummedia.pl/ImperiumArchiwum/tracks-v1a1/mono.m3u8
@@ -2938,9 +2863,6 @@ https://stream-17.mazana.tv/slagrpremium.m3u8s
 #EXTINF:-1 tvg-id="TVBeskyd.cz" tvg-name="TV Beskyd" tvg-logo="https://i.imgur.com/yVF6cUa.png" group-title="czesh-sk-tv",beskyd tv  czesh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://1034839213.rsc.cdn77.org/1034839213/index.m3u8
-#EXTINF:-1 tvg-id="TVBeskyd.cz" tvg-name="TV Beskyd" tvg-logo="https://i.imgur.com/yVF6cUa.png" group-title="czesh-sk-tv",beskyrd tv  czesh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://1034839213.rsc.cdn77.org/1034839213/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TVBeskyd.cz" tvg-name="TV Beskyd" tvg-logo="https://i.imgur.com/yVF6cUa.png" group-title="czesh-sk-tv",beskyrd tv  czesh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://1034839213.rsc.cdn77.org/1034839213/tracks-v1a1/mono.ts.m3u8
@@ -3061,9 +2983,6 @@ https://cdnsk003.panaccess.com/local/Poprad/index.m3u8
 #EXTINF:-1 tvg-id="TVPoprad.sk" tvg-name="TV Poprad" tvg-logo="https://i.imgur.com/x6ZvOp6.png" group-title="czesh-sk-tv",tv poprad  sk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdnsk003.panaccess.com/local/Poprad/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TVRaj.sk" tvg-name="TV Raj" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="czesh-sk-tv",tv raj  (no works)  sk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://ottst05.flexitv.sk/2827-tv-pc.m3u8
 #EXTINF:-1 tvg-id="TVReduta.sk" tvg-name="TV Reduta" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="czesh-sk-tv",tv reduta  sk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdnsk003.panaccess.com/local/TV_SNV_REDUTA/index.m3u8
@@ -3116,10 +3035,6 @@ https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe/chunklist.m3u8
 https://1a-1791.com/live/qt9k24wa/slot-68/vxdb-dfxw_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",NEWSMAX2  dvr
 https://1a-1791.com/live/qt9k24wa/slot-68/vxdb-dfxw_720p/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Conspiracy TV 
-https://rumble.com/live-hls/6XRc3V_jrjQ/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",Conspiracy TV 
-https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-127/vul8-is3u_720p/chunklist.m3u8
 
 
 
@@ -3131,7 +3046,7 @@ https://59d7d6f47d7fc.streamlock.net/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale7.it" tvg-name="Canale 7" tvg-logo="https://canale7.tv/assets/front/img/fb_logo.jpg" group-title="Italy - TV",Canale 7
 https://59d7d6f47d7fc.streamlock.net/canale7/canale7/chunklist_w73559553.m3u8
 #EXTINF:-1 tvg-id="12TVParma.it" tvg-name="12 TV Parma" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="Italy - TV",12 TV Parma
-https://12tvparma.fluid.stream/12TVParma/livestream/chunklist_w1007453368.m3u8
+https://12tvparma.fluid.stream/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="50Canale.it" tvg-name="50 canale" tvg-logo="https://i.imgur.com/D3OTRzf.png" group-title="Italy - TV",50 canale
 https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 tvg-id="50Canale.it" tvg-name="50 canale" tvg-logo="https://i.imgur.com/D3OTRzf.png" group-title="Italy - TV",50 canale
@@ -3146,7 +3061,7 @@ https://585b674743bbb.streamlock.net/9050/9050/chunklist_w1145517300.m3u8
 https://5db313b643fd8.streamlock.net:443/111/111/playlist.m3u8
 #EXTINF:-1 tvg-id="111TV.it" tvg-name="111TV" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="Italy - TV",111TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="111TV.it" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="Italy - TV",111TV.it
+#EXTINF:-1 tvg-id="" tvg-name="111TV.it" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="Italy - TV",111TV
 https://5db313b643fd8.streamlock.net/111/111/chunklist_w1964306004.m3u8
 #EXTINF:-1 tvg-id="AltoAdigeTV.it" tvg-name="AltoAdige TV" tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="Italy - TV",AltoAdige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
@@ -3196,10 +3111,6 @@ https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/p
 https://streamcdnm8-db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8?DVR
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="CafeTV24" tvg-logo="https://i.imgur.com/SRFzjja.png" group-title="Italy - TV",CafeTV24
 https://srvx1.selftv.video/cafe/smil:live/playlist.m3u8
-#EXTINF:-1 tvg-id="CalabriaTV.it" tvg-name="Calabria TV" tvg-logo="https://i.imgur.com/noTgJJp.png" group-title="Italy - TV",Calabria TV
-https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CalabriaTV.it" tvg-name="Calabria TV" tvg-logo="https://i.imgur.com/noTgJJp.png" group-title="Italy - TV",Calabria TV
-https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/chunklist_w428276424.m3u8
 #EXTINF:-1 tvg-id="CalabriaUnoTV.it" tvg-name="CalabriaUno TV" tvg-logo="https://i.imgur.com/HZc0q2K.png" group-title="Italy - TV",CalabriaUno TV
 https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
 #EXTINF:-1 tvg-id="CalabriaUnoTV.it" tvg-name="CalabriaUno TV" tvg-logo="https://i.imgur.com/HZc0q2K.png" group-title="Italy - TV",CalabriaUno TV
@@ -3208,8 +3119,6 @@ https://635320cd397eb.streamlock.net/live/calabriaunolive/chunklist_w717544341.m
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale3Toscana.it" tvg-name="Canale 3 Toscana" tvg-logo="" group-title="Italy - TV",Canale 3 Toscana
 https://router.xdevel.com/video0s976737-1453/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale3Toscana.it" tvg-name="Canale 3 Toscana" tvg-logo="" group-title="Italy - TV",Canale 3 Toscana
-https://stream15.xdevel.com/video0s976737-3248/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale8.it" tvg-name="Canale 8" tvg-logo="https://i.imgur.com/xwYmFgj.png" group-title="Italy - TV",Canale 8
 https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canale 50 all news" tvg-logo="" group-title="Italy - TV",Canale 50 all news
@@ -3252,10 +3161,6 @@ https://str03.fluid.stream/RadioPadova/livestream/playlist.m3u8
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canale 122" tvg-logo="" group-title="Italy - TV",Canale 122 fatti di nera
 https://stream9.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CusanoItaliaTV.it" tvg-name="Cusano Italia TV" tvg-logo="https://i.imgur.com/fOluzuE.png" group-title="Italy - TV",Cusano Italia TV
-https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CusanoItaliaTV.it" tvg-name="Cusano Italia TV" tvg-logo="https://i.imgur.com/fOluzuE.png" group-title="Italy - TV",Cusano Italia TV
-https://stream9.xdevel.com/video1s975363-1596/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DiTV92.it" tvg-name="Di.TV 92" tvg-logo="" group-title="Italy - TV",Di.TV 92
 https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fascino TV" tvg-logo="" group-title="Italy - TV",Fascino TV
@@ -3274,20 +3179,10 @@ https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/p
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="EsperiaTV.it" tvg-name="Esperia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" group-title="Italy - TV",Esperia TV
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/chunklist_w1358984945.m3u8
-#EXTINF:-1 tvg-id="eTvMarche.it" tvg-name="eTv Marche" tvg-logo="https://i.imgur.com/U6OW577.png" group-title="Italy - TV",eTv Marche
-https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="eTvMarche.it" tvg-name="eTv Marche" tvg-logo="https://i.imgur.com/U6OW577.png" group-title="Italy - TV",eTv Marche
-https://live.ipstream.it/etvmarche/etvmarche.stream/chunklist_w537878682.m3u8
-#EXTINF:-1 tvg-id="eTvRete7.it" tvg-name="eTv Rete 7" tvg-logo="https://i.imgur.com/xYVI5OC.png" group-title="Italy - TV",eTv Rete 7
-https://live.ipstream.it/etv/etv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="eTvRete7.it" tvg-name="eTv Rete 7" tvg-logo="https://i.imgur.com/xYVI5OC.png" group-title="Italy - TV",eTv Rete 7
-https://live.ipstream.it/etv/etv.stream/chunklist_w797994493.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-name="Euro Indie Music Chart TV" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="Italy - TV",Euro Indie Music Chart TV
 https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-name="Euro Indie Music Chart TV" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="Italy - TV",Euro Indie Music Chart TV
 https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist_w497751080.m3u8
-#EXTINF:-1 tvg-id="Odeon24.it" tvg-name="Odeon 24" tvg-logo="https://i.imgur.com/Ho7SdXY.png" group-title="Italy - TV",Odeon 24
-https://streaming.softwarecreation.it/Odeon/Odeon/manifest.mpd
 #EXTINF:-1 tvg-id="ExtraTV.it" tvg-name="Extra TV" tvg-logo="" group-title="Italy - TV",Extra TV Canale 194
 https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
 #EXTINF:-1 tvg-id="ExtraTV.it" tvg-name="Extra TV" tvg-logo="" group-title="Italy - TV",Extra TV Canale 194
@@ -3306,24 +3201,10 @@ https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
 https://64b16f23efbee.streamlock.net:443/gooo/gooo/playlist.m3u8
 #EXTINF:-1 tvg-id="GOTVCanale163.it" tvg-name="GO-TV Canale 163" tvg-logo="https://i.imgur.com/11V0QSp.png" group-title="Italy - TV",GO-TV Canale 163
 https://64b16f23efbee.streamlock.net/gooo/gooo/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldTV.it" tvg-name="Gold TV" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Italy - TV",Gold TV
-https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldTV.it" tvg-name="Gold TV" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Italy - TV",Gold TV
-https://streaming.softwarecreation.it/GoldTv/GoldTv/chunklist_w327416508.m3u8
-#EXTINF:-1 tvg-id="GoldTVSat.it" tvg-name="Gold TV Sat" tvg-logo="https://i.imgur.com/gQzNIg5.png" group-title="Italy - TV",Gold TV Sat (marcopolo travel tv)
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldTVSat.it" tvg-name="Gold TV Sat" tvg-logo="https://i.imgur.com/gQzNIg5.png" group-title="Italy - TV",Gold TV Sat (marcopolo travel tv)
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/chunklist_w931627058.m3u8
-#EXTINF:-1 tvg-id="InfoMediaNews.it" tvg-name="Info Media News" tvg-logo="https://i.imgur.com/uFSDnOr.png" group-title="Italy - TV",Info Media News
-https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/manifest.mpd
 #EXTINF:-1 tvg-id="Italia2TV.it" tvg-name="Italia2TV" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="Italy - TV",Italia2TV
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTINF:-1 tvg-id="Italia2TV.it" tvg-name="Italia2TV" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="Italy - TV",Italia2TV
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/chunklist_w195898741.m3u8
-#EXTINF:-1 tvg-id="Italia7.it" tvg-name="Italia 7" tvg-logo="https://i.imgur.com/xc0kUHk.png" group-title="Italy - TV",Italia 7
-https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
-#EXTINF:-1 tvg-id="Italia7.it" tvg-name="Italia 7" tvg-logo="https://i.imgur.com/xc0kUHk.png" group-title="Italy - TV",Italia 7
-https://streaming.softwarecreation.it/Italia7/Italia7/chunklist_w1864795571.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="Italy - TV",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="Italy - TV",Italian Fishing TV
@@ -3384,8 +3265,6 @@ https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
 https://64b16f23efbee.streamlock.net/lunatv/lunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it" tvg-name="m2o TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" group-title="Italy - TV",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-id="m2oTV.it" tvg-name="m2o TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" group-title="Italy - TV",m2o TV
-https://streamcdnm15-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="MediaTV.it" tvg-name="Media TV" tvg-logo="https://i.ibb.co/sH68dFn/300071550-488761809922583-110799127788713907-n.jpg" group-title="Italy - TV",Media TV
 https://stream3.aswifi.it/mediatv/stream/index.m3u8
 #EXTINF:-1 tvg-id="MediterraniaTV.it" tvg-name="MediterraniaTV" tvg-logo="https://i.imgur.com/PJbXCoe.png" group-title="Italy - TV",MediterraneaTV
@@ -3414,16 +3293,12 @@ https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ParolediVita.it" tvg-name="Parole di Vita" tvg-logo="https://i.imgur.com/vkFlXbR.png" group-title="Italy - TV",Parole di Vita
 https://stream.paroledivita.org/paroledivita.m3u8
-#EXTINF:-1 tvg-id="ParolediVita.it" tvg-name="Parole di Vita" tvg-logo="https://i.imgur.com/vkFlXbR.png" group-title="Italy - TV",Parole di Vita
-https://stream.paroledivita.org/pdv/subs/ita/playlist.m3u8
 #EXTINF:-1 tvg-id="PassioneLotto.it" tvg-name="Passione Lotto" tvg-logo="https://i.imgur.com/jYmy4G5.png" group-title="Italy - TV",Passione Lotto
 https://5dcabf026b188.streamlock.net/livevideo2/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-name="Peer TV Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Italy - TV",Peer TV Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.it" tvg-name="Prima TV" tvg-logo="https://i.imgur.com/HE9c8Sk.png" group-title="Italy - TV",Prima TV
 https://64b16f23efbee.streamlock.net/primatv/primatv/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaTV.it" tvg-name="Prima TV" tvg-logo="https://i.imgur.com/HE9c8Sk.png" group-title="Italy - TV",Prima TV
-https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaTVNapoli.it" tvg-name="Prima TV Napoli" tvg-logo="https://i.imgur.com/48BCOUZ.png" group-title="Italy - TV",Prima TV Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimAntennaTV.it" tvg-name="PrimAntenna TV" tvg-logo="https://i.imgur.com/4Bx2321.png" group-title="Italy - TV",PrimAntenna TV
@@ -3508,12 +3383,8 @@ https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 https://live.radiocapri.it/memfs/8ea0b12f-3624-4a80-8079-3d26747ae55b.m3u8
 #EXTINF:-1 tvg-id="Retemia.it" tvg-name="Retemia" tvg-logo="https://i.imgur.com/IbzQpfn.png" group-title="Italy - TV",Retemia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:-1 tvg-id="ReteSette.it" tvg-name="Rete Sette" tvg-logo="https://i.imgur.com/ThaNz0M.png" group-title="Italy - TV",Rete Sette
-https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8
 #EXTINF:-1 tvg-id="RetesoleLazio.it" tvg-name="Retesole Lazio" tvg-logo="https://i.imgur.com/vvVgZN2.png" group-title="Italy - TV",Retesole Lazio
 https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
-#EXTINF:-1 tvg-id="Reteveneta.it" tvg-name="Reteveneta" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="Italy - TV",Reteveneta
-https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
 #EXTINF:-1 tvg-id="RomanticaTV.it" tvg-name="Romantica TV" tvg-logo="	https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Romantica%20TV.jpeg" group-title="Italy - TV",Romantica TV
 https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RossiniTV.it" tvg-name="RossiniTV" tvg-logo="https://i.imgur.com/wGKsAk3.png" group-title="Italy - TV",RossiniTV
@@ -3694,8 +3565,6 @@ https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
 https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
 #EXTINF:-1 tvg-id="TenTV.it" tvg-name="Ten TV" tvg-logo="" group-title="Italy - TV",Ten TV
 https://7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/playlist.m3u8
-#EXTINF:-1 tvg-id="TenTV.it" tvg-name="Ten TV" tvg-logo="" group-title="Italy - TV",Ten TV
-https://streamcdnm15-7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/playlist.m3u8
 #EXTINF:-1 tvg-id="TizianaLotto.it" tvg-name="Tiziana Lotto" tvg-logo="" group-title="Italy - TV",Tiziana Lotto
 https://cdn.sanvil.net/hls/live/index.m3u8
 #EXTINF:-1 tvg-id="TLTMolise.it" tvg-name="TLT Molise" tvg-logo="https://i.imgur.com/4G8fqtn.png" group-title="Italy - TV",TLT Molise
@@ -3766,8 +3635,6 @@ https://video2.azotosolutions.com:1936/splashtv/splashtv/playlist.m3u8
 https://str34.fluid.stream/RadioItalia5/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Studio One TV" tvg-logo="" group-title="Italy - TV",Radio Studio One TV
 https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
-#EXTINF:-1 tvg-id="OL3 Radio" tvg-name="" tvg-logo="" group-title="Italy - TV",OL3 Radio
-https://origin.live-dvbt2.it:9553/ol3radio/ol3radio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Love FM TV" tvg-logo="" group-title="Italy - TV",Radio Love FM TV
 https://tvd-love.fluid.stream/LoveFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Paestum TV" tvg-logo="" group-title="Italy - TV",Radio Paestum TV
