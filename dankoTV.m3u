@@ -5019,22 +5019,22 @@ https://stream.smashmalta.com/live/webplayermt/livestream/12.m3u8
 #EXTINF:-1 tvg-id="TheGroat.nz" tvg-name="The Groat" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",The Groat  (New Zealand)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://gizmo2.cloudserver.nz/hls/GROAT.m3u8
-#EXTINF:-1 tvg-id="MetalTV.de" tvg-name="Metal TV" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV  (Deutch)
+#EXTINF:-1 tvg-id="MetalTV.de" tvg-name="Metal TV" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.metaltv.live/live/stream.m3u8
-#EXTINF:-1 tvg-id="MetalTVProgressive.de" tvg-name="Metal TV Progressive" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Progressive  (Deutch)
+#EXTINF:-1 tvg-id="MetalTVProgressive.de" tvg-name="Metal TV Progressive" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Progressive  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.metaltv.live/live/progressive/stream.m3u8
-#EXTINF:-1 tvg-id="MetalTVDoom.de" tvg-name="Metal TV Doom" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Doom  (Deutch)
+#EXTINF:-1 tvg-id="MetalTVDoom.de" tvg-name="Metal TV Doom" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Doom  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.metaltv.live/live/doom/stream.m3u8
-#EXTINF:-1 tvg-id="MetalTVThrash.de" tvg-name="Metal TV Thrash" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Thrash  (Deutch)
+#EXTINF:-1 tvg-id="MetalTVThrash.de" tvg-name="Metal TV Thrash" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Thrash  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.metaltv.live/live/thrash/stream.m3u8
-#EXTINF:-1 tvg-id="MetalTVDeath.de" tvg-name="Metal TV Death" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Death  (Deutch)
+#EXTINF:-1 tvg-id="MetalTVDeath.de" tvg-name="Metal TV Death" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Death  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.metaltv.live/live/death/stream.m3u8
-#EXTINF:-1 tvg-id="MetalTVCore.de" tvg-name="Metal TV Core" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Core  (Deutch)
+#EXTINF:-1 tvg-id="MetalTVCore.de" tvg-name="Metal TV Core" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Core  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.metaltv.live/live/core/stream.m3u8
 
