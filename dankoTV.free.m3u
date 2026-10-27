@@ -3739,6 +3739,8 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr" tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/6twzd38.png" group-title="Greece - TV",Alpha TV
 https://alphatvlive2-ak.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ART.gr" tvg-name="ART" tvg-logo="https://i.imgur.com/mNeLu04.png" group-title="Greece - TV",ART
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+#EXTVLCOPT:http-referrer=https://www.arttv.info/p/art.html
 https://rumble.com/live-hls-dvr/lTv77Vg06v0/playlist.m3u8
 #EXTINF:-1 tvg-id="BarazaTVGreekMusicHits.gr" tvg-name="Baraza TV Greek Music Hits" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Greece - TV",Baraza TV Greek Music Hits
 https://eco.streams.ovh:8081/barazatv/index.m3u8
@@ -3773,6 +3775,7 @@ https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="DionTV.gr" tvg-name="Dion TV" tvg-logo="https://i.imgur.com/13MverN.png" group-title="Greece - TV",Dion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 #EXTVLCOPT:http-referrer=https://diontv.gr/webtv/
+#EXTVLCOPT:http-origin=https://diontv.gr/webtv/
 https://rtmp.win:3650/live/diontvlive.m3u8
 #EXTINF:-1 tvg-id="EllasTV.gr" tvg-name="Ellas TV" tvg-logo="https://i.imgur.com/aRWB7ss.png" group-title="Greece - TV",Ellas TV
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
@@ -3791,6 +3794,7 @@ https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
 #EXTINF:-1 tvg-id="EpirusTV1.gr" tvg-name="Epirus TV1" tvg-logo="https://i.imgur.com/nYVqhu8.png" group-title="Greece - TV",Epirus TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 #EXTVLCOPT:http-referrer=https://www.epirustv1.eu/
+#EXTVLCOPT:http-origin=https://www.epirustv1.eu/
 https://rtmp.win:3929/live/epiruslive.m3u8
 #EXTINF:-1 tvg-id="EpsilonTV.gr" tvg-name="Epsilon TV" tvg-logo="https://i.imgur.com/ZiiPNf6.png" group-title="Greece - TV",Epsilon TV
 https://neon.streams.gr:8081/epsilontv/index.m3u8
