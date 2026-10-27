@@ -3918,28 +3918,12 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m
 https://c401-node62-cdn.connectmedia.hu/110303/c7209384a906d5b6dbd3e35f338c1a82/6ae09f8e/index.m3u8
 #EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="Hungary - TV",Duna World 
 https://c801-node63-cdn.connectmedia.hu/110306/4b5ab029c786fc851fee3285be9830a4/6ae0a5a1/index.m3u8
-#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="Hungary - TV",Duna World (avc)
-https://c402-node62-cdn.connectmedia.hu/110306/241d39a1c20c9c160f7da5f63fa2aef3/6ae0a34f/306-DunaWorld_NOGEO-avc1_1800000=10004.m3u8
-#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="Hungary - TV",Duna World (mp4a)
-https://c402-node62-cdn.connectmedia.hu/110306/241d39a1c20c9c160f7da5f63fa2aef3/6ae0a34f/306-DunaWorld_NOGEO-mp4a_140800_hun=20000.m3u8
 #EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="Hungary - TV",M1 
 https://c202-node62-cdn.connectmedia.hu/110301/9af4052344bfd7305d7d4c8dbc48e175/6ae0a019/index.m3u8
-#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="Hungary - TV",M1 (avc)
-https://c202-node62-cdn.connectmedia.hu/110301/9af4052344bfd7305d7d4c8dbc48e175/6ae0a019/301-M1_NOGEO-avc1_1800000=10004.m3u8
-#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="Hungary - TV",M1 (mp4a)
-https://c202-node62-cdn.connectmedia.hu/110301/9af4052344bfd7305d7d4c8dbc48e175/6ae0a019/301-M1_NOGEO-mp4a_140800_hun=20000.m3u8
 #EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Hungary - TV",M2 
 https://c402-node62-cdn.connectmedia.hu/110302/8e977e278ad9d09b93ff5686553cb400/6ae0a169/index.m3u8
-#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Hungary - TV",M2 (avc)
-https://c402-node62-cdn.connectmedia.hu/110302/8e977e278ad9d09b93ff5686553cb400/6ae0a169/302-M2_NOGEO-avc1_1800000=10004.m3u8
-#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Hungary - TV",M2 (mp4a)
-https://c402-node62-cdn.connectmedia.hu/110302/8e977e278ad9d09b93ff5686553cb400/6ae0a169/302-M2_NOGEO-mp4a_140800_hun=20000.m3u8
 #EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Hungary - TV",M5 
 https://c401-node61-cdn.connectmedia.hu/110305/40409d89e4b792f469f0e8dbd0c57f6f/6ae0a27c/index.m3u8
-#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Hungary - TV",M5 (avc)
-https://c401-node61-cdn.connectmedia.hu/110305/40409d89e4b792f469f0e8dbd0c57f6f/6ae0a27c/305-M5_NOGEO-avc1_1800000=10004.m3u8
-#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Hungary - TV",M5 (mp4a)
-https://c401-node61-cdn.connectmedia.hu/110305/40409d89e4b792f469f0e8dbd0c57f6f/6ae0a27c/305-M5_NOGEO-mp4a_140800_hun=20000.m3u8
 #EXTINF:-1 tvg-id="ESTV.hu" tvg-name="ESTV" tvg-logo="https://i.imgur.com/OCZ8CfK.png" group-title="Hungary - TV",ESTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNBonumTV.hu" tvg-name="EWTN/Bonum TV" tvg-logo="https://i.imgur.com/LdsRz2E.png" group-title="Hungary - TV",EWTN/Bonum TV
