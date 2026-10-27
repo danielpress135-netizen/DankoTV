@@ -3732,8 +3732,6 @@ https://acheloostv.streamings.gr/live/stream/index.m3u8
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="AeolosTV.gr" tvg-name="Aeolos TV" tvg-logo="https://i.imgur.com/4G9VvUg.png" group-title="Greece - TV",Aeolos TV
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AigaioTV.gr" tvg-logo="https://i.imgur.com/7LfuDJi.png" group-title="Greece - TV",AigaioTV.gr
-https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlertTV.gr" tvg-name="Alert TV" tvg-logo="https://i.imgur.com/xqa87lG.png" group-title="Greece - TV",Alert TV
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr" tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/6twzd38.png" group-title="Greece - TV",Alpha TV
@@ -3741,7 +3739,7 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr" tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/6twzd38.png" group-title="Greece - TV",Alpha TV
 https://alphatvlive2-ak.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ART.gr" tvg-name="ART" tvg-logo="https://i.imgur.com/mNeLu04.png" group-title="Greece - TV",ART
-https://rumble.com/live-hls-dvr/zMH3oDncdS4/playlist.m3u8
+https://rumble.com/live-hls-dvr/lTv77Vg06v0/playlist.m3u8
 #EXTINF:-1 tvg-id="BarazaTVGreekMusicHits.gr" tvg-name="Baraza TV Greek Music Hits" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Greece - TV",Baraza TV Greek Music Hits
 https://eco.streams.ovh:8081/barazatv/index.m3u8
 #EXTINF:-1 tvg-id="BarazaTVGreekMusicHits.gr" tvg-name="Baraza TV Greek Music Hits" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Greece - TV",Baraza TV Greek Music Hits
@@ -3773,6 +3771,8 @@ http://81.171.10.42:1935/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DiavataTV.gr" tvg-name="Diavata TV" tvg-logo="https://i.imgur.com/hsK68yd.png" group-title="Greece - TV",Diavata TV
 https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="DionTV.gr" tvg-name="Dion TV" tvg-logo="https://i.imgur.com/13MverN.png" group-title="Greece - TV",Dion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+#EXTVLCOPT:http-referrer=https://diontv.gr/webtv/
 https://rtmp.win:3650/live/diontvlive.m3u8
 #EXTINF:-1 tvg-id="EllasTV.gr" tvg-name="Ellas TV" tvg-logo="https://i.imgur.com/aRWB7ss.png" group-title="Greece - TV",Ellas TV
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
@@ -3789,6 +3789,8 @@ https://ellastvmax.gotdns.com/freetv/madworldtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-name="Epiloges TV" tvg-logo="https://i.imgur.com/3S4P7ob.png" group-title="Greece - TV",Epiloges TV
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
 #EXTINF:-1 tvg-id="EpirusTV1.gr" tvg-name="Epirus TV1" tvg-logo="https://i.imgur.com/nYVqhu8.png" group-title="Greece - TV",Epirus TV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+#EXTVLCOPT:http-referrer=https://www.epirustv1.eu/
 https://rtmp.win:3929/live/epiruslive.m3u8
 #EXTINF:-1 tvg-id="EpsilonTV.gr" tvg-name="Epsilon TV" tvg-logo="https://i.imgur.com/ZiiPNf6.png" group-title="Greece - TV",Epsilon TV
 https://neon.streams.gr:8081/epsilontv/index.m3u8
@@ -3799,6 +3801,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="FORMediaTV.gr" tvg-name="FORMedia TV" tvg-logo="https://i.imgur.com/8FcJ2I9.png" group-title="Greece - TV",FORMedia TV
 https://ant.32bit.gr:5443/live/streams/for123456.m3u8
 #EXTINF:-1 tvg-id="FORMediaTV.gr" tvg-name="FORMedia TV" tvg-logo="https://i.imgur.com/8FcJ2I9.png" group-title="Greece - TV",FORMedia TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+#EXTVLCOPT:http-referrer=https://formediatv.gr/
 https://ant.32bit.gr:5443/live/streams/for123456_adaptive.m3u8
 #EXTINF:-1 tvg-id="GnomiTV.gr" tvg-name="Gnomi TV" tvg-logo="https://i.ibb.co/ZNCXr79/gnomi-logo.png" group-title="Greece - TV",Gnomi TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
@@ -3837,6 +3841,8 @@ https://rtmp.streams.ovh:8081/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-name="Naftemporiki TV" tvg-logo="https://i.imgur.com/9OFdMud.png" group-title="Greece - TV",Naftemporiki TV
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-name="Nea TV" tvg-logo="https://i.imgur.com/nvNW8G7.png" group-title="Greece - TV",Nea TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+#EXTVLCOPT:http-referrer=https://www.neatv.gr/live-broadcast/
 https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-name="Nea TV" tvg-logo="https://i.imgur.com/nvNW8G7.png" group-title="Greece - TV",Nea TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
@@ -3866,11 +3872,11 @@ https://telmaco-cdn.akamaized.net/starcgr/default/index.mpd
 https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="StarChannel.gr" tvg-name="Star Channel" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="Greece - TV",Star Channel
 https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8
-#EXTINF:-1 tvg-id="StartTV.gr" tvg-name="Start TV" tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg" group-title="Greece - TV",Start TV
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-name="Syros TV1" tvg-logo="https://i.imgur.com/arQe5qS.png" group-title="Greece - TV",Syros TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 tvg-id="ThessaliaTV.gr" tvg-name="Thessalia TV" tvg-logo="https://i.imgur.com/BqPnIiy.png" group-title="Greece - TV",Thessalia TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+#EXTVLCOPT:http-referrer=https://www.thessaliatv.gr/live/
 https://thessaliachannel.gr:3850/live/thesstvlive.m3u8
 #EXTINF:-1 tvg-id="ThrakiNetTV.gr" tvg-name="Thraki Net TV" tvg-logo="https://i.imgur.com/3ITSnqT.png" group-title="Greece - TV",Thraki Net TV
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
