@@ -438,6 +438,50 @@ https://freem3u.xyz/api/live/play.m3u8?vid=255
 
 
 
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 1
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 2
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 3
+http://198.204.228.26/live/cctv3hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 4
+http://198.204.228.26/live/cctv4hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 5
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 6
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 7
+http://198.204.228.26/live/cctv7hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 8
+http://198.204.228.26/live/cctv8hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 9
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 10
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 11
+http://198.204.228.26/live/cctv11hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 12
+http://198.204.228.26/live/cctv12hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 13
+http://198.204.228.26/live/cctv13hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 14
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 15
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 16
+http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 17
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 5+
+http://198.204.228.26/live/cctv5p.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 4K
+http://198.204.228.26/live/cctv4k.m3u8
+#EXTINF:0 group-title="ASIA | CHINA",CCTV 8K
+http://198.204.228.26/live/cctv8k.m3u8
+
+
+
+
 #EXTINF:-1 group-title="ASIA | ARABIC",2M
 http://185.9.2.18/chid_218/index.m3u8
 #EXTINF:-1 group-title="ASIA | ARABIC",2M Monde +1 (1080p)
@@ -1148,6 +1192,8 @@ http://38.44.109.41:8003/play/a02l/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 tvg-id="1305" tvg-name="Señal de Prueba" group-title="AMERICA | ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1920px-Cartoon_Network_HD_logo.svg.png", Señal de Prueba
 http://38.44.109.41:8003/play/a0ef/index.m3u8?hls
+#EXTINF:-1 tvg-id="CazeTV.sp" tvg-name="CAZE TV" group-title="AMERICA | ARGENTINA" tvg-logo="",CAZE TV
+https://streaming.sattvgo.com.br/CAZE_TV/index.m3u8
 
 
 
@@ -2447,6 +2493,93 @@ https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" group-title="EUROPE | GERMANY",Das Erste (IPTV)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" group-title="EUROPE | GERMANY",BR (IPTV)
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR" group-title="EUROPE | GERMANY",HR (IPTV)
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" group-title="EUROPE | GERMANY",tagesschau24 (IPTV)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="ARD.alpha.de" tvg-name="ARD alpha" group-title="EUROPE | GERMANY",ARD-alpha (IPTV)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" group-title="EUROPE | GERMANY",NDR (IPTV)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+##EXTINF:-1 tvg-id="SAT.1.de" tvg-name="SAT.1" group-title="EUROPE | GERMANY",SAT.1 (IPTV)
+https://s6.hopslan.com/sat1z/index.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" group-title="EUROPE | GERMANY",RTL (IPTV)
+https://s6.hopslan.com/rtlt1/index.m3u8
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTL ZWEI" group-title="EUROPE | GERMANY",RTL II (IPTV)
+https://s6.hopslan.com/rtl2q/index.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" group-title="EUROPE | GERMANY",ProSieben (IPTV)
+https://s6.hopslan.com/pro7z/index.m3u8
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="Kabel Eins" group-title="EUROPE | GERMANY",Kabel Eins (IPTV)
+https://s6.hopslan.com/kabel1z/index.m3u8
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" group-title="EUROPE | GERMANY",VOX (IPTV)
+https://s6.hopslan.com/voxz/index.m3u8
+#EXTINF:-1 tvg-id="NITRO.de" tvg-name="NITRO" group-title="EUROPE | GERMANY",Nitro (IPTV)
+https://s6.hopslan.com/nitro1/index.m3u8
+#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben MAXX" group-title="EUROPE | GERMANY",ProSieben MAXX (IPTV)
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:-1 tvg-id="SAT.1.Gold.de" tvg-name="SAT.1 Gold" group-title="EUROPE | GERMANY",SAT.1 Gold (IPTV)
+https://s6.hopslan.com/goldX/index.m3u8
+#EXTINF:-1 tvg-id="ORF.1.de" tvg-name="ORF 1" group-title="EUROPE | GERMANY",ORF 1 (IPTV)
+https://s6.hopslan.com/orf1/index.m3u8
+#EXTINF:-1 tvg-id="ORF.2.de" tvg-name="ORF 2" group-title="EUROPE | GERMANY",ORF 2 (IPTV)
+https://s6.hopslan.com/orf2/index.m3u8
+#EXTINF:-1 tvg-id="Tele.5.de" tvg-name="Tele 5" group-title="EUROPE | GERMANY",Tele 5 (IPTV)
+https://s6.hopslan.com/tele5X/index.m3u8
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" group-title="EUROPE | GERMANY",sixx (IPTV)
+https://s6.hopslan.com/sixX/index.m3u8
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" group-title="EUROPE | GERMANY",DMAX (IPTV)
+https://s6.hopslan.com/dmaxX/index.m3u8
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" group-title="EUROPE | GERMANY",TLC (IPTV)
+https://s6.hopslan.com/tlcX/index.m3u8
+#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="Super RTL" group-title="EUROPE | GERMANY",Super RTL (IPTV)
+https://s6.hopslan.com/superX/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Channel.de" tvg-name="Disney Channel" group-title="EUROPE | GERMANY",Disney Channel (IPTV)
+https://s6.hopslan.com/disneyX/index.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.de" tvg-name="Comedy Central" group-title="EUROPE | GERMANY",Comedy Central (IPTV)
+https://s6.hopslan.com/vivaX/index.m3u8
+#EXTINF:-1 tvg-id="Servus.TV.Österreich.de" tvg-name="Servus TV Österreich" group-title="EUROPE | GERMANY",Servus TV (IPTV)
+https://s6.hopslan.com/servuz1/index.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv" group-title="EUROPE | GERMANY",NTV (IPTV)
+https://s6.hopslan.com/ntvX/index.m3u8
+#EXTINF:-1 tvg-id="kabel.eins.Doku.de" tvg-name="kabel eins Doku" group-title="EUROPE | GERMANY",Kabel Eins Doku (IPTV)
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 tvg-id="DE26000096S" tvg-name="Top Filme - Rakuten TV" group-title="EUROPE | GERMANY",Rakuten Top Film
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+
+#EXTINF:-1 tvg-id="DE2600005XA" tvg-name="Actionfilme - Rakuten TV" group-title="EUROPE | GERMANY",Rakuten Action
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+
+#EXTINF:-1 tvg-id="DE2600007ET" tvg-name="Drama Filme - Rakuten TV" group-title="EUROPE | GERMANY",Rakuten Drama
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+
+#EXTINF:-1 tvg-id="DE2600006H2" tvg-name="Komödien - Rakuten TV" group-title="EUROPE | GERMANY",Rakuten Comedy
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+
+#EXTINF:-1 tvg-id="DE30000067I" tvg-name="Deutsches Kino - Rakuten TV" group-title="EUROPE | GERMANY",Rakuten Kino.DE
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
+
+#EXTINF:-1 tvg-id="Rakuten Thriller" tvg-name="Thriller - Rakuten TV" group-title="EUROPE | GERMANY",Rakuten Thriller
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+
+#EXTINF:-1 tvg-id="Rakuten Romance" tvg-name="Romantik - Rakuten TV" group-title="EUROPE | GERMANY",Rakuten Romance
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+
+#EXTINF:-1 tvg-id="DE2600004U3" tvg-name="Crime Serien - Rakuten TV" group-title="EUROPE | GERMANY",Rakuten Crime
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
+
+#EXTINF:-1 tvg-id="DE26000085Y" tvg-name="Family - Rakuten TV" group-title="EUROPE | GERMANY",Rakuten Family
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="EUROPE | BULGARIA",Diema HD
 http://78.108.244.134:8899/diema
 #EXTINF:-1 group-title="EUROPE | BULGARIA",TLC HD
@@ -3391,6 +3524,250 @@ https://tinyurl.com/aleks-u-romki-47/15192/index.m3u8
 https://tinyurl.com/aleks-u-romki-47/17040/index.m3u8
 #EXTINF:0 group-title="EUROPE | FRANCE" tvg-id="6173" tvg-logo="http://epg.one/img2/6173.png" tvg-rec="0",HISTOIRE HD FR
 https://tinyurl.com/aleks-u-romki-47/17041/index.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="XHBO.hu" tvg-name="HBO HU",HBO HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/753/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XHBO.2.hu" tvg-name="HBO 2 HU",HBO 2 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/895/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XHBO.3.hu" tvg-name="HBO 3 HU",HBO 3 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/894/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XHIR.TV.hu" tvg-name="HirTV HU",HirTV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/754/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XHistory.Channel.hu" tvg-name="History HU",History HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/755/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XJocky.TV.hu" tvg-name="Jocky TV HU",Jocky TV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/756/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XMoziverzum.hu" tvg-name="Moziverzum HU",Moziverzum HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/759/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XSpektrum.hu" tvg-name="Spektrum HU",Spektrum HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/760/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XATV.hu" tvg-name="ATV HU",ATV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/764/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="363.port.hu" tvg-name="ATV Extra HU",ATV Extra HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/765/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XCool.TV.hu" tvg-name="Cool HU",Cool HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/766/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XFilmBox.Stars.hu" tvg-name="FilmBox Stars HU",FilmBox Stars HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/768/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XFilm.Café.hu" tvg-name="Film Cafe HU",Film Cafe HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/770/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XFilmbox.Family.hu" tvg-name="Filmbox Family HU",Filmbox Family HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/771/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XRTL.hu" tvg-name="RTL HU",RTL HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/772/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XSpíler1.TV.hu" tvg-name="Spiler TV HU",Spiler TV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/773/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XTV2.hu" tvg-name="TV2 HU",TV2 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/775/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XViasat.Nature.hu" tvg-name="Viasat Nature HU",Viasat Nature HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/776/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XMinimax.hu" tvg-name="Minimax HU",Minimax HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/777/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XNicktoons.hu" tvg-name="Nicktoons HU",Nicktoons HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/778/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XNickelodeon.hu" tvg-name="Nickelodeon HU",Nickelodeon HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/779/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XSuper.TV2.hu" tvg-name="SuperTV2 HU",SuperTV2 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/780/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Direct One HU",Direct One HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/781/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XIzaura.TV.hu" tvg-name="Izaura TV HU",Izaura TV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/782/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XMuzsika.TV.hu" tvg-name="Muzsika TV HU",Muzsika TV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/783/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XSorozat+.hu" tvg-name="Sorozat+ HU",Sorozat+ HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/787/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XRTL.GOLD.hu" tvg-name="RTL GOLD HU",RTL GOLD HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/789/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XRTL.KETTŐ.hu" tvg-name="RTL KETTO HU",RTL KETTO HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/790/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XRTL.HÁROM.hu" tvg-name="RTL HAROM HU",RTL HAROM HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/791/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XCinemax.2.hu" tvg-name="Cinemax2 HU",Cinemax2 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/794/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XBBC.Earth.hu" tvg-name="BBC Earth HU",BBC Earth HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/795/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XSláger.TV.hu" tvg-name="Slager TV HU",Slager TV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/798/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XFilm.Mánia.hu" tvg-name="Film Mania HU",Film Mania HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/799/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XFilmbox.Extra.HD.hu" tvg-name="FilmBox Extra HD HU",FilmBox Extra HD HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/800/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XViasat.Explore.hu" tvg-name="Viasat Explore HD HU",Viasat Explore HD HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/901/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XViasat.History.hu" tvg-name="Viasat History HU",Viasat History HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/902/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XLifeTv.hu" tvg-name="Life TV HU",Life TV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/903/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XAnimal.Planet.HD.hu" tvg-name="Animal Planet HU",Animal Planet HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/880/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XDiscovery.Channel.hu" tvg-name="Discovery HU",Discovery HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/884/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XID:.Investigation.Discovery.hu" tvg-name="ID Investigation Discovery HU",ID Investigation Discovery HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/885/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XNational.Geographic.Wild.HD.hu" tvg-name="Nat Geo Wild HU",Nat Geo Wild HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/900/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XDikh.TV.hu" tvg-name="Dikh TV HU",Dikh TV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/881/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XSpektrum.Home.hu" tvg-name="Spektrum Home HU",Spektrum Home HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/886/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XAréna4.hu" tvg-name="Arena4 HU",Arena4 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/887/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="Xhgtv" tvg-name="HGTV HD HU" tvg-logo="" ,HGTV HD HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/888/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XCartoon.Network.hu" tvg-name="Cartoon Network HU",Cartoon Network HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/889/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XDuna.TV.hu" tvg-name="Duna HU",Duna HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/890/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="Xm4.hu" tvg-name="M4 HU",M4 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/891/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XLove.Nature.hu" tvg-name="Love Nature HD HU",Love Nature HD HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/896/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XFilm+.hu" tvg-name="Film+ HU",Film+ HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/892/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Magyar ATV HU",Magyar ATV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/897/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XMagyar.Mozi.TV.hu" tvg-name="Magyar Mozi TV HU",Magyar Mozi TV HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/898/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XMozi+.hu" tvg-name="Mozi+ HU",Mozi+ HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/899/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XDuna.World.hu" tvg-name="Duna World / M4 Sport+ HU",Duna World / M4 Sport+ HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/767/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XSport1.hu" tvg-name="Sport 1 HU",Sport 1 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/762/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XSport2.hu" tvg-name="Sport 2 HU",Sport 2 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/774/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="XSpíler2.TV.hu" tvg-name="Spiler 2 HU",Spiler 2 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/761/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="Xm1.HD.hu" tvg-name="m1 HU",m1 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/757/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-id="Xm2.HD.hu" tvg-name="m2 Petofi HU",m2 Petofi HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/758/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Disney" tvg-logo="" ,Disney
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51825/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Nick Jr" tvg-logo="" ,Nick Jr
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51826/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Cartoonito",Cartoonito
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51827/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="TV2 Kids",TV2 Kids
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51828/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="JamJam",JamJam
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51829/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Kolyokklub",Kolyokklub
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51830/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Fem 3",Fem 3
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51831/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="TV 4 HU",TV 4 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51832/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="AMC HU",AMC HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51833/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Cinemax HU" tvg-logo=" ,Cinemax HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51834/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="AXN",AXN
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51835/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="AXN Black",AXN Black
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51836/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Viasat 3 HU",Viasat 3 HU
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51837/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Viasat 6",Viasat 6
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51839/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Prime",Prime
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51840/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Fishing And Hunting",Fishing And Hunting
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51841/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="History",History
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51842/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Travel Channel",Travel Channel
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51843/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Story 4",Story 4
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51844/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Galaxy 4",Galaxy 4
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51845/BAN0020F5FE1104/video.m3u8
+#EXTINF:0 tvg-name="Max 4",Max 4
+#EXTGRP:EUROPE | HUNGARY
+http://gr.online24.pm/play/51846/BAN0020F5FE1104/video.m3u8
 
 
 
