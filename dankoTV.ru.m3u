@@ -1,69 +1,79 @@
 #EXTM3U   x-tvg-url="https://iptvx.one/EPG_NOARCH"
 
+#EXTINF:-1 tvg-id="" tvg-name="Первый канал HD" tvg-logo="" group-title="Mix",Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
+#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="Mix",Россия 1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Mix",Россия 24 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Mix",Россия К (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Рен ТВ" tvg-logo="" group-title="Mix", Рен ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-name="Мир" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Mix",Мир (1080p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-name="Мир 24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="Mix",Мир 24 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Mix",НТВ HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru@SD" tvg-name="НТВ Право" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="Mix",НТВ Право (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-name="НТВ Стиль" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="Mix",НТВ Стиль (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-id="360.ru@SD" tvg-name="360° " tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Mix",360° (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-id="360News.ru@SD" tvg-name="360° Новости" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Mix",360° Новости (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Izvestia.ru@SD" tvg-name="Известия" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Mix",Известия (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="VmesteRF.ru@SD" tvg-name="Вместе РФ" tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="Mix",Вместе РФ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-name="РБК" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Mix",РБК (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=6P-Jy8PDDSj-4vDxOgCJqQ&e=2093260466&scheme=https
+#EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD" tvg-name="TV BRICS Russian" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Mix",TV BRICS Russian (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW Русский" tvg-logo="" group-title="Mix",DW Русский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews Русский" tvg-logo="" group-title="Mix",Euronews Русский
-http://89.33.29.115:8080/Euronews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Русский" tvg-logo="" group-title="Mix",CGTN Русский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Первый канал HD" tvg-logo="" group-title="Mix",Первый канал HD
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Рен ТВ" tvg-logo="" group-title="Mix", Рен ТВ
-https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
-#EXTINF:-1 tvg-id="360.ru@SD" tvg-name="360° " tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Mix",360° (1080p)
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1 tvg-id="360News.ru@SD" tvg-name="360° Новости" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Mix",360° Новости (1080p)
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TsargradTV.ru@SD" tvg-name="Tsargrad TV" tvg-logo="https://i.imgur.com/34RINpb.png" group-title="Mix",Tsargrad TV (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
-#EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD" tvg-name="TV BRICS Russian" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Mix",TV BRICS Russian (1080p)
-https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 tvg-id="Izvestia.ru@SD" tvg-name="Известия" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Mix",Известия (1080p)
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-name="Мир" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Mix",Мир (1080p) [Not 24/7]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-name="Мир 24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="Mix",Мир 24 (1080p)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-name="Москва 24" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="Mix",Москва 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 tvg-id="" tvg-name="RTN (USA)" tvg-logo="" group-title="Mix",RTN (USA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://4.59.210.197:8815/udp/127.0.0.1:6002
-#EXTINF:-1 tvg-id="" tvg-name="Честный детектив" tvg-logo="" group-title="Mix" ,Честный детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Mix",Россия 24 (1080p)
-https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="Mix",Россия 1 (1080p)
-https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Mix",Россия К (1080p)
-https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="VmesteRF.ru@SD" tvg-name="Вместе РФ" tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="Mix",Вместе РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-name="Дума ТВ" tvg-logo="https://i.imgur.com/JvlO3PU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Mix",Дума ТВ (1080p) [Not 24/7]
-https://dumatv.iptv2022.com/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Mix",НТВ HD (1080p)
-https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVLaw.ru@SD" tvg-name="НТВ Право" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="Mix",НТВ Право (576p)
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-name="НТВ Стиль" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="Mix",НТВ Стиль (576p)
-https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-name="РБК" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Mix",РБК (576p)
-https://uiptv.do.am/1ufc/701293058/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ТНТ 4" tvg-logo="" group-title="Mix", ТНТ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=6bnrzXL2j8mLXZCy9LlV7Q&e=2085483063&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Твоё ТВ HD" tvg-logo="" group-title="Mix",Твоё ТВ HD 
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Твоё ТВ HD Юмор" tvg-logo="" group-title="Mix",Твоё ТВ HD Юмор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rutube TV" tvg-logo="" group-title="Mix",Rutube TV
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=oHj2XcteAcYKta2217JTpA&e=2069285048&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Ю" tvg-logo="" group-title="Mix",Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Перец" tvg-logo="" group-title="Mix"",Перец
-https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="" tvg-name="Rutube TV" tvg-logo="" group-title="Mix",Rutube TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=oHj2XcteAcYKta2217JTpA&e=2069285048&scheme=https
 
 
 
@@ -74,6 +84,9 @@ https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
 
 
 
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-name="Москва 24" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="Regional",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 tvg-id="Arktika24.ru" tvg-name="Арктика 24" tvg-logo="https://i.imgur.com/kmbdyr6.png" group-title="Regional",Арктика 24 (Архангельск) (1080p)
 https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/track_105_12b117d7/chunklist.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Крым 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="Regional",Крым 24
@@ -94,6 +107,27 @@ https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Урал 24" tvg-logo="" group-title="Regional" ,Урал 24
 https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 group-title="Regional",Абакан 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=uJwxvCXoGB58NtTR--JKog&e=2093260471&scheme=https
+#EXTINF:-1 group-title="Regional",Саратов 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=pk0R5BFBvEl5WO0Ins25nw&e=2093260471&scheme=https
+#EXTINF:-1 group-title="Regional",Липецк 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=1Eb9npm08PLXnl3A6hG9_A&e=2093260471&scheme=https
+#EXTINF:-1 group-title="Regional",Ариг Ус 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=BQIECxkkdDToN9PcRyTn7A&e=2093260472&scheme=https
+#EXTINF:-1 group-title="Regional",ДОН 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=gmCJ5GVWRPWo7-T-ksdgSQ&e=2093260472&scheme=https
+#EXTINF:-1 group-title="Regional",АРИС 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=_H2ktup_gVe0UHqTzsD1QQ&e=2093260472&scheme=https
+#EXTINF:-1 group-title="Regional",ВЕТТА 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=sdp1WuCXL2bOdGkxQYkW5w&e=2093260473&scheme=https
 #EXTINF:-1 tvg-id="TelekanalKrasnodar.ru" tvg-name="Телеканал Краснодар" tvg-logo="https://i.imgur.com/YVtutzp.png" group-title="Regional",Телеканал Краснодар (1080p)
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Tolk.ru" tvg-name="Толк HD" tvg-logo="https://i.imgur.com/l7JZ79P.png" group-title="Regional",Толк HD (720p)
@@ -104,6 +138,85 @@ https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-id="Башкортостан24.ru" tvg-name="Башкортостан 24" tvg-logo="" group-title="Regional",Башкортостан 24 (1080p)
 https://live-gtrk.smotrim.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 group-title="Regional",Буряад ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=Q4_jkS26-4HkU1Cs7GGX-A&e=2093260462&scheme=https
+#EXTINF:-1 group-title="Regional",ОТС HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=7qvYnedxzOLjXIMLDEx3KA&e=2093260463&scheme=https
+#EXTINF:-1 group-title="Regional",Союзный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=-aKW_VjE_Z68TUd3YL0EJg&e=2093260463&scheme=https
+#EXTINF:-1 group-title="Regional",Плюс минус 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=FRLzTFfEr74sn0A5JT0jkw&e=2093260463&scheme=https
+#EXTINF:-1 group-title="Regional",Сургут 86 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=haXSxWMjSgdN3mHy8SzZGQ&e=2093260463&scheme=https
+#EXTINF:-1 group-title="Regional",Сургут 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=JWSDHrEcY-uKriMTN6ZJDQ&e=2093260464&scheme=https
+#EXTINF:-1 group-title="Regional",Барс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=nWM-0IXalhZzA5w7oZy_Zw&e=2093260464&scheme=https
+#EXTINF:-1 group-title="Regional",ЮУРГУ-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=WcUHYcZnThvQGc3gsfF7Ag&e=2093260464&scheme=https
+#EXTINF:-1 group-title="Regional",Югра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/360eabf2bf139f0a97b971c4b92d09b6/index.m3u8?s=vl6ndJ2uewdmnq68YR_ZGg&e=2093260464&scheme=https
+#EXTINF:-1 group-title="Regional",Крым 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/cf71a03fba2c98f47a539e0e39b9d333/index.m3u8?s=vDb5n-zuGV_XxsvJRgkWIg&e=2093260465&scheme=https
+#EXTINF:-1 group-title="Regional",Липецкое время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=mWl7YnTtF812kxk7hH1PVA&e=2093260465&scheme=https
+#EXTINF:-1 group-title="Regional",Первоуральск ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=Ze1NNVFr6liiLneU5HV-UA&e=2093260465&scheme=https
+#EXTINF:-1 group-title="Regional",Лен ТВ 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=Mq5ZQxjUR0TH8bQ0pQ9SIw&e=2093260465&scheme=https
+#EXTINF:-1 group-title="Regional",4 канал (Екатеринбург)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=EKiO19vlewTIXctH6Q7a2g&e=2093260466&scheme=https
+#EXTINF:-1 group-title="Regional",РГВК Дагестан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=_py-nJOaZ_14sBtIUu1Fcg&e=2093260466&scheme=https
+#EXTINF:-1 group-title="Regional",Таврия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a969ca8279415378bc8abd345fcfded9/index.m3u8?s=Ran-jpToZO45Zuh6txCa1A&e=2093260467&scheme=https
+#EXTINF:-1 group-title="Regional",41 Регион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=e3Z8pqyb-47B-K5lrkc5RQ&e=2093260467&scheme=https
+#EXTINF:-1 group-title="Regional",Вся Уфа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=JvpMGQRcH6WiaO0pAZIMYw&e=2093260467&scheme=https
+#EXTINF:-1 group-title="Regional",Мы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/ee431650738a594119c3516ceda72775/index.m3u8?s=afGZ9PxbgeRwyuS_kDtaMw&e=2093260467&scheme=https
+#EXTINF:-1 group-title="Regional",Ника ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=qUFORQQZRTv2z5oMlU9yeA&e=2093260468&scheme=https
+#EXTINF:-1 group-title="Regional",Сангат
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=oVoV7mx2sc3RJ8_hTvmDVw&e=2093260469&scheme=https
+#EXTINF:-1 group-title="Regional",Волга
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=LdcCCymxKzOVPscSXaa8Ww&e=2093260469&scheme=https
+#EXTINF:-1 group-title="Regional",ЛТВ (Люберцы)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=0FYhzYWq48vLOnhg16fYDg&e=2093260470&scheme=https
+#EXTINF:-1 group-title="Regional",Канал 78
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=ZUWTCrgZ5NsQmhRs4gbuvQ&e=2093260470&scheme=https
+#EXTINF:-1 group-title="Regional",Волга 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=ilmaZmhYvvpqvRDs86S46g&e=2093260470&scheme=https
+
+
+
+
 
 
 
@@ -141,8 +254,8 @@ https://w1.manasat.com/tvmana-leste/tvmana-leste/chunklist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="Viva Russia" tvg-logo="https://i.ibb.co/Nnm8fJN5/image-2025-07-10-T134908-994.png" group-title="music", Viva Russia
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=nFNatjqnT2kdlr0RamCo8w&e=2066519924&scheme=https
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-name="Шансон ТВ" tvg-logo="https://i.imgur.com/Fk4sd8t.png" group-title="music",Шансон ТВ (576p) [Geo-blocked]
-https://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-name="Шансон ТВ" tvg-logo="https://i.imgur.com/Fk4sd8t.png" group-title="music",Шансон ТВ 
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Музыка 1 International" tvg-logo="" group-title="music",Музыка 1 International
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Музыка 2 International" tvg-logo="" group-title="music",Музыка 2 International
@@ -158,32 +271,90 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=WJJMM7ej-bywiLGs9JXUuQ&e=2083666554&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Bridge TV" tvg-logo="" group-title="music", Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="" group-title="music", Bridge Classic
-http://hls127.freeott.top:8080/Bridge_Classic/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bridge Deluxe" tvg-logo="" group-title="music", Bridge Deluxe
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="" group-title="music", Bridge Classic (ad.suport)
+http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Deluxe" tvg-logo="" group-title="music", Bridge Deluxe  (ad.suport)
 http://stream.mcquack.net/92/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bridge Russki Hit TV" tvg-logo="" group-title="music", Bridge Russki Hit TV
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Russki Hit TV" tvg-logo="" group-title="music", Bridge Russki Hit TV  (ad.suport)
 http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROPA PLUS" tvg-logo="" group-title="music",EUROPA PLUS 
-https://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ММТВ" tvg-logo="https://i.ibb.co/VKSnQpd/image-97.png" group-title="music", ММТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Mn0zcNb_7CJ_LE91r5mKdw&e=2066519853&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Ты супер !" tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" group-title="music", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="FonMusic.ru@SD" tvg-name="Fon Music" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="Music",Fon Music (1080p)
-http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=nUkCHzI1EMbIvaHeLmrSfw&e=2093260495&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Жара" tvg-logo="" group-title="Music",Жара
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+#EXTINF:-1 group-title="Music",МузТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=-j9r7TXFfzD3DQFmDzOmuA&e=2093260495&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",МУЗАЧ - Музыкальные клипы без перерыва
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e7e04192431a24a750fd8704fa221461/index.m3u8?s=2-xDSJEAGijzmyPSWU1t3g&e=2092946466&scheme=https
 
 
 
 
 
 
+#EXTINF:-1 group-title="Music radio+",Смотри Радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=1Rc2JqGjtih_JIVz1cXe7g&e=2093260487&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Супердискотека 90х
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=ZGdEDvGnEdIozxOx0fP4YA&e=2093260496&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Big Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=U0IZHRpoQ5PtYqtMeMzCwg&e=2093260497&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=Knf6ldgfdN1oatWy-BB4UA&e=2093260497&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Dance Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=zlTlviZu0Rn01mAZJ6PtNA&e=2093260498&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Russian Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=x6ffOZ9jcd2j2h6Wwn43YA&e=2093260498&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Гоп FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=Q_KzkKInj_hndvDQ1UHDrg&e=2093260499&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Megamix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=4eMg64OtkMSvPA1V6UECCg&e=2093260499&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Russian Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=by_xH3VHuXPMiWZoZ8XBuA&e=2093260500&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Deep
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=sS9-QJeMmX4ajwG5MKPCCg&e=2093260500&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Phonk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=uKLTCJHhY95_lErT8fMgdw&e=2093260501&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Chill House
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=d76cXH65cNT0Juc-uKZFHA&e=2093260501&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Drum n Bass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=o48fZgZ5kQRBaT_c9x3Rzw&e=2093260501&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Chill-Out
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=4Rf57EYTP2hXLtcQk3D-pA&e=2093260502&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Techno by Innocence
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=n2ss1BZHH_4U1C82JMfsKw&e=2093260502&scheme=https
+#EXTINF:-1 group-title="Music radio+",Record Trance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=8P-8PInN6o7b4JY7ZzTFEw&e=2093260502&scheme=https
 
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood HD" tvg-logo="" group-title="Kino",Bollywood HD
-http://89.33.29.115:8080/Bollywood_HD/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="" group-title="Kino", Hollywood HD
 http://stream.mcquack.net/268/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV1000 HD" tvg-logo="" group-title="Kino",TV1000 HD
@@ -192,42 +363,30 @@ https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV1000 русское кино" tvg-logo="" group-title="Kino",TV1000 русское кино
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 group-title="Kino",Viju TV1000 Новелла HD
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="Kino",Viju TV1000 Romantica HD
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Megahit HD" tvg-logo="" group-title="Kino", Viju Megahit HD
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Premiere HD" tvg-logo="" group-title="Kino", Viju Premiere HD
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Comedy HD" tvg-logo="" group-title="Kino", Viju Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viju Serial HD" tvg-logo="" group-title="Kino", Viju Serial HD
-http://5.9.11.197:57419/chu-107/mpegts
+#EXTINF:-1 group-title="Kino",Viju Serial HD
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Кинохит" tvg-logo="" group-title="Kino", Кинохит
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Наше Новое Кино" tvg-logo="" group-title="Kino",Наше Новое Кино
-https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="" tvg-name="Родное Кино" tvg-logo="" group-title="Kino",Родное Кино
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Кинопремьера HD" tvg-logo="" group-title="Kino",Кинопремьера HD
-https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="" tvg-name="Киносерия HD" tvg-logo="" group-title="Kino", Киносерия HD
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="" tvg-name="Киномикс HD" tvg-logo="" group-title="Kino", Киномикс HD
-https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="" tvg-name="Киносемья HD" tvg-logo="" group-title="Kino", Киносемья HD
-https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="" tvg-name="Кинокомедия" tvg-logo="" group-title="Kino", Кинокомедия
-https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="" tvg-name="Индийское Кино" tvg-logo="" group-title="Kino", Индийское Кино
-https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
+http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Киносвидание" tvg-logo="" group-title="Kino", Киносвидание
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Мужское кино HD" tvg-logo="" group-title="Kino", Мужское кино HD
-https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="" tvg-name="Еврокино" tvg-logo="" group-title="Kino", Еврокино
-https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="" tvg-name="Дом Кино HD" tvg-logo="" group-title="Kino",,Дом кино
-https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="Kino", Дом Кино Премиум HD
-https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
+http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sci-Fi" tvg-logo="" group-title="Kino",Sci-Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Русский Бестселлер" tvg-logo="" group-title="Kino",Русский Бестселлер
@@ -267,8 +426,8 @@ https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="НТВ Сериалы Шеф" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="Kino",НТВ Сериалы Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Иллюзион" tvg-logo="" group-title="Kino",Иллюзион
-https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="" tvg-name="Иллюзион" tvg-logo="" group-title="Kino",Русский Иллюзион
+http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Любовь" tvg-logo="" group-title="Kino" ,Смотрим 100% Любовь
 https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Мужское" tvg-logo="" group-title="Kino" ,Смотрим 100% Мужское
@@ -277,12 +436,13 @@ https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
 https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Праздник" tvg-logo="" group-title="Kino" ,Смотрим 100% Праздник
 https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Детское" tvg-logo="" group-title="Kino" ,Смотрим 100% Детское
-https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kino",СМОТРИМ 100% Горкьово(720)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.smotrim.ru/hls3/fasttv07/playlist_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Киносат" tvg-logo="" group-title="Kino",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amedia 1" tvg-logo="" group-title="Kino",Amedia 1
-https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="" tvg-name="Amedia 1" tvg-logo="" group-title="Kino",Amedia 1  (ad suport)
+http://stream.mcquack.net/117/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amedia 2" tvg-logo="" group-title="Kino",Amedia 2
 https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amedia Hit" tvg-logo="" group-title="Kino",Amedia Hit
@@ -291,22 +451,15 @@ https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="СТС" tvg-logo="" group-title="Kino",СТС
 https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="СТС Love" tvg-logo="" group-title="Kino",СТС Love
-https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kino",СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/32dc45cf878497abe1c9695e228f039b/index.m3u8?s=waHdSI-h9HJSkXcbo98zWw&e=2092941579&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Суббота" tvg-logo="" group-title="Kino",Суббота
 https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="8 Канал" tvg-logo="" group-title="Kino",8 Канал
 https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Домашний" tvg-logo="" group-title="Kino",Домашний
 https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
-#EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="" group-title="Kino", Золотая коллекция
-https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-name="Start Air" tvg-logo="" group-title="Kino",Start Air
-https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-name="Start World" tvg-logo="" group-title="Kino",Start World
-https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-name="Dorama hd" tvg-logo="" group-title="Kino",Dorama hd
-http://89.33.29.115:8080/dorama_hd/index.m3u8
 #EXTINF:-1 tvg-name="Kineko" tvg-logo="" group-title="Kino",Kineko
 http://185.121.1.163:8083/Kineko/index.m3u8
 #EXTINF:-1 tvg-name="Kinoman" tvg-logo="" group-title="Kino",Kinoman
@@ -315,12 +468,6 @@ http://185.121.1.163:8083/Kinoman/index.m3u8
 http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-name="black" tvg-logo="" group-title="Kino",black
 http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1 tvg-name="CPS Action HD" tvg-logo="" group-title="Kino",CPS Action HD
-http://hls127.freeott.top:8080/CPS_Action/video.m3u8
-#EXTINF:-1 tvg-name="CPS Comedy HD" tvg-logo="" group-title="Kino",CPS Comedy HD
-http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-#EXTINF:-1 tvg-name="CPS Jackie Chan HD" tvg-logo="" group-title="Kino",CPS Jackie Chan HD
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 #EXTINF:-1 tvg-name="Киножелезо" tvg-logo="" group-title="Kino",Киножелезо
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nmkId_cU817B7ylCk-2jeQ&e=2077359308&scheme=https
@@ -330,6 +477,54 @@ https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=U8
 #EXTINF:-1 tvg-name="Кино и Жизнь" tvg-logo="" group-title="Kino",Кино и Жизнь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=5Z6XUiXTN5xFPAFfg02tVQ&e=2077359309&scheme=https
+#EXTINF:-1 group-title="Kino",Fox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=uh_HRkeSVx2osUVIr8ossw&e=2093260457&scheme=https
+#EXTINF:-1 group-title="Kino",Fox Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=c4500s1axTdYJR_mDUGL9Q&e=2093260457&scheme=https
+#EXTINF:-1 group-title="Kino",Фильмач
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=tXxP6sXpAdhzzJ0_KXP6zw&e=2093260458&scheme=https
+#EXTINF:-1 group-title="Kino",Детективы каждый день
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=vJ8SfBZHyoRppisUl-p41A&e=2093260459&scheme=https
+#EXTINF:-1 group-title="Kino",Apple TV+Action Time
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=2t0xNoJwMSW3ajCF4LOCZg&e=2093260459&scheme=https
+#EXTINF:-1 group-title="Kino",Apple TV+Woman's Story
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=5P7T2V3TbcbSVtvzN6O3iw&e=2093260460&scheme=https
+#EXTINF:-1 group-title="Kino",Epic Media Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=G5lH2Tdnywr-BE62g00GTg&e=2093260460&scheme=https
+#EXTINF:-1 group-title="Kino",Epic Media Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=-zADaTK1UlfcMJjgG6vVcA&e=2093260460&scheme=https
+#EXTINF:-1 group-title="Kino",Amazon Prime Video mans' club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=-8jajc3ISe303Tsfwo_8_g&e=2093260460&scheme=https
+#EXTINF:-1 group-title="Kino",Amazon Prime Video Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=plxZnDiYkAEhQ5Rt8JFbIA&e=2093260461&scheme=https
+#EXTINF:-1 group-title="Kino",Звездные войны
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=de1wlYDQBvIQkHoJcYEolQ&e=2093260461&scheme=https
+#EXTINF:-1 group-title="Kino",Властелин колец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=8e9x1VwqVPvrjfAv0Lu8KQ&e=2093260461&scheme=https
+#EXTINF:-1 group-title="Kino",Marvel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=qzIvINfNEJn_-Q5uP4sEQA&e=2093260462&scheme=https
+#EXTINF:-1 group-title="Kino",Вселенная DC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=gurPZg-JxTRcN-E6DNDGkw&e=2093260462&scheme=https
+#EXTINF:-1 group-title="Kino",Твой кинотеатр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=VZKCXcVnS0eL6wpTVVXePw&e=2093260462&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kino",Дорамы - без перерыва
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5e3edd063411550ed6b67a8c0d7c96ea/index.m3u8?s=-Rao-W33XeRRUsHYZOJgCQ&e=2092948111&scheme=https
 
 
 
@@ -348,22 +543,30 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=5Z
 
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Факты" tvg-logo="" group-title="Docu" ,Смотрим 100% Факты
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Честный детектив" tvg-logo="" group-title="Docu" ,Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="" group-title="Docu",Travel XP
 http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Docu",National Geographic
-https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=6cW6JH64zOQKlDpd__d7zQ&e=2093260455&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="" group-title="Docu",National Geographic Wild
-https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=fMcerP3rBYl79XO-bmWMaw&e=2093260455&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="Docu",Discovery
-http://stream.mcquack.net/177/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=UiZMAPp5QjKGLcE4l-v_Sg&e=2093260455&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="Docu",Investigation Discovery
-http://stream.mcquack.net/205/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=dF9KRs4tqVYbvvTJlqDh4w&e=2093260455&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="Docu",Travel Channel
-http://stream.mcquack.net/231/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=VptpojDoqiy8Ze5Nr0xVHw&e=2093260456&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Travel+Adventure" tvg-logo="" group-title="Docu",Travel+Adventure
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Docu", Animal Planet HD
-http://stream.mcquack.net/114/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4004c8f6817b9ae1bd0d418905ae2b02/index.m3u8?s=Xe36F9etD22_DnP4R7axfQ&e=2093260454&scheme=https
 #EXTINF:-1 tvg-id="BigAsia.ru@SD" tvg-name="Большая Азия" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Docu",Большая Азия (720p)
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Большая Азия" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Docu" ,Большая Азия
@@ -382,12 +585,8 @@ http://stream.mcquack.net/264/index.m3u8
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Дикая Рыбалка" tvg-logo="" group-title="Docu",Дикая Рыбалка
 http://stream.mcquack.net/275/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Дикий" tvg-logo="" group-title="Docu", Дикий
-http://hls127.freeott.top:8080/Dikiy/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ocean TV" tvg-logo="" group-title="Docu",Ocean TV
-http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
 #EXTINF:-1 tvg-id="Russian.Travel.Guide.cz" tvg-name="RTG TV" tvg-logo="" group-title="Docu",RTG TV
-http://hls127.freeott.top:8080/RTG_TV/video.m3u8 
+http://46.53.200.153:7777/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Моя планета" tvg-logo="" group-title="Docu", Моя планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="В мире животных" tvg-logo="" group-title="Docu",В мире животных
@@ -398,12 +597,8 @@ http://stream.mcquack.net/225/index.m3u8
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 tvg-id="" tvg-name="Авто24" tvg-logo="" group-title="Docu", Авто24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Авто Плюс" tvg-logo="" group-title="Docu", Авто Плюс
-http://195.64.140.147:10029/29
 #EXTINF:-1 tvg-id="" tvg-name="Драйв" tvg-logo="" group-title="Docu",Драйв
 http://185.46.16.239:8000/Drayv
-#EXTINF:-1 tvg-id="" tvg-name="Ностальгия" tvg-logo="" group-title="Docu",Ностальгия
-https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="" tvg-name="Точка" tvg-logo="" group-title="Docu",Точка 
 https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Усадьба" tvg-logo="" group-title="Docu",Усадьба
@@ -414,8 +609,6 @@ https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Explore" tvg-logo="" group-title="Docu",Viju Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viju Planet" tvg-logo="" group-title="Docu",Viju+ Planet
-http://195.64.140.147:10147/147
 #EXTINF:-1 tvg-id="Vremya.cz" tvg-name="Время" tvg-logo="" group-title="Docu", Время
 http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Secret" tvg-logo="" group-title="Docu",Top Secret
@@ -443,12 +636,39 @@ https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Мужской" tvg-logo="" group-title="Docu",Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big planet" tvg-logo="" group-title="Docu",Big planet
-https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="" tvg-name="Поехали!" tvg-logo="" group-title="Docu",Поехали!
-https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Docu" tvg-rec="7" timeshift="7",Моя стихия
 http://stream.mcquack.net/141/index.m3u8
+#EXTINF:-1 group-title="Docu",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=K_eEgkMVeWc9RExvISYWhw&e=2093260456&scheme=https
+#EXTINF:-1 group-title="Docu",Загородный International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=A4GPUOi59Tpiumy2Y4qQBw&e=2093260456&scheme=https
+#EXTINF:-1 group-title="Docu",Документалки и шоу
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=iHUc9bndG7lvtnSbSfNoKg&e=2093260454&scheme=https
+#EXTINF:-1 group-title="Docu",Тайна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=2o_g-SYjJg8ZPo_DYfQmsA&e=2093260457&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Docu",Телеканал HHQ – Исследуем мир вместе
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=d2EYesv-3TVuNsfqvwREiQ&e=2085342514&scheme=https
+#EXTINF:-1 group-title="Docu",UTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=Q8ClzhQLA-xWCUf0KdQFrA&e=2093260468&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Docu",PERPETUUM MOBILE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stitch.teletarget.ru/limehd/perpetuummobile/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Docu",АКВА ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stitch.teletarget.ru/limehd/aquatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Docu",FLIGHT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stitch.teletarget.ru/limehd/flighttv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Docu",UNKNOWN PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stitch.teletarget.ru/limehd/neplaneta/index.m3u8
+
 
 
 
@@ -472,15 +692,11 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 #EXTINF:-1 tvg-id="" tvg-name="Уникум" tvg-logo="" group-title="Kids",Уникум (Детский)
 http://185.46.16.239:8000/Detskiy
 #EXTINF:-1 tvg-id="" tvg-name="СТС Kids" tvg-logo="http://epg.one/img2/2481.png" group-title="Kids",СТС Kids
-http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Карусель" tvg-logo="http://1lot.tv/ch/822.png" group-title="Kids",Карусель
 http://31.131.141.195:8000/play/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Мульт" tvg-logo="http://only4.tv/ch/0141.png" group-title="Kids", Мульт
 http://185.46.16.239:8000/Mult
-#EXTINF:-1 tvg-id="" tvg-name="Мама" tvg-logo="http://epg.one/img2/618.png" group-title="Kids", Мама
-http://195.64.140.147:10127/127
-#EXTINF:-1 tvg-id="" tvg-name="Солнце" tvg-logo="" group-title="Kids",Солнце
-https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="2x2" tvg-logo="" group-title="Kids",2x2
 https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gulli Girl" tvg-logo="" group-title="Kids",Gulli Girl
@@ -491,6 +707,44 @@ https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
 https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Малыш" tvg-logo="" group-title="Kids",Малыш
 https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Детское" tvg-logo="" group-title="Kids" ,Смотрим 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="Kids",Наше Аниме
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=hbal4g92iyqVkbwt3iRIwg&e=2093260484&scheme=https
+#EXTINF:-1 group-title="Kids",Рика и Морти
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=LQ-vmQOhkCZI2NKXIGgo9Q&e=2093260484&scheme=https
+#EXTINF:-1 group-title="Kids",Мультимейшн
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=ZktLTha2DthClNMkN-LbwQ&e=2093260485&scheme=https
+#EXTINF:-1 group-title="Kids",Мультфильмы 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=ROrGX9xw5CM_aQWGBdkyHA&e=2093260485&scheme=https
+#EXTINF:-1 group-title="Kids",Радость моя
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=Si0tROzQA4USWfETiLRFTw&e=2093260485&scheme=https
+#EXTINF:-1 group-title="Kids",Мультаташечки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=T0wvYPHG2v8ZRWTxGjOPaQ&e=2093260486&scheme=https
+#EXTINF:-1 group-title="Kids",Смайлик ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=nwZ86qgLhlN6Yy71d0me3w&e=2093260486&scheme=https
+#EXTINF:-1 group-title="Kids",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=2sqAp-XO3M8hF1Jsek01Ig&e=2093260486&scheme=https
+#EXTINF:-1 group-title="Kids",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=wrhid8OCldDAWRGO5NPVNg&e=2093260486&scheme=https
+#EXTINF:-1 group-title="Kids",Солнце
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=_-Wqa4GVdhiXPW-ZMx_aWA&e=2093260487&scheme=https
+#EXTINF:-1 group-title="Kids",Ключайка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=m9ApQqOK6iRcGA8f3dyHHg&e=2093260487&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Детское радио (Москва)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/bf296006751f4344e359b3b5dc70be25/index.m3u8?s=Gacf7tKlIgjZH_kB1L5dxQ&e=2092945921&scheme=https
 
 
 
@@ -507,24 +761,22 @@ http://185.46.16.239:8000/Doktor
 https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Живи Активно HD" tvg-logo="http://epg.one/img2/5881.png" group-title="Zdrave",Живи Активно HD
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Живи" tvg-logo="http://only4.tv/ch/6224.png" group-title="Zdrave",Живи 
-https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="" tvg-name="Кухня ТВ" tvg-logo="" group-title="Zdrave",Кухня ТВ
-http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Food Time" tvg-logo="" group-title="Zdrave",Food Time
+khl#EXTINF:-1 tvg-id="" tvg-name="Food Time" tvg-logo="" group-title="Zdrave",Food Time
 http://stream.mcquack.net/216/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Networ" tvg-logo="" group-title="Zdrave",Food Network
 http://stream.mcquack.net/298/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Viju+ Sport" tvg-logo="" group-title="Sport",Волейбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=KL7UZW-ucPghoRXFsBPOOQ&e=2093260507&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="KHL" tvg-logo="" group-title="Sport",KHL
-https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="" group-title="Sport",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Sports" tvg-logo="" group-title="Sport",Viasat Sports
-https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="" tvg-name="Viju+ Sport" tvg-logo="" group-title="Sport",Viju+ Sport
+http://31.148.5.241/Viasat_Sport/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="Sport", Матч HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=iORm8kodbyqVhBILvTpvCA&e=2085483124&scheme=https
