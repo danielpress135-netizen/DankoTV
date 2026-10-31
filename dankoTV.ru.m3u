@@ -832,8 +832,10 @@ http://ott.watch/stream/83K27DP6PU/185.m3u8
 
 
 #EXTINF:7000 group-title="FILMS" type="vod",Живи и дай умереть (1973)
+#EXT-X-ENDLIST
 https://s1.mvzd.ru/content/00/7l/007_-_Live_and_Let_Die_ZHivi_i_dai_umeret_Russian_1973__1080p.m3u8
 #EXTINF:8900 group-title="FILMS" type="vod",СПЕКТР (2015)
+#EXT-X-ENDLIST
 https://s3.mvzd.ru/content/sp/ec/Spectre_2015_x264_BDRip_1080p_ExKinoRay_1080p.m3u8
 
 
