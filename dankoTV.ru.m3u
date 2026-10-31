@@ -48,6 +48,8 @@ https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=6P
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD" tvg-name="TV BRICS Russian" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Mix",TV BRICS Russian (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-id="GovoritMoskva.ru@SD" tvg-logo="https://i.imgur.com/z2mxf3E.png" group-title="Mix",Govorit Moskva (720p)
+https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-id="ТАССТВ.ru@SD" tvg-name="ТАСС ТВ" tvg-logo="" group-title="Mix",ТАСС ТВ
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW Русский" tvg-logo="" group-title="Mix",DW Русский
@@ -76,6 +78,12 @@ https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rutube TV" tvg-logo="" group-title="Mix",Rutube TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=oHj2XcteAcYKta2217JTpA&e=2069285048&scheme=https
+#EXTINF:-1 tvg-id="Channel9.il@SD" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="Mix",Channel 9 (Israel) (1080p)
+https://contact.gostreaming.tv/Con-11/index.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-logo="https://i.imgur.com/JvlO3PU.png" group-title="Mix",Duma TV (720p)
+http://185.23.80.23:8080/DumaTV/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Mix",Euronews Russian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
 
 
@@ -279,6 +287,8 @@ http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bridge Russki Hit TV" tvg-logo="" group-title="music", Bridge Russki Hit TV  (ad.suport)
 http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGERock.ru@SD" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="music",BRIDGE Rock 
+http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROPA PLUS" tvg-logo="" group-title="music",EUROPA PLUS 
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ММТВ" tvg-logo="https://i.ibb.co/VKSnQpd/image-97.png" group-title="music", ММТВ
