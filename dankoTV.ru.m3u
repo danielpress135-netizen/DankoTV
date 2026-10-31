@@ -357,7 +357,7 @@ https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=8P
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="" group-title="Kino", Hollywood HD
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="" group-title="Kino", Hollywood HD  (ad)
 http://stream.mcquack.net/268/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV1000 HD" tvg-logo="" group-title="Kino",TV1000 HD
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
@@ -385,10 +385,28 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="" tvg-name="Киномикс HD" tvg-logo="" group-title="Kino", Киномикс HD
 http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киномикс HD" tvg-logo="" group-title="Kino", Киномикс HD
+https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="" tvg-name="Киносвидание" tvg-logo="" group-title="Kino", Киносвидание
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Мужское кино HD" tvg-logo="" group-title="Kino", Мужское кино HD
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-id="" tvg-name="Кинопремьера HD" tvg-logo="" group-title="Kino",Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-id="" tvg-name="Киносемья HD" tvg-logo="" group-title="Kino", Киносемья HD
+https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-id="" tvg-name="Кинокомедия" tvg-logo="" group-title="Kino", Кинокомедия
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-id="" tvg-name="Индийское Кино" tvg-logo="" group-title="Kino", Индийское Кино
+https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-id="" tvg-name="Наше Новое Кино" tvg-logo="" group-title="Kino",Наше Новое Кино
+https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="" tvg-name="Еврокино" tvg-logo="" group-title="Kino", Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Дом Кино HD" tvg-logo="" group-title="Kino",,Дом кино
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-id="" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="Kino", Дом Кино Премиум HD
+https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="" tvg-name="Sci-Fi" tvg-logo="" group-title="Kino",Sci-Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Русский Бестселлер" tvg-logo="" group-title="Kino",Русский Бестселлер
@@ -405,6 +423,8 @@ http://kinowalk.hopto.org/miiz90x_live
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kино TV" tvg-logo="" group-title="Kino",Kино TV
 http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="" group-title="Kino", Золотая коллекция
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
 EXTINF:-1 tvg-id="" tvg-name="ТВ3" tvg-logo="" group-title="Kino", ТВ3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=iXXAiPsaf41WKVMCbjmYtw&e=2085483064&scheme=https
@@ -466,9 +486,9 @@ https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 http://185.121.1.163:8083/Kineko/index.m3u8
 #EXTINF:-1 tvg-name="Kinoman" tvg-logo="" group-title="Kino",Kinoman
 http://185.121.1.163:8083/Kinoman/index.m3u8
-#EXTINF:-1 tvg-name="red" tvg-logo="" group-title="Kino",red
+#EXTINF:-1 tvg-name="red" tvg-logo="" group-title="Kino",red  (ad)
 http://stream.mcquack.net/69/index.m3u8
-#EXTINF:-1 tvg-name="black" tvg-logo="" group-title="Kino",black
+#EXTINF:-1 tvg-name="black" tvg-logo="" group-title="Kino",black  (ad)
 http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-name="Киножелезо" tvg-logo="" group-title="Kino",Киножелезо
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -547,7 +567,7 @@ https://bl.rutube.ru/livestream/5e3edd063411550ed6b67a8c0d7c96ea/index.m3u8?s=-R
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Честный детектив" tvg-logo="" group-title="Docu" ,Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="" group-title="Docu",Travel XP
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="" group-title="Docu",Travel XP  (ad)
 http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Docu",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -564,7 +584,7 @@ https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=dF
 #EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="Docu",Travel Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=VptpojDoqiy8Ze5Nr0xVHw&e=2093260456&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Travel+Adventure" tvg-logo="" group-title="Docu",Travel+Adventure
+#EXTINF:-1 tvg-id="" tvg-name="Travel+Adventure" tvg-logo="" group-title="Docu",Travel+Adventure  (ad)
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Docu", Animal Planet HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -579,31 +599,31 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Охота и Рыбалка" tvg-logo="" group-title="Docu", Охота и Рыбалка
 http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Охотник и рыболов" tvg-logo="" group-title="Docu",Охотник и рыболов
+#EXTINF:-1 tvg-id="" tvg-name="Охотник и рыболов" tvg-logo="" group-title="Docu",Охотник и рыболов  (ad)
 http://stream.mcquack.net/194/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Диалоги о рыбалке" tvg-logo="" group-title="Docu",Диалоги о рыбалке
+#EXTINF:-1 tvg-id="" tvg-name="Диалоги о рыбалке" tvg-logo="" group-title="Docu",Диалоги о рыбалке  (ad)
 http://stream.mcquack.net/264/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Дикая Охота" tvg-logo="" group-title="Docu",Дикая Охота
+#EXTINF:-1 tvg-id="" tvg-name="Дикая Охота" tvg-logo="" group-title="Docu",Дикая Охота  (ad)
 http://stream.mcquack.net/274/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Дикая Рыбалка" tvg-logo="" group-title="Docu",Дикая Рыбалка
+#EXTINF:-1 tvg-id="" tvg-name="Дикая Рыбалка" tvg-logo="" group-title="Docu",Дикая Рыбалка  (ad)
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="Russian.Travel.Guide.cz" tvg-name="RTG TV" tvg-logo="" group-title="Docu",RTG TV
 http://46.53.200.153:7777/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Моя планета" tvg-logo="" group-title="Docu", Моя планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="В мире животных" tvg-logo="" group-title="Docu",В мире животных
+#EXTINF:-1 tvg-id="" tvg-name="В мире животных" tvg-logo="" group-title="Docu",В мире животных  (ad)
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Живая природа" tvg-logo="" group-title="Docu",,Живая природа
+#EXTINF:-1 tvg-id="" tvg-name="Живая природа" tvg-logo="" group-title="Docu",,Живая природа  (ad)
 http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Живая Планета" tvg-logo="" group-title="Docu", Живая Планета
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 tvg-id="" tvg-name="Авто24" tvg-logo="" group-title="Docu", Авто24
+#EXTINF:-1 tvg-id="" tvg-name="Авто24" tvg-logo="" group-title="Docu", Авто 24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Драйв" tvg-logo="" group-title="Docu",Драйв
 http://185.46.16.239:8000/Drayv
 #EXTINF:-1 tvg-id="" tvg-name="Точка" tvg-logo="" group-title="Docu",Точка 
 https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Усадьба" tvg-logo="" group-title="Docu",Усадьба
+#EXTINF:-1 tvg-id="" tvg-name="Усадьба" tvg-logo="" group-title="Docu",Усадьба  (ad)
 http://stream.mcquack.net/211/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Nature" tvg-logo="" group-title="Docu",Viju Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
@@ -611,6 +631,8 @@ https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Explore" tvg-logo="" group-title="Docu",Viju Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPlanet.ru@HD" tvg-logo="https://i.imgur.com/9Weqdsk.png" group-title="Docu",viju+ Planet HD (ad)
+http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-id="Vremya.cz" tvg-name="Время" tvg-logo="" group-title="Docu", Время
 http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Secret" tvg-logo="" group-title="Docu",Top Secret
@@ -628,7 +650,7 @@ http://31.131.141.195:8000/play/2060/index.m3u8
 http://45.11.139.43:8555/orujie/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Terra" tvg-logo="" group-title="Docu",Terra
 http://195.64.140.147:10150/150
-#EXTINF:-1 tvg-id="" tvg-name="The explorers" tvg-logo="" group-title="Docu",The explorers
+#EXTINF:-1 tvg-id="" tvg-name="The explorers" tvg-logo="" group-title="Docu",The explorers  (ad)
 http://stream.mcquack.net/450/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Милицейское Братство" tvg-logo="https://www.radiomv.ru/favicon.ico" group-title="Docu",Милицейское Братство
 https://autopilot.catcast.tv/content/41669/index.m3u8
@@ -638,7 +660,7 @@ https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Мужской" tvg-logo="" group-title="Docu",Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
-#EXTINF:-1 group-title="Docu" tvg-rec="7" timeshift="7",Моя стихия
+#EXTINF:-1 group-title="Docu" tvg-rec="7" timeshift="7",Моя стихия  (ad)
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 group-title="Docu",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -670,11 +692,6 @@ https://stitch.teletarget.ru/limehd/flighttv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Docu",UNKNOWN PLANET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stitch.teletarget.ru/limehd/neplaneta/index.m3u8
-
-
-
-
-
 
 
 
@@ -761,11 +778,11 @@ https://bl.rutube.ru/livestream/bf296006751f4344e359b3b5dc70be25/index.m3u8?s=Ga
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 tvg-id="" tvg-name="Здоровое ТВ" tvg-logo="" group-title="Zdrave",Здоровое ТВ
 https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Живи Активно HD" tvg-logo="http://epg.one/img2/5881.png" group-title="Zdrave",Живи Активно HD
+#EXTINF:-1 tvg-id="" tvg-name="Живи Активно HD" tvg-logo="http://epg.one/img2/5881.png" group-title="Zdrave",Живи Активно HD  
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-khl#EXTINF:-1 tvg-id="" tvg-name="Food Time" tvg-logo="" group-title="Zdrave",Food Time
+khl#EXTINF:-1 tvg-id="" tvg-name="Food Time" tvg-logo="" group-title="Zdrave",Food Time (ad)
 http://stream.mcquack.net/216/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Food Networ" tvg-logo="" group-title="Zdrave",Food Network
+#EXTINF:-1 tvg-id="" tvg-name="Food Networ" tvg-logo="" group-title="Zdrave",Food Network (ad)
 http://stream.mcquack.net/298/index.m3u8
 
 
@@ -790,6 +807,17 @@ https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Матч! Премьер" tvg-logo="" group-title="Sport",Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 1" tvg-logo="" group-title="Sport",Матч! Футбол 1
+http://ott.watch/stream/83K27DP6PU/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 2" tvg-logo="" group-title="Sport",Матч! Футбол 2
+http://ott.watch/stream/83K27DP6PU/142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 3" tvg-logo="" group-title="Sport",Матч! Футбол 3
+http://ott.watch/stream/83K27DP6PU/185.m3u8
+
+
+
+
+
 
 
 
