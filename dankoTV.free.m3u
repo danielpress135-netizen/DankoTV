@@ -3717,6 +3717,12 @@ https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 https://585b674743bbb.streamlock.net:443/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="RADIODISCOuntTV.ch" tvg-name="RADIO DISCOunt TV" tvg-logo="https://i.imgur.com/ScNYMmx.png" group-title="Italy - TV",RADIO DISCOunt TV (SWITZ)
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="CalabriaTV.it" tvg-name="Calabria TV" tvg-logo="https://i.imgur.com/noTgJJp.png" group-title="Italy - TV",Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ReteSette.it" tvg-name="Rete Sette" tvg-logo="https://i.imgur.com/ThaNz0M.png" group-title="Italy - TV",Rete Sette
+https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8
+
+
 
 
 
@@ -3915,15 +3921,17 @@ https://citytv.hu/playlist.m3u8
 #EXTINF:-1 tvg-id="DTV.hu" tvg-name="DTV" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="Hungary - TV",DTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Duna.hu" tvg-name="Duna" tvg-logo="https://i.imgur.com/oPbsSlp.png" group-title="Hungary - TV",Duna
-https://c401-node62-cdn.connectmedia.hu/110303/c7209384a906d5b6dbd3e35f338c1a82/6ae09f8e/index.m3u8
+https://c201-node61-cdn.connectmedia.hu/110303/dc072625fcd4ef0f73f86a033e86973b/6ae89624/index.m3u8
 #EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="Hungary - TV",Duna World 
-https://c801-node63-cdn.connectmedia.hu/110306/4b5ab029c786fc851fee3285be9830a4/6ae0a5a1/index.m3u8
+https://c202-node62-cdn.connectmedia.hu/110306/8ec188ea1b84f406f984e56352e4d992/6ae896e0/index.m3u8
 #EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="Hungary - TV",M1 
-https://c202-node62-cdn.connectmedia.hu/110301/9af4052344bfd7305d7d4c8dbc48e175/6ae0a019/index.m3u8
+https://c401-node61-cdn.connectmedia.hu/110301/6be137f85feca512fd55dc52315169d1/6ae897c0/index.m3u8
 #EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Hungary - TV",M2 
-https://c402-node62-cdn.connectmedia.hu/110302/8e977e278ad9d09b93ff5686553cb400/6ae0a169/index.m3u8
+https://c402-node61-cdn.connectmedia.hu/110302/237cfcf002d649959e73b3322455be00/6ae89805/index.m3u8
+#EXTINF:-1 tvg-id="M4.hu" tvg-name="M4" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Hungary - TV",M4 SPORT
+https://c202-node61-cdn.connectmedia.hu/110304/33feeabadef1119942d4c6303578cbd8/6ae89869/index.m3u8
 #EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Hungary - TV",M5 
-https://c401-node61-cdn.connectmedia.hu/110305/40409d89e4b792f469f0e8dbd0c57f6f/6ae0a27c/index.m3u8
+https://c801-node63-cdn.connectmedia.hu/110305/97b231a80e0af01384341a22c7133ac7/6ae898f2/index.m3u8
 #EXTINF:-1 tvg-id="ESTV.hu" tvg-name="ESTV" tvg-logo="https://i.imgur.com/OCZ8CfK.png" group-title="Hungary - TV",ESTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNBonumTV.hu" tvg-name="EWTN/Bonum TV" tvg-logo="https://i.imgur.com/LdsRz2E.png" group-title="Hungary - TV",EWTN/Bonum TV
