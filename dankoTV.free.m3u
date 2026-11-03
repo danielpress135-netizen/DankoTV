@@ -2670,30 +2670,6 @@ https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV.ro" tvg-logo="https://i.imgur.com/yVsocid.png" group-title="Romania-TV",banat tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://www.btv.ro/hls/banat-tv.m3u8
-#EXTINF:-1 tvg-id="BollywoodFilm.ro" tvg-name="Bollywood Film.ro" tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="Romania-TV",bolliwood film
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Romania-TV",bolliwood classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
-#EXTINF:-1 tvg-id="cine.wow.ro" tvg-name="cine wow.ro" tvg-logo="" group-title="Romania-TV",cine wow
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tvextra-hls.b-cdn.net/cinewow/cinewow.m3u8
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Romania-TV",mooz dance
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits.ro" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Romania-TV",mooz hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
-#EXTINF:-1 tvg-id="Mooz Ro.ro" tvg-name="Mooz Ro.ro" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Romania-TV",mooz ro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
-#EXTINF:-1 tvg-id="mooz.love.ro" tvg-name="mooz love" tvg-logo="" group-title="Romania-TV",mooz love
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
-#EXTINF:-1 tvg-id="mooz.retro.ro" tvg-name="mooz retro" tvg-logo="" group-title="Romania-TV",mooz retro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
 #EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-name="Bucovina TV" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="Romania-TV",tv bucovina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
@@ -2808,6 +2784,9 @@ https://cdn.streamnet.pro/live/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Romania-TV",super tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn.streamnet.pro/live/supertv/chunklist_w1357534622.m3u8
+#EXTINF:-1 tvg-id="TequilaMusic.ro" tvg-name="Tequila Music" tvg-logo="" group-title="Romania-TV",Tequila Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 #EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-name="Tele7ABC HD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="Romania-TV",tele7abc tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.tele7abc.ro/hls/stream/index.m3u8
