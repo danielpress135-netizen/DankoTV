@@ -1424,6 +1424,64 @@ http://fonte.lista.luxe/live/iptvgood/101011/3735.m3u8
 
 
 
+#EXTINF:-1 group-title="AMERICA | MiamiTV",MiamiTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://9cb0b5022c1c499ebe9e915fb85e9193.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-MiamiTV/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",MiamiTV Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://8f4cbe9fa8d44aa3bfd4283527a9effd.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast_gold/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",MiamiTV Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://stream.miamitv.com/LIVE1/smil:88964/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",MiamiTV Janny Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://bdc8100df748400cabc7e133824c8ceb.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-jennylive/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",MiamiTV Evants
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://42d0b3fd996645a78d5063e5b0305722.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/Events/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",MiamiTV Podcast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://59ec5453559f0.streamlock.net/miamitvpodcast/podcast/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV DJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV Latino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://6478139b04f94cf6a3e52c06b84c8d48.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-latino/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV Models
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://3b3df95821f549fa8df20812c44194a5.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-life/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://2ca5273a7e3b4443a73e5c5e6ed5a64f.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/spain/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV Health
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://008819cfebb1436da073a4acab4dcaa6.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-health/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV Mistery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://59ec5453559f0.streamlock.net/miamitvmystery/smil:87569/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV Positive Jamz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://2f904baace5f4ed5ae0ccda2b663bde8.mediatailor.us-east-2.api.aws/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/positivejamz/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV Hilton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://758bbcb0a0c14193b004f3f776a56cab.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/hilton/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA | MiamiTV",Miami TV Argentina News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://32932c92c2d8419382b8844b49d3ea34.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/ArgentinaNews/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ENGLISH | AUSTRALIA",Ausbiz Tv
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 group-title="ENGLISH | AUSTRALIA",C 31 Melbourne
