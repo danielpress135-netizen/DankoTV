@@ -30,9 +30,9 @@ http://77.46.130.252:99/maxsport1
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 2 HD
 http://77.46.130.252:99/maxsport2
 #EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="БЪЛГАРИЯ",MAX Sport 3 HD
-http://77.46.130.252:99/maxsport3
+http://45.84.187.172:3001/udp/239.100.100.61:5000
 #EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="БЪЛГАРИЯ",Max Sport 4
-http://77.46.130.252:99/maxsport4
+http://45.84.187.172:3001/udp/239.100.100.63:5000
 #EXTINF:-1 tvg-id="Max.Sport.1.bg" tvg-name="Max Sport 1" tvg-logo="https://i.imgur.com/0ohnpql.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="БЪЛГАРИЯ",Max Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://77.46.130.252:99/maxsport1
@@ -41,7 +41,9 @@ http://77.46.130.252:99/maxsport1
 http://77.46.130.252:99/maxsport2
 #EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="Max Sport 3" tvg-logo="https://i.imgur.com/eGiGgZ2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="БЪЛГАРИЯ",Max Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://77.46.130.252:99/maxsport3
+http://45.84.187.172:3001/udp/239.100.100.48:5000
+#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="БЪЛГАРИЯ",Max Sport 4
+http://45.84.187.172:3001/udp/239.100.100.63:5000
 #EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport HD
 https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
 #EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport HD
