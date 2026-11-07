@@ -260,51 +260,51 @@ https://w1.manasat.com/tvmana-leste/tvmana-leste/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TMF RUS" tvg-logo="https://i.ibb.co/FLy8fHtr/image-2025-07-10-T135118-642.png" group-title="music", TMF RUS
+#EXTINF:-1 tvg-id="" tvg-name="TMF RUS" tvg-logo="https://i.ibb.co/FLy8fHtr/image-2025-07-10-T135118-642.png" group-title="MusicTV", TMF RUS
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="Viva Russia" tvg-logo="https://i.ibb.co/Nnm8fJN5/image-2025-07-10-T134908-994.png" group-title="music", Viva Russia
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="Viva Russia" tvg-logo="https://i.ibb.co/Nnm8fJN5/image-2025-07-10-T134908-994.png" group-title="MusicTV", Viva Russia
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=nFNatjqnT2kdlr0RamCo8w&e=2066519924&scheme=https
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-name="Шансон ТВ" tvg-logo="https://i.imgur.com/Fk4sd8t.png" group-title="music",Шансон ТВ 
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-name="Шансон ТВ" tvg-logo="https://i.imgur.com/Fk4sd8t.png" group-title="MusicTV",Шансон ТВ 
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Музыка 1 International" tvg-logo="" group-title="music",Музыка 1 International
+#EXTINF:-1 tvg-id="" tvg-name="Музыка 1 International" tvg-logo="" group-title="MusicTV",Музыка 1 International
 http://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Музыка 2 International" tvg-logo="" group-title="music",Музыка 2 International
+#EXTINF:-1 tvg-id="" tvg-name="Музыка 2 International" tvg-logo="" group-title="MusicTV",Музыка 2 International
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Музыка Кино International" tvg-logo="" group-title="music",Музыка Кино International
+#EXTINF:-1 tvg-id="" tvg-name="Музыка Кино International" tvg-logo="" group-title="MusicTV",Музыка Кино International
 http://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Первый Музыкальный Россия" tvg-logo="https://i.ibb.co/1J7H7mHQ/image-2025-09-21-T114409-418.png" group-title="music", Первый Музыкальный Россия 
+#EXTINF:-1 tvg-id="" tvg-name="Первый Музыкальный Россия" tvg-logo="https://i.ibb.co/1J7H7mHQ/image-2025-09-21-T114409-418.png" group-title="MusicTV", Первый Музыкальный Россия 
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Страна FM" tvg-logo="https://i.ibb.co/HTxzZ5cg/image-2025-09-21-T113944-690.png" group-title="music", Страна FM
+#EXTINF:-1 tvg-id="" tvg-name="Страна FM" tvg-logo="https://i.ibb.co/HTxzZ5cg/image-2025-09-21-T113944-690.png" group-title="MusicTV", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RU.TV" tvg-logo="https://i.ibb.co/8LcHKPkb/image-19.png" group-title="music", RU.TV HD
+#EXTINF:-1 tvg-id="" tvg-name="RU.TV" tvg-logo="https://i.ibb.co/8LcHKPkb/image-19.png" group-title="MusicTV", RU.TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=WJJMM7ej-bywiLGs9JXUuQ&e=2083666554&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Bridge TV" tvg-logo="" group-title="music", Bridge TV
+#EXTINF:-1 tvg-id="" tvg-name="Bridge TV" tvg-logo="" group-title="MusicTV", Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="" group-title="music", Bridge Classic (ad.suport)
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="" group-title="MusicTV", Bridge Classic (ad.suport)
 http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bridge Deluxe" tvg-logo="" group-title="music", Bridge Deluxe  (ad.suport)
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Deluxe" tvg-logo="" group-title="MusicTV", Bridge Deluxe  (ad.suport)
 http://stream.mcquack.net/92/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bridge Russki Hit TV" tvg-logo="" group-title="music", Bridge Russki Hit TV  (ad.suport)
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Russki Hit TV" tvg-logo="" group-title="MusicTV", Bridge Russki Hit TV  (ad.suport)
 http://stream.mcquack.net/320/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGERock.ru@SD" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="music",BRIDGE Rock 
+#EXTINF:-1 tvg-id="BRIDGERock.ru@SD" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="MusicTV",BRIDGE Rock 
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROPA PLUS" tvg-logo="" group-title="music",EUROPA PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA PLUS" tvg-logo="" group-title="MusicTV",EUROPA PLUS 
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ММТВ" tvg-logo="https://i.ibb.co/VKSnQpd/image-97.png" group-title="music", ММТВ
+#EXTINF:-1 tvg-id="" tvg-name="ММТВ" tvg-logo="https://i.ibb.co/VKSnQpd/image-97.png" group-title="MusicTV", ММТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Mn0zcNb_7CJ_LE91r5mKdw&e=2066519853&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Ты супер !" tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" group-title="music", Ты супер !
+#EXTINF:-1 tvg-id="" tvg-name="Ты супер !" tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" group-title="MusicTV", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-id="FonMusic.ru@SD" tvg-name="Fon Music" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="Music",Fon Music (1080p)
+#EXTINF:-1 tvg-id="FonMusic.ru@SD" tvg-name="Fon Music" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="MusiTV",Fon Music (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=nUkCHzI1EMbIvaHeLmrSfw&e=2093260495&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="Жара" tvg-logo="" group-title="Music",Жара
+#EXTINF:-1 tvg-id="" tvg-name="Жара" tvg-logo="" group-title="MusicTV",Жара
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
-#EXTINF:-1 group-title="Music",МузТВ
+#EXTINF:-1 group-title="MusicTV",МузТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=-j9r7TXFfzD3DQFmDzOmuA&e=2093260495&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",МУЗАЧ - Музыкальные клипы без перерыва
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MusicTV",МУЗАЧ - Музыкальные клипы без перерыва
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e7e04192431a24a750fd8704fa221461/index.m3u8?s=2-xDSJEAGijzmyPSWU1t3g&e=2092946466&scheme=https
 
@@ -313,52 +313,52 @@ https://bl.rutube.ru/livestream/e7e04192431a24a750fd8704fa221461/index.m3u8?s=2-
 
 
 
-#EXTINF:-1 group-title="Music radio+",Смотри Радио
+#EXTINF:-1 group-title="Music Radio+",Смотри Радио
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=1Rc2JqGjtih_JIVz1cXe7g&e=2093260487&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Супердискотека 90х
+#EXTINF:-1 group-title="Music Radio+",Record Супердискотека 90х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=ZGdEDvGnEdIozxOx0fP4YA&e=2093260496&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Big Hits
+#EXTINF:-1 group-title="Music Radio+",Record Big Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=U0IZHRpoQ5PtYqtMeMzCwg&e=2093260497&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Rock
+#EXTINF:-1 group-title="Music Radio+",Record Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=Knf6ldgfdN1oatWy-BB4UA&e=2093260497&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Dance Radio
+#EXTINF:-1 group-title="Music Radio+",Record Dance Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=zlTlviZu0Rn01mAZJ6PtNA&e=2093260498&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Russian Hits
+#EXTINF:-1 group-title="Music Radio+",Record Russian Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=x6ffOZ9jcd2j2h6Wwn43YA&e=2093260498&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Гоп FM
+#EXTINF:-1 group-title="Music Radio+",Record Гоп FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=Q_KzkKInj_hndvDQ1UHDrg&e=2093260499&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Megamix
+#EXTINF:-1 group-title="Music Radio+",Record Megamix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=4eMg64OtkMSvPA1V6UECCg&e=2093260499&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Russian Mix
+#EXTINF:-1 group-title="Music Radio+",Record Russian Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=by_xH3VHuXPMiWZoZ8XBuA&e=2093260500&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Deep
+#EXTINF:-1 group-title="Music Radio+",Record Deep
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=sS9-QJeMmX4ajwG5MKPCCg&e=2093260500&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Phonk
+#EXTINF:-1 group-title="Music Radio+",Record Phonk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=uKLTCJHhY95_lErT8fMgdw&e=2093260501&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Chill House
+#EXTINF:-1 group-title="Music Radio+",Record Chill House
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=d76cXH65cNT0Juc-uKZFHA&e=2093260501&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Drum n Bass
+#EXTINF:-1 group-title="Music Radio+",Record Drum n Bass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=o48fZgZ5kQRBaT_c9x3Rzw&e=2093260501&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Chill-Out
+#EXTINF:-1 group-title="Music Radio+",Record Chill-Out
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=4Rf57EYTP2hXLtcQk3D-pA&e=2093260502&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Techno by Innocence
+#EXTINF:-1 group-title="Music Radio+",Record Techno by Innocence
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=n2ss1BZHH_4U1C82JMfsKw&e=2093260502&scheme=https
-#EXTINF:-1 group-title="Music radio+",Record Trance
+#EXTINF:-1 group-title="Music Radio+",Record Trance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=8P-8PInN6o7b4JY7ZzTFEw&e=2093260502&scheme=https
 
@@ -435,7 +435,7 @@ http://176.118.197.101/LubimoeKino/index.m3u8
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="" group-title="Kino", Золотая коллекция
 https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
-EXTINF:-1 tvg-id="" tvg-name="ТВ3" tvg-logo="" group-title="Kino", ТВ3
+#EXTINF:-1 tvg-id="" tvg-name="ТВ3" tvg-logo="" group-title="Kino", ТВ3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=iXXAiPsaf41WKVMCbjmYtw&e=2085483064&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="Кино 1 International" tvg-logo="" group-title="Kino",Кино 1 International
