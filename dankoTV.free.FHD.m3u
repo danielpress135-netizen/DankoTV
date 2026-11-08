@@ -124,6 +124,10 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="TVRInfo.ro" tvg-name="TVR Info" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="NEWS",TVR info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" group-title="NEWS",Lira TV
+https://streamcdnm7-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+#EXTINF:-1 tvg-id="TGNorba24.it" tvg-name="TG Norba 24" tvg-logo="https://i.imgur.com/zAZcSgz.png" group-title="NEWS",TG Norba 24
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
 
 
 
@@ -246,7 +250,33 @@ https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MoldovaTV.md" tvg-name="Moldova TV" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="GENERAL",Moldova TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://moldovatv.ro/live-tv/live.m3u8
-
+#EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-name="Telewizja Imperium" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="GENERAL",telewizija imperium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaImperiumkronika.pl" tvg-name="telewizija imperium kronika" tvg-logo="" group-title="GENERAL",telewizija imperium kronika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://str12.imperiummedia.pl/ImperiumArchiwum/index.m3u8
+#EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja TV" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" group-title="GENERAL",twoja tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.twoja.tv/ttv_hls/live.m3u8
+#EXTINF:-1 tvg-id="JC1.cz" tvg-name="JC1" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="GENERAL",jc1  czesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 tvg-id="KuryrTV.cz" tvg-name="Kuryr TV" tvg-logo="https://i.imgur.com/Ox2gujv.png" group-title="GENERAL",kuryr tv  czesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream-18.mazana.tv/kuryrtv.m3u8s
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-name="Polar TV" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="GENERAL",polar tv  czesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.polar.cz:443/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBratislava.sk" tvg-name="TV Bratislava" tvg-logo="https://i.imgur.com/sQvMpo6.png" group-title="GENERAL",tv bratislava  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdnsk003.panaccess.com/local/Bratislava/index.m3u8
+#EXTINF:-1 tvg-id="AntennaSud.it" tvg-name="Antenna Sud" tvg-logo="AntennaSud.it" group-title="GENERAL",Antenna Sud
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
+#EXTINF:-1 tvg-id="GOTVCanale163.it" tvg-name="GO-TV Canale 163" tvg-logo="https://i.imgur.com/11V0QSp.png" group-title="GENERAL",GO-TV Canale 163
+https://64b16f23efbee.streamlock.net:443/gooo/gooo/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleReggio.it" tvg-name="TeleReggio" tvg-logo="" group-title="GENERAL",TeleReggio
+https://trm-telereggio.cdn.netrw.it/event/hls/ccr/telereggio/master.m3u8
 
 
 
@@ -426,6 +456,52 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 #EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-name="TVR Targu-Mures" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="REGIONAL",TVR tg. mures
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-name="TV Regionalna Lubin" tvg-logo="https://i.imgur.com/2WVNt3f.png" group-title="REGIONAL",tv regionalna Lubin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
+#EXTINF:-1 tvg-id="MTR.sk" tvg-name="MTR" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="REGIONAL",mtr Mestská Televízia Ružomberok  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 tvg-id="TVHronka.sk" tvg-name="TV Hronka" tvg-logo="https://i.imgur.com/L9ODaLp.png" group-title="REGIONAL",TV HRONKA  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://public.live.rebit.tv/live/a2ae9668-d37e-442d-ae98-070cb5d607a7/main.m3u8
+#EXTINF:-1 tvg-id="OIKTV.cz" tvg-name="OIK TV" tvg-logo="https://i.imgur.com/1mXxQ02.png" group-title="REGIONAL",OIK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://1802425525.rsc.cdn77.org/1802425525/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-name="NZTV" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="REGIONAL",nztv  TV Nové Zámky  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livestream.lznet.work/hls/nztv-playout/index.m3u8
+#EXTINF:-1 tvg-id="TeleviziaTuriec.sk" tvg-name="Televizia Turiec" tvg-logo="https://i.imgur.com/ZqyL2kE.png" group-title="REGIONAL",televizia turiec  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdnsk003.panaccess.com/local/Turiec/index.m3u8
+#EXTINF:-1 tvg-id="TVBrezova.sk" tvg-name="TV Brezova" tvg-logo="https://i.imgur.com/59LpYoF.png" group-title="REGIONAL",tv brezova pod bradlom dc  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdnsk003.panaccess.com/local/TV_BREZOVA_POD_BRADLOM_DC/index.m3u8
+#EXTINF:-1 tvg-id="VIOTV.sk" tvg-name="VIO TV" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="REGIONAL",vio tv  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdnsk003.panaccess.com/local/VIO_TV/index.m3u8
+#EXTINF:-1 tvg-id="Rete8.it" tvg-name="Rete 8" tvg-logo="https://i.imgur.com/jojCxg3.png" group-title="REGIONAL",Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1 tvg-id="RTTRTrento.it" tvg-name="RTTR Trento" tvg-logo="https://i.imgur.com/6DyzN8M.png" group-title="REGIONAL",RTTR Trento
+https://rttr.fluid.stream/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="In Sicilia TV" tvg-logo="" group-title="REGIONAL",In Sicilia TV
+https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8
+#EXTINF:-1 tvg-id="TelecolorLombardia.it" tvg-name="Telecolor Lombardia" tvg-logo="https://i.imgur.com/QfJqBno.png" group-title="REGIONAL",Telecolor Lombardia
+https://streamcdnm7-1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleregione.it" tvg-name="Teleregione" tvg-logo="" group-title="REGIONAL",Teleregione
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8
+#EXTINF:-1 tvg-id="Telesardegna.it" tvg-name="Telesardegna" tvg-logo="" group-title="REGIONAL",Telesardegna
+https://f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95701787/z3dZO4LpABmG/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletruria.it" tvg-name="Teletruria" tvg-logo="https://i.imgur.com/5pJhBbi.png" group-title="REGIONAL",Teletruria
+https://cb01a76aa80f4069b2bf82c90466134a.msvdn.net/live/S79636643/7iyY76l3IDBd/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="TRCBologna.it" tvg-name="TRC Bologna" tvg-logo="https://i.imgur.com/6kK6U3Q.png" group-title="REGIONAL",TRC Bologna
+https://trm-trcbologna.cdn.netrw.it/event/hls/ccr/trcbologna/master.m3u8
+#EXTINF:-1 tvg-id="TRCModena.it" tvg-name="TRC Modena" tvg-logo="https://i.imgur.com/Kd9JpmI.png" group-title="REGIONAL",TRC Modena
+https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8
+#EXTINF:-1 tvg-id="TVLuna.it" tvg-name="TV Luna" tvg-logo="https://i.imgur.com/5ZsF6vv.png" group-title="REGIONAL",TV Luna
+https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
+#EXTINF:-1 tvg-id="Uno4.it" tvg-name="Uno4" tvg-logo="" group-title="REGIONAL",Uno4
+https://cdn.uno4.it/index.m3u8
 
 
 
@@ -512,74 +588,91 @@ https://amg01705-amg01705c1-amgplt0274.playout.now3.amagi.tv/playlist/amg01705-a
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIFSTYLE",СМОТРИМ 100% ПРАЗДНИК 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIFESTYLE",СМОТРИМ 100% ПРАЗДНИК 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIFSTYLE",RUTUBE TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIFESTYLE",RUTUBE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=iIo3wfPTTD2ou6gcQrtTOg&e=2086027729&scheme=https
-#EXTINF:-1 tvg-id="" tvg-name="ТНТ 4" tvg-logo="" group-title="LIFSTYLE", ТНТ 4
+#EXTINF:-1 tvg-id="" tvg-name="ТНТ 4" tvg-logo="" group-title="LIFESTYLE", ТНТ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=6bnrzXL2j8mLXZCy9LlV7Q&e=2085483063&scheme=https
-#EXTINF:-1 tvg-id="FEVATV.ca" tvg-name="FEVA TV" tvg-logo="https://i.imgur.com/QSi0YTS.png" group-title="LIFSTYLE",FEVA TV  (Canada)
+#EXTINF:-1 tvg-id="FEVATV.ca" tvg-name="FEVA TV" tvg-logo="https://i.imgur.com/QSi0YTS.png" group-title="LIFESTYLE",FEVA TV  (Canada)
 https://d102ljt5xubhdl.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Website-MuxIP-FEVATV/416.m3u8
-#EXTINF:-1 tvg-id="tviHD.ca" tvg-name="tvi HD" tvg-logo="https://i.imgur.com/wJeELGj.png" group-title="LIFSTYLE",tvi HD  (Canada - Tamil - English)
+#EXTINF:-1 tvg-id="tviHD.ca" tvg-name="tvi HD" tvg-logo="https://i.imgur.com/wJeELGj.png" group-title="LIFESTYLE",tvi HD  (Canada - Tamil - English)
 https://www.tamilvision.tv/stream/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="TheSherardShow.us" tvg-name="The Sherard Show" tvg-logo="" group-title="LIFSTYLE",The Sherard Show  (Airy TV)
+#EXTINF:-1 tvg-id="TheSherardShow.us" tvg-name="The Sherard Show" tvg-logo="" group-title="LIFESTYLE",The Sherard Show  (Airy TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://airy.tv/live-tv
 https://hls.showfer.com/live/XUsIq/The_Sherard_Show_in_Prime_Time/airy.m3u8
-#EXTINF:-1 tvg-id="ThailandTV.us" tvg-name="Thailand TV" tvg-logo="" group-title="LIFSTYLE",Thailand TV  (Airy TV)
+#EXTINF:-1 tvg-id="ThailandTV.us" tvg-name="Thailand TV" tvg-logo="" group-title="LIFESTYLE",Thailand TV  (Airy TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://airy.tv/live-tv
 https://hls.showfer.com/live/QdeEN/Thailand_TV/airy.m3u8
-#EXTINF:-1 tvg-id="PeakTV.us" tvg-name="Peak TV" tvg-logo="" group-title="LIFSTYLE",Peak TV  (Airy TV)
+#EXTINF:-1 tvg-id="PeakTV.us" tvg-name="Peak TV" tvg-logo="" group-title="LIFESTYLE",Peak TV  (Airy TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://airy.tv/live-tv
 https://hls.showfer.com/live/4ae42/Peak_TV/airy.m3u8
-#EXTINF:-1 tvg-id="BestOfTimes.us" tvg-name="Best Of Times" tvg-logo="" group-title="LIFSTYLE",Best Of Times  (Airy TV)
+#EXTINF:-1 tvg-id="BestOfTimes.us" tvg-name="Best Of Times" tvg-logo="" group-title="LIFESTYLE",Best Of Times  (Airy TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://airy.tv/live-tv
 https://hls.showfer.com/live/MtMKV/Best_of_Times/airy.m3u8
-#EXTINF:-1 tvg-id="Shattered TV.us" tvg-name="Shattered TV" tvg-logo="" group-title="LIFSTYLE",Shattered TV  (Airy TV)
+#EXTINF:-1 tvg-id="Shattered TV.us" tvg-name="Shattered TV" tvg-logo="" group-title="LIFESTYLE",Shattered TV  (Airy TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://airy.tv/live-tv
 https://hls.showfer.com/live/aM05k/Shattered_TV/airy.m3u8
-#EXTINF:-1 tvg-id="TTLTV.us" tvg-name="TTL TV" tvg-logo="" group-title="LIFSTYLE",TTL TV  (Airy TV)
+#EXTINF:-1 tvg-id="TTLTV.us" tvg-name="TTL TV" tvg-logo="" group-title="LIFESTYLE",TTL TV  (Airy TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://airy.tv/live-tv
 https://hls.showfer.com/live/P0MU8/Time_to_Laugh/airy.m3u8
-#EXTINF:-1 tvg-id="PassTimeTV.us" tvg-name="PassTime TV" tvg-logo="" group-title="LIFSTYLE",PassTime TV  (Airy TV)
+#EXTINF:-1 tvg-id="PassTimeTV.us" tvg-name="PassTime TV" tvg-logo="" group-title="LIFESTYLE",PassTime TV  (Airy TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://airy.tv/live-tv
 https://hls.showfer.com/live/AuMU8/Passtime_TV/airy.m3u8
-#EXTINF:-1 tvg-id="RnRTV.us" tvg-name="RnR TV" tvg-logo="" group-title="LIFSTYLE",RnR TV  (Airy TV)
+#EXTINF:-1 tvg-id="RnRTV.us" tvg-name="RnR TV" tvg-logo="" group-title="LIFESTYLE",RnR TV  (Airy TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://airy.tv/live-tv
 https://hls.showfer.com/live/zlH8L/RnR_TV/airy.m3u8
-#EXTINF:-1 tvg-id="TheCanyon.us" tvg-name="The Canyon" tvg-logo="" group-title="LIFSTYLE",The Canyon  (Airy TV)
+#EXTINF:-1 tvg-id="TheCanyon.us" tvg-name="The Canyon" tvg-logo="" group-title="LIFESTYLE",The Canyon  (Airy TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://airy.tv/live-tv
 https://hls.showfer.com/live/A12U8/The_Canyon/airy.m3u8
-#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Comet_2015_Blue.svg/revision/latest?cb=20231031185411" group-title="LIFSTYLE",Comet
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Comet_2015_Blue.svg/revision/latest?cb=20231031185411" group-title="LIFESTYLE",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="Hungry.us" tvg-name="Hungry" tvg-logo="https://i.imgur.com/MIUDYh0.png" group-title="LIFSTYLE",Hungry
+#EXTINF:-1 tvg-id="Hungry.us" tvg-name="Hungry" tvg-logo="https://i.imgur.com/MIUDYh0.png" group-title="LIFESTYLE",Hungry
 https://4cb5a52b.wurl.com/v1/food/ono_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="rtv city ub" tvg-logo="" group-title="LIFSTYLE",rtv city ub
+#EXTINF:-1 tvg-id="" tvg-name="rtv city ub" tvg-logo="" group-title="LIFESTYLE",rtv city ub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 http://109.72.57.12/hls/tvcityub.m3u8
-#EXTINF:-1 tvg-id="KICTV.si" tvg-name="KIC TV" tvg-logo="https://i.imgur.com/HeRz6kQ.png" group-title="LIFSTYLE",KIC TV  slo
+#EXTINF:-1 tvg-id="KICTV.si" tvg-name="KIC TV" tvg-logo="https://i.imgur.com/HeRz6kQ.png" group-title="LIFESTYLE",KIC TV  slo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://3986405b0595593b.servers.dvcloud.tv/hls/kic_tv_live_stream/61fao2o9oufr2dpb52hos5fo1p5peh0s.m3u8 
-#EXTINF:-1 tvg-id="TVJefimija.rs" tvg-name="TV Jefimija" tvg-logo="https://i.imgur.com/0psj3fj.png" group-title="LIFSTYLE",TV Jefimija
+#EXTINF:-1 tvg-id="TVJefimija.rs" tvg-name="TV Jefimija" tvg-logo="https://i.imgur.com/0psj3fj.png" group-title="LIFESTYLE",TV Jefimija
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.jefimija.eu/hls/stream_src/index.m3u8
-#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="LIFSTYLE",TVR cultural
+#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="LIFESTYLE",TVR cultural
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="LIFSTYLE",Privesc.Eu TV md
+#EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="LIFESTYLE",Privesc.Eu TV md
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDoktor.sk" tvg-name="TV Doktor" tvg-logo="https://i.imgur.com/2FZkGHx.jpeg" group-title="LIFESTYLE",TV DOKTOR  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.tvdoktor.sk/high/index.m3u8
+#EXTINF:-1 tvg-id="ArteInvestimenti.it" tvg-name="Arte Investimenti" tvg-logo="https://i.imgur.com/Jy0MUb4.png" group-title="LIFESTYLE",Arte Investimenti
+https://5a1178b42cc03.streamlock.net/chiossone/chiossone/playlist.m3u8
+#EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="CafeTV24" tvg-logo="https://i.imgur.com/SRFzjja.png" group-title="LIFESTYLE",CafeTV24
+https://srvx1.selftv.video/cafe/smil:live/playlist.m3u8
+#EXTINF:-1 tvg-id="LombardiaRadioTV.it" tvg-name="Lombardia Radio TV" tvg-logo="https://i.imgur.com/hhugtFV.png" group-title="LIFESTYLE",Lombardia Radio TV dvr
+https://stream9.xdevel.com/video0s976574-1330/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="NuovaTV1.it" tvg-name="Nuova TV 1" tvg-logo="https://i.imgur.com/zRu9WGh.png" group-title="LIFESTYLE",Nuova TV 1
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF:-1 tvg-id="OttoChannel.it" tvg-name="Otto Channel" tvg-logo="https://i.imgur.com/zxdwM4f.png" group-title="LIFESTYLE",Otto Channel
+https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Studio100Puglia.it" tvg-name="Studio 100 Puglia" tvg-logo="https://i.imgur.com/mYjGw1N.png" group-title="LIFESTYLE",Studio 100 Puglia
+https://cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTVOristano.it" tvg-name="Super TV Oristano" tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/22/Logosupertvoristano.png" group-title="LIFESTYLE",Super TV Oristano
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
 
 
 
@@ -632,6 +725,11 @@ https://d23e4ekcmx0dne.cloudfront.net/v1/channel/gameloop-default-channel/index.
 #EXTINF:-1 tvg-id="BravoKidsTV.hr" tvg-name="Bravo! Kids TV" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" group-title="KIDS",Bravo Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="KIDS",4FUN KIDS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.4fun.tv:8889/hls/4fk.m3u8
+#EXTINF:-1 tvg-id="BeJoykids.it" tvg-name="BeJoy.kids" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" group-title="KIDS",BeJoy.kids
+https://stream.paroledivita.org/bejoy.m3u8
 
 
 
@@ -716,6 +814,16 @@ https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:-1 tvg-id="AngelusTV.ro" tvg-name="Angelus TV.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Angelus_TV.svg/revision/latest/scale-to-width-down/512" group-title="CHRISTIAN",angelus tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://video.angelustv.ro/hls/angelustv.m3u8
+#EXTINF:-1 tvg-id="TBNPolska.pl" tvg-name="TBN Polska" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww" group-title="CHRISTIAN",tbn polska
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8
+#EXTINF:-1 tvg-id="LifeTv.sk" tvg-name="LifeTv" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="CHRISTIAN",life tv  sk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lifetv.mpks.sk/s.m3u8
+#EXTINF:-1 tvg-id="ParolediVita.it" tvg-name="Parole di Vita" tvg-logo="https://i.imgur.com/vkFlXbR.png" group-title="CHRISTIAN",Parole di Vita
+https://stream.paroledivita.org/paroledivita.m3u8
+#EXTINF:-1 tvg-id="TCI.it" tvg-name="TCI" tvg-logo="https://i.imgur.com/XVOCtVF.png" group-title="CHRISTIAN",TCI
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/o3Pk48yb/live.isml/.mpd
 
 
 
@@ -806,6 +914,15 @@ https://linear-476.frequency.stream/dist/glewedtv/476/hls/master/playlist.m3u8
 https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Crime & Justice" group-title="DOCUMENTAL",Crime & Justice   (GlewedTV)
 https://linear-474.frequency.stream/dist/glewedtv/474/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RemontyTV.pl" tvg-name="Remonty TV" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="DOCUMENTAL",remonty tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
+#EXTINF:-1 tvg-id="AltoAdigeTV.it" tvg-name="AltoAdige TV" tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="DOCUMENTAL",AltoAdige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrentinoTV.it" tvg-name="Trentino TV" tvg-logo="https://i.imgur.com/Xcw3TRB.png" group-title="DOCUMENTAL",Trentino TV
+https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="DOCUMENTAL",Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
 
 
 
@@ -946,6 +1063,57 @@ https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TezaurTV.md" tvg-name="Tezaur TV" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="MUSIC TV",Tezaur TV md
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tezaurtv.md/stream/index.m3u8
+#EXTINF:-1 tvg-id="SlagerPremium.cz" tvg-name="Slager Premium" tvg-logo="https://i.imgur.com/A7u2KeM.png" group-title="MUSIC TV",slager premium  czesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream-17.mazana.tv/slagrpremium.m3u8s
+#EXTINF:-1 tvg-id="BellaTV.it" tvg-name="Bella TV" tvg-logo="" group-title="MUSIC TV",Bella RADIO TV
+https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8 
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/YV27Chs.png" group-title="MUSIC TV",Deejay TV
+https://streamcdng4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="FMITALIA.it" tvg-name="FM ITALIA" tvg-logo="https://i.imgur.com/54CO2u9.png" group-title="MUSIC TV",FM ITALIA
+https://router.xdevel.com/video0s975817-362/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="m2oTV.it" tvg-name="m2o TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" group-title="MUSIC TV",m2o TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioParsifalRadioVisione.it" tvg-name="Radio Parsifal Radio Visione" tvg-logo="" group-title="MUSIC TV",Radio Parsifal Radio Visione
+https://stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioStudioDeltaTV.it" tvg-name="Radio Studio Delta TV" tvg-logo="https://i.imgur.com/xJqVOpn.png" group-title="MUSIC TV",Radio Studio Delta TV
+https://str27.fluid.stream/RSD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTaorminaSicilia.it" tvg-name="Radio Taormina Sicilia" tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="MUSIC TV",Radio Taormina Sicilia dvr
+https://stream12.xdevel.com/video1s3-2467/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Irene TV" tvg-logo="" group-title="MUSIC TV",Radio Irene TV
+https://604e46ac2bdee.streamlock.net:1936/radiorene/radiorene/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Love FM TV" tvg-logo="" group-title="MUSIC TV",Radio Love FM TV
+https://tvd-love.fluid.stream/LoveFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Paestum TV" tvg-logo="" group-title="MUSIC TV",Radio Paestum TV
+https://radiopaestum.no-ip.biz:8443/hls/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jukebox TV" tvg-logo="" group-title="MUSIC TV",Radio Jukebox TV
+https://64b16f23efbee.streamlock.net/radiojukeboxtv/radiojukeboxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL 102.5 TV" tvg-logo="https://i.imgur.com/75qUdR7.png" group-title="MUSIC TV",RTL 102.5 TV
+https://streamcdng12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Best.it" tvg-name="RTL 102.5 Best" tvg-logo="https://i.imgur.com/9PNlbaq.png" group-title="MUSIC TV",RTL 102.5 Best 
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025BroSis.it" tvg-name="RTL 102.5 Bro&Sis" tvg-logo="https://i.imgur.com/EWbK4XZ.png" group-title="MUSIC TV",RTL 102.5 Bro&Sis 
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Caliente.it" tvg-name="RTL 102.5 Caliente" tvg-logo="https://i.imgur.com/P0zsi6I.png" group-title="MUSIC TV",RTL 102.5 Caliente 
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Disco.it" tvg-name="RTL 102.5 Disco" tvg-logo="https://i.imgur.com/JA1OPrz.png" group-title="MUSIC TV",RTL 102.5 Disco 
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Napule.it" tvg-name="RTL 102.5 Napule" tvg-logo="https://i.imgur.com/HFPw1YW.png" group-title="MUSIC TV",RTL 102.5 Napulè 
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Traffic.it@SD" tvg-name="RTL 102.5 Traffic" tvg-logo="https://i.imgur.com/EBftMcB.png" group-title="MUSIC TV",RTL 102.5 Traffic 
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RadioZetaTV.it" tvg-name="Radio ZETA" tvg-logo="https://i.imgur.com/0MgCm1n.png" group-title="MUSIC TV",Radio ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
+#EXTINF:-1 tvg-id="Radiofreccia.it" tvg-name="RadioFreccia" tvg-logo="https://i.imgur.com/J5N9F7Z.png" group-title="MUSIC TV",Radio Freccia 
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+#EXTINF:-1 tvg-id="VirginRadio.it" tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="MUSIC TV",Virgin Radio TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="R101tv.it" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/mWeEa9T.png" group-title="MUSIC TV",R101 TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-name="Radio Montecarlo TV" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="MUSIC TV",Radio Montecarlo TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RADIODISCOuntTV.ch" tvg-name="RADIO DISCOunt TV" tvg-logo="https://i.imgur.com/ScNYMmx.png" group-title="MUSIC TV",RADIO DISCOunt TV (SWITZ)
+https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
 
 
 
@@ -987,6 +1155,8 @@ https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="SPORT",TVR sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Rete8Sport.it" tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/jojCxg3.png" group-title="SPORT",Rete 8 Sport
+https://64b16f23efbee.streamlock.net:443/rete8sport/rete8sport/playlist.m3u8
 
 
 

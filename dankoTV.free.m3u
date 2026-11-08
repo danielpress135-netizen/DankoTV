@@ -2925,6 +2925,7 @@ https://stream.4fun.tv:8889/hls/4fk.m3u8
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
 #EXTINF:-1 tvg-id="SferaTV.pl" tvg-name="SferaTV" tvg-logo="https://i.imgur.com/aK7xfKi.png" group-title="Poland-TV",sfera tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.sferatv.pl/na-zywo
 https://stream.sferatv.pl/sferatvlive/live.m3u8
 #EXTINF:-1 tvg-id="TBNPolska.pl" tvg-name="TBN Polska" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww" group-title="Poland-TV",tbn polska
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -3190,16 +3191,6 @@ https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/chunklist_w17953555
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",RT News
-https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",RT News 
-https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",NEWSMAX2  dvr
-https://1a-1791.com/live/qt9k24wa/slot-68/vxdb-dfxw_1080p/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rumble - TV",NEWSMAX2  dvr
-https://1a-1791.com/live/qt9k24wa/slot-68/vxdb-dfxw_720p/chunklist_DVR.m3u8
 
 
 
