@@ -128,6 +128,8 @@ https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 https://streamcdnm7-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 tvg-id="TGNorba24.it" tvg-name="TG Norba 24" tvg-logo="https://i.imgur.com/zAZcSgz.png" group-title="NEWS",TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
+#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="NEWS",M1 
+https://c801-node63-cdn.connectmedia.hu/110301/1e19b3e88efee1566a3b2ac4471b52ab/6aeef26b/index.m3u8
 
 
 
@@ -155,6 +157,8 @@ https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="BUSSINES",job tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-name="Naftemporiki TV" tvg-logo="https://i.imgur.com/9OFdMud.png" group-title="BUSSINES",Naftemporiki TV
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 
 
 
@@ -277,6 +281,26 @@ https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 https://64b16f23efbee.streamlock.net:443/gooo/gooo/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleReggio.it" tvg-name="TeleReggio" tvg-logo="" group-title="GENERAL",TeleReggio
 https://trm-telereggio.cdn.netrw.it/event/hls/ccr/telereggio/master.m3u8
+#EXTINF:-1 tvg-id="AlphaTV.gr" tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/6twzd38.png" group-title="GENERAL",Alpha TV
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="BestTV.gr" tvg-name="Best TV" tvg-logo="https://i.imgur.com/AeeeDUc.png" group-title="GENERAL",Best TV
+https://bestTV.siliconweb.com/bestTV/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="CenterTV.gr" tvg-name="Center TV" tvg-logo="https://i.imgur.com/52JW71Q.png" group-title="GENERAL",Center TV
+https://eu1.streams.gr:8081/centertv/index.m3u8
+#EXTINF:-1 tvg-id="CritiTV.gr" tvg-name="Criti TV" tvg-logo="https://i.imgur.com/0MQ4G4n.png" group-title="GENERAL",Criti TV
+https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="OneChannel.gr" tvg-name="One Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="GENERAL",One Channel
+https://onechannel.siliconweb.com/one/live_abr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="StarChannel.gr" tvg-name="Star Channel" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="GENERAL",Star Channel
+https://livestar.siliconweb.com/starvod/star4/star4.m3u8
+#EXTINF:-1 tvg-id="VerginaTVCyprus.cy" tvg-name="Vergina TV Cyprus" tvg-logo="https://i.imgur.com/StIFwfd.png" group-title="GENERAL",Vergina TV Cyprus
+https://verginanews.gr:8443/hls_live/stream2.m3u8
+#EXTINF:-1 tvg-id="BajaiTV.hu" tvg-name="Bajai TV" tvg-logo="https://i.imgur.com/cyReGWh.png" group-title="GENERAL",Bajai TV 
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Duna.hu" tvg-name="Duna" tvg-logo="https://i.imgur.com/oPbsSlp.png" group-title="GENERAL",Duna
+https://c402-node62-cdn.connectmedia.hu/110303/068dac186d0408a4270f97687d7e624d/6aeef184/index.m3u8
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="GENERAL",Duna World 
+https://c402-node61-cdn.connectmedia.hu/110306/575d9f1e289a6f02519d639d93b2f900/6aeef223/index.m3u8
 
 
 
@@ -502,6 +526,8 @@ https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8
 https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 #EXTINF:-1 tvg-id="Uno4.it" tvg-name="Uno4" tvg-logo="" group-title="REGIONAL",Uno4
 https://cdn.uno4.it/index.m3u8
+#EXTINF:-1 tvg-id="TVRodopi.gr" tvg-name="TV Rodopi" tvg-logo="https://i.imgur.com/1u9a6G7.png" group-title="REGIONAL",TV Rodopi
+https://fr.crystalweb.net:1936/tvrodopi/tvrodopi/playlist.m3u8
 
 
 
@@ -579,6 +605,10 @@ https://hls.showfer.com/live/dBsh2/Big_Cinema/airy.m3u8
 https://hls.showfer.com/live/aM05k/Moviezone/Airy.m3u8
 static.plex.tv/epg/cms/production/7685b801-1ef6-4098-947a-4ccada912e33/Electric_Now_Logo_For_Dark_Background_EN.png" group-title="CINEMA",Electric Now
 https://amg01705-amg01705c1-amgplt0274.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0274/playlist.m3u8
+#EXTINF:-1 tvg-id="Action24.gr" tvg-name="Action 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="CINEMA",Action 24
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="VillageWorld.gr" tvg-name="village-world" tvg-logo="" group-title="CINEMA",village-world
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 
 
 
@@ -673,6 +703,10 @@ https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/playlist.m3u8
 https://cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTVOristano.it" tvg-name="Super TV Oristano" tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/22/Logosupertvoristano.png" group-title="LIFESTYLE",Super TV Oristano
 https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globus Television" tvg-logo="" group-title="LIFESTYLE",Globus Television
+https://cdn.cubws.com/live/globus.m3u8
+#EXTINF:-1 tvg-id="EllasTV.gr" tvg-name="Ellas TV" tvg-logo="https://i.imgur.com/aRWB7ss.png" group-title="LIFESTYLE",Ellas TV
+https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 
 
 
@@ -730,6 +764,8 @@ https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
 https://stream.4fun.tv:8889/hls/4fk.m3u8
 #EXTINF:-1 tvg-id="BeJoykids.it" tvg-name="BeJoy.kids" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" group-title="KIDS",BeJoy.kids
 https://stream.paroledivita.org/bejoy.m3u8
+#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="KIDS",M2 
+https://c802-node63-cdn.connectmedia.hu/110302/e855a335303f6b8d5295a1eef27dd081/6aeef2a2/index.m3u8
 
 
 
@@ -923,6 +959,8 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="DOCUMENTAL",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="DOCUMENTAL",M5 
+https://c201-node62-cdn.connectmedia.hu/110305/6104d89a53d038eb8478fd82a46244c4/6aeef305/index.m3u8
 
 
 
@@ -940,6 +978,10 @@ https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=XF
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=d2EYesv-3TVuNsfqvwREiQ&e=2085342514&scheme=https
 #EXTINF:-1 tvg-id="DroneTV.us" tvg-name="DroneTV" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="RELAX",DroneTV
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BarazaTVRelaxing.gr" tvg-name="Baraza TV Relaxing" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="RELAX",Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baraza Music TV 80'S" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="RELAX",Baraza MusicTV 80'S
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
 
 
@@ -1114,6 +1156,16 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RADIODISCOuntTV.ch" tvg-name="RADIO DISCOunt TV" tvg-logo="https://i.imgur.com/ScNYMmx.png" group-title="MUSIC TV",RADIO DISCOunt TV (SWITZ)
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="BarazaTVGreekMusicHits.gr" tvg-name="Baraza TV Greek Music Hits" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSIC TV",Baraza TV Greek Music Hits
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baraza Music TV DJ" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSIC TV",Baraza MusicTV TV DJ
+https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baraza MusicTV Greece Laika" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSIC TV",Baraza MusicTV Greece Laika
+https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
+#EXTINF:-1 tvg-id="VillageWorld.gr" tvg-name="village-world" tvg-logo="" group-title="MUSIC TV",village-world
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
+#EXTINF:-1 tvg-id="OxygenMusic.hu" tvg-name="Oxygen Music" tvg-logo="https://oxygenmusic.hu/static/media/logo.png" group-title="MUSIC TV",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
 
 
@@ -1157,6 +1209,8 @@ https://hls.shift.tv/live/shifttv/playlist.m3u8
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Rete8Sport.it" tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/jojCxg3.png" group-title="SPORT",Rete 8 Sport
 https://64b16f23efbee.streamlock.net:443/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1 tvg-id="M4.hu" tvg-name="M4" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="SPORT",M4 SPORT
+https://c201-node62-cdn.connectmedia.hu/110304/4138bbde7c49d8d8c351dcebe272977a/6aeef2cd/index.m3u8
 
 
 
