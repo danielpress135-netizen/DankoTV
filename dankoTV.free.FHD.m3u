@@ -698,7 +698,7 @@ https://s-6c235771.b.cdn.bluebillywig.com/live/omroepbrabant/tv/index.m3u8
 https://s-be3e2a96.b.cdn.bluebillywig.com/live/omroepgelderland/tvgelderland-hls/index.m3u8
 #EXTINF:-1 tvg-id="OmroepWest.nl" tvg-name="Omroep West" tvg-logo="https://i.imgur.com/5IDb9fk.png" group-title="REGIONAL",Omroep West
 https://s-64c806fc.b.cdn.bluebillywig.com/live/omroepwest/tv/index.m3u8
-#EXTINF:-1 tvg-id="OmropFryslan.nl" tvg-name="Omrop Fryslan" tvg-logo="https://i.imgur.com/khacDTU.png" group-title="Holands - TV",Omrop Fryslan
+#EXTINF:-1 tvg-id="OmropFryslan.nl" tvg-name="Omrop Fryslan" tvg-logo="https://i.imgur.com/khacDTU.png" group-title="REGIONAL",Omrop Fryslan
 https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8
 #EXTINF:-1 tvg-id="WOS.nl" tvg-name="WOS" tvg-logo="https://i.imgur.com/L7MUBIo.png" group-title="REGIONAL",WOS
 https://ms2.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
@@ -1033,7 +1033,7 @@ https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/master.m3u8
 https://cdn-us-mia.b-cdn.net/hcorg_5KvEYXJfYD0/s/jsl_UP9KAdlVrm8/master.m3u8
 #EXTINF:-1 tvg-id="HopeChannelInternational.us" tvg-name="Hope Channel International" tvg-logo="https://i.imgur.com/PNihgl2.png" group-title="CHRISTIAN",Hope Channel International
 https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_cZXINbwrFj6/master.m3u8
-#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="Speranta TV" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Romania-TV",speranta tv
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="Speranta TV" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="CHRISTIAN",speranta tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/master.m3u8
 #EXTINF:-1 tvg-id="MiracleChannel.ca" tvg-name="Miracle Channel" tvg-logo="https://i.imgur.com/LvIfmR5.png" group-title="CHRISTIAN",Miracle Channel  (Canada)
