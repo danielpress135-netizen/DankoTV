@@ -2300,15 +2300,24 @@ https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="AuroraTV.hr" tvg-name="Aurora TV" tvg-logo="https://i.imgur.com/T6O6OPS.png" group-title="Ex-Yu/TV",Aurora TV
 https://cdn-media-content.onestream.studio/content/hls/live/customwebsite_564_wey7rwdyl/hls.m3u8?eventId=25078469&originServer=frankfurt-primary-1
+#EXTINF:-1 tvg-id="NasaTV.mk" tvg-name="Наша ТВ" tvg-logo="https://i.imgur.com/9rB4VZy.png" group-title="Ex-Yu/TV",Наша ТВ
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 
 
 
 
 
 
-
-
-
+#EXTINF:-1 tvg-id="RockTV.mk" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Ex-Yu/TV",Rock TV (mk)
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="JazzTV.mk" tvg-name="Jazz TV" tvg-logo="https://i.imgur.com/CbQlSFX.png" group-title="Ex-Yu/TV",Jazz TV (mk)
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-id="CoolTV.mk" tvg-name="Cool TV" tvg-logo="https://i.imgur.com/2tFrjUz.png" group-title="Ex-Yu/TV",Cool TV (mk)
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-id="LoveTV.mk" tvg-name="Love TV" tvg-logo="https://i.imgur.com/B8iaejQ.png" group-title="Ex-Yu/TV",Love TV (mk)
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-id="FolkTV.mk" tvg-name="Folk TV" tvg-logo="https://i.imgur.com/4b9aZ9P.png" group-title="Ex-Yu/TV",Folk TV (mk)
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 #EXTINF:-1 tvg-id="TV.NOVA.12.music.mk" tvg-name="TV NOVA 12 music" tvg-logo="" group-title="Ex-Yu/TV",TV NOVA 12 music(576p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://novastreaming.cloudns.info/nova12_music/tracks-v1a1/mono.m3u8
