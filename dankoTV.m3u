@@ -3773,8 +3773,6 @@ https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Rockola.Television.distro" tvg-name="Rockola Television" tvg-logo="https://i.ibb.co/XxLWgN75/image-23.png" group-title="MUSIC🎶📺/TV CLASSIC",Rockola Television (USA)(Latino)
-https://cce.noisypeak.com/d/ams-av/contentserver/v2/distributions/35807033/content/m.m3u8?ads.app_bundle2=watchie.tv&ads.app_name2=Watchie+TV&ads.app_store_url2=https%253A%252F%252Fwatchie.tv%252F&ads.channel_name=Rockola+Television&ads.content_genre=Music%2CLATAM%2CHispanic&ads.content_title=Top+Hits+from+the+80s+and+90%27s&ads.provider_id=Klasko&ads.rating=0&ads.vast_id=SKL105&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlpPYmh6WG8xb3NBekVBaUxEUFg0IiwiaXNzIjoiY29udGVudHNlcnZlciIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMzU4MDcwMzMifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNzk0MzAzODg5fQ.bjcZmMVWQL_nfs7a4IKwgYYwrFr0R8uwDu0NpsV6Mqg&undefined%3D1298%26ads.did%3D71bc8bbc%26ads.channel_name%3DRockola%20Television%26ads.content_genre%3D%26ads.rating%3DTV14%26ads.content_series%3DTop%20Hits%20from%20the%2080s%20and%2090%27s%26ads.us_privacy%3D1N-N%26ads.app_platform%3Dweb%26ads.app_ver%3D1.1.01
 #EXTINF:-1 tvg-id="Magic.TV.HD.bg" tvg-name="Magic TV (bg)" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="MUSIC🎶📺/TV CLASSIC",Magic TV (bg)
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="Magic.TV.HD.ro" tvg-name="Magic TV(ro)" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="MUSIC🎶📺/TV CLASSIC",Magic TV(ro)
@@ -4037,8 +4035,6 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 http://mains.services/live/0228902066/tc674KJ3du/e4466204-f15f-49ba-bd49-a6ad0c3c4219.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Ayaz TV" tvg-logo="https://i.ibb.co/2Y5fdTp6/image-86.png" group-title="MUSIC🎶📺/TV MIX", Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1 tvg-id="Box.Playlist.us" tvg-name="Box Playlist" tvg-logo="https://i.ibb.co/rRD8vvy1/image-65.png" group-title="MUSIC🎶📺/TV MIX", Box Playlist
-https://cce.noisypeak.com/d/ams-av/contentserver/v2/distributions/35807003/content/m.m3u8?ads.app_bundle2=watchie.tv&ads.app_name2=Watchie+TV&ads.app_store_url2=https%253A%252F%252Fwatchie.tv%252F&ads.channel_name=Box+Playlist&ads.content_genre=Music%2CLATAM%2CHispanic&ads.content_title=Box+Playlist+-+es+dembow+dominicano+lo+mas+rankio+y+bueno&ads.provider_id=Klasko&ads.rating=0&ads.vast_id=SKL103&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhlYmtRa0ZuTnFwZGxQdTRzdEhZIiwiaXNzIjoiY29udGVudHNlcnZlciIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMzU4MDcwMDMifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNzk0MzA0MTQxfQ.M5IaPDMK6Jhstlvr-zq5Gt-CZqEN8D1IWnLoZftSyeY&undefined%3D1298%26ads.did%3D71bc8bbc%26ads.channel_name%3DBox%20Playlist%26ads.content_genre%3D%26ads.rating%3DTV14%26ads.content_series%3Dundefined%26ads.us_privacy%3D1N-N%26ads.app_platform%3Dweb%26ads.app_ver%3D1.1.01
 #EXTINF:-1 tvg-id="" tvg-name="Conecta TV" tvg-logo="https://i.ibb.co/1YGGCVWb/image-2025-08-29-T173609-292.png" group-title="MUSIC🎶📺/TV MIX", Conecta TV 
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="Happy.Radio.cz" tvg-name="Happy Radio TV" tvg-logo="https://i.ibb.co/KxnYTNMQ/image-2025-08-31-T223341-056.png" group-title="MUSIC🎶📺/TV MIX", Happy Radio TV
@@ -4790,9 +4786,9 @@ https://www.youtube.com/watch?v=up5_JOCSWO8
 
 
 #EXTINF:-1 tvg-id="4FUN.KIDS.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="PL🇵🇱/TV",4 Fun Kids (576i) [[Not 24/7]]
-https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+https://stream.4fun.tv:8888/hls/4fk.m3u8
 #EXTINF:-1 tvg-id="4FUN.TV.pl" tvg-name="4 Fun TV" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="PL🇵🇱/TV",4 Fun TV (576i) [Not 24/7]
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="PL🇵🇱/TV",Polsat (1080p) [Geo-blocked]
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="Polsat.News.HD.pl" tvg-name="Polsat News" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="PL🇵🇱/TV",Polsat News (1080p) [Geo-blocked]
@@ -4805,12 +4801,6 @@ https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #EXTINF:-1 tvg-id="TV.Regionalna.Lubin.pl" tvg-name="TV Regionalna Lubin" tvg-logo="https://i.imgur.com/2WVNt3f.png" group-title="PL🇵🇱/TV",TV Regionalna Lubin (1080p)
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
-#EXTINF:-1 tvg-id="TVP.1.HD.pl" tvg-name="TVP1" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="PL🇵🇱/TV",TVP1 (1080p)
-https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-#EXTINF:-1 tvg-id="TVP.Info.HD.pl" tvg-name="TVP Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png" group-title="PL🇵🇱/TV",TVP Info (1080p)
-https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
-#EXTINF:-1 tvg-id="TVP.Polonia.HD.pl" tvg-name="TVP Polonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" group-title="PL🇵🇱/TV",TVP Polonia (1080p)
-https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
 #EXTINF:-1 tvg-id="Twoja.TV.pl" tvg-name="Twoja.TV" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" group-title="PL🇵🇱/TV",Twoja.TV (1080p)
 https://stream.twoja.tv/ttv_hls/live.m3u8
 #EXTINF:-1 tvg-id="wPolsce.pl.HD.pl" tvg-name="W Polsce PL" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="PL🇵🇱/TV",W Polsce PL (720p)
@@ -4827,8 +4817,6 @@ https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
 #EXTINF:-1 tvg-id="Remonty.TV.pl" tvg-name="Remonty TV" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="PL🇵🇱/TV",Remonty TV (1080p)
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
-#EXTINF:-1 tvg-id="TV.Luban.pl" tvg-name="Telewizja Lubań" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" group-title="PL🇵🇱/TV",Telewizja Lubań (720p) [Not 24/7]
-http://stream.herissons.cloud/hls/tvluban.m3u8
 #EXTINF:-1 tvg-id="TV.Toruń.pl" tvg-name="TV Toruń" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" group-title="PL🇵🇱/TV",TV Toruń (1080p) [Not 24/7]
 http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PL:.Top.Movies.Polska.-.Rakuten.TV.be" tvg-name="Top Movies Polska" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png" group-title="PL🇵🇱/TV",Top Movies Polska (1080p)
@@ -5276,12 +5264,8 @@ http://92.86.248.141:8080/ram/playlist.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Play.ro" tvg-name="ANTENA-Comedy Play" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="ROM🇷🇴/TV",ANTENA-Comedy Play (720p)
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi.COOL.TV.ro" tvg-name="Antena-MediCOOL TV" tvg-logo="https://i.imgur.com/Xe7x1k2.png" group-title="ROM🇷🇴/TV",Antena-MediCOOL TV (720p)
-https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="Antena-Mireasa" tvg-logo="https://i.imgur.com/k0VO0LH.png" group-title="ROM🇷🇴/TV",Antena-Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-#EXTINF:-1 tvg-id="Observator.News.ro" tvg-name="Antena-Observator News" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="ROM🇷🇴/TV",Antena-Observator News (720p)
-https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="ROM🇷🇴/TV",A7TV (1080p)
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Aleph.Business.HD.ro" tvg-name="Aleph Business" tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="ROM🇷🇴/TV",Aleph Business (1280p)
@@ -5302,8 +5286,6 @@ https://jobtvserver.eu/hls/stream.m3u8
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-id="Kanal.D2.ro" tvg-name="Kanal D2" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="ROM🇷🇴/TV",Kanal D2 (360p)
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
-#EXTINF:-1 tvg-id="Lira.TV.es" tvg-name="LiraTV" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="ROM🇷🇴/TV",LiraTV (720p)
-https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="Metropola.TV.HD.ro" tvg-name="Metropola TV" tvg-logo="https://i.imgur.com/Gzq05v8.png" group-title="ROM🇷🇴/TV",Metropola TV (1080p) [Not 24/7]
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-id="România.TV.HD.ro" tvg-name="Romania TV" tvg-logo="https://i.imgur.com/ZIfEp5I.png" http-referrer="https://www.romaniatv.net/live" group-title="ROM🇷🇴/TV",Romania TV (576p)
@@ -5398,218 +5380,7 @@ https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv5 monde europe" tvg-logo="" group-title="ROM🇷🇴/TV TEST",tv5 monde europe
 https://hls01ns.antenaplay.ro/hls/tv5-monde-europe-sd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",E! HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6093/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",DIGI Sport 1 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/2523/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",DIGI Sport 2 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/2522/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",DIGI Sport 3 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/2524/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",DIGI Sport 4 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/2538/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",TVR 1 RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6941/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",TVR 2 RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6942/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",TVR 3 RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6943/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Viasat Kino RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6944/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Acasă Gold RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6945/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Alfa Omega TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6946/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",National 24 Plus RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6947/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",FilmBox+ One RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6948/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",AMC RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6949/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",AXN White RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6950/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Pro Cinema RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6951/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",AXN Black RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6952/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Film Cafe RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6953/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Travel Mix HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6954/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",TV Paprika RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6955/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Investigation Discovery RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6957/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Realitatea Plus RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6958/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Romania TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6959/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Minimax RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6960/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",JimJam RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6961/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Kiss TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6962/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Music Channel RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6963/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Disney Channel RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6965/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Cartoon Network RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6966/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Disney Jr. RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6967/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Discovery Channel RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6968/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",TLC RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6969/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Nickelodeon RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6972/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Chefi.ro RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6973/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Cartoonito RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6974/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Favorit TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6979/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Viasat History RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6980/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Viasat Explore RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6981/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",CineMax 2 RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6982/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",National TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6983/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Kanal D HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6984/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",CineMax HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6985/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",HBO HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6986/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",HBO 3 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6987/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Acasă TV HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6988/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Animal Planet HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6989/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Pro Arena HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6990/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",National Geographic HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6991/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Eurosport 1 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6992/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Bucuresti 1 TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6994/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Prima TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6995/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",FilmBox+ Emotion HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6996/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Pro TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6997/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",TVR 1 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6998/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Film Now HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/6999/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",TVR International HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Antena 1 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7002/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Antena 3 CNN HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7003/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Antena Stars HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7004/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",HBO 2 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",History HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7006/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",AXN RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",AXN HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",DIGI 24 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7009/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",National Geographic Wild HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Mezzo RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",AXN Spin RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7012/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",HBO 3 RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7013/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",HBO RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Diva RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",UTV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",National Geographic RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",National Geographic Wild RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7021/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Taraf TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7022/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Agro TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7023/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Hora TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7024/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Comedy Central RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7025/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Etno RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7027/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",HBO 2 RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7029/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",MTV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7031/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",BBC Earth HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7032/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Warner TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7033/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Chefi.ro HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7034/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Happy Channel HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7035/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",UTV HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7036/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Viasat Nature HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7037/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",DIGI Animal World HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7038/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",DIGI Life HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7039/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",DIGI World HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Nick Jr. RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7042/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",FilmBox+ Hits HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7043/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",FilmBox+ Comedy HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7044/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",FilmBox+ Love & Crime RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7045/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Food Network RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7046/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Trinitas TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7047/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",DocuBox HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7049/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Fashion TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7051/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Credo TV RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7052/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",BollywooD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7054/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Pro TV International RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7055/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Mooz Dance RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7056/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Viasat Epic Drama RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7057/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",BBC Earth RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7058/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Prima Sport 1 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7059/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Prima Sport 2 HD RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/7060/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ROM🇷🇴/TV TEST",Profit News RO
-http://10aead66.ucomist.net/iptv/4BNBHVMKQ2GQGE/32067/index.m3u8
+
 
 
 
@@ -5672,8 +5443,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="VmesteRF.ru@SD" tvg-name="Вместе РФ" tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="RU🇷🇺/TV",Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-name="Дума ТВ" tvg-logo="https://i.imgur.com/JvlO3PU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="RU🇷🇺/TV",Дума ТВ (1080p) [Not 24/7]
-https://dumatv.iptv2022.com/playlist.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru@SD" tvg-name="Неизвестная Россия" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="RU🇷🇺/TV",Неизвестная Россия (1080p)
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="RU🇷🇺/TV",НТВ HD (1080p)
@@ -5690,8 +5459,6 @@ https://cdn.ntv.ru/th_hit/playlist.m3u8
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.ru@SD" tvg-name="Прима" tvg-logo="https://i.imgur.com/33XGMch.png" group-title="RU🇷🇺/TV",Прима (1080p)
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-name="РБК" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="RU🇷🇺/TV",РБК (576p)
-https://uiptv.do.am/1ufc/701293058/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ТНТ 4" tvg-logo="" group-title="RU🇷🇺/TV", ТНТ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=6bnrzXL2j8mLXZCy9LlV7Q&e=2085483063&scheme=https
@@ -5720,7 +5487,7 @@ https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV MANA" tvg-logo="" group-title="RU🇷🇺/TV",TV MANA (RUS)
 https://w1.manasat.com/tvmana-leste/tvmana-leste/chunklist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-name="Шансон ТВ" tvg-logo="https://i.imgur.com/Fk4sd8t.png" group-title="RU🇷🇺/TV",Шансон ТВ (576p) [Geo-blocked]
-https://uiptv.do.am/1ufc/602079679/playlist.m3u8
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Музыка 1 International" tvg-logo="" group-title="RU🇷🇺/TV",Музыка 1 International
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Музыка 2 International" tvg-logo="" group-title="RU🇷🇺/TV",Музыка 2 International
@@ -5731,12 +5498,6 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Родное Кино" tvg-logo="" group-title="RU🇷🇺/TV",Родное Кино
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP Megahit HD" tvg-logo="" group-title="RU🇷🇺/TV", VIP Megahit HD
-https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP Premiere HD" tvg-logo="" group-title="RU🇷🇺/TV", VIP Premiere HD
-https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP Comedy HD" tvg-logo="" group-title="RU🇷🇺/TV", VIP Comedy HD
-https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Русский Бестселлер" tvg-logo="" group-title="RU🇷🇺/TV",Русский Бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Русский Детектив" tvg-logo="" group-title="RU🇷🇺/TV", Русский Детектив
@@ -5770,12 +5531,6 @@ https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="НТВ Сериалы Шеф" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="RU🇷🇺/TV",НТВ Сериалы Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Дикий" tvg-logo="" group-title="RU🇷🇺/TV", Дикий
-http://hls127.freeott.top:8080/Dikiy/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ocean TV" tvg-logo="" group-title="RU🇷🇺/TV",Ocean TV
-http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
-#EXTINF:-1 tvg-id="Russian.Travel.Guide.cz" tvg-name="RTG TV" tvg-logo="" group-title="RU🇷🇺/TV",RTG TV
-http://hls127.freeott.top:8080/RTG_TV/video.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Моя планета" tvg-logo="" group-title="RU🇷🇺/TV", Моя планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viju Nature" tvg-logo="" group-title="RU🇷🇺/TV",Viju Nature
@@ -5812,18 +5567,14 @@ https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=nFNatjqnT2kdlr0RamCo8w&e=2066519924&scheme=https
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="Viva Russia" tvg-logo="https://i.ibb.co/Nnm8fJN5/image-2025-07-10-T134908-994.png" group-title="RU🇷🇺/TV", Viva Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
-#EXTINF:-1 tvg-id="FonMusic.ru@SD" tvg-name="Fon Music" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="RU🇷🇺/TV"",Fon Music (1080p)
-http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bridge TV" tvg-logo="" group-title="RU🇷🇺/TV", Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="" group-title="RU🇷🇺/TV", Bridge Classic
-http://hls127.freeott.top:8080/Bridge_Classic/video.m3u8
+http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bridge Deluxe TV" tvg-logo="" group-title="RU🇷🇺/TV", Bridge Deluxe  TV
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bridge Russki Hit TV" tvg-logo="" group-title="RU🇷🇺/TV", Bridge Russki Hit TV
 http://stream.mcquack.net/320/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROPA PLUS" tvg-logo="" group-title="RU🇷🇺/TV",EUROPA PLUS 
-https://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="" tvg-name="Ты супер !" tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" group-title="RU🇷🇺/TV", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Чип и Дейл" tvg-logo="" group-title="RU🇷🇺/TV",Чип и Дейл
@@ -5832,8 +5583,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="SmileTV.ru" tvg-name="Смайл ТВ" tvg-logo="https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png" group-title="RU🇷🇺/TV",Смайл ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="СТС Kids" tvg-logo="" group-title="RU🇷🇺/TV",СТС Kids
-http://hls127.freeott.top:8080/STS_Kids/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Карусель" tvg-logo="" group-title="RU🇷🇺/TV",Карусель
 http://31.131.141.195:8000/play/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Доктор" tvg-logo="" group-title="RU🇷🇺/TV",Доктор
@@ -5842,8 +5591,6 @@ http://185.46.16.239:8000/Doktor
 https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Живи Активно HD" tvg-logo="" group-title="RU🇷🇺/TV",Живи Активно HD
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Кухня ТВ" tvg-logo="" group-title="RU🇷🇺/TV",Кухня ТВ
-http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="RU🇷🇺/TV", Матч HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=iORm8kodbyqVhBILvTpvCA&e=2085483124&scheme=https
@@ -5876,132 +5623,6 @@ http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 tvg-id="" tvg-name="Оружие" tvg-logo="" group-title="RU🇷🇺/TV",Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Кинохит" tvg-logo="" group-title="RU🇷🇺/TV Test", Кинохит
-http://46.32.176.50/kinoxit/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Кинокомедия" tvg-logo="" group-title="RU🇷🇺/TV Test", Кинокомедия
-http://46.32.176.50/kinokomedia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Мужское кино HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Мужское кино HD
-http://46.32.176.50/MujskoeKinoHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Hollywood HD
-http://46.32.176.50/HollywoodHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viju Megahit HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Viju Megahit HD
-http://46.32.176.50/VIPMegahitHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viju Premiere HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Viju Premiere HD
-http://46.32.176.50/VIPPremiereHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viju Comedy HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Viju Comedy HD
-http://46.32.176.50/VIPComedyHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viju Serial HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Viju Serial HD
-http://46.32.176.50/ViasatSportHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Индийское Кино" tvg-logo="" group-title="RU🇷🇺/TV Test", Индийское Кино
-http://46.32.176.50/indiskoekino/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Киносвидание" tvg-logo="" group-title="RU🇷🇺/TV Test", Киносвидание
-http://46.32.176.50/kinosvidanie/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Киносерия HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Киносерия HD
-http://46.32.176.50/kinoseria/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Киномикс HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Киномикс HD
-http://46.32.176.50/kinomiks/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Киносемья HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Киносемья HD
-http://46.32.176.50/kinosemya/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Еврокино" tvg-logo="" group-title="RU🇷🇺/TV Test", Еврокино
-http://46.32.176.50/eurokino/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Дом кино" tvg-logo="" group-title="RU🇷🇺/TV Test", Дом кино
-http://46.32.176.50/domkino/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Дом Кино Премиум HD
-http://46.32.176.50/DomKinoPremiumHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi" tvg-logo="" group-title="RU🇷🇺/TV Test", .Sci-Fi
-http://46.32.176.50/sonyscifi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Plan B" tvg-logo="" group-title="RU🇷🇺/TV Test", Plan B
-http://46.32.176.50/paramountchannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Русский Детектив" tvg-logo="" group-title="RU🇷🇺/TV Test", Русский Детектив
-http://46.32.176.50/russkiydetektiv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Русский Роман" tvg-logo="" group-title="RU🇷🇺/TV Test", Русский Роман
-http://46.32.176.50/russkiyroman/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Любимое Кино" tvg-logo="" group-title="RU🇷🇺/TV Test", Любимое Кино
-http://46.32.176.50/lubimoekino/index.m3u8
-EXTINF:-1 tvg-id="" tvg-name="ТВ3" tvg-logo="" group-title="RU🇷🇺/TV Test", ТВ3
-http://46.32.176.50/tv3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="RU🇷🇺/TV Test",NAT GEO WILD
-http://46.32.176.50/NatGeoWildHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="RU🇷🇺/TV Test",National Geographic
-http://46.32.176.50/nationalgeographic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Animal Planet HD
-http://46.32.176.50/AnimalPlanetHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Охота и Рыбалка" tvg-logo="" group-title="RU🇷🇺/TV Test", Охота и Рыбалка
-http://46.32.176.50/oxotoiribalka/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Дикий" tvg-logo="" group-title="RU🇷🇺/TV Test", Дикий
-http://46.32.176.50/dikiy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Моя планета" tvg-logo="" group-title="RU🇷🇺/TV Test", Моя планета
-http://46.32.176.50/moyaplaneta/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Planet" tvg-logo="" group-title="RU🇷🇺/TV Test", Big Planet 
-http://46.32.176.50/bigplanet/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Домашние Животные" tvg-logo="" group-title="RU🇷🇺/TV Test", Домашние Животные
-http://46.32.176.50/domashniejivotnie/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Живая Планета" tvg-logo="" group-title="RU🇷🇺/TV Test", Живая Планета
-http://46.32.176.50/jivayaplaneta/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Авто24" tvg-logo="" group-title="RU🇷🇺/TV Test", Авто24
-http://46.32.176.50/avto24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Авто Плюс" tvg-logo="" group-title="RU🇷🇺/TV Test", Авто Плюс
-http://46.32.176.50/avtoplyus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viju Nature" tvg-logo="" group-title="RU🇷🇺/TV Test",Viju Nature
-http://46.32.176.50/viasatexplorer/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viju History" tvg-logo="" group-title="RU🇷🇺/TV Test",Viju History
-http://46.32.176.50/viasathistory/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viju Explore" tvg-logo="" group-title="RU🇷🇺/TV Test",Viju Explore
-http://46.32.176.50/viasatexplorer/index.m3u8
-#EXTINF:-1 tvg-id="Vremya.cz" tvg-name="Время" tvg-logo="" group-title="RU🇷🇺/TV Test", Время
-http://46.32.176.50/Vremya/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="История" tvg-logo="" group-title="RU🇷🇺/TV Test", История
-http://46.32.176.50/istoriya/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Звезда" tvg-logo="" group-title="RU🇷🇺/TV Test", Звезда
-http://46.32.176.50/zvezda/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ТВЦ" tvg-logo="" group-title="RU🇷🇺/TV Test", ТВЦ
-http://46.32.176.50/tvc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Домашний" tvg-logo="" group-title="RU🇷🇺/TV Test", Домашний
-http://46.32.176.50/domashniy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ностальгия" tvg-logo="" group-title="RU🇷🇺/TV Test", Ностальгия
-http://46.32.176.50/nostalgiya/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Детский Мир HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Детский Мир HD
-http://46.32.176.50/detskiymir/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Мульт" tvg-logo="" group-title="RU🇷🇺/TV Test", Мульт
-http://46.32.176.50/mult/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Мама" tvg-logo="" group-title="RU🇷🇺/TV Test", Мама
-http://46.32.176.50/mama/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Живи Активно HD" tvg-logo="" group-title="RU🇷🇺/TV Test",Живи
-http://46.32.176.50/jivi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Кухня ТВ" tvg-logo="" group-title="RU🇷🇺/TV Test",Кухня ТВ
-http://46.32.176.50/kuxnyatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Матч HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Матч HD
-http://46.32.176.50/MatchTVHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Матч! Игра" tvg-logo="" group-title="RU🇷🇺/TV Test", Матч! Игра
-http://46.32.176.50/matchiqra/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Матч! Арена HD" tvg-logo="" group-title="RU🇷🇺/TV Test", Матч! Арена HD
-http://46.32.176.50/MatchArenaHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Матч! Боец" tvg-logo="" group-title="RU🇷🇺/TV Test", Матч! Боец
-http://46.32.176.50/boets/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bridge TV" tvg-logo="" group-title="RU🇷🇺/TV Test", Bridge TV
-http://46.32.176.50/bridgetv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="" group-title="RU🇷🇺/TV Test", Bridge Classic
-http://46.32.176.50/rusong/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bridge Deluxe" tvg-logo="" group-title="RU🇷🇺/TV Test", Bridge Deluxe
-http://46.32.176.50/BridgeTVHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC" tvg-logo="" group-title="RU🇷🇺/TV Test", CBC
-http://46.32.176.50/cbc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ТНТ 4" tvg-logo="" group-title="RU🇷🇺/TV Test", ТНТ 4
-http://46.32.176.50/tnt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Рен ТВ" tvg-logo="" group-title="RU🇷🇺/TV Test", Рен ТВ
-http://46.32.176.50/rentv/index.m3u8
-
-
-
-
-
-
-
-
- 
 
 
 
@@ -6128,8 +5749,6 @@ http://88.212.15.47/live/test_joj_25p/playlist.m3u8
 https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9.KTV.cz" tvg-name="TV 9" tvg-logo="" group-title="SK🇸🇰/TV",TV 9   
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="TV.Brezova.sk" tvg-name="TV Brezova" tvg-logo="" group-title="SK🇸🇰/TV",TV Brezova  
-https://videostudioris.sk/hls/tvb.m3u8
 #EXTINF:-1 tvg-id="TV.Myjava.sk" tvg-name="TV Myjava" tvg-logo="" group-title="SK🇸🇰/TV",TV Myjava 
 https://cdnsk003.panaccess.com/local/TV_MYJAVA_DC/index.m3u8
 #EXTINF:-1 tvg-id="Nove.Zamky.sk" tvg-name="TV Nove Zamky" tvg-logo="" group-title="SK🇸🇰/TV",TV Nove Zamky   
@@ -6144,8 +5763,6 @@ http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Senica.sk" tvg-name="TV Senica" tvg-logo="" group-title="SK🇸🇰/TV",TV Senica   
 https://cdnsk003.panaccess.com/local/TV_SEN_DC/index.m3u8
-#EXTINF:-1 tvg-id="Skalica.sk" tvg-name="TV Skalica" tvg-logo="" group-title="SK🇸🇰/TV",TV Skalica    
-https://videostudioris.sk/hls/tvs.m3u8
 #EXTINF:-1 tvg-id="Stara.Tura.sk" tvg-name="TV Stara Tura" tvg-logo="" group-title="SK🇸🇰/TV",TV Stara Tura 
  https://cdnsk003.panaccess.com/local/TV_STARA_TURA_DC/index.m3u8 
 #EXTINF:-1 tvg-id="Stara.Tura.sk" tvg-name="TV Stara Tura" tvg-logo="" group-title="SK🇸🇰/TV",TV Stara Tura 
@@ -6567,8 +6184,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7332/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7333/index.m3u8
 #EXTINF:0 group-title="SPORT/TEST" tvg-id="4568" tvg-logo="http://epg.one/img2/4568.png" tvg-rec="0",Arena Sport 6 HD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7334/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN_2" tvg-logo="" group-title="SPORT/TEST",DAZN 2
-http://23.237.104.106:8080/DAZN_2/index.m3u8
 #EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="Digi Sport 1 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 1 HD (ro)
 http://91.201.172.14:35005
 #EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="Digi Sport 2 HD" tvg-logo="" group-title="SPORT/TEST",Digi Sport 2 HD (ro)
@@ -6611,47 +6226,6 @@ http://stream.mcquack.net/212/index.m3u8
 #EXTINF:-1 tvg-id="Sport.1.Baltic.ua" tvg-logo="https://i.imgur.com/aBY7QK4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport 1 Baltic (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/461/index.m3u8
-#EXTINF:-1 tvg-id="Sport2.cz" tvg-logo="https://i.imgur.com/UxflVoU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="SPORT/TEST",Sport2 (cz)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN.HD.br" tvg-name="" tvg-logo="ESPN HD" group-title="SPORT/TEST",ESPN HD
-http://195.178.110.110/espn/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.HD.br" tvg-name="" tvg-logo="ESPN 2 HD" group-title="SPORT/TEST",ESPN 2
-http://195.178.110.110/espn2/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.HD.br" tvg-name="" tvg-logo="ESPN 3 HD" group-title="SPORT/TEST",ESPN 3
-http://195.178.110.110/espn3/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.4.HD.br" tvg-name="" tvg-logo="ESPN 4 HD" group-title="SPORT/TEST",ESPN 4
-http://195.178.110.110/espn4/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.5.HD.br" tvg-name="" tvg-logo="ESPN 5 HD" group-title="SPORT/TEST",ESPN 5
-http://195.178.110.110/espn5/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.6.HD.br" tvg-name="ESPN 6 HD" tvg-logo="" group-title="SPORT/TEST",ESPN 6
-http://195.178.110.110/espn6/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.7.HD.br" tvg-name="" tvg-logo="ESPN 7 HD" group-title="SPORT/TEST",ESPN 7
-http://195.178.110.110/espn7/index.m3u8
-#EXTINF:-1 tvg-id="FOXSPORTS.br" tvg-name="FOX SPORTS" tvg-logo="" group-title="SPORT/TEST",FOX SPORTS
-http://195.178.110.110/foxsports/index.m3u8
-#EXTINF:-1 tvg-id="FOXSPORTS2.br" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="SPORT/TEST",FOX SPORTS 2
-http://195.178.110.110/foxsports2/index.m3u8
-#EXTINF:-1 tvg-id="MOVISTAR.br" tvg-name="MOVISTAR" tvg-logo="" group-title="SPORT/TEST",MOVISTAR
-http://195.178.110.110/movistar/index.m3u8
-#EXTINF:-1 tvg-id="FoxSportsPremium.br" tvg-name="FOX SPORTS PREMIUM" tvg-logo="" group-title="SPORT/TEST",FOX SPORTS PREMIUM
-http://195.178.110.110/foxsportspremium/index.m3u8
-#EXTINF:-1 tvg-id="Univision.br" tvg-name="Univision" tvg-logo="" group-title="SPORT/TEST",Univision
-http://195.178.110.110/univision/index.m3u8
-#EXTINF:-1 tvg-id="SPORTV.br" tvg-name="SPORTV" tvg-logo="" group-title="SPORT/TEST",SPORTV
-http://195.178.110.110/sportv/index.m3u8
-#EXTINF:-1 tvg-id="SPORTV2.br" tvg-name="SPORTV 2" tvg-logo="" group-title="SPORT/TEST",SPORTV 2
-http://195.178.110.110/sportv2/index.m3u8
-#EXTINF:-1 tvg-id="SPORTV3.br" tvg-name="SPORTV 3" tvg-logo="" group-title="SPORT/TEST",SPORTV 3
-http://195.178.110.110/sportv3/index.m3u8
-#EXTINF:-1 tvg-id="tntsports.br" tvg-name="tntsports" tvg-logo="" group-title="SPORT/TEST",tntsports
-http://195.178.110.110/tntsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Diema sport 1" tvg-logo="" group-title="SPORT/TEST",Diema sport 1
-http://212.70.131.37:8000/play/a06e
-#EXTINF:-1 tvg-id="" tvg-name="Diema sport 2" tvg-logo="" group-title="SPORT/TEST",Diema sport 2
-http://212.70.131.37:8000/play/a06p
-#EXTINF:-1 tvg-id="" tvg-name="Diema sport 3" tvg-logo="" group-title="SPORT/TEST",Diema sport 3
-http://212.70.131.37:8000/play/a06o
 #EXTINF:0 group-title="SPORT/TEST" tvg-id="3317" tvg-logo="http://epg.one/img2/3317.png" tvg-rec="3",Sport 1 UA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6313/index.m3u8
 #EXTINF:0 group-title="SPORT/TEST" tvg-id="3318" tvg-logo="http://epg.one/img2/3318.png" tvg-rec="3",Sport 2 UA
@@ -6662,323 +6236,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/272/index
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15183/index.m3u8
 #EXTINF:0 group-title="SPORT/TEST" tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="3",Setanta Sports+ FHD UA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/5068/index.m3u8
-#EXTINF:0 group-title="SPORT/TEST" tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="0",Setanta Sports+ HD UA orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15184/index.m3u8
-#EXTINF:0 group-title="SPORT/TEST" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="3",Матч! Премьер FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2414/index.m3u8
-#EXTINF:0 group-title="SPORT/TEST" tvg-id="2051" tvg-logo="http://epg.one/img2/2051.png" tvg-rec="3",Матч ТВ FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2413/index.m3u8
-#EXTINF:0 group-title="SPORT/TEST" tvg-id="2044" tvg-logo="http://epg.one/img2/2044.png" tvg-rec="3",Матч! Футбол 1 FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2407/index.m3u8
-#EXTINF:0 group-title="SPORT/TEST" tvg-id="1042" tvg-logo="http://epg.one/img2/1042.png" tvg-rec="3",Матч! Футбол 2 FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2420/index.m3u8
-#EXTINF:0 group-title="SPORT/TEST" tvg-id="2005" tvg-logo="http://epg.one/img2/2005.png" tvg-rec="3",Матч! Футбол 3 FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/2408/index.m3u8
 
 
-#EXTINF:-1 tvg-id="1738" tvg-name="SUPER SPORT 1 ALB" tvg-logo="" group-title="SPORT/TEST" ,SUPER SPORT 1 ALB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1738
-#EXTINF:-1 tvg-id="1739" tvg-name="SUPER SPORT 2 ALB" tvg-logo="" group-title="SPORT/TEST" ,SUPER SPORT 2 ALB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1739
-#EXTINF:-1 tvg-id="1740" tvg-name="SUPER SPORT 3 ALB" tvg-logo="" group-title="SPORT/TEST" ,SUPER SPORT 3 ALB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1740
-#EXTINF:-1 tvg-id="1741" tvg-name="SUPER SPORT 4 ALB" tvg-logo="" group-title="SPORT/TEST" ,SUPER SPORT 4 ALB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1741
-#EXTINF:-1 tvg-id="2362" tvg-name="HAJDUK TV HD" tvg-logo="https://static.hajduk.hr/rev-1701319995/uploads/1/application/5c03b85a8c7b89a2789c402efbbe7821c9e579c2.png" group-title="SPORT/TEST" ,HAJDUK TV HD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2362
-#EXTINF:-1 tvg-id="481" tvg-name="MAX SPORT 1 HR HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_maxsport1.png" group-title="SPORT/TEST" ,MAX SPORT 1 HR HD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2185
-#EXTINF:-1 tvg-id="2072" tvg-name="MAX SPORT 2 HR HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_maxsport2.png" group-title="SPORT/TEST" ,MAX SPORT 2 HR HD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2186
-#EXTINF:-1 tvg-id="481" tvg-name="MAX SPORT 1 HR FHD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_maxsport1.png" group-title="SPORT/TEST" ,MAX SPORT 1 HR FHD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/481
-#EXTINF:-1 tvg-id="2072" tvg-name="MAX SPORT 2 HR FHD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_maxsport2.png" group-title="SPORT/TEST" ,MAX SPORT 2 HR FHD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2072
-#EXTINF:-1 tvg-id="2399" tvg-name="ZONASPORT TV HD" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2025/05/zonasporttv-384x216-16-300x169-1.png" group-title="SPORT/TEST" ,ZONASPORT TV HD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2399
-#EXTINF:-1 tvg-id="2381" tvg-name="ARENA ADRENALIN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-adrenalin-rs.png" group-title="SPORT/TEST" ,ARENA ADRENALIN
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2381
-#EXTINF:-1 tvg-id="1957" tvg-name="ARENA ESPORT" tvg-logo="https://mojasupernova.rs/oec/images/tv_channels/a572ac68907c899d781b957c46ea75b6.png" group-title="SPORT/TEST" ,ARENA ESPORT
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1957
-#EXTINF:-1 tvg-id="1956" tvg-name="ARENA FIGHT" tvg-logo="https://mojasupernova.rs/Picture/787/png/ARENAFIGHT_Inserter_PNG-1-.png" group-title="SPORT/TEST" ,ARENA FIGHT
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1956
-#EXTINF:-1 tvg-id="1955" tvg-name="ARENA SPORT 1X2" tvg-logo="https://mojasupernova.rs/Picture/823/png/Arena-1x2-smanjeno.png" group-title="SPORT/TEST" ,ARENA SPORT 1X2
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1955
-#EXTINF:-1 tvg-id="2380" tvg-name="ARENA TENIS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-tenis-rs.png" group-title="SPORT/TEST" ,ARENA TENIS
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2380
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="ARENA HD 1 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png" group-title="SPORT/TEST" ,ARENA HD 1 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/20
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="ARENA HD 2 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png" group-title="SPORT/TEST" ,ARENA HD 2 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/21
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="ARENA HD 3 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena3_logo.png" group-title="SPORT/TEST" ,ARENA HD 3 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/22
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="ARENA HD 4 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena4_logo.png" group-title="SPORT/TEST" ,ARENA HD 4 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/23
-#EXTINF:-1 tvg-id="123" tvg-name="ARENA HD 5 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena5_logo.png" group-title="SPORT/TEST" ,ARENA HD 5 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/123
-#EXTINF:-1 tvg-id="464" tvg-name="ARENA HD 6 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena6_logo.png" group-title="SPORT/TEST" ,ARENA HD 6 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/464
-#EXTINF:-1 tvg-id="1858" tvg-name="ARENA FHD 1 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png" group-title="SPORT/TEST" ,ARENA FHD 1 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1858
-#EXTINF:-1 tvg-id="21" tvg-name="ARENA FHD 2 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png" group-title="SPORT/TEST" ,ARENA FHD 2 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1859
-#EXTINF:-1 tvg-id="1860" tvg-name="ARENA FHD 3 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena3_logo.png" group-title="SPORT/TEST" ,ARENA FHD 3 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1860
-#EXTINF:-1 tvg-id="23" tvg-name="ARENA FHD 4 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena4_logo.png" group-title="SPORT/TEST" ,ARENA FHD 4 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1861
-#EXTINF:-1 tvg-id="1862" tvg-name="ARENA FHD 5 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena5_logo.png" group-title="SPORT/TEST" ,ARENA FHD 5 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1862
-#EXTINF:-1 tvg-id="1979" tvg-name="ARENA FHD 6 HR" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena6_logo.png" group-title="SPORT/TEST" ,ARENA FHD 6 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1979
-#EXTINF:-1 tvg-id="1980" tvg-name="ARENA FHD 7 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/50x50/5/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="SPORT/TEST" ,ARENA FHD 7 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1980
-#EXTINF:-1 tvg-id="1981" tvg-name="ARENA FHD 8 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/50x50/5/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="SPORT/TEST" ,ARENA FHD 8 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1981
-#EXTINF:-1 tvg-id="1982" tvg-name="ARENA FHD 9 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/50x50/5/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="SPORT/TEST" ,ARENA FHD 9 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1982
-#EXTINF:-1 tvg-id="1983" tvg-name="ARENA FHD 10 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/50x50/5/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="SPORT/TEST" ,ARENA FHD 10 HR
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1983
-#EXTINF:-1 tvg-id="2307" tvg-name="ARENA PREMIUM 1 HD BiH" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_1_Premium_BiH_BA_logo.png" group-title="SPORT/TEST" ,ARENA PREMIUM 1 HD BiH
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2307
-#EXTINF:-1 tvg-id="2408" tvg-name="ARENA PREMIUM 2 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA PREMIUM 2 HD BIH
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2408
-#EXTINF:-1 tvg-id="2409" tvg-name="ARENA PREMIUM 3 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA PREMIUM 3 HD BIH
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2409
-#EXTINF:-1 tvg-id="2037" tvg-name="ARENA PREMIUM 1 HD" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORT/TEST" ,ARENA PREMIUM 1 HD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2037
-#EXTINF:-1 tvg-id="2038" tvg-name="ARENA PREMIUM 2 HD" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORT/TEST" ,ARENA PREMIUM 2 HD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2038
-#EXTINF:-1 tvg-id="2039" tvg-name="ARENA PREMIUM 3 HD" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORT/TEST" ,ARENA PREMIUM 3 HD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2039
-#EXTINF:-1 tvg-id="2382" tvg-name="ARENA PREMIUM 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-4-rs.png" group-title="SPORT/TEST" ,ARENA PREMIUM 4 HD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2382
-#EXTINF:-1 tvg-id="2383" tvg-name="ARENA PREMIUM 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-5-rs.png" group-title="SPORT/TEST" ,ARENA PREMIUM 5 HD
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2383
-#EXTINF:-1 tvg-id="1873" tvg-name="ARENA 1 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA 1 HD BIH
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1873
-#EXTINF:-1 tvg-id="2384" tvg-name="ARENA 2 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA 2 HD BIH
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2384
-#EXTINF:-1 tvg-id="2385" tvg-name="ARENA 3 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA 3 HD BIH
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2385
-#EXTINF:-1 tvg-id="2386" tvg-name="ARENA 4 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA 4 HD BIH
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2386
-#EXTINF:-1 tvg-id="2387" tvg-name="ARENA 5 HD BIH" tvg-logo="" group-title="SPORT/TEST" ,ARENA 5 HD BIH
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2387
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ARENA 1 SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png" group-title="SPORT/TEST" ,ARENA 1 SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/100
-#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ARENA 2 SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png" group-title="SPORT/TEST" ,ARENA 2 SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/101
-#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="ARENA 3 SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png" group-title="SPORT/TEST" ,ARENA 3 SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/102
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="ARENA 4 SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png" group-title="SPORT/TEST" ,ARENA 4 SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/35
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="ARENA 5 SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena5.png" group-title="SPORT/TEST" ,ARENA 5 SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/121
-#EXTINF:-1 tvg-id="1336" tvg-name="ARENA 1 HD SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png" group-title="SPORT/TEST" ,ARENA 1 HD SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1336
-#EXTINF:-1 tvg-id="1337" tvg-name="ARENA 2 HD SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png" group-title="SPORT/TEST" ,ARENA 2 HD SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1337
-#EXTINF:-1 tvg-id="1338" tvg-name="ARENA 3 HD SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png" group-title="SPORT/TEST" ,ARENA 3 HD SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1338
-#EXTINF:-1 tvg-id="1339" tvg-name="ARENA 4 HD SRB" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png" group-title="SPORT/TEST" ,ARENA 4 HD SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1339
-#EXTINF:-1 tvg-id="1930" tvg-name="ARENA 5 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 5 HD SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/1930
-#EXTINF:-1 tvg-id="2052" tvg-name="ARENA 6 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 6 HD SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2052
-#EXTINF:-1 tvg-id="2053" tvg-name="ARENA 7 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 7 HD SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2053
-#EXTINF:-1 tvg-id="2054" tvg-name="ARENA 8 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 8 HD SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2054
-#EXTINF:-1 tvg-id="2377" tvg-name="ARENA 9 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 9 HD SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2377
-#EXTINF:-1 tvg-id="2379" tvg-name="ARENA 10 HD SRB" tvg-logo="" group-title="SPORT/TEST" ,ARENA 10 HD SRB
-http://client.nodomain.vip:80/ro.krolo/ro.kata.krolo/2379
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Dazn 1 es
-http://195.178.110.110/dazn1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Dazn 1 es
-http://195.178.110.110/dazn2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Dazn 1 es
-http://195.178.110.110/dazn3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Dazn 1 es
-http://195.178.110.110/dazn4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Dazn f1 es
-http://195.178.110.110/daznf1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",liga 1 Max pe
-http://195.178.110.110/liga1max/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Foxsports premium amozon
-http://195.178.110.110/foxsportspremium/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Foxdeportes
-http://195.178.110.110/foxdeportes/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Espnpremium HD
-http://195.178.110.110/espnpremium/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Espndeportes
-http://195.178.110.110/espndeportes/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Win plus HD
-http://195.178.110.110/winplus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Win sports HD
-http://195.178.110.110/winsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Win sports 2 HD
-http://195.178.110.110/winsports2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Tudn
-http://195.178.110.110/tudn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",fox 1 amozon HD
-http://195.178.110.110/foxsportsmx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",fox 2 amozon HD
-http://195.178.110.110/foxsports2mx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",foxsports 3 HD
-http://195.178.110.110/foxsports3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",DSports
-http://195.178.110.110/dsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",DSports
-http://195.178.110.110/dsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",DSports 2
-http://195.178.110.110/dsports2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",DSports Plus
-http://195.178.110.110/dsportsplus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",TntSports
-http://195.178.110.110/tntsports/index.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Tyc Sports
-http://195.178.110.110/tycsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",SporTV
-http://195.178.110.110/sportv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",SporTV 2
-http://195.178.110.110/sportv2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",SporTV 3
-http://195.178.110.110/sportv3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN
-http://195.178.110.110/espn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 2
-http://195.178.110.110/espn2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 3
-http://195.178.110.110/espn3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 4
-http://195.178.110.110/espn4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 5
-http://195.178.110.110/espn5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 6
-http://195.178.110.110/espn6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 7
-http://195.178.110.110/espn7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN mx
-http://195.178.110.110/espnmx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 2 mx
-http://195.178.110.110/espn2mx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 3 mx
-http://195.178.110.110/espn3mx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",ESPN 4 mx
-http://195.178.110.110/espn4mx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 1
-http://195.178.110.110/premiere1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 2
-http://195.178.110.110/premiere2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 3
-http://195.178.110.110/premiere3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 4
-http://195.178.110.110/premiere4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 5
-http://195.178.110.110/premiere5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 6
-http://195.178.110.110/premiere6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Premiere 7
-http://195.178.110.110/premiere7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 1 HD
-http://195.178.110.110/even1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 2 HD
-http://195.178.110.110/even2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 3 HD
-http://195.178.110.110/even3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 4 HD
-http://195.178.110.110/even4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 5 HD
-http://195.178.110.110/even5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",TntSports HD
-http://195.178.110.110/even6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 7 HD
-http://195.178.110.110/even7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Even 8 HD
-http://195.178.110.110/even8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Hypermotion 1 HD es
-http://195.178.110.110/hypermotion1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Hypermotion 2 HD es
-http://195.178.110.110/hypermotion2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Hypermotion 3 HD es
-http://195.178.110.110/hypermotion3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Azteca 7
-http://195.178.110.110/azteca7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Canal5 HD
-http://195.178.110.110/canal5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Telemundo
-http://195.178.110.110/telemundo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Movistar
-http://195.178.110.110/movistar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Unimas
-http://190.197.41.183/Unimas/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Univision
-http://195.178.110.110/univision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Universo
-http://195.178.110.110/universo/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Esport HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31597/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Fight HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31598/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Premium 1 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31599/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Premium 2 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31600/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Premium 3 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31601/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31602/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 3 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31603/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 4 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31605/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31606/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 6 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31607/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 7 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31608/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 8 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31609/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 9 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1x2 HD RS
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/31611/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 1 FHD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7263/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 2 FHD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7264/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 3 FHD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7265/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 4 FHD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7266/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 5 FHD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7267/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Arena Sport 6 FHD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7268/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Sport Klub 1 HD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7269/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Sport Klub 2 HD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7270/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Sport Klub 3 HD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7271/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Sport Klub 4 HD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7272/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Sport Klub 5 HD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7273/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Sport Klub 6 HD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7274/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Sport Klub 7 HD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7275/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Sport Klub 8 HD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7276/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Sport Klub Golf HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7277/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT/TEST",Sport Klub Fight HD HR
-http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7278/index.m3u8
 
 
 
@@ -7067,6 +6327,7 @@ http://193.33.39.108:8088/tv2kids/index.m3u8
 http://193.33.39.108:8088/filmmania/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="spektrumhome" tvg-logo="" group-title="TEST",spektrumhome
 http://193.33.39.108:8088/spektrumhome/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD [PL]" tvg-logo="" group-title="TEST",HBO HD [PL]
 http://185.170.153.13:6878/ace/getstream?infohash=d82bf881231c114915379919a2afffaeb5eb5fee&pid=604
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD [PL]" tvg-logo="" group-title="TEST",HBO 2 HD [PL]
@@ -7154,8 +6415,6 @@ http://185.170.153.13:6878/ace/getstream?infohash=07793c990e158208c29207faecb107
 
 #EXTINF:-1 tvg-id="" tvg-name="CLOUDING TV" tvg-logo="" group-title="TEST",CLOUDING TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XTREME TV" tvg-logo="" group-title="TEST",XTREME TV
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CHANNEL NETWORK" tvg-logo="" group-title="TEST",TV CHANNEL NETWORK
 https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="" group-title="TEST",REDE BRASIL
@@ -7168,8 +6427,6 @@ https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BS-TV ONLINE" tvg-logo="" group-title="TEST",BS-TV ONLINE
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CLÁSSICOS DO CINEMA" tvg-logo="" group-title="TEST",TV CLÁSSICOS DO CINEMA
-https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELA BRASIL TV" tvg-logo="" group-title="TEST",TELA BRASIL TV
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OTAKU SIGN TV" tvg-logo="" group-title="TEST",OTAKU SIGN TV
@@ -7178,14 +6435,10 @@ https://stmv1.srvif.com/anime/anime/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-id="" tvg-name="TV WEB SÃO LUIS CANOAS RS" tvg-logo="" group-title="TEST",TV WEB SÃO LUIS CANOAS RS
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV MIURA" tvg-logo="" group-title="TEST",TV MIURA
-https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV SANTA" tvg-logo="" group-title="TEST",TV SANTA
 https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV LATINASAT" tvg-logo="" group-title="TEST",TV LATINASAT
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV! PARANÁ" tvg-logo="" group-title="TEST",REDE TV! PARANÁ
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ARACATI" tvg-logo="" group-title="TEST",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REVIVA TV" tvg-logo="" group-title="TEST",REVIVA TV
@@ -7196,8 +6449,6 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV MAIS BRASIL" tvg-logo="" group-title="TEST",TV MAIS BRASIL
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WORDING TV" tvg-logo="" group-title="TEST",WORDING TV
-https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV SÉRIES" tvg-logo="" group-title="TEST",CLASSIQUE TV SÉRIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LUCAS TV" tvg-logo="" group-title="TEST",LUCAS TV
@@ -7206,16 +6457,10 @@ https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV POMPEIA" tvg-logo="" group-title="TEST",TV POMPEIA
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC BRASIL TV" tvg-logo="" group-title="TEST",MBC BRASIL TV
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLN TV" tvg-logo="" group-title="TEST",GLN TV
-https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDE NGT" tvg-logo="" group-title="TEST",REDE NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV" tvg-logo="" group-title="TEST",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAYMAX TV" tvg-logo="" group-title="TEST",PLAYMAX TV
-https://stmv2.srvsh.com.br/daniel5336/daniel5336/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN (Band PB)" tvg-logo="" group-title="TEST",TV ARAPUAN (Band PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ALIANÇA" tvg-logo="" group-title="TEST",TV ALIANÇA
@@ -7224,16 +6469,12 @@ https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
 
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1708173256/1/267/150/0.jpg" group-title="TEST",FREE Western Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzY0MzY1OTYzOH0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646485706/1/267/150/0.jpg" group-title="TEST",Grit XTRA
 https://286eba24.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fR3JpdFh0cmFfSExT/playlist.m3u8?ads.wurl_channel=1208&ads.wurl_name=GritXtra&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzc4ODM2ODI3MH0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1652309484/1/267/150/0.jpg" group-title="TEST",GET.
 https://73324a3542ab4ad4a8738ee1894d2af7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-VIZIO/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQ2MjgyNDU1MzN9
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242882/1/267/150/0.jpg" group-title="TEST",FilmRise Western
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885515&ads.csid=viziowatchfree_us_filmrisewestern_ssai&ads.caid=FilmRiseWestern&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseWestern&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.channelId=88885515&ads.xumo_channelName=FilmRiseWestern&ads._fw_content_programmer_brand=FilmRiseWestern&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6Mjk4NDk5NzEzOX0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1652535931/1/267/150/0.jpg" group-title="TEST",The Three Stooges+
-https://amg02451-c3-amg02451c1-vizio-us-3670.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI3MTE3MjQ1NH0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1684562729/1/267/150/0.jpg" group-title="TEST",Death Valley Days
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885571/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885571&ads.csid=viziowatchfree_us_deathvalleydays_ssai&ads.caid=DeathValleyDays&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=DeathValleyDays&ads.xumo_providerId=260&ads.xumo_providerName=DeathValleyDays&ads.channelId=88885571&ads.xumo_channelName=DeathValleyDays&ads._fw_content_programmer_brand=DeathValleyDays&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDI1NjQxOTI0Mn0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646848034/1/267/150/0.jpg" group-title="TEST",The Carol Burnett Show
@@ -7267,10 +6508,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15122/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6377/index.m3u8
 #EXTINF:0 group-title="TEST" tvg-id="2194" tvg-logo="http://epg.one/img2/2194.png" tvg-rec="3",1+1 Марафон UA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6317/index.m3u8
-#EXTINF:0 group-title="TEST" tvg-id="8897" tvg-logo="http://epg.one/img2/8897.png" tvg-rec="3",1+1 International UA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/994/index.m3u8
-#EXTINF:0 group-title="TEST" tvg-id="8897" tvg-logo="http://epg.one/img2/8897.png" tvg-rec="3",1+1 Україна FHD UA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/987/index.m3u8
 #EXTINF:0 group-title="TEST" tvg-id="2195" tvg-logo="http://epg.one/img2/2195.png" tvg-rec="3",2+2 HD UA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6378/index.m3u8
 #EXTINF:0 group-title="TEST" tvg-id="2212" tvg-logo="http://epg.one/img2/2212.png" tvg-rec="3",Прямий HD UA
@@ -7317,8 +6554,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/15130/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/951/index.m3u8
 #EXTINF:0 group-title="TEST" tvg-id="2217" tvg-logo="http://epg.one/img2/2217.png" tvg-rec="3",Уніaн Серіал HD UA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/1023/index.m3u8
-#EXTINF:0 group-title="TEST" tvg-id="2148" tvg-logo="http://epg.one/img2/2148.png" tvg-rec="3",Суспільне Крим HD UA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/1017/index.m3u8
 #EXTINF:0 group-title="TEST" tvg-id="2202" tvg-logo="http://epg.one/img2/2202.png" tvg-rec="3",ПлюсПлюс HD UA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMRPH2Q5M9SZL4/6379/index.m3u8
 #EXTINF:0 group-title="TEST" tvg-id="2107" tvg-logo="http://epg.one/img2/2107.png" tvg-rec="0",Пiксель TV HD UA
