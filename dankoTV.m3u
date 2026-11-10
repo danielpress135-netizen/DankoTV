@@ -2716,7 +2716,12 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-id="VOTV.es@SD" tvg-logo="https://i.imgur.com/1g2Z64L.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="LatinoES🇪🇸/TV",VOTV (Spain)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
-
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="LatinoES🇪🇸/TV",Retro Plus 3 (CHILE)
+https://video06.logicahost.com.br/aretroplustv03/aretroplustv03/main_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LatinoES🇪🇸/TV",ENT COMEDY
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LatinoES🇪🇸/TV",ENT EXTREME
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
 
 
@@ -3736,8 +3741,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 http://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Music TV" tvg-logo="" group-title="MUSIC🎶📺/TV CHRISTIAN",Gospel Music TV
 http://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Sublime Gracia" tvg-logo="https://i.ibb.co/q3tDtrby/image-64.png" group-title="MUSIC🎶📺/TV CHRISTIAN",Radio Sublime Gracia
-https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABN.Praise.Him.Music.us2" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.ibb.co/1YBqKZPd/image-2025-09-01-T164205-206.png" group-title="MUSIC🎶📺/TV CHRISTIAN",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOP MIX TV 2" tvg-logo="https://i.ibb.co/yBQgSMDd/image-26.png" group-title="MUSIC🎶📺/TV CHRISTIAN",TOP MIX TV 2
@@ -3771,7 +3774,7 @@ https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
 
 
 #EXTINF:-1 tvg-id="Rockola.Television.distro" tvg-name="Rockola Television" tvg-logo="https://i.ibb.co/XxLWgN75/image-23.png" group-title="MUSIC🎶📺/TV CLASSIC",Rockola Television (USA)(Latino)
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/461f9c48-13d5-4a6f-95ac-a59a71527ad8/4.m3u8
+https://cce.noisypeak.com/d/ams-av/contentserver/v2/distributions/35807033/content/m.m3u8?ads.app_bundle2=watchie.tv&ads.app_name2=Watchie+TV&ads.app_store_url2=https%253A%252F%252Fwatchie.tv%252F&ads.channel_name=Rockola+Television&ads.content_genre=Music%2CLATAM%2CHispanic&ads.content_title=Top+Hits+from+the+80s+and+90%27s&ads.provider_id=Klasko&ads.rating=0&ads.vast_id=SKL105&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlpPYmh6WG8xb3NBekVBaUxEUFg0IiwiaXNzIjoiY29udGVudHNlcnZlciIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMzU4MDcwMzMifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNzk0MzAzODg5fQ.bjcZmMVWQL_nfs7a4IKwgYYwrFr0R8uwDu0NpsV6Mqg&undefined%3D1298%26ads.did%3D71bc8bbc%26ads.channel_name%3DRockola%20Television%26ads.content_genre%3D%26ads.rating%3DTV14%26ads.content_series%3DTop%20Hits%20from%20the%2080s%20and%2090%27s%26ads.us_privacy%3D1N-N%26ads.app_platform%3Dweb%26ads.app_ver%3D1.1.01
 #EXTINF:-1 tvg-id="Magic.TV.HD.bg" tvg-name="Magic TV (bg)" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="MUSIC🎶📺/TV CLASSIC",Magic TV (bg)
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="Magic.TV.HD.ro" tvg-name="Magic TV(ro)" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="MUSIC🎶📺/TV CLASSIC",Magic TV(ro)
@@ -3793,9 +3796,9 @@ https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro.Music.cz" tvg-name="Retro Music TV" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",Retro Plus TV
-https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV 2" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",Retro Plus TV 2
-https://scl.edge.grupoz.cl/retroplustvdos/live/playlist.m3u8
+https://video06.logicahost.com.br/aretroplustv02/aretroplustv02/main_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 Best" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC",RTL 102.5 Best
 https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mola Hits" tvg-logo="https://i.ibb.co/L24NXKg/image-2025-07-10-T143246-895.png" group-title="MUSIC🎶📺/TV CLASSIC",Mola Hits
@@ -3810,8 +3813,6 @@ https://cdn-de1.lulzy.eu/vmusic_720/main_stream.m3u8
 https://hls.lulzy.eu/vclassic_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VANTAGE ROCK" tvg-logo="https://i.ibb.co/v4C8YpbK/image-14.png" group-title="MUSIC🎶📺/TV CLASSIC",VANTAGE ROCK
 https://cdn-de1.lulzy.eu/vrock_720/main_stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mega classic TV" tvg-logo="https://i.ibb.co/v409J73n/image-9.png" group-title="MUSIC🎶📺/TV CLASSIC",Mega classic TV
-https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD3300004RH" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" channel-id="SamsungTVPlus-USBD3300004RH" tvg-chno="4323" group-title="MUSIC🎶📺/TV CLASSIC",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
 #EXTINF:-1 tvg-id="XITE.Hits.DUMMY.us" tvg-name="XITE Hits" tvg-logo="https://i.ibb.co/p88DV2y/resize.png" group-title="MUSIC🎶📺/TV CLASSIC",XITE Hits
@@ -3861,18 +3862,14 @@ https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
 http://mains.services/live/0228902066/tc674KJ3du/db374815-34b2-49ed-b0cf-42415612058c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Radio Anni 80" tvg-logo="https://i.ibb.co/TB3NVWXP/image-2025-07-09-T095357-198.png" group-title="MUSIC🎶📺/TV CLASSIC", Radio Anni 80
 https://585b674743bbb.streamlock.net/9076/9076/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC TV" tvg-logo="https://i.ibb.co/dJBgsg2X/image-9.png" group-title="MUSIC🎶📺/TV CLASSIC", RETRO MUSIC TV
-https://live20.bozztv.com/akamaissh101/ssh101/506retromusictv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png" group-title="MUSIC🎶📺/TV CLASSIC",Bridge Classic
-http://tinyurl.com/TvZaTak37/Bridge_Classic/video.m3u8?token=freeportal&token=5b811724a60914eef3bbc1ee10cc8836
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Classic" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png" group-title="MUSIC🎶📺/TV CLASSIC",Bridge Classic  (AD)
+http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Classic" tvg-logo="https://i.imgur.com/NPavpts.png" group-title="MUSIC🎶📺/TV CLASSIC",Pluto TV MTV Classic
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WOX TV" tvg-logo="" group-title="MUSIC🎶📺/TV CLASSIC", WOX TV
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="RadioZona903.cl@SD" tvg-name="Radio Zona 90.3" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png" group-title="MUSIC🎶📺/TV CLASSIC",Radio Zona 90.3 (cile)
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
-#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind TV" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="MUSIC🎶📺/TV CLASSIC",Rewind TV (1080p)
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SensacionCosta.cl@SD" tvg-name="Sensacion Costa" tvg-logo="https://i.imgur.com/oYQoWAB.png" group-title="MUSIC🎶📺/TV CLASSIC"",Sensacion Costa
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Musica Television Cile" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="MUSIC🎶📺/TV CLASSIC",Retro Musica Television Cile
@@ -3885,15 +3882,13 @@ https://vdochile.com:3864/stream/play.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Ditty HD" tvg-logo="https://i.ibb.co/zhPqszhK/image-2025-08-31-T113918-303.png" group-title="MUSIC🎶📺/TV CONCERTS",Ditty HD
-https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/ab030a5e-4ef9-4b7b-aa5a-fd117c9b0d12/3.m3u8
+https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Qwest.TV.plex" tvg-name="Qwest TV" tvg-logo="" group-title="MUSIC🎶📺/TV CONCERTS",Qwest TV
 https://qwest-jazz-plex.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Concert.Channel.sv" tvg-name="Concert Channel" tvg-logo="https://i.ibb.co/DhC4B9Z/image-19.png" group-title="MUSIC🎶📺/TV CONCERTS",Concert Channel
 http://45.5.117.99:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13 Festival" tvg-logo="https://i.ibb.co/mVzv8L8Q/image-2025-09-10-T051643-497.png" group-title="MUSIC🎶📺/TV CONCERTS",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TotalMusic Concerts" tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="MUSIC🎶📺/TV CONCERTS",TotalMusic Concerts
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="Stingray.iConcerts.HD.ro" tvg-name="Stingray Iconcerts" tvg-logo="" group-title="MUSIC🎶📺/TV CONCERTS",Stingray Iconcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Qello.Concerts.plex" tvg-name="Stingray TV Qello" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="MUSIC🎶📺/TV CONCERTS",Stingray TV Qello
@@ -4210,10 +4205,6 @@ http://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9
 http://streamcdng6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-name="Totalmusic" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="MUSIC🎶📺/TV PACK",Totalmusic (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TotalMusic Dance" tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="MUSIC🎶📺/TV PACK",TotalMusic Dance
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TotalMusic Concerts" tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="MUSIC🎶📺/TV PACK",TotalMusic Concerts
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TotalMusic 80" tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="MUSIC🎶📺/TV PACK",TotalMusic 80
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TotalMusic 00" tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="MUSIC🎶📺/TV PACK",TotalMusic 00
