@@ -4666,28 +4666,27 @@ https://stream.smashmalta.com/live/webplayermt/livestream/12.m3u8
 https://gizmo2.cloudserver.nz/hls/GROAT.m3u8
 #EXTINF:-1 tvg-id="MetalTV.de" tvg-name="Metal TV" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer= https://metaltv.live/
+#EXTVLCOPT:http-referrer=https://metaltv.live/
 https://stream.metaltv.live/live/stream.m3u8
 #EXTINF:-1 tvg-id="MetalTVProgressive.de" tvg-name="Metal TV Progressive" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Progressive  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer= https://metaltv.live/
+#EXTVLCOPT:http-referrer=https://metaltv.live/progressive
 https://stream.metaltv.live/live/progressive/stream.m3u8
 #EXTINF:-1 tvg-id="MetalTVDoom.de" tvg-name="Metal TV Doom" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Doom  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer= https://metaltv.live/
+#EXTVLCOPT:http-referrer=https://metaltv.live/doom
 https://stream.metaltv.live/live/doom/stream.m3u8
 #EXTINF:-1 tvg-id="MetalTVThrash.de" tvg-name="Metal TV Thrash" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Thrash  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer= https://metaltv.live/
-#EXTVLCOPT:http-referrer= https://metaltv.live/
+#EXTVLCOPT:http-referrer=https://metaltv.live/thrash
 https://stream.metaltv.live/live/thrash/stream.m3u8
 #EXTINF:-1 tvg-id="MetalTVDeath.de" tvg-name="Metal TV Death" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Death  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer= https://metaltv.live/
+#EXTVLCOPT:http-referrer=https://metaltv.live/death
 https://stream.metaltv.live/live/death/stream.m3u8
 #EXTINF:-1 tvg-id="MetalTVCore.de" tvg-name="Metal TV Core" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK",Metal TV Core  (Deutsch)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer= https://metaltv.live/
+#EXTVLCOPT:http-referrer=https://metaltv.live/core
 https://stream.metaltv.live/live/core/stream.m3u8
 #EXTINF:-1 tvg-id="RockTV.mk" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="MUSIC🎶📺/TV🎸ROCK",Rock TV (mk)
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
