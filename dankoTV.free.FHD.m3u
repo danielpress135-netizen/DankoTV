@@ -128,8 +128,6 @@ https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 https://streamcdnm7-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 tvg-id="TGNorba24.it" tvg-name="TG Norba 24" tvg-logo="https://i.imgur.com/zAZcSgz.png" group-title="NEWS",TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
-#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="NEWS",M1 
-https://c201-node62-cdn.connectmedia.hu/110301/1f3d85026fd197778d72428df18955d3/6af1be17/index.m3u8
 #EXTINF:-1 tvg-id="IcelTV.tr" tvg-name="Icel TV" tvg-logo="https://i.imgur.com/CGwImKv.png" group-title="NEWS",Icel TV
 https://edge.taksimbilisim.com/iceltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="Ilke TV" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="NEWS",Ilke TV
@@ -325,10 +323,6 @@ https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 tvg-id="BajaiTV.hu" tvg-name="Bajai TV" tvg-logo="https://i.imgur.com/cyReGWh.png" group-title="GENERAL",Bajai TV 
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Duna.hu" tvg-name="Duna" tvg-logo="https://i.imgur.com/oPbsSlp.png" group-title="GENERAL",Duna
-https://c402-node61-cdn.connectmedia.hu/110303/5508e0912389b04069ab66a1135fb87b/6af1bc6a/index.m3u8
-#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="GENERAL",Duna World 
-https://c201-node62-cdn.connectmedia.hu/110306/bd48787f4e6ffb9b3c4db8c1bfc82cd5/6af1bda4/index.m3u8
 #EXTINF:-1 tvg-id="HirTV.hu" tvg-name="Hir TV" tvg-logo="https://i.imgur.com/xmIUDRN.png" group-title="GENERAL",Hir TV
 https://video9.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
 #EXTINF:-1 tvg-id="RTK1Sat.xk" tvg-name="RTK 1 Sat" tvg-logo="https://i.imgur.com/LtorccS.png" group-title="GENERAL",RTK 1 Sat
@@ -986,8 +980,6 @@ https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
 https://stream.4fun.tv:8889/hls/4fk.m3u8
 #EXTINF:-1 tvg-id="BeJoykids.it" tvg-name="BeJoy.kids" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" group-title="KIDS",BeJoy.kids
 https://stream.paroledivita.org/bejoy.m3u8
-#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="KIDS",M2 
-https://c402-node61-cdn.connectmedia.hu/110302/78ff166b83a6e83d832d3db8cffce855/6af1be80/index.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-name="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="KIDS",TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr" tvg-name="Zarok TV" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="KIDS",Zarok TV
@@ -1205,8 +1197,6 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="DOCUMENTAL",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="DOCUMENTAL",M5 
-https://c401-node61-cdn.connectmedia.hu/110305/bfd6082addf93e60a7d95ce2ee99e701/6af1bf4a/index.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" group-title="DOCUMENTAL",ARD-alpha de
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="DOCUMENTAL",Dokusat
@@ -1614,8 +1604,6 @@ https://hls.shift.tv/live/shifttv/playlist.m3u8
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Rete8Sport.it" tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/jojCxg3.png" group-title="SPORT",Rete 8 Sport
 https://64b16f23efbee.streamlock.net:443/rete8sport/rete8sport/playlist.m3u8
-#EXTINF:-1 tvg-id="M4.hu" tvg-name="M4" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="SPORT",M4 SPORT
-https://c401-node62-cdn.connectmedia.hu/110304/707856ed50c151fc7a390e21d8405a99/6af1bee5/index.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="SPORT",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TJK TV" tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="SPORT",TJK TV
