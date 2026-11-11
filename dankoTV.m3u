@@ -4444,10 +4444,14 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 
 #EXTINF:-1 tvg-id="NR1.HD.gr" tvg-name="Number 1 TV" tvg-logo="https://i.imgur.com/02cDIBi.png" group-title="MUSIC🎶📺/TV PACK",Number 1 TV (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-name="Power TV" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="MUSIC🎶📺/TV PACK",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-name="Power Dance" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="MUSIC🎶📺/TV PACK",Power Dance (1080p)
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerLove.tr@SD" tvg-name="Power Love" tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="MUSIC🎶📺/TV PACK",Power Love (1080p)
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTurk TV" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="MUSIC🎶📺/TV PACK",PowerTurk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="PowerTurkAkustik.tr@SD" tvg-name="Power Türk Akustik" tvg-logo="https://i.imgur.com/driabBO.png" group-title="MUSIC🎶📺/TV PACK",Power Türk Akustik (1080p)
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkSlow.tr@SD" tvg-name="Power Türk Slow" tvg-logo="https://i.imgur.com/tQSoQXW.png" group-title="MUSIC🎶📺/TV PACK",Power Türk Slow (1080p)
@@ -4686,6 +4690,8 @@ https://stream.metaltv.live/live/death/stream.m3u8
 https://stream.metaltv.live/live/core/stream.m3u8
 #EXTINF:-1 tvg-id="RockTV.mk" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="MUSIC🎶📺/TV🎸ROCK",Rock TV (mk)
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WOX TV" tvg-logo="" group-title="MUSIC🎶📺/TV🎸ROCK", WOX TV
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 
 
