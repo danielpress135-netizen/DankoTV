@@ -142,8 +142,6 @@ https://www.youtube.com/watch?v=7PPN_D4E6QU
 
 
 
-#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Пловдивска Православна телевизия" tvg-logo="" group-title="YouTubeTV - Europa",Пловдивска Православна телевизия8
-https://www.youtube.com/watch?v=_PGYdS633kM
 #EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-name="Bulgaria 24" tvg-logo="https://i.imgur.com/XMlnMb8.png" group-title="YouTubeTV - Europa", България 24 Live
 https://www.youtube.com/watch?v=dp7KFKQ7-lM
 #EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="YouTubeTV - Europa",HRT 4 
@@ -525,8 +523,12 @@ https://www.youtube.com/watch?v=QEzc8Q8ey6Y
 https://www.youtube.com/watch?v=bhXMNikwS1I
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Suburban Noize Records
 https://www.youtube.com/watch?v=_sbQAtP4o0k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Prosthetic Records - Radio Station
+https://www.youtube.com/watch?v=URUEj1zMIa8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Better Noise Music - NOISEFEED
 https://www.youtube.com/watch?v=2v7a9uTpb5w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Last Gang Records - Radio Station
+https://www.youtube.com/watch?v=0zyzE_UqOzE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Fearless Records
 https://www.youtube.com/watch?v=Yw5wiiijPsQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",MNRK Music Group - Heavy Radio Station
@@ -537,6 +539,8 @@ https://www.youtube.com/watch?v=VD8wLAWqQ6w
 https://www.youtube.com/watch?v=xWBJD8tytK0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Spinnin’ Records
 https://www.youtube.com/watch?v=xf9Ejt4OmWQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",The Lexington Lab Band Station  (covers)
+https://www.youtube.com/watch?v=2bB41KsfT3g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",RHINO TV - 70s Hits 24/7 (Classic Rock Disco & Pop Music Videos)
 https://www.youtube.com/watch?v=lTBjUv3-fsM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",RHINO TV - 70s & 80s late night drive 🚘 synthpop  post-punk & classic music videos live
@@ -557,6 +561,22 @@ https://www.youtube.com/watch?v=9fcHAB9QssQ
 https://www.youtube.com/watch?v=rfSiLkUmmMs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Chrysalis Records - 90s Pop & Alternative Hits - Music Station
 https://www.youtube.com/watch?v=dxBB5Q9EsRE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Universal Music Group - Best of the 80s Hits 
+https://www.youtube.com/watch?v=2ZD5X9gpkgs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Universal Music Group - 2000s Throwback Bangers 
+https://www.youtube.com/watch?v=XvS0HvF1jzM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Universal Music Group - Country Hits - Modern Favourites & All-Time Classics 
+https://www.youtube.com/watch?v=xbyHvgCAVds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Universal Music Group - Best of 2026
+https://www.youtube.com/watch?v=hb5Y-kcV9us
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Universal Music Group - Holiday Music Mix
+https://www.youtube.com/watch?v=ylS9e6OWWHU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Universal Music Group - Best Classical Music
+https://www.youtube.com/watch?v=2FxvY3nuzTU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Universal Music Group - Workout Rock Playlist
+https://www.youtube.com/watch?v=2uHQHdzrmlg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Universal Music Group Italy - Musica di Natale 2026 - The Christmas Station 🎄🎅
+https://www.youtube.com/watch?v=xNE9r3TT67U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Hit That Perfect Beat TV - '80s '90s & '00s Greatest Hits from London Records
 https://www.youtube.com/watch?v=j11-tnF6HJw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",NettwerkMusic - From Then to Now - Nettwerk Heavy Hitters Station
@@ -593,6 +613,8 @@ https://www.youtube.com/watch?v=WpaGUf21KRo
 https://www.youtube.com/watch?v=QAYoV59byq0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Insomniac TV  (dance)
 https://www.youtube.com/watch?v=VJrd9doSRwA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Spinnin' Records 24/7 Live Station - Best Dance Music Videos
+https://www.youtube.com/watch?v=DpJm1Jryd-Y
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Q-dance Music - The Sound of the Harder Styles & Defqon.1  (Niderlandia dance)
 https://www.youtube.com/watch?v=2EeQ9EydLB0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",QUIERO MÚSICA TV  (LATINO)
@@ -635,18 +657,24 @@ https://www.youtube.com/watch?v=DSUy_JeJMcA
 https://www.youtube.com/watch?v=TWIPJMwhh0Y
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Halidon Live Classical Concerts Music Station
 https://www.youtube.com/watch?v=_m0pCoY5n9Q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Halidon's Live Music Station - The Most Relaxing Classical Music
+https://www.youtube.com/watch?v=XmSr4BTWyy8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",COLORS STATION - TONES of Paris
 https://www.youtube.com/watch?v=Dh9MP3Q_6aI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",COLORS STATION 
 https://www.youtube.com/watch?v=32G7AsgFu10
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Ubisoft Music - Station
 https://www.youtube.com/watch?v=O1xFRkA7Q5w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",WaterTower Music - 🎄Holiday Film & TV Classics Station 🎅
+https://www.youtube.com/watch?v=y6DGw-n0eFo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",WaterTower Music - 🍁 Cozy Fall Soundtrack Station
+https://www.youtube.com/watch?v=QVQwkAoh9wU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",The Night Owl Sings – The Lullabies & Baby Sleep Music STATION
 https://www.youtube.com/watch?v=D99pAH0Ckpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",The state51 Conspiracy - state51 Factory Sessions Station (independent label England)
 https://www.youtube.com/watch?v=TUONthv8Fhs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Dead Oceans Recods TV (USA)
-
+https://www.youtube.com/watch?v=AvSWDcfZ24s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Radio - Rock Classics (Timeless Rock Hits of the 70s 80s and 90s)
 https://www.youtube.com/watch?v=Nt27aBceerI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records1 - TV'Show",Radio - Rock 90s (Best of 90's Rock Hits)
@@ -696,6 +724,8 @@ https://www.youtube.com/watch?v=MapyzI6YI_Q
 https://www.youtube.com/watch?v=dqkA6pmy328
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",ComixRockRecords - Comix Station  (Taivan)
 https://www.youtube.com/watch?v=gRnkqcBBaUg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",LinfairRecords - 2010-2019  (Taivan)
+https://www.youtube.com/watch?v=2wq16yynYCk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",BinMusic (taivan)
 https://www.youtube.com/watch?v=R62E7cFWX6o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",Rock Records Taipei - ROCK Radio 🎧
@@ -710,6 +740,8 @@ https://www.youtube.com/watch?v=O_-NjHABJIg
 https://www.youtube.com/watch?v=t7G5plbq6oo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",Star Music Video Station  (India)
 https://www.youtube.com/watch?v=bKV_-InhY88
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",Junglee Music Telugu - Telugu Superhit Songs in 8K
+https://www.youtube.com/watch?v=RRWayvove_A
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",Mass Audios Station India - Tamil Music Director Hits - Non-Stop Hits
 https://www.youtube.com/watch?v=dUrwlK21j8o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",Think Music Kannada - Kannada Romantic Songs
@@ -732,10 +764,14 @@ https://www.youtube.com/watch?v=rIXYTUnP9Q4
 https://www.youtube.com/watch?v=bI2nrOdgwZ8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",Viva Records OPM Essentials  (Philippines)
 https://www.youtube.com/watch?v=EixU46u3f5k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",UMG Philippines - UDiscover FM  Your 24/7 Live OPM Radio (Philippines)
+https://www.youtube.com/watch?v=OiejAMUiyjM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",Nguyễn Văn Chung  (композитор Vietnam)
 https://www.youtube.com/watch?v=hxidvq6FlxM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",Rotana Station  (Saud Arabi)
 https://www.youtube.com/watch?v=haRt_29y2iQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",Caltex Records - The Station (Persian)
+https://www.youtube.com/watch?v=tgVJCUcvsFk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",WATARY - Ayam El Shety Station  (Livan)
 https://www.youtube.com/watch?v=g0j0Z_Kfg_I
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - Records2 - TV'Show",WATARY - Wataryat Oldies Station
@@ -1077,7 +1113,8 @@ https://www.youtube.com/watch?v=KePt8cGByI0
 https://www.youtube.com/watch?v=CjHAb6IYfN0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - pop'rock",Billy Joel - The Station
 https://www.youtube.com/watch?v=6iBCvRdXr80
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV(M) - pop'rock",Roxette - STATION - Watch Roxette music videos 24 Seven
+https://www.youtube.com/watch?v=GQhOUu0Qc5g
 
 
 
@@ -2104,6 +2141,8 @@ https://www.youtube.com/watch?v=kAUVOHB3XYM
 https://www.youtube.com/watch?v=EbAqAwSafwY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Christmas Piano Music & Fireplace Sounds
 https://www.youtube.com/watch?v=kszQ_pb1lU8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Classic Christmas Songs LIVE🎄24/7 Holiday Music
+https://www.youtube.com/watch?v=qmOZ7JbKeR4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Fireplace & Piano Relaxing Music For Sleep
 https://www.youtube.com/watch?v=NRFnC7gWepE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTubeTV - Relax",Classical Piano Music & Fireplace
