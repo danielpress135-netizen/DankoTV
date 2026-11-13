@@ -949,7 +949,7 @@ https://streaming.ataxmedia.com/hls/playM/main_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reverb E" tvg-logo="" group-title="Ex-Yu/Music tv",Reverb E
 https://streaming.ataxmedia.com/hls/reverbE/main_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAN DA! TV" tvg-logo="" group-title="Ex-Yu/Music tv",PAN DA! TV
-https://lbgo.bozztv.com/ssh101/ssh101/rtvpanda/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/rtvpanda/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jupok Radio" tvg-logo="" group-title="Ex-Yu/Music tv",Jupok Radio
 https://lbgo.bozztv.com/ssh101/ssh101/jupokradio/playlist.m3u8
 #EXTINF:-1 tvg-id="ADRIA.MUSIC.TELEVISION.ch" tvg-name="Adria" tvg-logo="" group-title="Ex-Yu/Music tv",Adria

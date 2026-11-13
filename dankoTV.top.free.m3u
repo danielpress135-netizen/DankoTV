@@ -226,6 +226,9 @@ https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="SLO2.hr" tvg-name="TV SLO 2 HD" tvg-logo="" group-title="TV📺/Balkan",TV SLO 2 HD (test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews.rs" tvg-name="TV SLO 2 HD" tvg-logo="" group-title="TV📺/Balkan",Euronews Srbija
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="K1.(RS).rs" tvg-name="K1 info rs" tvg-logo="" group-title="TV📺/Balkan", K1 info rs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://edge-rs-03.maksnet.tv/minacordmedia-secure/k1studio/playlist.m3u8
@@ -311,8 +314,12 @@ https://cdn-media-content.onestream.studio/content/hls/live/customwebsite_564_we
 #EXTINF:-1 tvg-id="KTV.Zrenjanin.rs" tvg-name="KTV Zrenjanin" tvg-logo="" group-title="TV📺/Balkan",KTV Zrenjanin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
-
-
+#EXTINF:-1 tvg-id="NTVIC.ba" tvg-name="" tvg-logo="" group-title="TV📺/Balkan",NTVIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://fn.rtsp.me/Nxzi7_R-ux-_7LpGuB_V3w/1794520748/hls/hZ4YkSfH.m3u8?ip=79.100.63.28
+#EXTINF:-1 tvg-id="" tvg-name="PAN DA! TV" tvg-logo="" group-title="TV📺/Balkan",PAN DA! TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://183.giatvcdn.com/ssh101/ssh101/rtvpanda/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Plovdivska Pravoslavna TV" tvg-logo="" group-title="TV📺/CHRISTIAN",Plovdivska Pravoslavna TV 

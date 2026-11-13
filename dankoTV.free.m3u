@@ -2302,8 +2302,14 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1b
 https://cdn-media-content.onestream.studio/content/hls/live/customwebsite_564_wey7rwdyl/hls.m3u8?eventId=25078469&originServer=frankfurt-primary-1
 #EXTINF:-1 tvg-id="NasaTV.mk" tvg-name="Наша ТВ" tvg-logo="https://i.imgur.com/9rB4VZy.png" group-title="Ex-Yu/TV",Наша ТВ
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="NTVIC.ba" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",NTVIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://fn.rtsp.me/Nxzi7_R-ux-_7LpGuB_V3w/1794520748/hls/hZ4YkSfH.m3u8?ip=79.100.63.28
+#EXTINF:-1 tvg-id="Euronews.rs" tvg-name="" tvg-logo="" group-title="Ex-Yu/TV",EURONEWS SRBIJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
 
 
 
@@ -2323,7 +2329,7 @@ https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 https://novastreaming.cloudns.info/nova12_music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAN DA! TV" tvg-logo="" group-title="Ex-Yu/TV",PAN DA! TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://lbgo.bozztv.com/ssh101/ssh101/rtvpanda/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/rtvpanda/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Best TV" tvg-logo="https://i.ibb.co/ZzDcSx4S/image-2025-07-09-T095211-583.png" group-title="Ex-Yu/TV",Radio Best TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://radio.serv.si/BestTV/tracks-v1a1/mono.m3u8
@@ -2880,6 +2886,9 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/chunklist_b1396
 #EXTINF:-1 tvg-id="RockZoneTV.ro" tvg-name="Rock Zone TV" tvg-logo="" group-title="Romania-TV",Rock Zone TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s.505050.me:64610/rock_zone2/pl.m3u8
+#EXTINF:-1 tvg-id="ZeceTV.ro" tvg-name="ZECE TV" tvg-logo="" group-title="Romania-TV",ZECE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://zecetv.ilink.ro:8088/hls/live.m3u8
 #EXTINF:-1 tvg-id="UnoTV.md" tvg-name="Uno TV md" tvg-logo="" group-title="Romania-TV",Uno TV md
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tt.nfthost.net/static/streaming-playlists/hls/49d7593a-a240-4bd1-8759-cfea525250f0/master.m3u8
