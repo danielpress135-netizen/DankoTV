@@ -469,6 +469,16 @@ http://87.120.179.187:8000/play/a008
 http://87.120.179.187:8000/play/a00k
 #EXTINF:-1 tvg-id="Max.Sport.2.bg" tvg-name="Max Sport 2 HD" tvg-logo="" group-title="BG🇧🇬/TV test",Max Sport 2 HD
 http://87.120.179.187:8000/play/a00f
+#EXTINF:-1 tvg-id="Max.Sport.3.bg" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="BG🇧🇬/TV test",MAX Sport 3 HD
+http://45.84.187.172:3001/udp/239.100.100.61:5000
+#EXTINF:-1 tvg-id="Max.Sport.4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="BG🇧🇬/TV test",Max Sport 4
+http://45.84.187.172:3001/udp/239.100.100.63:5000
+#EXTINF:-1 tvg-id="Diema.Sport.bg" tvg-name="Diema Sport HD" tvg-logo="" group-title="BG🇧🇬/TV test",Diema Sport HD
+https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
+#EXTINF:-1 tvg-id="Diema.Sport.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title="BG🇧🇬/TV test",Diema Sport 2 HD
+https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="BG🇧🇬/TV test",Diema Sport 3 HD
+http://45.84.187.172:3001/udp/226.156.69.136:5000
 #EXTINF:-1 tvg-id="БНТ.Свят.bg" tvg-name="BNT 4" tvg-logo="" group-title="BG🇧🇬/TV test",BNT 4
 http://87.120.179.187:8000/play/a02j
 #EXTINF:-1 tvg-id="Balkanika.MTV.bg" tvg-name="Balkanika HD" tvg-logo="" group-title="BG🇧🇬/TV test",Balkanika HD
