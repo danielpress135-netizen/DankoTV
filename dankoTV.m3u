@@ -6788,8 +6788,15 @@ https://hugh.cdn.rumble.cloud/video/s8/2/H/O/G/_/HOG_p.caa.mp4
 #EXTINF:-1 group-title="BG Rumble Films Test",
 #EXTINF:-1 group-title="BG Rumble Films Test",
 
-#EXTINF:-1 group-title="Archive.org Films Test" tvg-logo="https://archive.org/stream/little-big-man-1970_202511/little-big-man-1970_202511.thumbs/Little%20Big%20Man%20%281970%29/Little%20Big%20Man%20-%201970_000115.jpg?vtt=vtt.vtt",Little Big Man (1970 Western eng.audio)
+#EXTINF:-1 group-title="Archive.org Mix Films Test" tvg-logo="https://archive.org/stream/little-big-man-1970_202511/little-big-man-1970_202511.thumbs/Little%20Big%20Man%20%281970%29/Little%20Big%20Man%20-%201970_000115.jpg?vtt=vtt.vtt",Little Big Man (1970 Western eng.audio)
 https://archive.org/download/little-big-man-1970_202511/Little%20Big%20Man%20%281970%29%2FLittle%20Big%20Man%20-%201970.mp4
+#EXTINF:-1 group-title="Archive.org Mix Films Test" tv-logo="https://archive.org/stream/the-fast-and-the-furious-1954-colorized-movie-576p-sd_202509/the-fast-and-the-furious-1954-colorized-movie-576p-sd_202509.thumbs/the%20fast%20and%20the%20furious-1954-colorized%20movie-576p-sd_000115.jpg?vtt=vtt.vtt",The Fast and the Furious (1954 colorized) action
+https://archive.org/download/the-fast-and-the-furious-1954-colorized-movie-576p-sd_202509/the%20fast%20and%20the%20furious-1954-colorized%20movie-576p-sd.mp4
+#EXTINF:-1 group-title="Archive.org Mix Films Test" tv-logo="https://archive.org/stream/a-touch-of-larceny-1959-colorized-movie-576p-sd/a-touch-of-larceny-1959-colorized-movie-576p-sd.thumbs/a%20touch%20of%20larceny-1959-colorized%20movie-576p-sd_000114.jpg?vtt=vtt.vtt",A Touch of Larceny  (1959  colorized) comedy
+https://archive.org/download/a-touch-of-larceny-1959-colorized-movie-576p-sd/a%20touch%20of%20larceny-1959-colorized%20movie-576p-sd.mp4
+#EXTINF:-1 group-title="Archive.org Mix Films Test" tv-logo="https://archive.org/stream/the-day-the-earth-stood-still-colorized-movie-720p-hd_202404/the-day-the-earth-stood-still-colorized-movie-720p-hd_202404.thumbs/the%20day%20the%20earth%20stood%20still-colorized%20movie-720p-hd_000114.jpg?vtt=vtt.vtt",The Day the Earth Stood Still (1951 colorized) sci-fi
+https://archive.org/download/the-day-the-earth-stood-still-colorized-movie-720p-hd_202404/the%20day%20the%20earth%20stood%20still-colorized%20movie-720p-hd.mp4
+
 
 #EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-mabels-married-life-1914/charlie-chaplin-mabels-married-life-1914.thumbs/Charlie%20Chaplin-Mabel%27s%20Married%20Life%20%281914%29_000058.jpg?vtt=vtt.vtt",Mabel's Married Life ( 1914)
 https://archive.org/download/charlie-chaplin-mabels-married-life-1914/Charlie%20Chaplin-Mabel%27s%20Married%20Life%20%281914%29.ia.mp4
@@ -6901,6 +6908,542 @@ https://archive.org/serve/charliechaplintheimmigrant1917hd_201908/Charlie%20Chap
 https://archive.org/serve/the-circus-charlie-chaplin/Charlie.Chaplin.The.Circus.1928.720p.x264.mp4
 #EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/shoulder-arms-1918-charlie-chaplin-short/shoulder-arms-1918-charlie-chaplin-short.thumbs/Shoulder%20Arms%20%281918%29%20%5BCharlie%20Chaplin%5D%20%5E720p%2C4%3B3_000060.jpg?vtt=vtt.vtt",Shoulder Arms (1918)
 https://archive.org/download/shoulder-arms-1918-charlie-chaplin-short/Shoulder%20Arms%20%281918%29%20%5BCharlie%20Chaplin%5D%20%5E720p%2C4%3B3.ia.mp4
+
+
+
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="https://archive.org/stream/death.-rides.a.-horse.-1967/death.-rides.a.-horse.-1967.thumbs/Death%20Rides%20a%20Horse%20%281967%29/Death.Rides.a.Horse.1967_000115.jpg?vtt=vtt.vtt",Death Rides a Horse (1967) eng
+https://archive.org/download/death.-rides.a.-horse.-1967/Death%20Rides%20a%20Horse%20%281967%29%2FDeath.Rides.a.Horse.1967.ia.mp4
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="https://archive.org/stream/face.-to.-face.-1967/face.-to.-face.-1967.thumbs/Face%20To%20Face%20%281967%29/mp4/Face.To.Face.1967_000124.jpg?vtt=vtt.vtt",Face to Face (1967) eng
+https://archive.org/serve/face.-to.-face.-1967/Face%20To%20Face%20%281967%29%2Fmp4%2FFace.To.Face.1967.ia.mp4
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="https://archive.org/stream/django.-1966_202512/django.-1966_202512.thumbs/Django%20%281966%29/mp4/Django.1966_000124.jpg?vtt=vtt.vtt",Django (1966) it
+https://ia600706.us.archive.org/22/items/django.-1966_202512/Django%20%281966%29%2Fmp4%2FDjango.1966.mp4?cnt=0
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="https://archive.org/stream/a.-bullet.-for.-the.-general.-1967/a.-bullet.-for.-the.-general.-1967.thumbs/A%20Bullet%20For%20The%20General%20%281967%29/A.Bullet.For.The.General.1967_000118.jpg?vtt=vtt.vtt",A Bullet for the General (1967) it
+https://archive.org/download/a.-bullet.-for.-the.-general.-1967/A%20Bullet%20For%20The%20General%20%281967%29%2FA.Bullet.For.The.General.1967.mp4
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="https://archive.org/stream/the.-price.of.-power.-1969/the.-price.of.-power.-1969.thumbs/A%20Bullet%20for%20the%20Pesident%20%281969%29/mp4/The.Price.of.Power.1969_000114.jpg?vtt=vtt.vtt",The Price of Power (1969) eng 
+https://archive.org/download/the.-price.of.-power.-1969/A%20Bullet%20for%20the%20Pesident%20%281969%29%2Fmp4%2FThe.Price.of.Power.1969.mp4
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="https://archive.org/stream/the-big-gundown-1966_202511/the-big-gundown-1966_202511.thumbs/The%20Big%20Gundown%20%281966%29/mp4/The%20Big%20Gundown%20-%201966_000115.jpg?vtt=vtt.vtt",The Big Gundown (1966) eng
+https://ia601908.us.archive.org/34/items/the-big-gundown-1966_202511/The%20Big%20Gundown%20%281966%29%2Fmp4%2FThe%20Big%20Gundown%20-%201966.mp4?cnt=0
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="https://archive.org/stream/the.-mercenary.-1968/the.-mercenary.-1968.thumbs/The%20Mercenary%20%281968%29/mp4/The.Mercenary.1968_000119.jpg?vtt=vtt.vtt",The Mercenary (1968) eng
+https://archive.org/serve/the.-mercenary.-1968/The%20Mercenary%20%281968%29%2Fmp4%2FThe.Mercenary.1968.mp4
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="https://archive.org/stream/the.-magnificent.-seven.-1960.720p.-blu-ray.x-264.-yify/the.-magnificent.-seven.-1960.720p.-blu-ray.x-264.-yify.thumbs/The.Magnificent.Seven.1960.720p.BluRay.x264.YIFY_000114.jpg?vtt=vtt.vtt",The Magnificent Seven 1960
+https://archive.org/download/the.-magnificent.-seven.-1960.720p.-blu-ray.x-264.-yify/The.Magnificent.Seven.1960.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="https://archive.org/stream/for-a-few-dollars-more-1965_202205/for-a-few-dollars-more-1965_202205.thumbs/For%20A%20Few%20Dollars%20More%20%28HD%29%20-%20Full%20Movie_000054.jpg?vtt=vtt.vtt",For A Few Dollars More (1965)
+https://archive.org/download/for-a-few-dollars-more-1965_202205/For%20A%20Few%20Dollars%20More%20%28HD%29%20-%20Full%20Movie.mp4
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="",
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="",
+#EXTINF:-1 group-title="Archive.org Western Films Test" tv-logo="",
+
+
+
+
+
+
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",A fly in the Pink 
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-A%20Fly%20in%20the%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",An Ounce of Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-An%20Ounce%20of%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Bobolink Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Bobolink%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Bully for Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Bully%20for%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Cat and the Pinkstalk
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Cat%20and%20the%20Pinkstalk.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Come on in The Water's Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Come%20on%20In%21%20The%20Water%27s%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Congratulations! it's Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Congratulations%21%20It%27s%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Dial-P-For Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Dial%20-P-%20For%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Dietetic Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Dietetic%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Doctor Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Doctor%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Extinct Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Extinct%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Forty Pink Winks
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Forty%20Pink%20Winks.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",G.I. Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-G.I.%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Genie With the Ligh Pink Fur
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Genie%20With%20the%20Light%20Pink%20Fur.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Gong with the Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Gong%20with%20the%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink of the Night
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-In%20the%20Pink%20of%20the%20Night.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",In the Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-In%20the%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",It's Pink But Is It Mink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-It%27s%20Pink%2C%20But%20Is%20It%20Mink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Jet Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Jet%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Keep The Forest Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Keep%20The%20Forests%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Little Beaux Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Little%20Beaux%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Lucky Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Lucky%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Mystic Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Mystic%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",OLYMPINKS
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-OLYMPINKS%21.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",PSST Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-PSST%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pet Pink Pebbles
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pet%20Pink%20Pebbles.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pickled Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pickled%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Ball
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%208-Ball.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Arcade
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Arcade.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Aye
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Aye.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Bananas
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Bananas.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Blue Plate
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Blue%20Plate.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Breakfast
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Breakfast.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Campaign
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Campaign.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Da Vinci
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Da%20Vinci.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Daddy
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Daddy.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Elephant
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Elephant.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Ice
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Ice.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Lemonade
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Lemonade.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Lightning
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Lightning.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Outs
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Outs.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Pajamas
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Pajamas.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Panic
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Panic.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Panzer
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Panzer.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Paradise
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Paradise.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Pest Control
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Pest%20Control.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Pictures
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Pictures.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Piper
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Piper.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Pistons
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Pistons.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Plasma
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Plasma.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Posies
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Posies.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Praks
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Pranks.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Press
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Press.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Pull
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Pull.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Punch
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Punch.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Quackers
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Quackers.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink S.W.A.T.
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20S.W.A.T.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Sphinx
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Sphinx.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Streaker
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Streaker.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Suds
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Suds.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Trumpet
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Trumpet.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Tuba-Dore
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Tuba-Dore.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink U.F.O.
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20U.F.O.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Valiant
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Valiant.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Z-Z-Z
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20Z-Z-Z.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink and Shovel
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20and%20Shovel.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink in the  Clink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20in%20the%20Clink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink in the Drink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20in%20the%20Drink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink in the Woods
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20in%20the%20Woods.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink is a Many Splintered Thing
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20is%20a%20Many%20Splintered%20Thing.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink of the Litter
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20of%20the%20Litter.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink on the Cob
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%20on%20the%20Cob.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink Plunk Plink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink%2C%20Plunk%2C%20Plink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink-A-Boo
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink-A-Boo.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink-A-Rella
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink-A-Rella.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink-Come Tax
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink-Come%20Tax.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink-In
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink-In.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pink-Tails for Two
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pink-Tails%20for%20Two.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pinkadilly Circus
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pinkadilly%20Circus.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pinkfinger
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pinkfinger.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pinknic
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pinknic.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pinkologist
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pinkologist.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Pinto Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Pinto%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Prefabricated
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Prefabricated%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Prehistoric Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Prehistoric%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Psychedelic Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Psychedelic%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Put Put Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Put%20Put%2C%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Reel Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Reel%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Rock-A-Bye Pinky
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Rock-A-Bye%20Pinky.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Salmon Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Salmon%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Sherlock Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Sherlock%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Shocking Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Shocking%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Sink Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Sink%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Sky Blue Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Sky%20Blue%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Slink Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Slink%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Smile Pretty Say Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Smile%20Pretty%2C%20Say%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Spark Plug Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Spark%20Plug%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Sprinkle Me  Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Sprinkle%20Me%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Star Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Star%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",String Along in Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-String%20Along%20In%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Super Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Super%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Supermarket Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Supermarket%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Hand is Pinker than the Eye
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Hand%20is%20Pinker%20than%20the%20Eye.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Pink Blueprint
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Pink%20Blueprint.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Pink Flea
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Pink%20Flea.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Pink Package Plot
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Pink%20Package%20Plot.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Pink Phink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Pink%20Phink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Pink Pill
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Pink%20Pill.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Pink Pro
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Pink%20Pro.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Pink Quarterback
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Pink%20Quarterback.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Pink Tail Fly 
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Pink%20Tail%20Fly.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Pink of Bagdad
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Pink%20of%20Bagdad.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",The Scarlet Pinkernel
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-The%20Scarlet%20Pinkernel.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Therapeutic Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Therapeutic%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Think Before You Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Think%20Before%20You%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Tickled Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Tickled%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Toro Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Toro%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Trail of Lonesome Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Trail%20of%20Lonesome%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Twinkle Twinkle Little Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Twinkle%2C%20Twinkle%2C%20Little%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Vitamin Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Vitamin%20Pink.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",We Give Pink Stamps
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-We%20Give%20Pink%20Stamps.mp4
+#EXTINF:-1 group-title="Archive.org The Pink Panter Test" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-panther-logo-png-transparent.png",Yankee Doodle Pink
+https://archive.org/download/ThePinkPanther-cartoons/The%20Pink%20Panther%20in%20-Yankee%20Doodle%20Pink.mp4
+
+
+
+
+#EXTINF:-1 group-title="Archive.org Tom ana Jery Tales Test" tv-logo="https://images.fanart.tv/bigpreview/tom-and-jerry-tales-58b00c87d462e.png",volume 1
+https://archive.org/download/tom-and-jerry-tales-dvd-isos/TOM_AND_JERRY_TALES_VOLUME_1.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery Tales Test" tv-logo="https://images.fanart.tv/bigpreview/tom-and-jerry-tales-58b00c87d462e.png",volume 2
+https://archive.org/download/tom-and-jerry-tales-dvd-isos/TomJerrydd2.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery Tales Test" tv-logo="https://images.fanart.tv/bigpreview/tom-and-jerry-tales-58b00c87d462e.png",volume 3
+https://archive.org/download/tom-and-jerry-tales-dvd-isos/TOM_AND_JERRY_TALES_V3.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery Tales Test" tv-logo="https://images.fanart.tv/bigpreview/tom-and-jerry-tales-58b00c87d462e.png",volume 4
+https://archive.org/download/tom-and-jerry-tales-dvd-isos/TOM_AND_JERRY_TALES_VOL4.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery Tales Test" tv-logo="https://images.fanart.tv/bigpreview/tom-and-jerry-tales-58b00c87d462e.png",volume 5
+https://archive.org/download/tom-and-jerry-tales-dvd-isos/TOM_AND_JERRY_TALES_VOLUME_5.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery Tales Test" tv-logo="https://images.fanart.tv/bigpreview/tom-and-jerry-tales-58b00c87d462e.png",volume 6
+https://archive.org/download/tom-and-jerry-tales-dvd-isos/TOM_AND_JERRY_TALES_VOLUME_6.mp4
+
+
+
+
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",001-Puss Gets the Boot (1940)
+https://archive.org/download/tom-and-jerry-hann-barbera/1%20Puss%20Gets%20the%20Boot%20%5B1940%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",002-The Midnight Snack (1941)
+https://archive.org/download/tom-and-jerry-hann-barbera/2%20The%20Midnight%20Snack%20%5B1941%5D.ia.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",003-The Night Before Christmas (1941)
+https://archive.org/download/tom-and-jerry-hann-barbera/3%20The%20Night%20Before%20Christmas%20%5B1941%5D.ia.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",004-Fraidy Cat (1942)
+https://archive.org/download/tom-and-jerry-hann-barbera/4%20Fraidy%20Cat%20%5B1942%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",005-Dog Trouble (1942)
+https://archive.org/download/tom-and-jerry-hann-barbera/5%20Dog%20Trouble%20%5B1942%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",006-Puss n' Toots (1942)
+https://archive.org/download/tom-and-jerry-hann-barbera/6%20Puss%20n%27%20Toots%20%5B1942%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",007-The Bowling Alley Cat (1942)
+https://archive.org/download/tom-and-jerry-hann-barbera/7%20The%20Bowling%20Alley%20Cat%20%5B1942%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",008-Fine Feathered Friend (1942)
+https://archive.org/download/tom-and-jerry-hann-barbera/8%20Fine%20Feathered%20Friend%20%5B1942%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",009-Sufferin Cats (1943)
+https://archive.org/download/tom-and-jerry-hann-barbera/9%20Sufferin%27%20Cats%21%20%5B1943%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",010-The Lonesome Mouse (1943)
+https://archive.org/download/tom-and-jerry-hann-barbera/10%20The%20Lonesome%20Mouse%20%5B1943%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",011-The Yankee Doodle Mouse (1943)
+https://archive.org/download/tom-and-jerry-hann-barbera/11%20The%20Yankee%20Doodle%20Mouse%20%5B1943%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",012-Baby Puss (1943)
+https://archive.org/download/tom-and-jerry-hann-barbera/12%20Baby%20Puss%20%5B1943%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",013-The Zoot Cat (1944)
+https://archive.org/download/tom-and-jerry-hann-barbera/13%20The%20Zoot%20Cat%20%5B1944%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",014-The Million Dollar Cat (1944)
+https://archive.org/download/tom-and-jerry-hann-barbera/14%20The%20Million%20Dollar%20Cat%20%5B1944%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",015-The Bodyguard (1944)
+https://archive.org/download/tom-and-jerry-hann-barbera/15%20The%20Bodyguard%20%5B1944%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",016-Puttin' on the Dog (1944)
+https://archive.org/download/tom-and-jerry-hann-barbera/16%20Puttin%27%20on%20the%20Dog%20%5B1944%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",017-Mouse Trouble (1944)
+https://archive.org/download/tom-and-jerry-hann-barbera/17%20Mouse%20Trouble%20%5B1944%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",018-The Mouse Comes to Dinner (1945)
+https://archive.org/download/tom-and-jerry-hann-barbera/18%20The%20Mouse%20Comes%20to%20Dinner%20%5B1945%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",o19-Mouse in Manhattan (1945)
+https://archive.org/download/tom-and-jerry-hann-barbera/19%20Mouse%20in%20Manhattan%20%5B1945%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",020-Tee for Two (1945)
+https://archive.org/download/tom-and-jerry-hann-barbera/20%20Tee%20for%20Two%20%5B1945%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",021-Flirty Birdy (1945)
+https://archive.org/download/tom-and-jerry-hann-barbera/21%20Flirty%20Birdy%20%5B1945%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",022-Quiet Please (1945)
+https://archive.org/download/tom-and-jerry-hann-barbera/22%20Quiet%20Please%21%20%5B1945%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",023-Springtime for Thomas (1946)
+https://archive.org/download/tom-and-jerry-hann-barbera/23%20Springtime%20for%20Thomas%20%5B1946%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",024-The Milky Waif (1946)
+https://archive.org/download/tom-and-jerry-hann-barbera/24%20The%20Milky%20Waif%20%5B1946%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",025-Trap Happy (1946)
+https://archive.org/download/tom-and-jerry-hann-barbera/25%20Trap%20Happy%20%5B1946%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",026-Solid Serenade (1946)
+https://archive.org/download/tom-and-jerry-hann-barbera/26%20Solid%20Serenade%20%5B1946%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",027-Cat Fishin' (1947)
+https://archive.org/download/tom-and-jerry-hann-barbera/27%20Cat%20Fishin%27%20%5B1947%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",028-Part Time Pal (1947) 
+https://archive.org/download/tom-and-jerry-hann-barbera/28%20Part%20Time%20Pal%20%5B1947%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",029-The Cat Concerto (1947)
+https://archive.org/download/tom-and-jerry-hann-barbera/29%20The%20Cat%20Concerto%20%5B1947%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",030-Dr. Jekyll and Mr. Mouse (1947)
+https://archive.org/download/tom-and-jerry-hann-barbera/30%20Dr.%20Jekyll%20and%20Mr.%20Mouse%20%5B1947%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",031-Salt Water Tabby (1947)
+https://archive.org/download/tom-and-jerry-hann-barbera/31%20Salt%20Water%20Tabby%20%5B1947%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",032-Mouse in the House (1947)
+https://archive.org/download/tom-and-jerry-hann-barbera/32%20A%20Mouse%20in%20the%20House%20%5B1947%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",033-The Invisible Mouse (1947)
+https://archive.org/download/tom-and-jerry-hann-barbera/33%20The%20Invisible%20Mouse%20%5B1947%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",034-Kitty Foiled (1948)
+https://archive.org/download/tom-and-jerry-hann-barbera/34%20Kitty%20Foiled%20%5B1948%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",035-The Truce Hurts (1948)
+https://archive.org/download/tom-and-jerry-hann-barbera/35%20The%20Truce%20Hurts%20%5B1948%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",036-Old Rockin' Chair Tom (1948) 
+https://archive.org/download/tom-and-jerry-hann-barbera/36%20Old%20Rockin%27%20Chair%20Tom%20%5B1948%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",037-Professor Tom (1948)
+https://archive.org/download/tom-and-jerry-hann-barbera/37%20Professor%20Tom%20%5B1948%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",038-Mouse Cleaning (1948)
+https://archive.org/download/tom-and-jerry-hann-barbera/38%20Mouse%20Cleaning%20%5B1948%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",039-Polka Dot Puss (1949)
+https://archive.org/download/tom-and-jerry-hann-barbera/39%20Polka%20Dot%20Puss%20%5B1949%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",040-The Little Orphan (1949)
+https://archive.org/download/tom-and-jerry-hann-barbera/40%20The%20Little%20Orphan%20%5B1949%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",041-Hatch Up Your Trouble (1949)
+https://archive.org/download/tom-and-jerry-hann-barbera/41%20Hatch%20Up%20Your%20Troubles%20%5B1949%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",042-Heavenly Puss (1949)
+https://archive.org/download/tom-and-jerry-hann-barbera/42%20Heavenly%20Puss%20%5B1949%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",043-The Cat and the Mermouse (1949)
+https://archive.org/download/tom-and-jerry-hann-barbera/43%20The%20Cat%20and%20the%20Mermouse%20%5B1949%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",044-Love Pup (1949)
+https://archive.org/download/tom-and-jerry-hann-barbera/44%20Love%20That%20Pup%20%5B1949%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",045-Jerry's Diary (1949)
+https://archive.org/download/tom-and-jerry-hann-barbera/45%20Jerry%27s%20Diary%20%5B1949%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",046-Tennis Chumps (1949)
+https://archive.org/download/tom-and-jerry-hann-barbera/46%20Tennis%20Chumps%20%5B1949%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",047-Little Quacker (1950)
+https://archive.org/download/tom-and-jerry-hann-barbera/47%20Little%20Quacker%20%5B1950%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",048-Saturday Evening Puss (1950)
+https://archive.org/download/tom-and-jerry-hann-barbera/48%20Saturday%20Evening%20Puss%20%5B1950%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",049-Texas Tom (1950)
+https://archive.org/download/tom-and-jerry-hann-barbera/49%20Texas%20Tom%20%5B1950%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",050-Jerry and the Lion (1950)
+https://archive.org/download/tom-and-jerry-hann-barbera/50%20Jerry%20and%20the%20Lion%20%5B1950%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",051-Safety Second (1950)
+https://archive.org/download/tom-and-jerry-hann-barbera/51%20Safety%20Second%20%5B1950%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",052-The Hollywood Bowl (1950)
+https://archive.org/download/tom-and-jerry-hann-barbera/52%20The%20Hollywood%20Bowl%20%5B1950%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",053-The Framed Cat (1950)
+https://archive.org/download/tom-and-jerry-hann-barbera/53%20The%20Framed%20Cat%20%5B1950%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",054-Cue Ball Cat (1950)
+https://archive.org/download/tom-and-jerry-hann-barbera/54%20Cue%20Ball%20Cat%20%5B1950%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",055-Casanova Cat (1951)
+https://archive.org/download/tom-and-jerry-hann-barbera/55%20Casanova%20Cat%20%5B1951%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",056-Jerry and the Goldfish (1951)
+https://archive.org/download/tom-and-jerry-hann-barbera/56%20Jerry%20and%20the%20Goldfish%20%5B1951%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",057-Jerry's Cousin (1951)
+https://archive.org/download/tom-and-jerry-hann-barbera/57%20Jerry%27s%20Cousin%20%5B1951%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",058-Sleepy Time Tom (1951)
+https://archive.org/download/tom-and-jerry-hann-barbera/58%20Sleepy%20Time%20Tom%20%5B1951%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",059-His Mouse Friday (1951)
+https://archive.org/download/tom-and-jerry-hann-barbera/59%20His%20Mouse%20Friday%20%5B1951%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",060-Slicked up Pup (1951) 
+https://archive.org/download/tom-and-jerry-hann-barbera/60%20Slicked%20up%20Pup%20%5B1951%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",061-Nit Witty Kitty (1951)
+https://archive.org/download/tom-and-jerry-hann-barbera/61%20Nit%20Witty%20Kitty%20%5B1951%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",062-Cat Napping (1951)
+https://archive.org/download/tom-and-jerry-hann-barbera/62%20Cat%20Napping%20%5B1951%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",063-The Flying Cat (1952)
+https://archive.org/download/tom-and-jerry-hann-barbera/63%20The%20Flying%20Cat%20%5B1952%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",064-The Duck Doctor (1952)
+https://archive.org/download/tom-and-jerry-hann-barbera/64%20The%20Duck%20Doctor%20%5B1952%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",065-The Two Mouseketeers (1952)
+https://archive.org/download/tom-and-jerry-hann-barbera/65%20The%20Two%20Mouseketeers%20%5B1952%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",066-Smitten Kitten (1952)
+https://archive.org/download/tom-and-jerry-hann-barbera/66%20Smitten%20Kitten%20%5B1952%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",067-Triplet Trouble (1952)
+https://archive.org/download/tom-and-jerry-hann-barbera/67%20Triplet%20Trouble%20%5B1952%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",068-Little Runaway (1952)
+https://archive.org/download/tom-and-jerry-hann-barbera/68%20Little%20Runaway%20%5B1952%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",069-Fit to be Tied (1952)
+https://archive.org/download/tom-and-jerry-hann-barbera/69%20Fit%20to%20be%20Tied%20%5B1952%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",070-Push Button Kitty (1952)
+https://archive.org/download/tom-and-jerry-hann-barbera/70%20Push%20Button%20Kitty%20%5B1952%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",071-Cruise Cat (1952)
+https://archive.org/download/tom-and-jerry-hann-barbera/71%20Cruise%20Cat%20%5B1952%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",072-The Dog House (1952)
+https://archive.org/download/tom-and-jerry-hann-barbera/72%20The%20Dog%20House%20%5B1952%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",073-The Missing Mouse (1953)
+https://archive.org/download/tom-and-jerry-hann-barbera/73%20The%20Missing%20Mouse%20%5B1953%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",074-Jerry and Jumbo (1953)
+https://archive.org/download/tom-and-jerry-hann-barbera/74%20Jerry%20and%20Jumbo%20%5B1953%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",075-Johann Mouse (1953)
+https://archive.org/download/tom-and-jerry-hann-barbera/75%20Johann%20Mouse%20%5B1953%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",076-That My Pup (1953)
+https://archive.org/download/tom-and-jerry-hann-barbera/76%20That%27s%20My%20Pup%21%20%5B1953%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",077-Just Ducky (1953)
+https://archive.org/download/tom-and-jerry-hann-barbera/77%20Just%20Ducky%20%5B1953%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",078-Two Little Indians (1953)
+https://archive.org/download/tom-and-jerry-hann-barbera/78%20Two%20Little%20Indians%20%5B1953%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",079-Life With Tom (1953)
+https://archive.org/download/tom-and-jerry-hann-barbera/79%20Life%20with%20Tom%20%5B1953%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",080-Puppy Tale (1954)
+https://archive.org/download/tom-and-jerry-hann-barbera/80%20Puppy%20Tale%20%5B1954%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",081-Posse Cat (1954)
+https://archive.org/download/tom-and-jerry-hann-barbera/81%20Posse%20Cat%20%5B1954%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",082-Hic cup Pup (1954)
+https://archive.org/download/tom-and-jerry-hann-barbera/82%20Hic%20cup%20Pup%20%5B1954%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",083-Little Scoul Mouse (1954)
+https://archive.org/download/tom-and-jerry-hann-barbera/83%20Little%20School%20Mouse%20%5B1954%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",084-Baby Butch (1954)
+https://archive.org/download/tom-and-jerry-hann-barbera/84%20Baby%20Butch%20%5B1954%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",085-Mice Follies (1954)
+https://archive.org/download/tom-and-jerry-hann-barbera/85%20Mice%20Follies%20%5B1954%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",086-Neapolitan Mouse (1954)
+https://archive.org/download/tom-and-jerry-hann-barbera/86%20Neapolitan%20Mouse%20%5B1954%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",087-Downhearted Duckling (1954)
+https://archive.org/download/tom-and-jerry-hann-barbera/87%20Downhearted%20Duckling%20%5B1954%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",088-Pet Peeve (1954)
+https://archive.org/download/tom-and-jerry-hann-barbera/88%20Pet%20Peeve%20%5B1954%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",089-Touch Pussy Cat (1954)
+https://archive.org/download/tom-and-jerry-hann-barbera/89%20Touche%CC%81%2C%20Pussy%20Cat%21%20%5B1954%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",090-Southbound Duckling (1955)
+https://archive.org/download/tom-and-jerry-hann-barbera/90%20Southbound%20Duckling%20%5B1955%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",091-Pup on Picnic (1955)
+https://archive.org/download/tom-and-jerry-hann-barbera/91%20Pup%20on%20a%20Picnic%20%5B1955%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",092-Mouse for Sale (1955)
+https://archive.org/download/tom-and-jerry-hann-barbera/92%20Mouse%20for%20Sale%20%5B1955%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",093-Designs on Jerry (1955)
+https://archive.org/download/tom-and-jerry-hann-barbera/93%20Designs%20on%20Jerry%20%5B1955%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",094-Tom and Cherie (1955)
+https://archive.org/download/tom-and-jerry-hann-barbera/94%20Tom%20and%20Che%CC%81rie%20%5B1955%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",095-Smarty Cat (1955)
+https://archive.org/download/tom-and-jerry-hann-barbera/95%20Smarty%20Cat%20%5B1955%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",096-Pecos Pest (1955)
+https://archive.org/download/tom-and-jerry-hann-barbera/96%20Pecos%20Pest%20%5B1955%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",097-That's My Mommy (1955)
+https://archive.org/download/tom-and-jerry-hann-barbera/97%20That%27s%20My%20Mommy%20%5B1955%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",098-The Flying Sorceress (1956)
+https://archive.org/download/tom-and-jerry-hann-barbera/98%20The%20Flying%20Sorceress%20%5B1956%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",099-The Egg and Jerry (1956)
+https://archive.org/download/tom-and-jerry-hann-barbera/99%20The%20Egg%20and%20Jerry%20%5B1956%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",100-Busy Buddies (1956)
+https://archive.org/download/tom-and-jerry-hann-barbera/100%20Busy%20Buddies%20%5B1956%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",101-Muscle Beach Tom (1956)
+https://archive.org/download/tom-and-jerry-hann-barbera/101%20Muscle%20Beach%20Tom%20%5B1956%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",102-Down Beat Bear (1956)
+https://archive.org/download/tom-and-jerry-hann-barbera/102%20Down%20Beat%20Bear%20%5B1956%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",103-Blue Cat Blues (1956)
+https://archive.org/download/tom-and-jerry-hann-barbera/103%20Blue%20Cat%20Blues%20%5B1956%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",104-Barbecue Brawl (1956)
+https://archive.org/download/tom-and-jerry-hann-barbera/104%20Barbecue%20Brawl%20%5B1956%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",105-Tops With Pops (1957)
+https://archive.org/download/tom-and-jerry-hann-barbera/105%20Tops%20with%20Pops%20%5B1957%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",106-Timid Tabby (1957)
+https://archive.org/download/tom-and-jerry-hann-barbera/106%20Timid%20Tabby%20%5B1957%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",107-Feedin' the Kiddie (1957)
+https://archive.org/download/tom-and-jerry-hann-barbera/107%20Feedin%27%20the%20Kiddie%20%5B1957%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",108-Mucho Mouse (1957)
+https://archive.org/download/tom-and-jerry-hann-barbera/108%20Mucho%20Mouse%20%5B1957%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",109-Tom's Photo Finnish (1957)
+https://archive.org/download/tom-and-jerry-hann-barbera/109%20Tom%27s%20Photo%20Finish%20%5B1957%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",110-Happy Go Ducky (1958)
+https://archive.org/download/tom-and-jerry-hann-barbera/110%20Happy%20Go%20Ducky%20%5B1958%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",111-Royal Cat Nap (1958)
+https://archive.org/download/tom-and-jerry-hann-barbera/111%20Royal%20Cat%20Nap%20%5B1958%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",112-The Vanishing Duck (1958)
+https://archive.org/download/tom-and-jerry-hann-barbera/112%20The%20Vanishing%20Duck%20%5B1958%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",113-Robin Hoodwinked (1958)
+https://archive.org/download/tom-and-jerry-hann-barbera/113%20Robin%20Hoodwinked%20%5B1958%5D.mp4
+#EXTINF:-1 group-title="Archive.org Tom ana Jery HB Classic Test" tv-logo="https://www.citypng.com/public/uploads/preview/tom-and-jerry-logo-text-with-characters-png-701751694789228p8fae0qfhn.png",114-Tot Watchers (1958)
+https://archive.org/download/tom-and-jerry-hann-barbera/114%20Tot%20Watchers%20%5B1958%5D.mp4
+
+
+
+#EXTINF:-1 group-title="Archive.org Tom ana Jery Tales Test" tv-logo="",
+
+
+
+
+
+
+
+
+
+
 
 
 
