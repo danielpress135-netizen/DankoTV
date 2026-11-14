@@ -6787,7 +6787,128 @@ https://hugh.cdn.rumble.cloud/video/s8/2/H/O/G/_/HOG_p.caa.mp4
 #EXTINF:-1 group-title="BG Rumble Films Test",
 #EXTINF:-1 group-title="BG Rumble Films Test",
 #EXTINF:-1 group-title="BG Rumble Films Test",
-#EXTINF:-1 group-title="BG Rumble Films Test",
+
+#EXTINF:-1 group-title="Archive.org Films Test" tvg-logo="https://archive.org/stream/little-big-man-1970_202511/little-big-man-1970_202511.thumbs/Little%20Big%20Man%20%281970%29/Little%20Big%20Man%20-%201970_000115.jpg?vtt=vtt.vtt",Little Big Man (1970 Western eng.audio)
+https://archive.org/download/little-big-man-1970_202511/Little%20Big%20Man%20%281970%29%2FLittle%20Big%20Man%20-%201970.mp4
+
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-mabels-married-life-1914/charlie-chaplin-mabels-married-life-1914.thumbs/Charlie%20Chaplin-Mabel%27s%20Married%20Life%20%281914%29_000058.jpg?vtt=vtt.vtt",Mabel's Married Life ( 1914)
+https://archive.org/download/charlie-chaplin-mabels-married-life-1914/Charlie%20Chaplin-Mabel%27s%20Married%20Life%20%281914%29.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://athena.archive.org/0.gif?kind=event&ec=Details-Video&ea=VideoStarted&el=%2Fdetails%2Fthe-masquerader-1914-directed-by-charlie-chaplin%2FThe%2BMasquerader%2B(1914)%2BDirected%2Bby%2BCharlie%2BChaplin%2B(colorized).mp4&cache_bust=0.6793430871242089&service=ao_2&version=2&count=8",The Masquerader (1914)
+https://archive.org/download/the-masquerader-1914-directed-by-charlie-chaplin/The%20Masquerader%20%281914%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/a-burlesque-on-carmen-1915-directed-by-charlie-chaplin/a-burlesque-on-carmen-1915-directed-by-charlie-chaplin.thumbs/A%20Burlesque%20on%20Carmen%20%281915%29%20Directed%20by%20Charlie%20Chaplin_000117.jpg?vtt=vtt.vtt",A Burlesque On Carmen (1915)
+https://archive.org/download/a-burlesque-on-carmen-1915-directed-by-charlie-chaplin/A%20Burlesque%20on%20Carmen%20%281915%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/a-night-out-1915-directed-by-charlie-chaplin/a-night-out-1915-directed-by-charlie-chaplin.thumbs/A%20Night%20Out%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000119.jpg?vtt=vtt.vtt",A Night Out (1915)
+https://archive.org/download/a-night-out-1915-directed-by-charlie-chaplin/A%20Night%20Out%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-strange-predicament-1914/charlie-chaplin-strange-predicament-1914.thumbs/Charlie%20Chaplin-Strange%20Predicament%20%281914%29_000032.jpg?vtt=vtt.vtt",Strange Predicament ( 1914)
+https://archive.org/download/charlie-chaplin-strange-predicament-1914/Charlie%20Chaplin-Strange%20Predicament%20%281914%29.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/in-the-park-1915-directed-by-charlie-chaplin/in-the-park-1915-directed-by-charlie-chaplin.thumbs/In%20the%20Park%20%281915%29%20Directed%20by%20Charlie%20Chaplin_000058.jpg?vtt=vtt.vtt",In The Park (1915)
+https://archive.org/download/in-the-park-1915-directed-by-charlie-chaplin/In%20the%20Park%20%281915%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/laughing-gas-1914-directed-by-charlie-chaplin/laughing-gas-1914-directed-by-charlie-chaplin.thumbs/Laughing%20Gas%20%281914%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000058.jpg?vtt=vtt.vtt",Laughing Gas (1914)
+https://archive.org/serve/laughing-gas-1914-directed-by-charlie-chaplin/Laughing%20Gas%20%281914%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/his-new-profession-1914-directed-by-charlie-chaplin/his-new-profession-1914-directed-by-charlie-chaplin.thumbs/His%20New%20Profession%20%281914%29%20Directed%20by%20Charlie%20Chaplin_000058.jpg?vtt=vtt.vtt",His New Profession (1914)
+https://archive.org/download/his-new-profession-1914-directed-by-charlie-chaplin/His%20New%20Profession%20%281914%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-his-prehistoric-past-1914/charlie-chaplin-his-prehistoric-past-1914.thumbs/Charlie%20Chaplin%20-%20His%20Prehistoric%20Past%20%281914%29_000057.jpg?vtt=vtt.vtt",His Prehistoric Past ( 1914)
+https://archive.org/download/charlie-chaplin-his-prehistoric-past-1914/Charlie%20Chaplin%20-%20His%20Prehistoric%20Past%20%281914%29.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/dough-and-dynamite-1914-directed-by-charlie-chaplin/dough-and-dynamite-1914-directed-by-charlie-chaplin.thumbs/Dough%20and%20Dynamite%20%281914%29%20Directed%20by%20Charlie%20Chaplin_000116.jpg?vtt=vtt.vtt",Dough And Dynamite (1914)
+https://archive.org/download/dough-and-dynamite-1914-directed-by-charlie-chaplin/Dough%20and%20Dynamite%20%281914%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/his-new-job-1915-directed-by-charlie-chaplin/his-new-job-1915-directed-by-charlie-chaplin.thumbs/His%20New%20Job%20%281915%29%20Directed%20by%20Charlie%20Chaplin_000114.jpg?vtt=vtt.vtt",His New Job (1915)
+https://dn721901.ca.archive.org/0/items/his-new-job-1915-directed-by-charlie-chaplin/His%20New%20Job%20%281915%29%20Directed%20by%20Charlie%20Chaplin.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-kid-auto-races-at-venice-1914/charlie-chaplin-kid-auto-races-at-venice-1914.thumbs/Charlie%20Chaplin%20-Kid%20Auto%20Races%20at%20Venice%20%281914%29_000032.jpg?vtt=vtt.vtt",Kid Auto Races At Venice ( 1914)
+https://archive.org/serve/charlie-chaplin-kid-auto-races-at-venice-1914/Charlie%20Chaplin%20-Kid%20Auto%20Races%20at%20Venice%20%281914%29.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/a-jitney-elopement-1915-directed-by-charlie-chaplin/a-jitney-elopement-1915-directed-by-charlie-chaplin.thumbs/A%20Jitney%20Elopement%20%281915%29%20Directed%20by%20Charlie%20Chaplin_000117.jpg?vtt=vtt.vtt",A Jitney Elopement (1915)
+https://archive.org/serve/a-jitney-elopement-1915-directed-by-charlie-chaplin/A%20Jitney%20Elopement%20%281915%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-champion-1915-directed-by-charlie-chaplin/the-champion-1915-directed-by-charlie-chaplin.thumbs/The%20Champion%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000118.jpg?vtt=vtt.vtt",The Champion (1915)
+https://archive.org/download/the-champion-1915-directed-by-charlie-chaplin/The%20Champion%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-making-a-living-1914/charlie-chaplin-making-a-living-1914.thumbs/Charlie%20Chaplin%20-Making%20a%20Living%20%281914%29_000032.jpg?vtt=vtt.vtt",Making A Living ( 1914)
+https://archive.org/download/charlie-chaplin-making-a-living-1914/Charlie%20Chaplin%20-Making%20a%20Living%20%281914%29.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="",The Cure (1917)
+https://archive.org/download/the-cure-1917-directed-by-charlie-chaplin/The%20Cure%20%281917%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-new-janitor-1914-directed-by-charlie-chaplin/the-new-janitor-1914-directed-by-charlie-chaplin.thumbs/The%20New%20Janitor%20%281914%29%20Directed%20by%20Charlie%20Chaplin_000057.jpg?vtt=vtt.vtt",The New Janitor (1914)
+https://archive.org/download/the-new-janitor-1914-directed-by-charlie-chaplin/The%20New%20Janitor%20%281914%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/a-woman-1915-directed-by-charlie-chaplin/a-woman-1915-directed-by-charlie-chaplin.thumbs/A%20Woman%20%281915%29%20Directed%20by%20Charlie%20Chaplin_000114.jpg?vtt=vtt.vtt",A Woman (1915)
+https://archive.org/download/a-woman-1915-directed-by-charlie-chaplin/A%20Woman%20%281915%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-bombero-1916/charlie-chaplin-bombero-1916.thumbs/Charlie%20Chaplin-Bombero%20%281916%29_000055.jpg?vtt=vtt.vtt",Bombero ( 1916)
+https://archive.org/serve/charlie-chaplin-bombero-1916/Charlie%20Chaplin-Bombero%20%281916%29.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-property-man-1914-directed-by-charlie-chaplin/the-property-man-1914-directed-by-charlie-chaplin.thumbs/The%20Property%20Man%20%281914%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000114.jpg?vtt=vtt.vtt",The Property Man (1914)
+https://archive.org/serve/the-property-man-1914-directed-by-charlie-chaplin/The%20Property%20Man%20%281914%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-el-ladron-1916/charlie-chaplin-el-ladron-1916.thumbs/Charlie%20Chaplin-El%20Ladr%C3%B3n%20%281916%29_000056.jpg?vtt=vtt.vtt",El Ladrón (1916)
+https://archive.org/download/charlie-chaplin-el-ladron-1916/Charlie%20Chaplin-El%20Ladr%C3%B3n%20%281916%29.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/those-love-pangs-1914-directed-by-charlie-chaplin/those-love-pangs-1914-directed-by-charlie-chaplin.thumbs/Those%20Love%20Pangs%20%281914%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000058.jpg?vtt=vtt.vtt",Those Love Pangs (1914)
+https://archive.org/serve/those-love-pangs-1914-directed-by-charlie-chaplin/Those%20Love%20Pangs%20%281914%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-vagabond-1916-directed-by-charlie-chaplin/the-vagabond-1916-directed-by-charlie-chaplin.thumbs/The%20Vagabond%20%281916%29%20Directed%20by%20Charlie%20Chaplin_000117.jpg?vtt=vtt.vtt",The Vagabond (1916)
+https://archive.org/download/the-vagabond-1916-directed-by-charlie-chaplin/The%20Vagabond%20%281916%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-the-star-boarder-1914/charlie-chaplin-the-star-boarder-1914.thumbs/Charlie%20Chaplin%20-%20The%20Star%20Boarder%20%281914%29_000032.jpg?vtt=vtt.vtt",The Star Boarder (1914)
+https://archive.org/download/charlie-chaplin-the-star-boarder-1914/Charlie%20Chaplin%20-%20The%20Star%20Boarder%20%281914%29.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-count-1916-directed-by-charlie-chaplin/the-count-1916-directed-by-charlie-chaplin.thumbs/The%20Count%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28Colorized%29_000115.jpg?vtt=vtt.vtt",The Count (1916) 
+https://archive.org/download/the-count-1916-directed-by-charlie-chaplin/The%20Count%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28Colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-rounders-1914-directed-by-charlie-chaplin/the-rounders-1914-directed-by-charlie-chaplin.thumbs/The%20Rounders%20%281914%29%20Directed%20by%20Charlie%20Chaplin_000059.jpg?vtt=vtt.vtt",The Rounders (1914)
+https://archive.org/download/the-rounders-1914-directed-by-charlie-chaplin/The%20Rounders%20%281914%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-tramp-1915-directed-by-charlie-chaplin/the-tramp-1915-directed-by-charlie-chaplin.thumbs/The%20Tramp%20%281915%29%20Directed%20by%20Charlie%20Chaplin_000115.jpg?vtt=vtt.vtt",The Tramp (1915)
+https://archive.org/download/the-tramp-1915-directed-by-charlie-chaplin/The%20Tramp%20%281915%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-floorwalker-1916-directed-by-charlie-chaplin/the-floorwalker-1916-directed-by-charlie-chaplin.thumbs/The%20Floorwalker%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000118.jpg?vtt=vtt.vtt",The Floorwalker (1916)
+https://archive.org/download/the-floorwalker-1916-directed-by-charlie-chaplin/The%20Floorwalker%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/shanghaied-1915-directed-by-charlie-chaplin-colorzied/shanghaied-1915-directed-by-charlie-chaplin-colorzied.thumbs/Shanghaied%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorzied%29_000118.jpg?vtt=vtt.vtt",Shanghaied (1915)
+https://archive.org/download/shanghaied-1915-directed-by-charlie-chaplin-colorzied/Shanghaied%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorzied%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-bank-1915-directed-by-charlie-chaplin/the-bank-1915-directed-by-charlie-chaplin.thumbs/The%20Bank%20%281915%29%20Directed%20by%20Charlie%20Chaplin_000117.jpg?vtt=vtt.vtt",The Bank (1915)
+https://archive.org/download/the-bank-1915-directed-by-charlie-chaplin/The%20Bank%20%281915%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/by-the-sea-1915-directed-by-charlie-chaplin/by-the-sea-1915-directed-by-charlie-chaplin.thumbs/By%20the%20Sea%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000058.jpg?vtt=vtt.vtt",By The Sea (1915)
+https://archive.org/serve/by-the-sea-1915-directed-by-charlie-chaplin/By%20the%20Sea%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-fireman-1916-directed-by-charlie-chaplin/the-fireman-1916-directed-by-charlie-chaplin.thumbs/The%20Fireman%20%281916%29%20Directed%20by%20Charlie%20Chaplin_000117.jpg?vtt=vtt.vtt",The Fireman (1916)
+https://archive.org/download/the-fireman-1916-directed-by-charlie-chaplin/The%20Fireman%20%281916%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-la-calle-de-la-paz-1917/charlie-chaplin-la-calle-de-la-paz-1917.thumbs/Charlie%20Chaplin-La%20calle%20de%20la%20Paz%20%281917%29_000056.jpg?vtt=vtt.vtt",La Calle De La Paz (1917)
+https://archive.org/download/charlie-chaplin-la-calle-de-la-paz-1917/Charlie%20Chaplin-La%20calle%20de%20la%20Paz%20%281917%29.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-twenty-minutes-of-love-1914/charlie-chaplin-twenty-minutes-of-love-1914.thumbs/Charlie%20Chaplin%20-Twenty%20minutes%20of%20Love%20%281914%29_000030.jpg?vtt=vtt.vtt",Twenty Minutes Of Love (1914)
+https://archive.org/serve/charlie-chaplin-twenty-minutes-of-love-1914/Charlie%20Chaplin%20-Twenty%20minutes%20of%20Love%20%281914%29.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-face-on-the-barroom-floor-1914-directed-by-charlie-chaplin/the-face-on-the-barroom-floor-1914-directed-by-charlie-chaplin.thumbs/The%20Face%20on%20the%20Barroom%20Floor%20%281914%29%20Directed%20by%20Charlie%20Chaplin_000057.jpg?vtt=vtt.vtt",The Face On The Barroom Floor (1914)
+https://archive.org/download/the-face-on-the-barroom-floor-1914-directed-by-charlie-chaplin/The%20Face%20on%20the%20Barroom%20Floor%20%281914%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/work-1915-directed-by-charlie-chaplin/work-1915-directed-by-charlie-chaplin.thumbs/Work%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000115.jpg?vtt=vtt.vtt",Work (1915)
+https://archive.org/download/work-1915-directed-by-charlie-chaplin/Work%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/police-1916-directed-by-charlie-chaplin/police-1916-directed-by-charlie-chaplin.thumbs/Police%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000176.jpg?vtt=vtt.vtt",Police (1916)
+https://archive.org/download/police-1916-directed-by-charlie-chaplin/Police%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/a-night-in-the-show-1915-directed-by-charlie-chaplin/a-night-in-the-show-1915-directed-by-charlie-chaplin.thumbs/A%20Night%20in%20the%20Show%20%281915%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000114.jpg?vtt=vtt.vtt",A Night In The Show (1915)
+https://archive.org/download/a-night-in-the-show-1915-directed-by-charlie-chaplin/A%20Night%20in%20the%20Show%20%281915%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charlie-chaplin-behind-the-screen-1916_202101/charlie-chaplin-behind-the-screen-1916_202101.thumbs/Charlie%20Chaplin%20-%20Behind%20the%20Screen%20%281916%29_000058.jpg?vtt=vtt.vtt",Behind The Screen ( 1916)
+https://archive.org/download/charlie-chaplin-behind-the-screen-1916_202101/Charlie%20Chaplin%20-%20Behind%20the%20Screen%20%281916%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="",Easy Street (1917)
+https://archive.org/download/easy-street-1917-directed-by-charlie-chaplin/Easy%20Street%20%281917%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="",The Rink (1916)
+https://archive.org/download/the-rink-1916-directed-by-charlie-chaplin-colorized/The%20Rink%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-pawnshop-1916-directed-by-charlie-chaplin/the-pawnshop-1916-directed-by-charlie-chaplin.thumbs/The%20Pawnshop%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000114.jpg?vtt=vtt.vtt",The Pawnshop (1916)
+https://archive.org/download/the-pawnshop-1916-directed-by-charlie-chaplin/The%20Pawnshop%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="",The Adventurer (1917)
+https://archive.org/serve/the-adventurer-1917-directed-by-charlie-chaplin/The%20Adventurer%20%281917%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/one-a.-m.-1916-directed-by-charlie-chaplin/one-a.-m.-1916-directed-by-charlie-chaplin.thumbs/One%20A.M.%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29_000116.jpg?vtt=vtt.vtt",One A. M. (1916)
+https://archive.org/download/one-a.-m.-1916-directed-by-charlie-chaplin/One%20A.M.%20%281916%29%20Directed%20by%20Charlie%20Chaplin%20%28colorized%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-pilgrim-1923-directed-by-charlie-chaplin/the-pilgrim-1923-directed-by-charlie-chaplin.thumbs/The%20Pilgrim%20%281923%29%20Directed%20by%20Charlie%20Chaplin_000117.jpg?vtt=vtt.vtt",The Pilgrim (1923)
+https://archive.org/download/the-pilgrim-1923-directed-by-charlie-chaplin/The%20Pilgrim%20%281923%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/a-dogs-life-1918-directed-by-charlie-chaplin/a-dogs-life-1918-directed-by-charlie-chaplin.thumbs/A%20Dog%E2%80%99s%20Life%20%281918%29%20Directed%20by%20Charlie%20Chaplin_000117.jpg?vtt=vtt.vtt",A Dog’s Life (1918)
+https://archive.org/download/a-dogs-life-1918-directed-by-charlie-chaplin/A%20Dog%E2%80%99s%20Life%20%281918%29%20Directed%20by%20Charlie%20Chaplin.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/3008_20260119/3008_20260119.thumbs/3008_000114.jpg?vtt=vtt.vtt",The Great Dictator VHS 
+https://archive.org/download/3008_20260119/3008.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/TripleTroubleV2/TripleTroubleV2.thumbs/Triple-Trouble-v2_000114.jpg?vtt=vtt.vtt","Triple Trouble" (1918)
+https://archive.org/download/TripleTroubleV2/Triple-Trouble-v2.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/citylight-film/citylight-film.thumbs/Citylight%20Film_000123.jpg?vtt=vtt.vtt",Citylight
+https://archive.org/download/citylight-film/Citylight%20Film.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/BBOCharlieChaplinFestival1938HDV720601280x720p/BBOCharlieChaplinFestival1938HDV720601280x720p.thumbs/BBO_Charlie_Chaplin_Festival_1938_HDV_720-60-1280x720p_000114.jpg?vtt=vtt.vtt",Festival (1938)
+https://archive.org/download/BBOCharlieChaplinFestival1938HDV720601280x720p/BBO_Charlie_Chaplin_Festival_1938_HDV_720-60-1280x720p.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/modern-times-movie/modern-times-movie.thumbs/Modern%20Times%20%281936%29_000060.jpg?vtt=vtt.vtt",Modern Times
+https://archive.org/download/modern-times-movie/Modern%20Times%20%281936%29.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-great-dictator-disc-01-title-2/the-great-dictator-disc-01-title-2.thumbs/THE_GREAT_DICTATOR_DISC01_Title2_000114.jpg?vtt=vtt.vtt",THE GREAT DICTATOR
+https://archive.org/serve/the-great-dictator-disc-01-title-2/THE_GREAT_DICTATOR_DISC01_Title2.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/charliechaplintheimmigrant1917hd_201908/charliechaplintheimmigrant1917hd_201908.thumbs/Charlie%20Chaplin-The%20Immigrant%20%281917%29%20HD_000115.jpg?vtt=vtt.vtt",The Immigrant ( 1917)
+https://archive.org/serve/charliechaplintheimmigrant1917hd_201908/Charlie%20Chaplin-The%20Immigrant%20%281917%29%20HD.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/the-circus-charlie-chaplin/the-circus-charlie-chaplin.thumbs/Charlie.Chaplin.The.Circus.1928.720p.x264_000117.jpg?vtt=vtt.vtt",The Circus (1928)
+https://archive.org/serve/the-circus-charlie-chaplin/Charlie.Chaplin.The.Circus.1928.720p.x264.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://archive.org/stream/shoulder-arms-1918-charlie-chaplin-short/shoulder-arms-1918-charlie-chaplin-short.thumbs/Shoulder%20Arms%20%281918%29%20%5BCharlie%20Chaplin%5D%20%5E720p%2C4%3B3_000060.jpg?vtt=vtt.vtt",Shoulder Arms (1918)
+https://archive.org/download/shoulder-arms-1918-charlie-chaplin-short/Shoulder%20Arms%20%281918%29%20%5BCharlie%20Chaplin%5D%20%5E720p%2C4%3B3.ia.mp4
+
+
+
+
+
+
+
+
 
 
 
