@@ -6890,7 +6890,7 @@ https://archive.org/download/the-pilgrim-1923-directed-by-charlie-chaplin/The%20
 https://archive.org/download/a-dogs-life-1918-directed-by-charlie-chaplin/A%20Dog%E2%80%99s%20Life%20%281918%29%20Directed%20by%20Charlie%20Chaplin.mp4
 #EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://image.tmdb.org/t/p/w1280/bTW7RvjX3OkNMr3YcXVwW7aCBiF.jpg",The Great Dictator VHS 
 https://archive.org/download/3008_20260119/3008.mp4
-#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://image.tmdb.org/t/p/w1280/bTW7RvjX3OkNMr3YcXVwW7aCBiF.jpg",THE GREAT DICTATOR
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://image.tmdb.org/t/p/w1280/bTW7RvjX3OkNMr3YcXVwW7aCBiF.jpg" sub-file="https://subsunacs.net/getentry.php?id=137900&ei=0",THE GREAT DICTATOR
 https://archive.org/serve/the-great-dictator-disc-01-title-2/THE_GREAT_DICTATOR_DISC01_Title2.ia.mp4
 #EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://image.tmdb.org/t/p/w1280/sQKSCFDIwBXYMRrprh8uRtv4bLj.jpg",Triple Trouble (1918)
 https://archive.org/download/TripleTroubleV2/Triple-Trouble-v2.mp4
@@ -6906,6 +6906,10 @@ https://archive.org/serve/charliechaplintheimmigrant1917hd_201908/Charlie%20Chap
 https://archive.org/serve/the-circus-charlie-chaplin/Charlie.Chaplin.The.Circushttps://www.themoviedb.org/movie/28978-the-circus.1928.720p.x264.mp4
 #EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://image.tmdb.org/t/p/w1280/hVPI0l5Ee6I7oLZccwtpLXBN9rF.jpg",Shoulder Arms (1918)
 https://archive.org/download/shoulder-arms-1918-charlie-chaplin-short/Shoulder%20Arms%20%281918%29%20%5BCharlie%20Chaplin%5D%20%5E720p%2C4%3B3.ia.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://image.tmdb.org/t/p/w1280/qtUT2ZznzpvhZ21wAG1AxXvYdk.jpg",The Kid (1921) 1080p
+https://archive.org/download/the.-kid.-1921.-remastered.-1080p.-blu-ray.x-265-rarbg/The.Kid.1921.REMASTERED.1080p.BluRay.x265-RARBG.mp4
+#EXTINF:-1 group-title="Archive.org Charlie Chaplin Films Test" tv-logo="https://image.tmdb.org/t/p/w1280/qtUT2ZznzpvhZ21wAG1AxXvYdk.jpg",The Kid (1921) 720p with deleted scenes
+https://archive.org/download/the-kid_202509/The%20Kid.mp4
 
 
 
@@ -6915,8 +6919,6 @@ https://archive.org/download/laurel_and_hardy_202604/Laurel%20%26%20Hardy%2FDisc
 https://archive.org/download/laurel_and_hardy_202604/Laurel%20%26%20Hardy%2FDisc%2001%2FA%20Chump%20At%20Oxford%20%28Colour%29.ia.mp4
 #EXTINF:-1 group-title="Laurel-Hardy Test" tv-logo="https://image.tmdb.org/t/p/w1280/7OG0zigoFsd0XGzD8LJ5bynt0Qh.jpg",Another Fine Mess - 1930 (COLOUR)
 https://archive.org/download/laurel_and_hardy_202604/Laurel%20%26%20Hardy%2FDisc%2001%2FAnother%20Fine%20Mess%20%28Colour%29.ia.mp4
-#EXTINF:-1 group-title="Laurel-Hardy Test" tv-logo="",Laurel And Hardy The Classics (2002 UK VHS)
-https://archive.org/download/laurel-and-hardy-the-classics-2002-uk-vhs/Laurel%20and%20Hardy%20The%20Classics%20%282002%20UK%20VHS%29.ia.mp4
 #EXTINF:-1 group-title="Laurel-Hardy Test" tv-logo="https://image.tmdb.org/t/p/w1280/eIDfq9KNiyzqBBbhkqHgdi3ggaG.jpg",Way Out West (Colour) 1937
 https://archive.org/download/laurel_and_hardy_202604/Laurel%20%26%20Hardy%2FDisc%2003%2FWay%20Out%20West%20%28Colour%29.ia.mp4
 #EXTINF:-1 group-title="Laurel-Hardy Test" tv-logo="https://image.tmdb.org/t/p/w1280/88k3ysWtvhcThQdvh6uGqtw5OAL.jpg",They Go Boom! 1929
