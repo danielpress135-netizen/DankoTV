@@ -46,11 +46,48 @@ http://45.84.187.172:3001/udp/239.10.10.141:5000
 https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title="БЪЛГАРИЯ",Diema Sport 3 HD
 http://45.84.187.172:3001/udp/226.156.69.136:5000
+#EXTINF:0 tvg-id="Xdiema-sport-1" tvg-name="Diema Sport HD" tvg-logo="https://iptv.pm/images/ico/diema-sport-1.png" , Diema Sport HD
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6830/747C36CA0A3B034/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 HD" tvg-logo="https://iptv.pm/images/ico/diema-sport-2.png" , Diema Sport 2 HD
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6831/747C36CA0A3B034/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 HD" tvg-logo="https://iptv.pm/images/ico/diema-sport-3.png" , Diema Sport 3 HD
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6832/747C36CA0A3B034/video.m3u8
 
 #EXTINF:-1 tvg-id="RING.BG.bg" tvg-name="RING HD" tvg-logo="" group-title="БЪЛГАРИЯ",RING HD
 http://87.120.179.187:8000/play/a00w
 #EXTINF:-1 group-title="БЪЛГАРИЯ",NOVA SPORT
 http://45.84.187.172:3001/udp/239.10.10.2:5000
+
+#EXTINF:0 tvg-id="XBNT.4.bg" tvg-name="BNT 3 [BG]" tvg-logo="https://iptv.pm/images/ico/bnt3.png" , BNT 3 [BG]
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6825/747C36CA0A3B034/video.m3u8
+#EXTINF:0 tvg-id="XNova.Sport.bg" tvg-name="Nova Sport" tvg-logo="https://iptv.pm/images/ico/novasport.png" , Nova Sport
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6827/747C36CA0A3B034/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.bg" tvg-name="Diema Sport HD" tvg-logo="https://iptv.pm/images/ico/diema.png" , Diema Sport HD
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6830/747C36CA0A3B034/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.2.bg" tvg-name="Diema Sport 2 HD" tvg-logo="https://iptv.pm/images/ico/diema2.png" , Diema Sport 2 HD
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6831/747C36CA0A3B034/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.3.bg" tvg-name="Diema Sport 3 HD" tvg-logo="https://iptv.pm/images/ico/diema3.png" , Diema Sport 3 HD
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6832/747C36CA0A3B034/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.1.bg" tvg-name="Max Sport 1 HD" tvg-logo="https://iptv.pm/images/ico/max1.png" , Max Sport 1 HD
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6875/747C36CA0A3B034/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.2.bg" tvg-name="Max Sport 2 HD" tvg-logo="https://iptv.pm/images/ico/max2.png" , Max Sport 2 HD
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6876/747C36CA0A3B034/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.3.bg" tvg-name="Max Sport 3 HD" tvg-logo="https://iptv.pm/images/ico/max3.png" , Max Sport 3 HD
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6877/747C36CA0A3B034/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.4.bg" tvg-name="Max Sport 4 HD" tvg-logo="https://iptv.pm/images/ico/max4.png" , Max Sport 4 HD
+#EXTGRP:БЪЛГАРИЯ
+http://ua.online24.pm/play/6878/747C36CA0A3B034/video.m3u8
 
 
 #EXTINF:-1 group-title="БЪЛГАРИЯ",EUROSPORT 1 BG
@@ -179,11 +216,22 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2522/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2524/index.m3u8
 #EXTINF:-1 group-title="РУМЪНИЯ" tvg-id="2922" tvg-logo="http://epg.one/img2/2922.png" tvg-rec="3",DIGI Sport 4 HD RO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/2538/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="РУМЪНИЯ",PRIMA SPORT 1 HD
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="РУМЪНИЯ",PRIMA SPORT 2 HD
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="РУМЪНИЯ",PRIMA SPORT 3 HD
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="РУМЪНИЯ",PRIMA SPORT 4 HD
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="РУМЪНИЯ",PRIMA SPORT 5 HD
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="УНГАРИЯ",M4 SPORT
 http://142.132.200.37:9000/M4HD
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="УНГАРИЯ",M4 SPORT
+http://ua.online24.pm/play/893/747C36CA0A3B034/video.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Полша",ELEVEN SPORTS 1 HD
