@@ -2367,9 +2367,7 @@ https://stream.vagalume.fm/hls/1618433809265385/aac.m3u8
 https://archive.org/download/vts-01-1_20240110_0650/VTS_01_1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Rock Live",Metallica -Live Shits - UK (Reading Festival 1997)
 https://archive.org/download/Metallica-UK-Reading-Festival-1997/Metallica%20-%20UK%20%28Reading%20Festival%201997%29.mp4
-#EXTINF:-1 tvg-logo="" group-title="Rock Live",Metallica -Live Shits - Live Covers (1998)
-https://archive.org/download/MetallicaLiveCovers/01%20Metallica%20Live%20Covers.mp4
-#EXTINF:-1 tvg-logo="" group-title="Rock Live",Metallica - The Big 4 Live In Swesen
+#EXTINF:-1 tvg-logo="" group-title="Rock Live",Metallica - The Big 4 Live In Sweden
 https://archive.org/download/metallica-the_big_4_ullevi_sweden_2011-07-03/metallica-the_big_4_ullevi_sweden_%282011-07-03%29-720p-x264-2011-fray_int.mp4
 #EXTINF:-1 tvg-logo="" group-title="Rock Live",Metallica - The Big 4 Live In Bulgaria
 https://archive.org/download/The-Big-4-Live-From-Sofia-Bulgaria/The%20Big%204%20-%20Live%20From%20Sofia%2C%20Bulgaria%20%28DVD2%29.mp4
@@ -2403,7 +2401,26 @@ https://archive.org/download/iron-maiden-live-rock-in-rio-2022-hdtv_202308/Iron%
 https://archive.org/download/iron-maiden-sonisphere-2014/Iron%20Maiden%20-%20Sonisphere%202014%20-%20Full%20Concert.mp4
 #EXTINF:-1 tvg-logo="" group-title="Rock Live",Helloween - Live Rock In Rio 2019
 https://archive.org/download/helloween-live-at-rock-in-rio-2019/Helloween%20Live%20at%20Rock%20in%20Rio%202019.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/25-years-of-wacken/25-years-of-wacken.thumbs/25%20Years%20Of%20Wacken%20DVD1_000237.jpg?vtt=vtt.vtt" group-title="Rock Live",25 Years Of Wacken DVD1
+https://archive.org/download/25-years-of-wacken/25%20Years%20Of%20Wacken%20DVD1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/25-years-of-wacken/25-years-of-wacken.thumbs/25%20Years%20Of%20Wacken%20DVD1_000237.jpg?vtt=vtt.vtt" group-title="Rock Live",25 Years Of Wacken DVD2
+https://archive.org/download/25-years-of-wacken/25%20Years%20Of%20Wacken%20DVD2.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/25-years-of-wacken/25-years-of-wacken.thumbs/25%20Years%20Of%20Wacken%20DVD1_000237.jpg?vtt=vtt.vtt" group-title="Rock Live",25 Years Of Wacken DVD3
+https://archive.org/download/25-years-of-wacken/25%20Years%20Of%20Wacken%20DVD3.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-london-1995-audio-replaced-3rd-night/bon-jovi-london-1995-audio-replaced-3rd-night.thumbs/Bon%20Jovi%20-%20London%201995%20%28Audio%20Replaced%20-%203rd%20Night%29_000114.jpg?vtt=vtt.vtt" group-title="Rock Live",Bon Jovi - Live From London 1995 (3rd Night) - Audio Replaced Version (Official DVD Release)
+https://archive.org/download/bon-jovi-london-1995-audio-replaced-3rd-night/Bon%20Jovi%20-%20London%201995%20%28Audio%20Replaced%20-%203rd%20Night%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-rock-in-rio-2008-pro-shot/bon-jovi-rock-in-rio-2008-pro-shot.thumbs/Bon%20Jovi%20-%20Rock%20In%20Rio%202008%20%28Pro%20Shot%29_000114.jpg?vtt=vtt.vtt" group-title="Rock Live",Bon Jovi - Rock In Rio May 31st - 2008
+https://archive.org/download/bon-jovi-rock-in-rio-2008-pro-shot/Bon%20Jovi%20-%20Rock%20In%20Rio%202008%20%28Pro%20Shot%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-the-crush-tour/bon-jovi-the-crush-tour.thumbs/Bon%20Jovi%20-%20The%20Crush%20Tour_000002.jpg?vtt=vtt.vtt" group-title="Rock Live",Bon Jovi - The Crush Tour
+https://archive.org/download/bon-jovi-the-crush-tour/Bon%20Jovi%20-%20The%20Crush%20Tour.ia.mp4
 #EXTINF:-1 tvg-logo="" group-title="Rock Live",
+#EXTINF:-1 tvg-logo="" group-title="Rock Live",
+#EXTINF:-1 tvg-logo="" group-title="Rock Live",
+#EXTINF:-1 tvg-logo="" group-title="Rock Live",
+#EXTINF:-1 tvg-logo="" group-title="Rock Live",
+#EXTINF:-1 tvg-logo="" group-title="Rock Live",
+
+
 
 
 
@@ -2424,8 +2441,6 @@ https://archive.org/download/video-clips/VTS_01_4.mp4
 https://archive.org/download/scorpionsvideo.collection.2011.xvid.dvdripkaspr/Scorpions-Video.Collection.2011.XviD.DVDRip_kaspr.mp4
 #EXTINF:-1 tvg-logo="" group-title="Rock Videos",Scorpions - WDR Videos 1972 - 1979
 https://archive.org/download/vts-01-1_20240804/VTS_01_1.mp4
-#EXTINF:-1 tvg-logo="" group-title="Rock Videos",Video Colection 80s - 90s
-https://archive.org/download/80s-90srockgen_202209/80s90srockgen.mp4
 #EXTINF:-1 tvg-logo="" group-title="Rock Videos",VH1 Classic Metal Mania Compilation 
 https://archive.org/download/vh-1-classic-metal-mania-compilation/VH1%20Classic%20-%20Metal%20Mania%20%28Compilation%29.mp4
 #EXTINF:-1 tvg-logo="" group-title="Rock Videos",VH1 Classic Rock Show 1
@@ -2434,10 +2449,8 @@ https://archive.org/download/vh1classicrockshowpart1/VH1%20Classic%20Rockshow%20
 https://archive.org/download/vh1classicrockshowpart1/VH1%20Classic%20Rockshow%20-%20Part%202.mp4
 #EXTINF:-1 tvg-logo="" group-title="Rock Videos",MTV 80s - Rock Wrapped
 https://archive.org/download/mtv-80s-80s-rock-wrapped/MTV%2080s%20-%2080s%20Rock%20-%20Wrapped%21%20-%20H.265.mp4
-#EXTINF:-1 tvg-logo="" group-title="Rock Videos",MTV - 90S tOP 50 Rockstars Of The 90s
+#EXTINF:-1 tvg-logo="" group-title="Rock Videos",MTV - 90S Top 50 Rockstars Of The 90s
 https://archive.org/download/mtv-90s-top-50-rockstars-of-the-90s/MTV%2090s%20-%20Top%2050%20Rockstars%20of%20the%2090s%21%20-%20H.265.mp4
-#EXTINF:-1 tvg-logo="" group-title="Rock Videos",MVL - 76 (Christian videos compilation)
-https://archive.org/download/mvl-76/MVL_76.mp4
 #EXTINF:-1 tvg-logo="" group-title="Rock Videos",
 
 
@@ -2501,14 +2514,67 @@ https://archive.org/download/ScorpionsWeBuiltThisHouseUpFilm720p/Scorpions%20-%2
 https://archive.org/download/fgjkkjjhthty/Metallica%20-%20Enter%20Sandman.mp4
 #EXTINF:-1 tvg-logo="" group-title="Rock Clips",Metallica - One
 https://archive.org/download/Metallica_One_1989/Metallica_One_1989.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-this-aint-a-love-song_202206/bon-jovi-this-aint-a-love-song_202206.thumbs/Bon%20Jovi%20-%20This%20Ain%27t%20A%20Love%20Song_000027.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - This Ain't A Love Song
+https://archive.org/download/bon-jovi-this-aint-a-love-song_202206/Bon%20Jovi%20-%20This%20Ain%27t%20A%20Love%20Song.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-ill-be-there-for-you/bon-jovi-ill-be-there-for-you.thumbs/Bon%20Jovi%20-%20I%27ll%20Be%20There%20For%20You_000027.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - I'll Be There For You
+https://archive.org/download/bon-jovi-ill-be-there-for-you/Bon%20Jovi%20-%20I%27ll%20Be%20There%20For%20You.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-you-give-love-a-bad-name_202206/bon-jovi-you-give-love-a-bad-name_202206.thumbs/Bon%20Jovi%20-%20You%20Give%20Love%20A%20Bad%20Name_000027.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - You Give Love A Bad Name
+https://archive.org/download/bon-jovi-you-give-love-a-bad-name_202206/Bon%20Jovi%20-%20You%20Give%20Love%20A%20Bad%20Name.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-you-want-to-make-a-memory/bon-jovi-you-want-to-make-a-memory.thumbs/Bon%20Jovi%20-%20%28You%20Want%20To%29%20Make%20A%20Memory_000027.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - (You Want To) Make A Memory
+https://archive.org/download/bon-jovi-you-want-to-make-a-memory/Bon%20Jovi%20-%20%28You%20Want%20To%29%20Make%20A%20Memory.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/Bon_Jovi_Miracle/Bon_Jovi_Miracle.thumbs/Bon_Jovi_Miracle_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Miracle
+https://archive.org/download/Bon_Jovi_Miracle/Bon_Jovi_Miracle.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-in-and-out-of-love/bon-jovi-in-and-out-of-love.thumbs/Bon%20Jovi%20-%20In%20And%20Out%20Of%20Love_000027.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - In And Out Of Love
+https://archive.org/download/bon-jovi-in-and-out-of-love/Bon%20Jovi%20-%20In%20And%20Out%20Of%20Love.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-le-ann-rimes-til-we-aint-strangers-anymore/bon-jovi-le-ann-rimes-til-we-aint-strangers-anymore.thumbs/Bon%20Jovi%20%26%20LeAnn%20Rimes%20-%20%27Til%20We%20Ain%27t%20Strangers%20Anymore_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi & Le Ann Rimes - 'Til We Ain't Strangers Anymore
+https://archive.org/download/bon-jovi-le-ann-rimes-til-we-aint-strangers-anymore/Bon%20Jovi%20%26%20LeAnn%20Rimes%20-%20%27Til%20We%20Ain%27t%20Strangers%20Anymore.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-thank-you-for-loving-me/bon-jovi-thank-you-for-loving-me.thumbs/Bon%20Jovi%20-%20Thank%20You%20For%20Loving%20Me_000027.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Thank You For Loving Me
+https://archive.org/download/bon-jovi-thank-you-for-loving-me/Bon%20Jovi%20-%20Thank%20You%20For%20Loving%20Me.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-lay-your-hands-on-me_202206/bon-jovi-lay-your-hands-on-me_202206.thumbs/Bon%20Jovi%20-%20Lay%20Your%20Hands%20On%20Me_000027.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Lay Your Hands On Me
+https://archive.org/download/bon-jovi-lay-your-hands-on-me_202206/Bon%20Jovi%20-%20Lay%20Your%20Hands%20On%20Me.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/Bon_Jovi_Living_In_Sin_1988/Bon_Jovi_Living_In_Sin_1988.thumbs/Bon_Jovi_Living_In_Sin_1988_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi   Living In Sin (1988)
+https://archive.org/download/Bon_Jovi_Living_In_Sin_1988/Bon_Jovi_Living_In_Sin_1988.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-only-lonely-alternate-video/bon-jovi-only-lonely-alternate-video.thumbs/Bon%20Jovi%20-%20Only%20Lonely%20%28Alternate%20Video%29_000090.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Only Lonely (Alternate Video)
+https://archive.org/download/bon-jovi-only-lonely-alternate-video/Bon%20Jovi%20-%20Only%20Lonely%20%28Alternate%20Video%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-livin-on-a-prayer-color-version-576i/bon-jovi-livin-on-a-prayer-color-version-576i.thumbs/Bon%20Jovi%20-%20Livin%27%20On%20A%20Prayer%20%28Color%20version%29_000060.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Livin' On A Prayer (Color Version)
+https://archive.org/download/bon-jovi-livin-on-a-prayer-color-version-576i/Bon%20Jovi%20-%20Livin%27%20On%20A%20Prayer%20%28Color%20version%29%20%5B576i%5D.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/BonJoviAlways/BonJoviAlways.thumbs/Bon%20Jovi%20-%20Always_000045.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Always
+https://archive.org/download/BonJoviAlways/Bon%20Jovi%20-%20Always.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-runaway-1080p/bon-jovi-runaway-1080p.thumbs/Bon%20Jovi%20%20Runaway_1080p_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Runaway
+https://archive.org/download/bon-jovi-runaway-1080p/Bon%20Jovi%20%20Runaway_1080p.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-bed-of-roses-16x-9/bon-jovi-bed-of-roses-16x-9.thumbs/Bed%20Of%20Roses%20%2816x9%29_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Bed Of Roses
+https://archive.org/download/bon-jovi-bed-of-roses-16x-9/Bed%20Of%20Roses%20%2816x9%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-its-my-life-official-music-video-1080p/bon-jovi-its-my-life-official-music-video-1080p.thumbs/Bon%20Jovi%20%20Its%20My%20Life%20Official%20Music%20Video_1080p_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Its My Life
+https://archive.org/download/bon-jovi-its-my-life-official-music-video-1080p/Bon%20Jovi%20%20Its%20My%20Life%20Official%20Music%20Video_1080p.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/in-shot-20250111-185429002/InShot_20250111_185429002.mp4" group-title="Rock Clips",Bon Jovi - These Days
+https://archive.org/download/in-shot-20250111-185429002/InShot_20250111_185429002.ia.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-dry-county_202407/bon-jovi-dry-county_202407.thumbs/Bon%20Jovi%20-%20Dry%20County_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Dry County
+https://archive.org/download/bon-jovi-dry-county_202407/Bon%20Jovi%20-%20Dry%20County.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-keep-the-faith/bon-jovi-keep-the-faith.thumbs/Bon%20Jovi%20-%20Keep%20The%20Faith_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Keep The Faith
+https://archive.org/download/bon-jovi-keep-the-faith/Bon%20Jovi%20-%20Keep%20The%20Faith.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-lie-to-me_202407/bon-jovi-lie-to-me_202407.thumbs/Bon%20Jovi%20-%20Lie%20To%20Me_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Lie To Me
+https://archive.org/download/bon-jovi-lie-to-me_202407/Bon%20Jovi%20-%20Lie%20To%20Me.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/jon-bon-jovi-blaze-of-glory/jon-bon-jovi-blaze-of-glory.thumbs/Jon%20Bon%20Jovi%20-%20Blaze%20of%20Glory_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Jon Bon Jovi - Blaze Of Glory
+https://archive.org/download/jon-bon-jovi-blaze-of-glory/Jon%20Bon%20Jovi%20-%20Blaze%20of%20Glory.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/bon-jovi-someday-ill-be-saturday-night/bon-jovi-someday-ill-be-saturday-night.thumbs/Bon%20Jovi%20-%20Someday%20I%27ll%20Be%20Saturday%20Night_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Bon Jovi - Someday I'll Be Saturday Night
+https://archive.org/download/bon-jovi-someday-ill-be-saturday-night/Bon%20Jovi%20-%20Someday%20I%27ll%20Be%20Saturday%20Night.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/stream/jon-bon-jovi-queen-of-new-orleans/jon-bon-jovi-queen-of-new-orleans.thumbs/Jon%20Bon%20Jovi%20-%20Queen%20Of%20New%20Orleans_000057.jpg?vtt=vtt.vtt" group-title="Rock Clips",Jon Bon Jovi - Queen Of New Orleans
+https://archive.org/download/jon-bon-jovi-queen-of-new-orleans/Jon%20Bon%20Jovi%20-%20Queen%20Of%20New%20Orleans.mp4
+#EXTINF:-1 tvg-logo="" group-title="Rock Clips",
+#EXTINF:-1 tvg-logo="" group-title="Rock Clips",
+#EXTINF:-1 tvg-logo="" group-title="Rock Clips",
+#EXTINF:-1 tvg-logo="" group-title="Rock Clips",
+#EXTINF:-1 tvg-logo="" group-title="Rock Clips",
+#EXTINF:-1 tvg-logo="" group-title="Rock Clips",
+#EXTINF:-1 tvg-logo="" group-title="Rock Clips",
+#EXTINF:-1 tvg-logo="" group-title="Rock Clips",
+#EXTINF:-1 tvg-logo="" group-title="Rock Clips",
 #EXTINF:-1 tvg-logo="" group-title="Rock Clips",
 
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Rock Discography",Scorpions - Discography (1972 - 2015)
-https://archive.org/serve/ScorpionsDiscographyFullAlbumsSubEspEng/Scorpions%20-%20Discography%20Full%20Albums%20%28Sub%20EspEng%29.mp4
-#EXTINF:-1 tvg-logo="" group-title="Rock Discography",
+
 
 
 
