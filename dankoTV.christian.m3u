@@ -1154,7 +1154,7 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sat7Pars.cy@SD" tvg-logo="https://i.imgur.com/VTLQeul.png" group-title="Arabic",Sat7 Pars
 https://sat7phls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tv-logo="" group-title="Arabic",TBN Nejat
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Arabic",TBN Nejat
 https://hls.nejat.live/hls/stream.m3u8
 
 
@@ -1174,7 +1174,387 @@ https://tgn.bozztv.com/betterlife/betternature/betternature/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Petra - Classic Petra
+https://archive.org/details/classic-petra-flekkeroy-athletic-hall-kristiansand-norway-6-3-2012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Will Mcfarlane 2005 10 15 Mayville NY 
+https://archive.org/download/will-mcfarlane-2005-10-15-mayville-ny-pm-show/Will%20Mcfarlane%20-%202005-10-15%20Mayville%2C%20NY%20%28PM%20Show%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Andrew Peterson 2005 Live From Studio B
+https://archive.org/download/andrew-peterson-2005-live-from-studio-b/Andrew%20Peterson%20-%202005%20Live%20From%20Studio%20B.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Carman - Christmas Special 1989
+https://archive.org/download/carman-christmas-special-1989/Carman%20Christmas%20Special%201989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Allies - Calvary Chapel Church Downey CA 1985
+https://archive.org/download/allies-1985-downey-ca/Allies%201985%20Downey%2C%20CA%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Ginny Owens 2005 Christian Living 1 Year Anniversary
+https://archive.org/download/ginny-owens-2005-christian-living-1-year-anniversary/Ginny%20Owens%202005%20Christian%20Living%201-year%20anniversary.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Greg X Volz Milwaukee WI 5 13 1994
+https://archive.org/download/greg-x-volz-milwaukee-wi-5-13-1994/Greg%20X%20Volz%20-%20Milwaukee%20WI%205-13-1994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",WHITECROSS - Elements Of Rock 2013
+https://archive.org/download/whitecross-elements-of-rock-2013-full-concert/WHITECROSS%20Elements%20Of%20Rock%202013%20-%20Full%20Concert.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Michael Card - Scribbling In The Sand 2002
+https://archive.org/download/michael-card-scribbling-in-the-sand-2002/Michael%20Card%20Scribbling%20in%20the%20Sand%202002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",AD - The Golden Bear Huntington Beach  CA 1984
+https://archive.org/download/1984-huntington-beach-ca-the-golden-bear/1984%20Huntington%20Beach%2C%20CA%20The%20Golden%20Bear.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Daniel Band Toronto 1996
+https://archive.org/download/daniel-band-toronto-1996/Daniel%20Band%20-%20Toronto%201996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Sheila Walsh - Flevo Festival 1989
+https://archive.org/download/sheila-walsh-at-flevo-1989/Sheila%20Walsh%20at%20Flevo%201989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Chris Tomlin Frenzy 2007
+https://archive.org/download/chris-tomlin-frenzy-2007/Chris%20Tomlin%20-%20Frenzy%202007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",2 Guys From Petra - Buffalo NY 1-27-2007 Pt 1
+https://archive.org/download/title-1_20250226/Title_1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",2 Guys From Petra - Buffalo NY 1-27-2007 Pt 2
+https://archive.org/download/title-1_20250227/Title_1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Whitecross Kragero Norway 1992
+https://archive.org/download/whitecross-kragero-norway-1992/Whitecross%20-%20Kragero%20Norway%201992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Jaci Velasques A Celebration Of Hope Luis Palau Festival 2001
+https://archive.org/download/jaci-velasques-a-celebration-of-hope-luis-palau-festival-2001/Jaci%20Velasques%20-%20A%20Celebration%20of%20Hope%20Luis%20Palau%20Festival%202001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Steve Camp, Kelly Willard & Petra Maranatha Concert 1978
+https://archive.org/download/steve-camp-maranatha-concert/Steve%20camp%20Maranatha%20Concert.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",441 - Calvary Chapel Church Downey CA 1985
+https://archive.org/download/title-1_202502/Title_1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Demon Hunter (2010 05 13 Kansas City)
+https://archive.org/download/demon-hunter-2010-05-13-kansas-city-ks-dvd-1/Demon%20Hunter%20-%202010-05-13%20-%20Kansas%20City%2C%20Ks%20-%20Dvd-1.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Degarmo & Key Band - Creation 1984
+https://archive.org/download/degarmo-key-creation-1984_202502/Degarmo%20%26%20Key%20Creation%201984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",The Chior - NYC 1994
+https://archive.org/download/the-chior-nyc-1994/The%20Chior%20-%20NYC%201994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Iona - Late Nite Concert Netherlands 1996
+https://archive.org/download/iona-late-nite-concert-netherlands-1996/Iona%20-%20Late%20Nite%20Concert%20Netherlands%201996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Merideth Andrews - Sessions 2011
+https://archive.org/download/merideth-andrews-session-2011/Merideth%20Andrews%20-%20Session%202011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Over The Rhine Cincinnati  OH 8 27 2005
+https://archive.org/download/over-the-rhine-cincinnati-oh-8-27-2005/Over%20The%20Rhine%20Cincinnati%2C%20OH%208-27-2005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Chris Christian - Arlington TX 1986
+https://archive.org/download/chris-christian-1986-live-at-six-flags/Chris%20Christian%201986%20Live%20at%20Six%20Flags.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Bride - Alive Festival 1993 Canal Fulton, OH
+https://archive.org/download/bride-alive-festival-1993-canal-fulton-oh/Bride%20Alive%20Festival%201993%20Canal%20Fulton%2C%20OH.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Mark Schultz - Live From Studio B 2003
+https://archive.org/download/mark-schultz-live-from-studio-b-2003/Mark%20Schultz%20-%20Live%20From%20Studio%20B%202003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Undercover - Cornerstone 1985
+https://archive.org/download/undercover-cornerstone-1985/Undercover%20-%20Cornerstone%201985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",A Worship Night At Calvary Chapel Costa Mesa 12-1-1990
+https://archive.org/download/a-worship-night-at-calvary-chapel-1990-12-01-costa-mesa/A%20Worship%20Night%20at%20Calvary%20Chapel%20-%201990-12-01%20Costa%20Mesa.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Chris Rice 2004 10 28 Buffalo  NY
+https://archive.org/download/chris-rice-2004-10-28-buffalo-ny/Chris%20Rice%20-%202004-10-28%20Buffalo%2C%20NY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Francesca Battistelli - Council Bluffs IA 3-20-2010
+https://archive.org/download/francesca-b-council-bluffs-ia-3-20-2010/Francesca%20B%20Council%20Bluffs%2C%20IA%203-20-2010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Holy Soldier - Glendale 1990
+https://archive.org/download/holy-soldier-glendale-1990/Holy%20Soldier%20-%20Glendale%201990.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Rambo-Mcguire 1989 Plain & Simple Truth
+https://archive.org/download/rambo-mcguire-1989-plain-simple-truth/Rambo-Mcguire%20-%201989%20Plain%20%26%20Simple%20Truth.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Sweet Comfort Band - 2001 07 05 Cornerstone
+https://archive.org/download/sweet-comfort-band-2001-07-05-cornerstone/Sweet%20Comfort%20Band%20-%202001-07-05%20Cornerstone.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Amy Grant - Big Church Day Out 2013
+https://archive.org/download/amy-grant-big-church-day-out-2013/Amy%20Grant%20Big%20Church%20Day%20Out%202013.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Warren Barfield - Midland TX 2004-08-22
+https://archive.org/download/2004-08-22-midland-tx/2004-08-22%20Midland%20Tx.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Casting Crowns - 2007 07 30 Allen  TX
+https://archive.org/download/casting-crowns-2007-07-30-allen-tx/Casting%20Crowns%20-%202007-07-30%20-%20Allen%2C%20TX.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Kenny Marks Sydney AU 4 3 1988
+https://archive.org/download/kenny-marks-sydney-au-4-3-1988/Kenny%20Marks%20-%20Sydney%20AU%204-3-1988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Casting Crowns - TBN Christmas Special 2008
+https://archive.org/download/casting-crowns-tbn-christmas-special-2008/Casting%20Crowns%20-%20TBN%20Christmas%20Special%202008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Bethany Dillon Live From Studio B
+https://archive.org/download/2006-xx-xx-bethany-dillon-live-from-studio-b/2006-xx-xx%20Bethany%20Dillon%20-%20Live%20From%20Studio%20B.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Jamie Jamgochian CTVN Telethon 1 23 2007
+https://archive.org/download/jamie-jamgochian-ctvn-telethon-1-23-2007/Jamie%20Jamgochian%20-%20CTVN%20Telethon%201-23-2007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",Skillet - Comatose Comes Alive (2008)
+https://archive.org/download/850504583889/850504583889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Concerts",
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Victor - Real Video 
+https://archive.org/download/viktor-2006-real-videos/Viktor%20-%202006%20Real%20Videos.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Petra - Beyond Belief 
+https://archive.org/download/petra-beyond-belief-1990/Petra%20-%20Beyond%20Belief%20%281990%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Petra - Beyond Belief 
+https://archive.org/download/petra-beyond-belief-video-album-vhs/Petra%3B%20Beyond%20Belief%20Video%20Album%20%281990%20VHS%29%20%2860fps%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Petra - Wake Up Call (video colllection)
+https://archive.org/download/wake-up-call-video-collection-petra-1993-vhs/Wake-Up%20Call%20Video%20Collection%20-%20Petra%20%281993%29%20%5BVHS%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 41
+https://archive.org/download/mvl-41/MVL_41.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 42
+https://archive.org/download/mvl-42/MVL_42.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 43
+https://archive.org/download/mvl-43/MVL_43.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 44
+https://archive.org/download/mvl-44/MVL_44.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 45
+https://archive.org/download/mvl-45/MVL_45.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 66
+https://archive.org/download/mvl-66/MVL_66.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 67
+https://archive.org/download/mvl-67/MVL_67.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 68
+https://archive.org/download/mvl-68/MVL_68.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 69
+https://archive.org/download/mvl-69/MVL_69.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 70
+https://archive.org/download/mvl-70/MVL_70.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 71
+https://archive.org/download/mvl-71/MVL_71.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 72
+https://archive.org/download/mvl-72/MVL_72.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 73
+https://archive.org/download/mvl-73/MVL_73.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",MVL 74
+https://archive.org/download/mvl-74/MVL_74.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos", MVL 76
+https://archive.org/download/mvl-76/MVL_76.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Pillar Real Videos 2001
+https://archive.org/download/pillar-real-videos-2001/Pillar%20-%20Real%20Videos%202001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Geoff Moore - Real Videos 1998
+https://archive.org/download/geoff-moore-real-videos-1998/Geoff%20Moore%20-%20Real%20Videos%201998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Selah 2002 Real Videos
+https://archive.org/download/selah-2002-real-videos/Selah%20-%202002%20Real%20Videos.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Michelle Tumes 2000 Real Videos
+https://archive.org/download/michelle-tumes-2000-real-videos/Michelle%20Tumes%202000%20Real%20Videos.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Joy Williams Control Track 2004
+https://archive.org/download/joy-williams-control-track-2004/Joy%20Williams%20-%20Control%20Track%202004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Whiteheart Real Videos 1998
+https://archive.org/download/whiteheart-real-videos-1998/Whiteheart%20-%20Real%20Videos%201998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Light Music 1994 (Show - 2)
+https://archive.org/download/light-music-1994/Light%20Music%201994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",Cindy Morgan 1994
+https://archive.org/download/cindy-morgan-1994-02/Cindy%20Morgan%201994%20%2802%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Videos",
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Building 429 - Where I Belong
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FBuilding%20429%20-%20Where%20I%20Belong.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Close Your Eyes - Erie
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FClose%20Your%20Eyes-Erie.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Cloverton - The End Is The Beginning
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FCloverton%20-%20The%20End%20is%20the%20Beginning.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Family Force - Paycheck
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FFamily%20Force%205-%20Paycheck.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Icon For Hire - Get Well
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FIcon%20For%20Hire-Get%20Well.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Jekob - Love Is All
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FJekob%20-%20Love%20Is%20All.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",KB - Zone Out
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FKB%20-%20Zone%20Out.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Leeland - The Great Awakening 
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FLeeland-The%20Great%20Awakening.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Leeland - Unending Songs
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FLeeland-Unending%20Songs.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Manafest - Never Let You Go
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FManafest-Never%20Let%20You%20Go.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Nine Lasshes - Anthem Of The Lonely
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FNine%20Lashes-Anthem%20Of%20The%20Lonely.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Owl City - Galaxies
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FOwl%20City-Galaxies.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Rachael Lampa - When I Fall
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FRachael%20Lampa-When%20I%20Fall.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Rend Collective Experiment - Second Chance
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FRend%20Collective%20Experiment-Second%20Chance.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Worth Dying For - Rebuild
+https://archive.org/download/more_info_mvl77/Music%20Videos%2FWorth%20Dying%20For-Rebuild.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",An Epic No Less - Mercy Light 
+https://archive.org/download/mvl-78/Music%20Videos%2FAn%20Epic%2C%20No%20Less.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",An Epic No Less - Mercy Light 
+https://archive.org/download/mvl-78/Music%20Videos%2FAn%20Epic%2C%20No%20Less.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Cory Lamb - Safe In Your Arms
+https://archive.org/download/mvl-78/Music%20Videos%2FCory%20Lamb.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Cory Lamb - Safe In Your Arms - 
+https://archive.org/download/mvl-78/Music%20Videos%2FCory%20Lamb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Dominic Balli - Take My Love
+https://archive.org/download/mvl-78/Music%20Videos%2FDominic%20Balli.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Dominic Balli - Take My Love
+https://archive.org/download/mvl-78/Music%20Videos%2FDominic%20Balli.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Family Force - Woblle
+https://archive.org/download/mvl-78/Music%20Videos%2FFamily%20Force%205.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Family Force - Woblle
+https://archive.org/download/mvl-78/Music%20Videos%2FFamily%20Force%205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Fireflight - Stay Close
+https://archive.org/download/mvl-78/Music%20Videos%2FFireflight.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Fireflight - Stay Close
+https://archive.org/download/mvl-78/Music%20Videos%2FFireflight.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",House Of Heroes - Touch This Light
+https://archive.org/download/mvl-78/Music%20Videos%2FHouse%20of%20Heroes.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",House Of Heroes - Touch This Light
+https://archive.org/download/mvl-78/Music%20Videos%2FHouse%20of%20Heroes.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Jamie Grace - Came To Me
+https://archive.org/download/mvl-78/Music%20Videos%2FJamie%20Grace.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Jamie Grace - Came To Me
+https://archive.org/download/mvl-78/Music%20Videos%2FJamie%20Grace.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",KJ-52 - They Like Me (feat Lacrae)
+https://archive.org/download/mvl-78/Music%20Videos%2FKJ-52.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",KJ-52 - They Like Me (feat Lacrae)
+https://archive.org/download/mvl-78/Music%20Videos%2FKJ-52.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Lara Landon - The River
+https://archive.org/download/mvl-78/Music%20Videos%2FLara%20Landon.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Lara Landon - The River
+https://archive.org/download/mvl-78/Music%20Videos%2FLara%20Landon.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Manafest - Pushover
+https://archive.org/download/mvl-78/Music%20Videos%2FManafest.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Manafest - Pushover
+https://archive.org/download/mvl-78/Music%20Videos%2FManafest.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Peter Furler - I'm Alive
+https://archive.org/download/mvl-78/Music%20Videos%2FPeter%20Furler.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Rhema Soul - Break Aut
+https://archive.org/download/mvl-78/Music%20Videos%2FRhema%20Soul.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Southbound Fearing - Irresistible
+https://archive.org/download/mvl-78/Music%20Videos%2FSouthbound%20Fearing.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Starfield - The Kingdom
+https://archive.org/download/mvl-78/Music%20Videos%2FStarfield.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",The Washington Projects - Justus 
+https://archive.org/download/mvl-78/Music%20Videos%2FThe%20Washington%20Projects.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Treep Lee - Fallin' (feat - J. Paul)
+https://archive.org/download/mvl-78/Music%20Videos%2FTrip%20Lee.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Worth Dying For - The World Can't Take It Away
+https://archive.org/download/mvl-78/Music%20Videos%2FWORTH%20DYING%20FOR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Wayne Keer Band - The Mirror
+https://archive.org/download/mvl-78/Music%20Videos%2FWayne%20Kerr%20Band.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Petra - Beat the System
+https://archive.org/download/title-23/Title_23.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Eddie Degarmo - Feels Good to be Forgiven
+https://archive.org/download/title-6_202503/Title_6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Crumbacher - Jamie
+https://archive.org/download/title-22_202503/Title_22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",New World Son Front Row Live 2008
+https://archive.org/download/new-world-son-front-row-live-2008/New%20World%20Son%20-%20Front%20Row%20Live%202008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Rick Cua - Young Boy Young Girl
+https://archive.org/download/title-7_20250302/Title_7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Eddie Degarmo - There's Something About that Name
+https://archive.org/download/title-4_20250302/Title_4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Kim Boyce - Good Enough
+https://archive.org/download/title-8_202503/Title_8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Amy Grant - Angels
+https://archive.org/download/title-19_202503/Title_19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Randy Stonehill - Defender
+https://archive.org/download/title-6/Title_6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Bryan Duncan - Love Takes Time
+https://archive.org/download/title-16_202503/Title_16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Leslie Phillips - Heart of Hearts
+https://archive.org/download/title-17_202503/Title_17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Rich Mullins - The Other Side of the World
+https://archive.org/download/title-3_202503/Title_3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Michael W. Smith - Secret Ambition
+https://archive.org/download/title-12_20250302/Title_12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Nicol Sponberg Hour Of Power 2008
+https://archive.org/download/nicol-sponberg-hour-of-power-2008/Nicol%20Sponberg%20-%20Hour%20of%20Power%202008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",David & the Giants - Restless
+https://archive.org/download/title-5_202503/Title_5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Morgan Cryar - Pray in the USA
+https://archive.org/download/title-7_202503/Title_7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Crystal Lewis - Lord I Believe in You
+https://archive.org/download/title-13_202503/Title_13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Broken Heart - Stranger to Danger
+https://archive.org/download/title-18/Title_18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Iona - Here I Stand
+https://archive.org/download/title-1_20250302/Title_1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Degarmo & Key - 666
+https://archive.org/download/title-2_20250302/Title_2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Degarmo & Key - Every Moment
+https://archive.org/download/title-5_20250302/Title_5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Steve Archer - Through His Eyes of Love
+https://archive.org/download/title-2_202503/Title_2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Michael W. Smith - I Miss the Way
+https://archive.org/download/title-10_20250302/Title_10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Rick Cua - I Can I Will
+https://archive.org/download/title-8_20250302/Title_8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Bebo Norman - Nothing Without You ( In Touch Web Site 2005)
+https://archive.org/download/bebo-norman-nothing-without-you-in-touch-web-site-2005/Bebo%20Norman%20-%20Nothing%20Without%20You%20%28In%20touch%20web%20site%202005%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Larry Howard - Calling on Love
+https://archive.org/download/title-3_20250302/Title_3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Clay Crosse - I Will Follow Christ
+https://archive.org/download/title-11_202503/Title_11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Rich Mullins - How Can I Keep Myself From Singing
+https://archive.org/download/title-4_202503/Title_4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Leslie Phillips - By My Spirit
+https://archive.org/download/title-21_202503/Title_21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Michael W. Smith - Come To The Cross
+https://archive.org/download/michael-w-smith-come-to-the-cross/Michael%20W%20Smith%20-%20Come%20to%20the%20Cross.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Silverwind - A Song in the Night
+https://archive.org/download/title-24/Title_24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Artists & Friends - Carry the Light
+https://archive.org/download/title-12_202503/Title_12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Bash N the Code - Testify
+https://archive.org/download/title-10_202503/Title_10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Phil Joel - God Is Watching Over You ( Spirit TV)
+https://archive.org/download/phil-joel-god-is-watching-over-you-spirit-tv/Phil%20Joel%20-%20God%20is%20Watching%20Over%20You%20%28Spirit%20TV%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",HB - Jesus Metal Explosion
+https://archive.org/download/hb-jesus-metal-explosion/HB%20-%20Jesus%20Metal%20Explosion.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Amy Grant - Better Than A Hallelujah
+https://archive.org/download/amy-grant-better-than-a-hallelujah-gospel-music-channel-world-premire/Amy%20Grant%20-%20Better%20Than%20a%20Hallelujah%20%28Gospel%20Music%20Channel%20World%20Premire%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Pam Thum - No Shadows No Doubts
+https://archive.org/download/pam-thum-no-shadows-no-doubt-real-videos-11-1998-tammy-trent-pam-thum-host/Pam%20Thum%20-%20No%20Shadows%20No%20Doubt%20%28Real%20Videos%2011-1998%20Tammy%20Trent%20%26%20Pam%20Thum%20Host%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Rez Band Lonely Hearts ( Live)
+https://archive.org/download/rez-band-lonely-hearts-live-light-song-music-video-1985-show-8/Rez%20Band%20-%20Lonely%20Hearts%20%28Live%29%20%28Light%20Song%20Music%20Video%201985%20Show%208%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Steve Taylor On The Fritz ( SPV 102 Sparrow Rock Video Compilation Reel 1986 HQ)
+https://archive.org/download/steve-taylor-on-the-fritz-spv-102-sparrow-rock-video-compilation-reel-1986-hq/Steve%20Taylor%20-%20On%20The%20Fritz%20%28SPV%20102%20Sparrow%20Rock%20Video%20Compilation%20Reel%201986%20HQ%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Annie Moses Band 2008 Hour Of Power
+https://archive.org/download/annie-moses-band-2008-hour-of-power/Annie%20Moses%20Band%20-%202008%20Hour%20of%20Power.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Al Denson - Alcatraz 
+https://archive.org/download/al-denson-alcatraz-light-music-1994-show-4/Al%20Denson%20-%20Alcatraz%20%28Light%20Music%201994%20Show%20%234%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Out Of Eden - Lovely Day ( Hip Clips 1996)
+https://archive.org/download/out-of-eden-lovely-day-hip-clips-1996/Out%20of%20Eden%20-%20Lovely%20Day%20%28Hip%20Clips%201996%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Silverwind - Song In The Night 
+https://archive.org/download/silverwind-song-in-the-night-sparrow-adult-contemporary-video-compilation-reel-spv-101-1986-umatic/Silverwind%20-%20Song%20in%20the%20Night%20%28Sparrow%20Adult%20Contemporary%20Video%20Compilation%20Reel%20SPV%20101%201986%20Umatic%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",DOC God Gave Rock & Roll To You
+https://archive.org/download/doc-god-gave-rock-roll-to-you-summer-free-1993-vhs/DOC%20-%20God%20Gave%20Rock%20%26%20Roll%20to%20You%20%28Summer%20Free%201993%20VHS%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Phil Driscoll The Trumpet Shall Sound 
+https://archive.org/download/phil-driscoll-the-trumpet-shall-sound-music-2-c-inspirational-vol-1-1992-vhs/Phil%20Driscoll%20-%20The%20Trumpet%20Shall%20Sound%20%28Music%202%20C%20Inspirational%20Vol%201%201992%20VHS%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Skillet - Feel Invincible
+https://archive.org/download/vidssave.com-skillet-feel-invincible-official-music-video-360-p/vidssave.com%20Skillet%20-%20_Feel%20Invincible_%20%5BOfficial%20Music%20Video%5D%20360P.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Skillet - Legendary 
+https://archive.org/download/skillet-legendary-official-video/Skillet%20-%20Legendary%20%28Official%20Video%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",Skillet: Psycho in my Head
+https://archive.org/download/tmp28ibnpsz/tmp28ibnpsz.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Clips",
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Video Audio",Skillet - Awake (Remastered 2026)
+https://archive.org/download/skillet-awake-remastered-2026/Skillet%20Awake%20Remastered%202026.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Video Audio",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Video Audio",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Video Audio",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Video Audio",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Video Audio",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Video Audio",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Video Audio",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Video Audio",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Video Audio",
 
 
 
